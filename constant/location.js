@@ -26,6 +26,11 @@ const locations = [
         location: "Kilburn, SA 5084",
         subLucation: "Coles Churchill Centre"
     },
+    // tas
+    {
+        location: "Hobart, TAS 7000",
+        subLucation: "Coles Sandy Bay"
+    },
 
     /**
      * tas for "tas"

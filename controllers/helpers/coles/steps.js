@@ -67,7 +67,7 @@ const step2 = async (page) => {
   const a = await waitForElement(page, clickCollectButtonSelector, { visible: true });
   if (!a) return false;
   await page.click(clickCollectButtonSelector);
-  console.log('Clicked on the "Click & Collect" button.');
+  // console.log('Clicked on the "Click & Collect" button.');
   return true; // Return true if the step succeeded
 };
 
@@ -78,14 +78,14 @@ const step3 = async (page, loc) => {
   } else {
     searchInputSelector = '#suburb-postcode-autocomplete';
   }
-  console.log('in case 1: ', loc)
+  // console.log('in case 1: ', loc)
   const location = loc.location.split(' ')[0].replace(/[^a-zA-Z0-9]/g, ''); // Replace with the actual location
 
   const a = await waitForElement(page, searchInputSelector, { visible: true });
   if (!a) return false;
   await page.focus(searchInputSelector);
   await page.type(searchInputSelector, location, { delay: 500 });
-  console.log(`Typed location: ${location}`);
+  // console.log(`Typed location: ${location}`);
   return true; // Return true if the step succeeded
 };
 
@@ -101,7 +101,7 @@ const step4 = async (page, loc) => {
       const text = await option.evaluate((el) => el.textContent.trim());
       if (text === optionName) {
         await option.click();
-        console.log(`Clicked on "${optionName}" suggestion.`);
+        // console.log(`Clicked on "${optionName}" suggestion.`);
         return true;
       }
     }
@@ -117,10 +117,10 @@ const step5 = async (page, loc) => {
   if (!a) return false;
   try {
     const options = await page.$$('div.coles-targeting-CardRadioContainer');
-    console.log('Available Options:');
+    // console.log('Available Options:');
     for (let option of options) {
       const text = await option.evaluate((el) => el.textContent.trim());
-      console.log(text);
+      // console.log(text);
     }
 
     let clicked = false;
@@ -128,7 +128,7 @@ const step5 = async (page, loc) => {
       const text = await option.evaluate((el) => el.textContent.trim());
       if (text.includes(subLocation)) {
         await option.click();
-        console.log(`Clicked on sub-location: "${subLocation}"`);
+        // console.log(`Clicked on sub-location: "${subLocation}"`);
         clicked = true;
         return true;
       }
@@ -146,7 +146,7 @@ const step6 = async (page) => {
   const a = await waitForElement(page, 'button[data-testid="cta-secondary"]', { visible: true });
   if (!a) return false;
   await page.click('button[data-testid="cta-secondary"]');
-  console.log('Clicked the "Set location" button.');
+  // console.log('Clicked the "Set location" button.');
   return true
 };
 
