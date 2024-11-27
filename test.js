@@ -84,7 +84,7 @@ const getData = async () => {
         // Check if the file already exists
         if (fs.existsSync(filePath)) {
           console.log(`File already exists: ${filePath}. Skipping save.`);
-          return; // Skip saving the file
+          // return; // Skip saving the file
         }
         try {
           console.log(`${fileName} - ${productsData.length} products`)

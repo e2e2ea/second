@@ -4,54 +4,73 @@ function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
 const handleSteps = async (page, loc) => {
-  const a = await step1(page);
-  if (!a) {
-    console.log('Retrying step 1...');
-    return handleSteps(page, loc); // Retry handleSteps if step1 fails
-  }
-  await delay(2000)
-  if (!loc || loc.location !== 'Chadstone Shopping Centre, 1341 Dandenong Road') {
-    const b = await step2(page);
-    if (!b) {
-      console.log('Retrying step 2...');
-      return handleSteps(page, loc); // Retry handleSteps if step2 fails
+  let retries
+  retries = 1000
+  for (let i = 0; i < retries; i++) {
+    try {
+      const a = await step1(page);
+      if (!a) {
+        console.log('Retrying step 1...');
+        return handleSteps(page, loc); // Retry handleSteps if step1 fails
+      }
+      await delay(2000)
+      if (!loc || loc.location !== 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145') {
+        const b = await step2(page);
+        if (!b) {
+          console.log('Retrying step 2...');
+          return handleSteps(page, loc); // Retry handleSteps if step2 fails
+        }
+        await delay(2000)
+
+        const c = await step3(page, loc);
+        if (!c) {
+          console.log('Retrying step 3...');
+          return handleSteps(page, loc); // Retry handleSteps if step3 fails
+        }
+        await delay(1000);
+
+        const d = await step4(page, loc);
+        if (!d) {
+          console.log('Retrying step 4...');
+          return handleSteps(page, loc); // Retry handleSteps if step4 fails
+        }
+        await delay(2000)
+
+        const e = await step5(page, loc);
+        if (!e) {
+          console.log('Retrying step 5...');
+          return handleSteps(page, loc); // Retry handleSteps if step5 fails
+        }
+        await delay(2000)
+      }
+
+      if (loc && loc.location === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145') {
+        const c = await step3(page, loc);
+        if (!c) {
+          console.log('Retrying step 3...');
+          return handleSteps(page, loc); // Retry handleSteps if step3 fails
+        }
+        await delay(5000)
+        const d = await step4(page, loc);
+        if (!d) {
+          console.log('Retrying step 4...');
+          return handleSteps(page, loc); // Retry handleSteps if step4 fails
+        }
+        await delay(8000)
+      }
+
+      const f = await step6(page);
+      if (!f) {
+        console.log('Retrying step 6...');
+        return handleSteps(page, loc); // Retry handleSteps if step6 fails
+      }
+      await delay(2000)
+      return { success: true, status: 201 };
+    } catch (error) {
+      if (i === retries - 1) throw error;
+      await delay(5000);
     }
-    await delay(2000)
-
-    const c = await step3(page, loc);
-    if (!c) {
-      console.log('Retrying step 3...');
-      return handleSteps(page, loc); // Retry handleSteps if step3 fails
-    }
-    await delay(1000);
-
-    const d = await step4(page, loc);
-    if (!d) {
-      console.log('Retrying step 4...');
-      return handleSteps(page, loc); // Retry handleSteps if step4 fails
-    }
-    await delay(2000)
-
-    const e = await step5(page, loc);
-    if (!e) {
-      console.log('Retrying step 5...');
-      return handleSteps(page, loc); // Retry handleSteps if step5 fails
-    }
-    await delay(2000)
   }
-
-  if (loc && loc.location === 'Chadstone Shopping Centre, 1341 Dandenong Road') {
-    await delay(8000)
-    await delay(5000)
-  }
-
-  const f = await step6(page);
-  if (!f) {
-    console.log('Retrying step 6...');
-    return handleSteps(page, loc); // Retry handleSteps if step6 fails
-  }
-  await delay(2000)
-  return { success: true, status: 201 };
 };
 
 const step1 = async (page) => {
@@ -73,7 +92,7 @@ const step2 = async (page) => {
 
 const step3 = async (page, loc) => {
   let searchInputSelector
-  if (loc.location === 'Chadstone Shopping Centre, 1341 Dandenong Road') {
+  if (loc.location === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145') {
     searchInputSelector = '#street-address-autocomplete';
   } else {
     searchInputSelector = '#suburb-postcode-autocomplete';

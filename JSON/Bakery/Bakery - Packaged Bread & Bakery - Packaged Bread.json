@@ -737,10 +737,14 @@
     "shop": "coles",
     "weight": "35g",
     "prices": {
+      "nsw": "514",
+      "nsw_price_per_unit": "180",
+      "nsw_unit": "g",
       "vic": "514",
       "qld": "514",
       "wa": "514",
-      "sa": "514"
+      "sa": "514",
+      "tas": "514"
     }
   },
   {

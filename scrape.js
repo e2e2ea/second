@@ -94,13 +94,58 @@ const scraper = async () => {
             url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/${updatedSubCategory.toLowerCase()}`;
           }
           // console.log(`Navigating to ${url}...`);
+          // bakery category
           if (sub.subCategory === 'In-Store Bakery') {
             if (ext.extensionCategory === 'Bread Rolls') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-breads-and-rolls`
             // 2 url if Donuts & Cookies
-            // if (ext.extensionCategory === 'Donuts & Cookies') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-sweet-treats/cookies`
-            if(ext.extensionCategory === 'Donuts & Cookies') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-sweet-treats/donuts`
+            if (ext.extensionCategory === 'Cookies') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-sweet-treats/cookies`
+            if (ext.extensionCategory === 'Donuts') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-sweet-treats/donuts`
           }
           if (subCategory === 'Packaged Bread & Bakery') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/packaged-breads`
+
+          // category Dairy, Eggs & Fridge 
+          if (category === 'Dairy, Eggs & Fridge') {
+            if (sub.subCategory === 'Cream, Custard & Desserts') {
+              if (ext.extensionCategory === 'Cream') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/cream-custard/cream`
+              if (ext.extensionCategory === 'Custard') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/cream-custard/custards`
+            }
+            if (sub.subCategory === 'Dips & Pate') {
+              if (ext.extensionCategory === 'Dips') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/dips-pate/dips`
+              if (ext.extensionCategory === 'Pate') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/dips-pate/pate`
+              if (ext.extensionCategory === 'Paste') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/dips-pate/paste`
+            }
+            if (sub.subCategory === 'Eggs, Butter & Margarine') {
+              if (ext.extensionCategory === 'Butter & Margarine') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/butter-margarine`
+              if (ext.extensionCategory === 'Eggs') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/eggs`
+            }
+            if (sub.subCategory === 'Milk') {
+              if (ext.extensionCategory === 'Long Life Milk') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/long-life-milk/long-life-milk`
+              if (ext.extensionCategory === 'Lactose Free Milk') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/long-life-milk/lactose-free-milk`
+            }
+          }
+          // category Deli & Chilled Meats
+          if (category === 'Deli & Chilled Meats') {
+            if (sub.subCategory === 'Deli Meats') {
+              if (ext.extensionCategory === 'Antipasto') url = `https://www.coles.com.au/browse/deli/olives-antipasto/antipasto`
+              if (ext.extensionCategory === 'Deli Poultry') url = `https://www.coles.com.au/browse/deli/deli-poultry`
+            }
+            if (sub.subCategory === 'Deli Specialties') {
+              if (ext.extensionCategory === 'Gourmet Cheese') url = `https://www.coles.com.au/browse/deli/deli-gourmet-cheese`
+              if (ext.extensionCategory === 'Platters') url = `https://www.coles.com.au/browse/deli/pre-made-platters`
+            }
+            if (sub.subCategory === 'Ready to Eat Meals') {
+              if (ext.extensionCategory === 'Chilled Quiches & Pies') url = `https://www.coles.com.au/browse/deli/deli-chilled-meals`
+            }
+          }
+          // category Drinks
+          if (category === 'Drinks') {
+            if (sub.subCategory === 'Coffee') {
+              if (ext.extensionCategory === 'Coffee Beans') url = `https://www.coles.com.au/browse/drinks/coffee-drinks/beans-coffee`
+              if (ext.extensionCategory === 'Coffee Capsules') url = `https://www.coles.com.au/browse/drinks/coffee-drinks/coffee-capsules`
+              if (ext.extensionCategory === 'Ground Coffee') url = `https://www.coles.com.au/browse/drinks/coffee-drinks/coffee-ground`
+              if (ext.extensionCategory === 'Instant & Flavoured Coffee') url = `https://www.coles.com.au/browse/drinks/coffee-drinks/coffee-instant`
+            }
+          }
 
 
           for (const loc of locations) {
@@ -109,17 +154,17 @@ const scraper = async () => {
             });
             let page
             page = await browser.newPage();
-            // const client = await page.target().createCDPSession();
-            // await client.send('Network.clearBrowserCookies');
-            // await client.send('Network.clearBrowserCache');
+            const client = await page.target().createCDPSession();
+            await client.send('Network.clearBrowserCookies');
+            await client.send('Network.clearBrowserCache');
             await safeNavigate(page, url);
 
             console.log('Page loaded successfully.');
             await delay(6000);
-            await delay(6000);
-            await delay(6000);
-            await page.waitForSelector('body', { timeout: 120000 });
-            await delay(8000);
+            // await delay(6000);
+            // await delay(6000);
+            await page.waitForSelector('body', { timeout: 90000 });
+            await delay(3000);
             const a = await handleSteps(page, loc);
             await safeNavigate(page, url);
             await delay(8000);
@@ -136,7 +181,7 @@ const scraper = async () => {
               } catch (error) {
                 hasProducts = false;
                 await browser.close();
-                await delay(20000);
+                // await delay(10000);
                 break;
               }
               // console.log('Products found, extracting data...');
@@ -186,22 +231,31 @@ const scraper = async () => {
                     }
                     let sub
                     sub = subCategory
-                    // baby category
-                    if (subCategory === 'Nappies & Nappy Pants') sub = 'Nappies Wipes'
 
                     let ext
                     ext = extensionCategory
+
                     // baby category
+                    if (subCategory === 'Nappies & Nappy Pants') sub = 'Nappies Wipes'
                     if (extensionCategory === 'Specialty Formula') ext = 'Specialty'
                     if (extensionCategory === 'Swimmers') ext = 'Swimming Nappies'
+
                     // bakery category
                     if (subCategory === 'In-Store Bakery') {
                       sub = `In-Store Bakery`
-                      // ext = 'Bread Rolls'
+                      if (ext === 'Donuts') ext = "Donuts & Cookies"
+                      if (ext === 'Cookies') ext = "Donuts & Cookies"
                     }
                     if (subCategory === 'Packaged Bread & Bakery') {
                       sub = `Packaged Bread & Bakery`
-                      // ext = 'Packaged Bread'
+                    }
+
+                    // category Dairy, Eggs & Fridge
+                    if (category === 'Dairy, Eggs & Fridge') {
+                      if (subCategory === 'Dips & Pate') {
+                        if (extensionCategory === 'Pate') ext = 'Pate, Paste & Caviar'
+                        if (extensionCategory === 'Paste') ext = 'Pate, Paste & Caviar'
+                      }
                     }
                     return {
                       source_url: href !== 'N/A' ? href : 'N/A',
@@ -217,7 +271,7 @@ const scraper = async () => {
                         ...(loc.location === 'Sydney, NSW 2000' && { nsw: priceInCents }),
                         ...(loc.location === 'Sydney, NSW 2000' && { nsw_price_per_unit: pricePerUnit }),
                         ...(loc.location === 'Sydney, NSW 2000' && { nsw_unit: unit }),
-                        ...(loc.location === 'Chadstone Shopping Centre, 1341 Dandenong Road' && { vic: priceInCents }),
+                        ...(loc.location === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145' && { vic: priceInCents }),
                         ...(loc.location === 'Kedron, QLD 4031' && { qld: priceInCents }),
                         ...(loc.location === 'Perth, WA 6000' && { wa: priceInCents }),
                         ...(loc.location === 'Kilburn, SA 5084' && { sa: priceInCents }),
@@ -251,10 +305,10 @@ const scraper = async () => {
               i = i + 1;
 
               // console.log('length find...', productData.length);
-              await delay(9000);
+              // await delay(9000);
             }
             console.log('done', loc.location);
-            await delay(9000);
+            await delay(4000);
           }
 
           console.log('done Child Items:', extensionCategory)
