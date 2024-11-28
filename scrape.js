@@ -139,14 +139,98 @@ const scraper = async () => {
           }
           // category Drinks
           if (category === 'Drinks') {
+            if (sub.subCategory === 'Chilled Drinks') {
+              if (ext.extensionCategory === 'Soft Drinks') url = `https://www.coles.com.au/browse/drinks/cold-drinks/cold-soft-drinks`
+              if (ext.extensionCategory === 'Energy Drinks') url = `https://www.coles.com.au/browse/drinks/cold-drinks/other-cold-drinks`
+              if (ext.extensionCategory === 'Chilled Water') url = `https://www.coles.com.au/browse/drinks/cold-drinks/cold-water`
+            }
             if (sub.subCategory === 'Coffee') {
               if (ext.extensionCategory === 'Coffee Beans') url = `https://www.coles.com.au/browse/drinks/coffee-drinks/beans-coffee`
               if (ext.extensionCategory === 'Coffee Capsules') url = `https://www.coles.com.au/browse/drinks/coffee-drinks/coffee-capsules`
               if (ext.extensionCategory === 'Ground Coffee') url = `https://www.coles.com.au/browse/drinks/coffee-drinks/coffee-ground`
               if (ext.extensionCategory === 'Instant & Flavoured Coffee') url = `https://www.coles.com.au/browse/drinks/coffee-drinks/coffee-instant`
             }
+            if (sub.subCategory === 'Cordials, Juices & Iced Teas') {
+              if (ext.extensionCategory === 'Chilled Juices') url = `https://www.coles.com.au/browse/drinks/juice/chilled-juice`
+              if (ext.extensionCategory === 'Cordials') url = `https://www.coles.com.au/browse/drinks/cordials`
+              if (ext.extensionCategory === 'Iced Teas') url = `https://www.coles.com.au/browse/drinks/iced-tea`
+            }
+            if (sub.subCategory === 'Flavoured Milk') {
+              if (ext.extensionCategory === 'Drinking Chocolate') url = `https://www.coles.com.au/browse/drinks/flavoured-milk/drinking-chocolate`
+              if (ext.extensionCategory === 'Drinks & Powders') url = `https://www.coles.com.au/browse/drinks/flavoured-milk/drinks-powders`
+              if (ext.extensionCategory === 'Kids Milk') url = `https://www.coles.com.au/browse/drinks/flavoured-milk/kids-milk`
+            }
+            if (sub.subCategory === 'Long Life Milk') {
+              if (ext.extensionCategory === 'Almond Milk') url = `https://www.coles.com.au/browse/drinks/long-life-milk/almond-milk`
+              if (ext.extensionCategory === 'Lactose Free Milk') url = `https://www.coles.com.au/browse/drinks/long-life-milk/lactose-free-milk`
+              if (ext.extensionCategory === 'Oat & Rice Milk') url = `https://www.coles.com.au/browse/drinks/long-life-milk/oat-rice-milks`
+              if (ext.extensionCategory === 'Powdered Milk') url = `https://www.coles.com.au/browse/drinks/long-life-milk/powdered-milk`
+              if (ext.extensionCategory === 'Soy Milk') url = `https://www.coles.com.au/browse/drinks/long-life-milk/soy-milk-long-life`
+            }
+            if (sub.subCategory === 'Soft Drinks') {
+              if (ext.extensionCategory === 'Mixers') url = `https://www.coles.com.au/browse/drinks/soft-drinks/mixers`
+              if (ext.extensionCategory === 'Soft Drink Bottles') url = `https://www.coles.com.au/browse/drinks/soft-drinks/soft-drink-bottles`
+              if (ext.extensionCategory === 'Soft Drink Cans') url = `https://www.coles.com.au/browse/drinks/soft-drinks/soft-drink-cans`
+            }
+            if (sub.subCategory === 'Sports & Energy Drinks') {
+              if (ext.extensionCategory === 'Energy Drinks') url = `https://www.coles.com.au/browse/drinks/energy-drinks`
+              if (ext.extensionCategory === 'Sports Drinks') url = `https://www.coles.com.au/browse/drinks/sports-drinks`
+            }
+            if (sub.subCategory === 'Tea') {
+              if (ext.extensionCategory === 'Black Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-black`
+              if (ext.extensionCategory === 'Green Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-green`
+              if (ext.extensionCategory === 'Herbal & Specialty Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-herbal`
+            }
+            if (sub.subCategory === 'Water') {
+              if (ext.extensionCategory === 'Flavoured & Coconut Water') url = `https://www.coles.com.au/browse/drinks/water/flavoured-water`
+              if (ext.extensionCategory === 'Sparkling Water') url = `https://www.coles.com.au/browse/drinks/water/sparkling-water`
+              if (ext.extensionCategory === 'Still Water') url = `https://www.coles.com.au/browse/drinks/water/still-water`
+            }
           }
-
+          // category Drinks
+          if (category === 'Freezer') {
+            if (sub.subCategory === 'Frozen Desserts') {
+              if (ext.extensionCategory === 'Assorted Desserts') url = `https://www.coles.com.au/browse/frozen/frozen-desserts/assorted-desserts`
+              if (ext.extensionCategory === 'Cakes & Cheesecakes') url = `https://www.coles.com.au/browse/frozen/frozen-desserts/cakes-cheesecakes`
+              if (ext.extensionCategory === 'Dessert Pies & Pastries') url = `https://www.coles.com.au/browse/frozen/frozen-desserts/dessert-pies`
+            }
+            if (sub.subCategory === 'Frozen Fruit') {
+              if (ext.extensionCategory === 'Berries') url = `https://www.coles.com.au/browse/frozen/frozen-fruit/berries`
+              if (ext.extensionCategory === 'Tropical') url = `https://www.coles.com.au/browse/frozen/frozen-fruit/tropical`
+            }
+            if (sub.subCategory === 'Frozen Meat') {
+              if (ext.extensionCategory === 'Chicken Pieces & Nuggets') url = `https://www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/chicken-pieces-nuggets`
+              if (ext.extensionCategory === 'Whole Birds & Roasts') url = `https://www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/whole-birds-roasts`
+            }
+            if (sub.subCategory === 'Frozen Party Food') {
+              if (ext.extensionCategory === 'Pastry Sheets') url = `https://www.coles.com.au/browse/frozen/frozen-pastry-party-food/pastry-sheets`
+              if (ext.extensionCategory === 'Pastries') url = `https://www.coles.com.au/browse/frozen/frozen-pastry-party-food/pastries`
+              if (ext.extensionCategory === 'Pies & Quiches') url = `https://www.coles.com.au/browse/frozen/frozen-pastry-party-food/pies-quiches`
+            }
+            if (sub.subCategory === 'Frozen Pizzas') {
+              if (ext.extensionCategory === 'Pizzas') url = `https://www.coles.com.au/browse/frozen/frozen-pizza-bases/pizzas`
+            }
+            if (sub.subCategory === 'Frozen Seafood') {
+              if (ext.extensionCategory === 'Fish Fillets') url = `https://www.coles.com.au/browse/frozen/frozen-fish-seafood/fish-fillets`
+              if (ext.extensionCategory === 'Fish Fingers & Cakes') url = `https://www.coles.com.au/browse/frozen/frozen-fish-seafood/fish-fingers-cakes`
+              if (ext.extensionCategory === 'Frozen Seafood') url = `https://www.coles.com.au/browse/frozen/frozen-fish-seafood/seafood-frozen`
+            }
+            if (sub.subCategory === 'Frozen Vegetables') {
+              if (ext.extensionCategory === 'Beans') url = `https://www.coles.com.au/browse/frozen/frozen-vegetables/beans`
+              if (ext.extensionCategory === 'Peas') url = `https://www.coles.com.au/browse/frozen/frozen-vegetables/peas`
+              if (ext.extensionCategory === 'Corn') url = `https://www.coles.com.au/browse/frozen/frozen-vegetables/corn`
+              if (ext.extensionCategory === 'Mixed Vegetables') url = `https://www.coles.com.au/browse/frozen/frozen-vegetables/mixed-vegetables`
+              if (ext.extensionCategory === 'Other Vegetables') url = `https://www.coles.com.au/browse/frozen/frozen-vegetables/other-vegetables`
+              if (ext.extensionCategory === 'Steam Packs') url = `https://www.coles.com.au/browse/frozen/frozen-vegetables/steaming`
+            }
+            if (sub.subCategory === 'Ice Cream') {
+              if (ext.extensionCategory === 'Frozen Yoghurt') url = `https://www.coles.com.au/browse/frozen/ice-cream/frozen-yoghurt`
+              if (ext.extensionCategory === 'Gelato & Sorbet') url = `https://www.coles.com.au/browse/frozen/ice-cream/sorbet-gelato`
+              if (ext.extensionCategory === 'Ice Cream Sticks & Cones') url = `https://www.coles.com.au/browse/frozen/ice-cream/ice-cream-sticks`
+              if (ext.extensionCategory === 'Ice Cream Tubs') url = `https://www.coles.com.au/browse/frozen/ice-cream/ice-cream-tubs`
+              if (ext.extensionCategory === 'Premium Ice Cream') url = `https://www.coles.com.au/browse/frozen/ice-cream/premium-ice-cream`
+            }
+          }
 
           for (const loc of locations) {
             const browser = await puppeteer.launch({
@@ -165,7 +249,7 @@ const scraper = async () => {
             // await delay(6000);
             await page.waitForSelector('body', { timeout: 90000 });
             await delay(3000);
-            const a = await handleSteps(page, loc);
+            const a = await handleSteps(page, loc, url);
             await safeNavigate(page, url);
             await delay(8000);
             let hasProducts = true;
@@ -257,6 +341,25 @@ const scraper = async () => {
                         if (extensionCategory === 'Paste') ext = 'Pate, Paste & Caviar'
                       }
                     }
+                    // category Drinks
+                    if (category === 'Drinks') {
+                      if (subCategory === 'Chilled Drinks') {
+                        if (extensionCategory === 'Soft Drinks' || extensionCategory === 'Energy Drinks') ext = 'Chilled Soft Drinks & Energy Drinks'
+                      }
+                    }
+                    // category Freezer
+                    if (category === 'Freezer') {
+                      if (subCategory === 'Frozen Fruit') {
+                        if (extensionCategory === 'Berries' || extensionCategory === 'Tropical') ext = 'Berries & Tropical'
+                      }
+                      if (subCategory === 'Frozen Party Food') {
+                        if (extensionCategory === 'Pastries' || extensionCategory === 'Pies & Quiches') ext = 'Pies, Pastries & Quiches'
+                      }
+                      if (subCategory === 'Frozen Vegetables') {
+                        if (extensionCategory === 'Beans' || extensionCategory === 'Peas') ext = 'Beans & Peas'
+                      }
+                    }
+
                     return {
                       source_url: href !== 'N/A' ? href : 'N/A',
                       category: category,

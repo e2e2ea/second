@@ -1,10 +1,14 @@
-# Dairy, Eggs & Fridge
-# const category = "Dairy, Eggs & Fridge"
-  ## cheese
-  ## const subCategory = "Cheese"
-    ### Block Cheese
-    ### const extensionCategory = "Block Cheese"
-    ### Grated Cheese
-    ### const extensionCategory = "Grated Cheese"
-    ### Sliced Cheese
-    ### const extensionCategory = "Sliced Cheese"
+# Todo:
+  1. resolve this "Lactose Free Milk" && "Whole Birds & Roasts
+{
+    subCategory: "Long Life Milk",
+    childItems: [
+        { extensionCategory: "Lactose Free Milk" },
+    ]
+},
+  {
+    subCategory: "Frozen Meat",
+    childItems: [
+        { extensionCategory: "Whole Birds & Roasts" },
+    ]
+},

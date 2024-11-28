@@ -1,11 +1,13 @@
 import waitForElement from './waitForElement.js';
+import safeNavigate from './safeNavigate.js';
 
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
-const handleSteps = async (page, loc) => {
+const handleSteps = async (page, loc, url) => {
   let retries
-  retries = 1000
+  retries = 100000
+  let toLoad = 0
   for (let i = 0; i < retries; i++) {
     try {
       const a = await step1(page);
@@ -67,7 +69,16 @@ const handleSteps = async (page, loc) => {
       await delay(2000)
       return { success: true, status: 201 };
     } catch (error) {
-      if (i === retries - 1) throw error;
+      toLoad++
+      if (toLoad > 2) {
+        console.log('Failed in steps with 3 attempts, and load the page.');
+        await safeNavigate(page, url);
+        await delay(9000);
+        toLoad = 0;
+      }
+      if (i === retries) {
+        retries - 1
+      };
       await delay(5000);
     }
   }
@@ -75,7 +86,7 @@ const handleSteps = async (page, loc) => {
 
 const step1 = async (page) => {
   const drawerButtonSelector = '#delivery-selector-button';
-  await waitForElement(page, drawerButtonSelector, { visible: true });
+  await waitForElement(page, drawerButtonSelector, { visible: true, timeout: 2000 });
   await page.click(drawerButtonSelector);
   console.log('Drawer opened.');
   return true; // Return true when the step succeeds
@@ -83,7 +94,7 @@ const step1 = async (page) => {
 
 const step2 = async (page) => {
   const clickCollectButtonSelector = 'button[data-testid="tab-collection"]';
-  const a = await waitForElement(page, clickCollectButtonSelector, { visible: true });
+  const a = await waitForElement(page, clickCollectButtonSelector, { visible: true, timeout: 2000 });
   if (!a) return false;
   await page.click(clickCollectButtonSelector);
   // console.log('Clicked on the "Click & Collect" button.');
@@ -100,7 +111,7 @@ const step3 = async (page, loc) => {
   // console.log('in case 1: ', loc)
   const location = loc.location.split(' ')[0].replace(/[^a-zA-Z0-9]/g, ''); // Replace with the actual location
 
-  const a = await waitForElement(page, searchInputSelector, { visible: true });
+  const a = await waitForElement(page, searchInputSelector, { visible: true, timeout: 2000 });
   if (!a) return false;
   await page.focus(searchInputSelector);
   await page.type(searchInputSelector, location, { delay: 500 });
@@ -109,7 +120,7 @@ const step3 = async (page, loc) => {
 };
 
 const step4 = async (page, loc) => {
-  const a = await waitForElement(page, 'div.MuiAutocomplete-popper', { visible: true });
+  const a = await waitForElement(page, 'div.MuiAutocomplete-popper', { visible: true, timeout: 2000 });
   if (!a) return false;
   const optionName = loc.location;
 
@@ -132,7 +143,7 @@ const step4 = async (page, loc) => {
 const step5 = async (page, loc) => {
   const subLocation = loc.subLucation;
 
-  const a = await waitForElement(page, 'div[role="radiogroup"]', { visible: true });
+  const a = await waitForElement(page, 'div[role="radiogroup"]', { visible: true, timeout: 2000 });
   if (!a) return false;
   try {
     const options = await page.$$('div.coles-targeting-CardRadioContainer');
@@ -162,7 +173,7 @@ const step5 = async (page, loc) => {
 };
 
 const step6 = async (page) => {
-  const a = await waitForElement(page, 'button[data-testid="cta-secondary"]', { visible: true });
+  const a = await waitForElement(page, 'button[data-testid="cta-secondary"]', { visible: true, timeout: 2000 });
   if (!a) return false;
   await page.click('button[data-testid="cta-secondary"]');
   // console.log('Clicked the "Set location" button.');
