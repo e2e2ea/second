@@ -1,0 +1,30 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/fresh-purple-eggplant-approx.-500g-each-4583206",
+    "name": "Fresh Purple Eggplant | approx 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4583206.jpg&w=640&q=90",
+    "barcode": "4583206",
+    "shop": "coles",
+    "weight": "500geach",
+    "prices": {
+      "nsw": "690",
+      "nsw_price_per_unit": "345",
+      "nsw_unit": "each",
+      "vic": "790",
+      "qld": "850",
+      "sa": "690",
+      "tas": "790"
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-eggplant-1-each-4583830",
+    "name": "Coles Eggplant | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4583830.jpg&w=640&q=90",
+    "barcode": "4583830",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": {
+      "wa": "420"
+    }
+  }
+]

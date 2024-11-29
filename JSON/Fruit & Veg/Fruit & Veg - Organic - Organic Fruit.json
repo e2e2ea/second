@@ -1,0 +1,44 @@
+[
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-avocados-1-each-5055611",
+    "name": "Coles Organic Avocados | 1 each",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5055611.jpg&w=640&q=90",
+    "barcode": "5055611",
+    "shop": "coles",
+    "weight": "1each",
+    "prices": {
+      "nsw": "380",
+      "nsw_price_per_unit": "380",
+      "nsw_unit": "each",
+      "vic": "380",
+      "qld": "380",
+      "sa": "450"
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-lemons-4-pack-9939629",
+    "name": "Coles Organic Lemons | 4 pack",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9939629.jpg&w=640&q=90",
+    "barcode": "9939629",
+    "shop": "coles",
+    "weight": "4pack",
+    "prices": {
+      "vic": "173",
+      "qld": "173"
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-oranges-approx.-200g-each-4352291",
+    "name": "Coles Organic Oranges | approx 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4352291.jpg&w=640&q=90",
+    "barcode": "4352291",
+    "shop": "coles",
+    "weight": "200geach",
+    "prices": {
+      "nsw": "690",
+      "nsw_price_per_unit": "138",
+      "nsw_unit": "each",
+      "vic": "690"
+    }
+  }
+]

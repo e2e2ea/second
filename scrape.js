@@ -231,16 +231,59 @@ const scraper = async () => {
               if (ext.extensionCategory === 'Premium Ice Cream') url = `https://www.coles.com.au/browse/frozen/ice-cream/premium-ice-cream`
             }
           }
-
+          if (category === 'Fruit & Veg') {
+            if (sub.subCategory === 'Fruit') {
+              if (ext.extensionCategory === 'Apples') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/apples`
+              if (ext.extensionCategory === 'Pears') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/pears`
+              if (ext.extensionCategory === 'Bananas') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/bananas`
+              if (ext.extensionCategory === 'Berries & Cherries') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/berries-cherries`
+              if (ext.extensionCategory === 'Grapes') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/grapes`
+              if (ext.extensionCategory === 'Melons') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/melons`
+              if (ext.extensionCategory === 'Mangoes') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/mangoes`
+              if (ext.extensionCategory === 'Pineapples') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/pineapples`
+              if (ext.extensionCategory === 'Kiwi Fruit') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/kiwi-fruit`
+              if (ext.extensionCategory === 'Tropical & Exotic Fruit') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/tropical-exotic-fruit`
+            }
+            if (sub.subCategory === 'Organic') {
+              if (ext.extensionCategory === 'Organic Fruit') url = `https://www.coles.com.au/browse/fruit-vegetables/organic-fruits-vegetables/organic-fruits`
+              if (ext.extensionCategory === 'Organic Vegetables') url = `https://www.coles.com.au/browse/fruit-vegetables/organic-fruits-vegetables/organic-vegetables`
+            }
+            if (sub.subCategory === 'Salad') {
+              if (ext.extensionCategory === 'Herbs') url = `https://www.coles.com.au/browse/fruit-vegetables/salad-herbs/herbs`
+              if (ext.extensionCategory === 'Sprouts') url = `https://www.coles.com.au/browse/fruit-vegetables/salad-herbs/sprouts`
+            }
+            if (sub.subCategory === 'Vegetables') {
+              if (ext.extensionCategory === 'Broccoli, Cauliflower & Cabbage') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/broccoli-cauliflower`
+              if (ext.extensionCategory === 'Capsicum & Mushrooms') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/mushrooms`
+              if (ext.extensionCategory === 'Onions & Leeks') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/onion-leeks`
+              if (ext.extensionCategory === 'Cucumber') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/cucumber`
+              if (ext.extensionCategory === 'Potatoes') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/potatoes`
+              if (ext.extensionCategory === 'Pumpkins') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/pumpkin`
+              if (ext.extensionCategory === 'Tomatoes') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/tomatoes`
+              if (ext.extensionCategory === 'Eggplant') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/eggplant`
+              if (ext.extensionCategory === 'Zucchini & Squash') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/zucchini-squash`
+            }
+          }
           for (const loc of locations) {
             const browser = await puppeteer.launch({
               headless: false,
+              // args: [
+              //   '--ignore-certificate-errors',
+              //   '--disable-setuid-sandbox',
+              //   '--proxy-server=http://proxy.toolip.io:31114'  // Replace with your proxy server URL
+              // ]
             });
             let page
-            page = await browser.newPage();
-            const client = await page.target().createCDPSession();
-            await client.send('Network.clearBrowserCookies');
-            await client.send('Network.clearBrowserCache');
+            const context = await browser.createBrowserContext();
+
+            page = await context.newPage();
+            // await page.authenticate({
+            //   username: 'tl-274bbabe017e849be3b3754410498c6cf8fef4af98e74785087c842a92ec9c5d-country-us-session-6dc20',  // Replace with your proxy username
+            //   password: '92vrkqlu1nng'  // Replace with your proxy password
+            // });
+            // const client = await page.target().createCDPSession();
+            // await client.send('Network.clearBrowserCookies');
+            // await client.send('Network.clearBrowserCache');
             await safeNavigate(page, url);
 
             console.log('Page loaded successfully.');
@@ -357,6 +400,18 @@ const scraper = async () => {
                       }
                       if (subCategory === 'Frozen Vegetables') {
                         if (extensionCategory === 'Beans' || extensionCategory === 'Peas') ext = 'Beans & Peas'
+                      }
+                    }
+                    // category Fruit & Veg
+                    if (category === 'Fruit & Veg') {
+                      if (subCategory === 'Fruit') {
+                        if (extensionCategory === 'Apples' || extensionCategory === 'Pears') ext = 'Apples & Pears'
+                        if (extensionCategory === 'Melons' || extensionCategory === 'Mangoes') ext = 'Melons & Mangoes'
+                        if (extensionCategory === 'Pineapples' || extensionCategory === 'Kiwi Fruit') ext = 'Pineapples & Kiwi Fruit'
+                      }
+                      if (subCategory === 'Vegetables') {
+                        if (extensionCategory === 'Potatoes' || extensionCategory === 'Pumpkins') ext = 'Potatoes & Pumpkins'
+                        if (extensionCategory === 'Eggplant' || extensionCategory === 'Zucchini & Squash') ext = 'Zucchini, Eggplant & Squash'
                       }
                     }
 

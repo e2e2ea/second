@@ -41,17 +41,17 @@ const Product = mongoose.model('Product', ProductSchema);
 
 const getData = async () => {
     await dbConnect();
-    const products = await Product.find({ category: 'Drinks', subCategory: 'Long Life Milk' });
-
-    // Check if any products are found
-    if (products.length > 0) {
-        // Loop through the products and log category and subCategory
-        products.forEach(product => {
-            console.log(`Category: ${product.category}, SubCategory: ${product.subCategory}, exte: ${product.extensionCategory}`);
-        });
-    } else {
-        console.log('No products found.');
-    }
+    const products = await Product.find({ barcode: '1850656' });
+    console.log('products', products)
+    // // Check if any products are found
+    // if (products.length > 0) {
+    //     // Loop through the products and log category and subCategory
+    //     products.forEach(product => {
+    //         console.log(`Category: ${product.category}, SubCategory: ${product.subCategory}, exte: ${product.extensionCategory}`);
+    //     });
+    // } else {
+    //     console.log('No products found.');
+    // }
 }
 
 (async () => {
