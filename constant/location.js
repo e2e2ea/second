@@ -14,7 +14,6 @@ const locations = [
         location: "Kedron, QLD 4031",
         subLucation: "Coles Kedron"
     },
-
     // wa
     {
         location: "Perth, WA 6000",

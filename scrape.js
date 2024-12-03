@@ -60,6 +60,18 @@ const scraper = async () => {
     for (const categ of categories) {
       let category
       category = categ.category
+      const browser = await puppeteer.launch({
+        headless: false,
+        // args: [
+        //   '--ignore-certificate-errors',
+        //   '--disable-setuid-sandbox',
+        //   '--proxy-server=http://proxy.toolip.io:31114'  // Replace with your proxy server URL
+        // ]
+      });
+      const context = await browser.createBrowserContext();
+      let page
+
+            page = await context.newPage();
       for (const sub of categ.subCategories) {
         let subCategory
         subCategory = sub.subCategory
@@ -187,7 +199,7 @@ const scraper = async () => {
               if (ext.extensionCategory === 'Still Water') url = `https://www.coles.com.au/browse/drinks/water/still-water`
             }
           }
-          // category Drinks
+          // category Freezer
           if (category === 'Freezer') {
             if (sub.subCategory === 'Frozen Desserts') {
               if (ext.extensionCategory === 'Assorted Desserts') url = `https://www.coles.com.au/browse/frozen/frozen-desserts/assorted-desserts`
@@ -231,6 +243,7 @@ const scraper = async () => {
               if (ext.extensionCategory === 'Premium Ice Cream') url = `https://www.coles.com.au/browse/frozen/ice-cream/premium-ice-cream`
             }
           }
+          // category Fruit & Veg
           if (category === 'Fruit & Veg') {
             if (sub.subCategory === 'Fruit') {
               if (ext.extensionCategory === 'Apples') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/apples`
@@ -264,19 +277,75 @@ const scraper = async () => {
               if (ext.extensionCategory === 'Zucchini & Squash') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/zucchini-squash`
             }
           }
+          // category Health & Beauty
+          if (category === 'Health & Beauty') {
+            if (sub.subCategory === 'Cosmetics') {
+              if (ext.extensionCategory === 'Lips') url = `https://www.coles.com.au/browse/health-beauty/cosmetics/lips`
+              if (ext.extensionCategory === 'Nails') url = `https://www.coles.com.au/browse/health-beauty/cosmetics/nails`
+            }
+            if (sub.subCategory === 'Dental Care') {
+              if (ext.extensionCategory === 'Denture Care') url = `https://www.coles.com.au/browse/health-beauty/dental-care/denture-care`
+              if (ext.extensionCategory === 'Toothbrushes') url = `https://www.coles.com.au/browse/health-beauty/dental-care/toothbrushes`
+              if (ext.extensionCategory === 'Toothpaste') url = `https://www.coles.com.au/browse/health-beauty/dental-care/toothpaste`
+            }
+            if (sub.subCategory === 'First Aid & Medicinal') {
+              if (ext.extensionCategory === 'Antiseptic') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/antiseptic`
+              if (ext.extensionCategory === 'Cold, Flu & Allergies') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/cold-flu-and-allergy`
+              if (ext.extensionCategory === 'Cotton Wool & Cotton Buds') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/cotton-wool-cotton-buds`
+              if (ext.extensionCategory === 'Medicinal Oils & Ointments') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/medicinal-oils-ointments`
+              if (ext.extensionCategory === 'Quit Smoking') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/quit-smoking`
+            }
+            if (sub.subCategory === 'Hair Care') {
+              if (ext.extensionCategory === 'Colouring') url = `https://www.coles.com.au/browse/health-beauty/hair-care/colouring`
+              if (ext.extensionCategory === 'Hair Accessories & Brushes') url = `https://www.coles.com.au/browse/health-beauty/hair-care/hair-brushes-combs-accessories`
+              if (ext.extensionCategory === 'Mens Hair Care') url = `https://www.coles.com.au/browse/health-beauty/hair-care/mens-hair-care`
+              if (ext.extensionCategory === 'Shampoo & Conditioner') url = `https://www.coles.com.au/browse/health-beauty/hair-care/shampoo-conditioner`
+              if (ext.extensionCategory === 'Styling Products') url = `https://www.coles.com.au/browse/health-beauty/hair-care/gel-mousse-styling`
+            }
+            if (sub.subCategory === 'Personal Care & Hygiene') {
+              if (ext.extensionCategory === 'Contraception & Sexual Health') url = `https://www.coles.com.au/browse/health-beauty/personal-care/sexual-health`
+              if (ext.extensionCategory === 'Female Deodorants & Body Sprays') url = `https://www.coles.com.au/browse/health-beauty/personal-care/womens-deodorants`
+              if (ext.extensionCategory === 'Male Deodorants & Body Sprays') url = `https://www.coles.com.au/browse/health-beauty/personal-care/mens-deodorants`
+              if (ext.extensionCategory === 'Pregnancy Tests') url = `https://www.coles.com.au/browse/health-beauty/personal-care`
+            }
+            if (sub.subCategory === 'Shaving & Hair Removal') {
+              if (ext.extensionCategory === 'After Shave Care') url = `https://www.coles.com.au/browse/health-beauty/shaving-hair-removal/after-shave-care`
+              if (ext.extensionCategory === 'Shave Gel & Foam') url = `https://www.coles.com.au/browse/health-beauty/shaving-hair-removal/shave-gel-foam`
+            }
+            if (sub.subCategory === 'Skin Care') {
+              if (ext.extensionCategory === 'Body Moisturiser') url = `https://www.coles.com.au/browse/health-beauty/skin-care/body-moisturiser`
+              if (ext.extensionCategory === 'Face Moisturiser') url = `https://www.coles.com.au/browse/health-beauty/skin-care/face-moisturiser`
+              if (ext.extensionCategory === '183 Hand Moisturiser') url = `https://www.coles.com.au/browse/health-beauty/skin-care/hand-moisturiser`
+              if (ext.extensionCategory === 'Lip Care') url = `https://www.coles.com.au/browse/health-beauty/skin-care/lip-care`
+              if (ext.extensionCategory === 'Self-Tanning') url = `https://www.coles.com.au/browse/health-beauty/skin-care/self-tanning`
+            }
+            if (sub.subCategory === 'Vitamins') {
+              if (ext.extensionCategory === 'Brain & Heart Health') url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/brain-eye-and-heart-health`
+              if (ext.extensionCategory === 'Detox & Digestion') url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/detox-and-digestive-health`
+              if (ext.extensionCategory === 'Hair, Skin & Nails') url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/hair-skin-nails`
+              if (ext.extensionCategory === 'Others') url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/other-vitamins`
+            }
+          }
+          // category Household
+          if (category === 'Household') {
+            if (sub.subCategory === 'Cleaning Goods') {
+              if (ext.extensionCategory === 'Bathroom Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/bathroom-cleaners`
+              if (ext.extensionCategory === 'Disinfectant & Bleach') url = `https://www.coles.com.au/browse/household/cleaning-goods/bleach`
+              if (ext.extensionCategory === 'Drain Cleaners & Solvents') url = `https://www.coles.com.au/browse/household/cleaning-goods/drain-solvents`
+              if (ext.extensionCategory === 'Fabric, Metal & Furniture Care') url = `https://www.coles.com.au/browse/household/cleaning-goods/fabric-metal-furniture`
+              if (ext.extensionCategory === 'Floor/Carpet Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/floor-carpet-cleaners`
+              if (ext.extensionCategory === 'Gloves') url = `https://www.coles.com.au/browse/household/cleaning-goods/cleaning-gloves`
+              if (ext.extensionCategory === 'Kitchen Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/kitchen-cleaners`
+              if (ext.extensionCategory === 'Mops, Buckets & Brooms') url = `https://www.coles.com.au/browse/household/cleaning-goods/mops-buckets-brooms`
+              if (ext.extensionCategory === 'Multipurpose Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/multipurpose-cleaners`
+              if (ext.extensionCategory === 'Sponges, Cloths & Wipes') url = `https://www.coles.com.au/browse/household/cleaning-goods/sponges-cloths-wipes`
+              if (ext.extensionCategory === 'Window & Glass Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/windows-glass`
+            }
+          }
           for (const loc of locations) {
-            const browser = await puppeteer.launch({
-              headless: false,
-              // args: [
-              //   '--ignore-certificate-errors',
-              //   '--disable-setuid-sandbox',
-              //   '--proxy-server=http://proxy.toolip.io:31114'  // Replace with your proxy server URL
-              // ]
-            });
-            let page
-            const context = await browser.createBrowserContext();
-
-            page = await context.newPage();
+            
+            
+            await page.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
             // await page.authenticate({
             //   username: 'tl-274bbabe017e849be3b3754410498c6cf8fef4af98e74785087c842a92ec9c5d-country-us-session-6dc20',  // Replace with your proxy username
             //   password: '92vrkqlu1nng'  // Replace with your proxy password
@@ -294,7 +363,21 @@ const scraper = async () => {
             await delay(3000);
             const a = await handleSteps(page, loc, url);
             await safeNavigate(page, url);
+            await delay(5000);
+            console.log('Scrolling...');
+            await page.evaluate(async () => {
+              const totalHeight = document.body.scrollHeight; // Total page height
+              const scrollStep = window.innerHeight; // Scroll step (viewport height)
+              let scrollPosition = 0;
+
+              while (scrollPosition < totalHeight) {
+                window.scrollBy(0, scrollStep); // Scroll by one step
+                scrollPosition += scrollStep;
+                await new Promise(resolve => setTimeout(resolve, 1500)); // Wait 500ms between steps
+              }
+            });
             await delay(8000);
+
             let hasProducts = true;
             let i = 1;
             while (hasProducts) {
@@ -307,7 +390,7 @@ const scraper = async () => {
                 await page.waitForSelector('section[data-testid="product-tile"]', { timeout: 10000 });
               } catch (error) {
                 hasProducts = false;
-                await browser.close();
+                // await browser.close();
                 // await delay(10000);
                 break;
               }

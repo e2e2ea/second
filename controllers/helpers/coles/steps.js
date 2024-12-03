@@ -1,5 +1,6 @@
 import waitForElement from './waitForElement.js';
 import safeNavigate from './safeNavigate.js';
+import { timeout } from 'puppeteer';
 
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
@@ -20,6 +21,13 @@ const handleSteps = async (page, loc, url) => {
       }
       await delay(2000)
       if (!loc || loc.location !== 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145') {
+        const additional = '[data-testid="change-delivery-type"]';
+        try {
+          await page.click(additional, { timeout: 2000 });
+        } catch (error) {
+          console.log('Additional element not found or visible, skipping this step.');
+        }
+
         const b = await step2(page);
         if (!b) {
           console.log('Retrying step 2...');

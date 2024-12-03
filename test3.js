@@ -2,6 +2,7 @@ import categories from './constant/categories.js'
 import mongoose from 'mongoose';
 import fs from 'fs';
 import path from 'path';
+
 const dbConnect = async () => {
     try {
         const conn = await mongoose.connect('mongodb://127.0.0.1/scrape');
@@ -38,20 +39,56 @@ const ProductSchema = new mongoose.Schema(
 );
 
 const Product = mongoose.model('Product', ProductSchema);
-
+function cleanProductName(name) {
+    // Remove special characters like | and trim extra spaces
+    return name.replace(/[^a-zA-Z0-9\s]/g, '')      // Remove non-alphanumeric characters
+        .replace(/\s+/g, ' ')              // Replace multiple spaces with a single space
+        .trim();
+}
+// const jsonArrays = ['Baby--BabyToys&Playtime132-products.json']
+const jsonArrays = ['Drinks-Coffee-CoffeBeans-140products.json']
 const getData = async () => {
+    let productsMatched = []
     await dbConnect();
-    const products = await Product.find({ barcode: '1850656' });
-    console.log('products', products)
-    // // Check if any products are found
-    // if (products.length > 0) {
-    //     // Loop through the products and log category and subCategory
-    //     products.forEach(product => {
-    //         console.log(`Category: ${product.category}, SubCategory: ${product.subCategory}, exte: ${product.extensionCategory}`);
-    //     });
-    // } else {
-    //     console.log('No products found.');
-    // }
+    for (const jsonArray of jsonArrays) {
+        const jsonData = JSON.parse(fs.readFileSync(`example/${jsonArray}`, 'utf8'));
+        for (const data of jsonData) {
+            let name1 = data.name;
+            const products = await Product.find();
+            const filteredProducts = products.filter((p) => {
+                const nam1 = cleanProductName(p.name)
+                const nam2 = cleanProductName(name1)
+                if (nam1.toLowerCase() === nam2.toLowerCase()) {
+                    return p
+                }
+            })
+            if (filteredProducts && filteredProducts.length > 0) {
+                const formattedProduct1 = {
+                    source_url: filteredProducts[0].source_url || null,
+                    name: filteredProducts[0].name || null,
+                    image_url: filteredProducts[0].image_url || null,
+                    barcode: filteredProducts[0].barcode || null,
+                    shop: filteredProducts[0].shop || null,
+                    weight: filteredProducts[0].weight || null,
+                    prices: { ...filteredProducts[0].prices },
+                };
+                const formattedProduct2 = {
+                    source_url: data.source_url || null,
+                    name: data.name || null,
+                    image_url: data.image_url || null,
+                    barcode: data.barcode || null,
+                    shop: data.shop || null,
+                    weight: data.weight || null,
+                    prices: { ...data.prices },
+                };
+                productsMatched.push(formattedProduct1)
+                productsMatched.push(formattedProduct2)
+            }
+        }
+        fs.writeFileSync('MatchProducts.json', JSON.stringify(productsMatched, null, 2), 'utf8');
+        console.log('Products found In Coles', productsMatched)
+        return
+    }
 }
 
 (async () => {
