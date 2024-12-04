@@ -1,14 +1,15 @@
-# Todo:
-  1. resolve this "Lactose Free Milk" && "Whole Birds & Roasts
-{
-    subCategory: "Long Life Milk",
-    childItems: [
-        { extensionCategory: "Lactose Free Milk" },
-    ]
-},
+const categories = [
   {
-    subCategory: "Frozen Meat",
-    childItems: [
-        { extensionCategory: "Whole Birds & Roasts" },
-    ]
-},
+        category: "Pantry",
+        subCategories: [
+           {
+                subCategory: "Desserts",
+                childItems: [
+                    { extensionCategory: "Ice Cream Cones, Syrups & Toppings" }, // process2
+                ]
+            },
+        ]
+    },
+];
+
+export default categories;

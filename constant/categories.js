@@ -457,26 +457,120 @@ const categories = [
     //         },
     //     ]
     // },
+    // {
+    //     category: "Household",
+    //     subCategories: [
+    //         /**
+    //          * @commented because its done
+    //          */
+    //         {
+    //             subCategory: "Cleaning Goods",
+    //             childItems: [
+    //                 { extensionCategory: "Bathroom Cleaners" }, // done
+    //                 { extensionCategory: "Disinfectant & Bleach" }, // done
+    //                 { extensionCategory: "Drain Cleaners & Solvents" }, // done
+    //                 { extensionCategory: "Fabric, Metal & Furniture Care" }, // done
+    //                 { extensionCategory: "Floor/Carpet Cleaners" }, // done
+    //                 { extensionCategory: "Gloves" },  // done
+    //                 { extensionCategory: "Kitchen Cleaners" }, // done
+    //                 { extensionCategory: "Mops, Buckets & Brooms" }, // done
+    //                 { extensionCategory: "Multipurpose Cleaners" }, // done
+    //                 { extensionCategory: "Sponges, Cloths & Wipes" }, // done
+    //                 { extensionCategory: "Window & Glass Cleaners" },  // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Homewares",
+    //             childItems: [
+    //                 { extensionCategory: "Water Filtration" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Kitchen",
+    //             childItems: [
+    //                 { extensionCategory: "Sandwich & Freezer Bags" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Laundry",
+    //             childItems: [
+    //                 { extensionCategory: "Fabric Softener" }, // done
+    //                 // 2 "Ironing & Accessories"
+    //                 { extensionCategory: "Ironing" }, // done
+    //                 { extensionCategory: "Accessories" }, // done
+    //                 { extensionCategory: "Laundry Liquid" }, // done
+    //                 { extensionCategory: "Laundry Powder" }, // done
+    //                 { extensionCategory: "Pegs, Baskets & Hangers" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Parties & Entertaining",
+    //             childItems: [
+    //                 { extensionCategory: "Candles" }, // done
+    //                 { extensionCategory: "Decorations" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Pest Control",
+    //             childItems: [
+    //                 { extensionCategory: "Crawling Insects" }, // done
+    //                 { extensionCategory: "Flying Insects" }, // done
+    //                 { extensionCategory: "Garden Pests" }, // done
+    //                 { extensionCategory: "Mosquitoes" }, // done
+    //                 { extensionCategory: "Rodents" }, // done
+    //             ]
+    //         },
+    //     ]
+    // },
     {
-        category: "Household",
+        category: "Pantry",
         subCategories: [
             /**
              * @commented because its done
              */
+            // {
+            //     subCategory: "Baking",
+            //     childItems: [
+            //         // { extensionCategory: "Cooking Chocolate & Cocoa" }, // done
+            //         // { extensionCategory: "Flavouring, Essence & Food Colouring" }, // done
+            //         // { extensionCategory: "Flour" }, // done
+            //         // { extensionCategory: "Icing & Cake Decorating" }, // done
+            //         { extensionCategory: "Nuts, Seeds & Coconut" }, // done
+            //         { extensionCategory: "Sugar & Sweeteners" }, // done
+            //         { extensionCategory: "Yeast & Baking Ingredients" }, // process1
+            //     ]
+            // },
+            // {
+            //     subCategory: "Breakfast & Spreads",
+            //     childItems: [
+            //         // { extensionCategory: "Breakfast Cereal" }, // done
+            //         // { extensionCategory: "Honey" }, // done
+            //         // { extensionCategory: "Jam" }, // done
+            //         // { extensionCategory: "Savoury Spread" }, // done
+            //         // 2 "Muesli & Oats"
+            //         // { extensionCategory: "Muesli" }, // done
+            //         { extensionCategory: "Oats" }, // done
+            //     ]
+            // },
+            // {
+            //     subCategory: "Canned Food & Instant Meals",
+            //     childItems: [
+            //         // { extensionCategory: "Baked Beans & Spaghetti" }, // done
+            //         // { extensionCategory: "Canned Fruit" }, // done
+            //         // { extensionCategory: "Canned Meat" }, // done
+            //         { extensionCategory: "Canned Soup & Soup Ingredients" }, // done
+            //         { extensionCategory: "Canned Vegetables" }, // done
+            //         { extensionCategory: "Instant Meals & Sides" }, // process2
+            //     ]
+            // },
             {
-                subCategory: "Cleaning Goods",
+                subCategory: "Desserts",
                 childItems: [
-                    // { extensionCategory: "Bathroom Cleaners" }, // done
-                    // { extensionCategory: "Disinfectant & Bleach" }, // done
-                    // { extensionCategory: "Drain Cleaners & Solvents" }, // done
-                    // { extensionCategory: "Fabric, Metal & Furniture Care" }, // done
-                    // { extensionCategory: "Floor/Carpet Cleaners" }, // done
-                    // { extensionCategory: "Gloves" },  // done
-                    // { extensionCategory: "Kitchen Cleaners" },
-                    // { extensionCategory: "Mops, Buckets & Brooms" },
-                    // { extensionCategory: "Multipurpose Cleaners" },
-                    // { extensionCategory: "Sponges, Cloths & Wipes" },
-                    // { extensionCategory: "Window & Glass Cleaners" },
+                    // { extensionCategory: "Custard, Cream & Yoghurt" }, // done 
+                    { extensionCategory: "Ice Cream Cones, Syrups & Toppings" }, // 
+                    // { extensionCategory: "Jelly" }, // 
+                    // { extensionCategory: "Puddings" }, // 
+                    // { extensionCategory: "Ready to Freeze Ice Blocks" }, // 
                 ]
             },
         ]

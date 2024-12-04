@@ -19,14 +19,14 @@ const handleSteps = async (page, loc, url) => {
         console.log('Retrying step 1...');
         return handleSteps(page, loc, url); // Retry handleSteps if step1 fails
       }
-      await delay(2000)
-      if (!loc || loc.location !== 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145') {
-        const additional = '[data-testid="change-delivery-type"]';
-        try {
-          await page.click(additional, { timeout: 2000 });
-        } catch (error) {
-          console.log('Additional element not found or visible, skipping this step.');
-        }
+      await delay(7000)
+      const additional = '[data-testid="change-delivery-type"]';
+      try {
+        await page.click(additional, { timeout: 2000 });
+      } catch (error) {
+        console.log('Additional element not found or visible, skipping this step.');
+      }
+      if (!loc || loc.location.toLowerCase() !== 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase()) {
 
         const b = await step2(page);
         if (!b) {
@@ -65,7 +65,7 @@ const handleSteps = async (page, loc, url) => {
         await delay(2000)
       }
 
-      if (loc && loc.location === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145') {
+      if (loc && loc.location.toLowerCase() === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase()) {
         const c = await step3(page, loc);
         if (!c) {
           console.log('Retrying step 3...');
@@ -131,7 +131,7 @@ const step2 = async (page) => {
 
 const step3 = async (page, loc) => {
   let searchInputSelector
-  if (loc.location === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145') {
+  if (loc.location.toLowerCase() === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase()) {
     searchInputSelector = '#street-address-autocomplete';
   } else {
     searchInputSelector = '#suburb-postcode-autocomplete';
@@ -157,7 +157,7 @@ const step4 = async (page, loc) => {
     const options = await page.$$(specificOptionSelector);
     for (let option of options) {
       const text = await option.evaluate((el) => el.textContent.trim());
-      if (text === optionName) {
+      if (text.toLowerCase() === optionName.toLowerCase()) {
         await option.click();
         // console.log(`Clicked on "${optionName}" suggestion.`);
         return true;

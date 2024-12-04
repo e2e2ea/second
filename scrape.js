@@ -65,13 +65,21 @@ const scraper = async () => {
         // args: [
         //   '--ignore-certificate-errors',
         //   '--disable-setuid-sandbox',
-        //   '--proxy-server=http://proxy.toolip.io:31114'  // Replace with your proxy server URL
+        //   '--proxy-server=brd.superproxy.io:33335'  // Replace with your proxy server URL
         // ]
       });
-      const context = await browser.createBrowserContext();
+      // const context = await browser.createBrowserContext();
       let page
 
-            page = await context.newPage();
+      page = await browser.newPage();
+      // await page.authenticate({
+      //   username: 'brd-customer-hl_fd6d5be7-zone-residential_proxy1-country-au',
+      //   password: 'n2z12g3d3wan'
+      // });
+      // await page.authenticate({
+      //   username: 'brd-customer-hl_ed1f1246-zone-residential_proxy1-country-au',
+      //   password: '2lr70jp1a89d',
+      // });
       for (const sub of categ.subCategories) {
         let subCategory
         subCategory = sub.subCategory
@@ -105,7 +113,6 @@ const scraper = async () => {
           } else {
             url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/${updatedSubCategory.toLowerCase()}`;
           }
-          // console.log(`Navigating to ${url}...`);
           // bakery category
           if (sub.subCategory === 'In-Store Bakery') {
             if (ext.extensionCategory === 'Bread Rolls') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-breads-and-rolls`
@@ -341,10 +348,68 @@ const scraper = async () => {
               if (ext.extensionCategory === 'Sponges, Cloths & Wipes') url = `https://www.coles.com.au/browse/household/cleaning-goods/sponges-cloths-wipes`
               if (ext.extensionCategory === 'Window & Glass Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/windows-glass`
             }
+            if (sub.subCategory === 'Homewares') {
+              if (ext.extensionCategory === 'Water Filtration') url = `https://www.coles.com.au/browse/household/homewares/water-filtration`
+            }
+            if (sub.subCategory === 'Kitchen') {
+              if (ext.extensionCategory === 'Sandwich & Freezer Bags') url = `https://www.coles.com.au/browse/household/kitchen/sandwich-freezer-bags`
+            }
+            if (sub.subCategory === 'Laundry') {
+              if (ext.extensionCategory === 'Fabric Softener') url = `https://www.coles.com.au/browse/household/laundry/fabric-softener`
+              if (ext.extensionCategory === 'Ironing') url = `https://www.coles.com.au/browse/household/laundry/ironing-aids`
+              if (ext.extensionCategory === 'Accessories') url = `https://www.coles.com.au/browse/household/laundry/laundry-accessories`
+              if (ext.extensionCategory === 'Laundry Liquid') url = `https://www.coles.com.au/browse/household/laundry/laundry-liquid`
+              if (ext.extensionCategory === 'Laundry Powder') url = `https://www.coles.com.au/browse/household/laundry/laundry-powder`
+              if (ext.extensionCategory === 'Pegs, Baskets & Hangers') url = `https://www.coles.com.au/browse/household/laundry/pegs-baskets-hangers`
+            }
+            if (sub.subCategory === 'Parties & Entertaining') {
+              if (ext.extensionCategory === 'Candles') url = `https://www.coles.com.au/browse/household/party-supplies/candles`
+              if (ext.extensionCategory === 'Decorations') url = `https://www.coles.com.au/browse/household/party-supplies/decorations`
+            }
+            if (sub.subCategory === 'Pest Control') {
+              if (ext.extensionCategory === 'Crawling Insects') url = `https://www.coles.com.au/browse/household/pest-control/crawling-insects`
+              if (ext.extensionCategory === 'Flying Insects') url = `https://www.coles.com.au/browse/household/pest-control/flying-insects`
+              if (ext.extensionCategory === 'Garden Pests') url = `https://www.coles.com.au/browse/household/pest-control/garden-pests`
+              if (ext.extensionCategory === 'Mosquitoes') url = `https://www.coles.com.au/browse/household/pest-control/mosquitos`
+              if (ext.extensionCategory === 'Rodents') url = `https://www.coles.com.au/browse/household/pest-control/rodents`
+            }
+          }
+          // category Pantry
+          if (category === 'Pantry') {
+            if (sub.subCategory === 'Baking') {
+              if (ext.extensionCategory === 'Cooking Chocolate & Cocoa') url = `https://www.coles.com.au/browse/pantry/baking/cooking-chocolate-cocoa`
+              if (ext.extensionCategory === 'Flavouring, Essence & Food Colouring') url = `https://www.coles.com.au/browse/pantry/baking/essence-food-colouring`
+              if (ext.extensionCategory === 'Flour') url = `https://www.coles.com.au/browse/pantry/baking/flour`
+              if (ext.extensionCategory === 'Icing & Cake Decorating') url = `https://www.coles.com.au/browse/pantry/baking/cake-decorating`
+              if (ext.extensionCategory === 'Nuts, Seeds & Coconut') url = `https://www.coles.com.au/browse/pantry/baking/nuts-for-baking`
+              if (ext.extensionCategory === 'Sugar & Sweeteners') url = `https://www.coles.com.au/browse/pantry/baking/sugar-sweeteners`
+              if (ext.extensionCategory === 'Yeast & Baking Ingredients') url = `https://www.coles.com.au/browse/pantry/baking/yeast-baking-agents`
+            }
+            if (sub.subCategory === 'Breakfast & Spreads') {
+              if (ext.extensionCategory === 'Breakfast Cereal') url = `https://www.coles.com.au/browse/pantry/breakfast/breakfast-cereal`
+              if (ext.extensionCategory === 'Honey') url = `https://www.coles.com.au/browse/pantry/jams-honey-spreads/honey`
+              if (ext.extensionCategory === 'Jam') url = `https://www.coles.com.au/browse/pantry/jams-honey-spreads/jams`
+              if (ext.extensionCategory === 'Savoury Spread') url = `https://www.coles.com.au/browse/pantry/jams-honey-spreads/savoury-spreads`
+              if (ext.extensionCategory === 'Muesli') url = `https://www.coles.com.au/browse/pantry/breakfast/breakfast-muesli`
+              if (ext.extensionCategory === 'Oats') url = `https://www.coles.com.au/browse/pantry/breakfast/breakfast-oats`
+            }
+            if (sub.subCategory === 'Canned Food & Instant Meals') {
+              if (ext.extensionCategory === 'Baked Beans & Spaghetti') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/baked-beans-spaghetti`
+              if (ext.extensionCategory === 'Canned Fruit') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-fruit`
+              if (ext.extensionCategory === 'Canned Meat') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-meat`
+              if (ext.extensionCategory === 'Canned Soup & Soup Ingredients') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/soups`
+              if (ext.extensionCategory === 'Canned Vegetables') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-vegetables`
+              if (ext.extensionCategory === 'Instant Meals & Sides') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/instant-meals-sides`
+            }
+            if (sub.subCategory === 'Desserts') {
+              if (ext.extensionCategory === 'Custard, Cream & Yoghurt') url = `https://www.coles.com.au/browse/pantry/desserts/custard-cream-yoghurt-desserts`
+              if (ext.extensionCategory === 'Ice Cream Cones, Syrups & Toppings') url = `https://www.coles.com.au/browse/pantry/desserts/icecream-cones-syrups-toppings`
+              if (ext.extensionCategory === 'Jelly') url = `https://www.coles.com.au/browse/pantry/desserts/jelly`
+              if (ext.extensionCategory === 'Puddings') url = `https://www.coles.com.au/browse/pantry/desserts/puddings`
+              if (ext.extensionCategory === 'Ready to Freeze Ice Blocks') url = `https://www.coles.com.au/browse/pantry/desserts/ready-to-freeze-ice-blocks`
+            }
           }
           for (const loc of locations) {
-            
-            
             await page.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
             // await page.authenticate({
             //   username: 'tl-274bbabe017e849be3b3754410498c6cf8fef4af98e74785087c842a92ec9c5d-country-us-session-6dc20',  // Replace with your proxy username
@@ -497,6 +562,18 @@ const scraper = async () => {
                         if (extensionCategory === 'Eggplant' || extensionCategory === 'Zucchini & Squash') ext = 'Zucchini, Eggplant & Squash'
                       }
                     }
+                    // category Household
+                    if (category === 'Household') {
+                      if (subCategory === 'Laundry') {
+                        if (extensionCategory === 'Ironing' || extensionCategory === 'Accessories') ext = `Ironing & Accessories`
+                      }
+                    }
+                    // category Pantry
+                    if (category === 'Pantry') {
+                      if (subCategory === 'Breakfast & Spreads') {
+                        if (extensionCategory === 'Muesli' || extensionCategory === 'Oats') ext = `Muesli & Oats`
+                      }
+                    }
 
                     return {
                       source_url: href !== 'N/A' ? href : 'N/A',
@@ -512,7 +589,7 @@ const scraper = async () => {
                         ...(loc.location === 'Sydney, NSW 2000' && { nsw: priceInCents }),
                         ...(loc.location === 'Sydney, NSW 2000' && { nsw_price_per_unit: pricePerUnit }),
                         ...(loc.location === 'Sydney, NSW 2000' && { nsw_unit: unit }),
-                        ...(loc.location === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145' && { vic: priceInCents }),
+                        ...(loc.location.toLowerCase() === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase() && { vic: priceInCents }),
                         ...(loc.location === 'Kedron, QLD 4031' && { qld: priceInCents }),
                         ...(loc.location === 'Perth, WA 6000' && { wa: priceInCents }),
                         ...(loc.location === 'Kilburn, SA 5084' && { sa: priceInCents }),
