@@ -65,7 +65,7 @@ const scraper = async () => {
         // args: [
         //   '--ignore-certificate-errors',
         //   '--disable-setuid-sandbox',
-        //   '--proxy-server=brd.superproxy.io:33335'  // Replace with your proxy server URL
+        //   '--proxy-server=http://ip.nimbleway.com:7000'  // Replace with your proxy server URL
         // ]
       });
       // const context = await browser.createBrowserContext();
@@ -73,12 +73,12 @@ const scraper = async () => {
 
       page = await browser.newPage();
       // await page.authenticate({
-      //   username: 'brd-customer-hl_fd6d5be7-zone-residential_proxy1-country-au',
-      //   password: 'n2z12g3d3wan'
-      // });
-      // await page.authenticate({
       //   username: 'brd-customer-hl_ed1f1246-zone-residential_proxy1-country-au',
       //   password: '2lr70jp1a89d',
+      // });
+      // await page.authenticate({
+      //   username: 'account-techguys_p3hrqa-pipeline-nimbleip-country-AU',
+      //   password: 'X30c9A8i4P7O',
       // });
       for (const sub of categ.subCategories) {
         let subCategory
@@ -401,12 +401,74 @@ const scraper = async () => {
               if (ext.extensionCategory === 'Canned Vegetables') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-vegetables`
               if (ext.extensionCategory === 'Instant Meals & Sides') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/instant-meals-sides`
             }
+            if (sub.subCategory === 'Condiments') {
+              if (ext.extensionCategory === 'Mustard') url = `https://www.coles.com.au/browse/pantry/sauces/mustards`
+              if (ext.extensionCategory === 'Sweet Chilli & Hot Sauce') url = `https://www.coles.com.au/browse/pantry/sauces/sweet-chilli-hot`
+              if (ext.extensionCategory === 'Tomato & BBQ Sauce') url = `https://www.coles.com.au/browse/pantry/sauces/tomato-bbq`
+            }
             if (sub.subCategory === 'Desserts') {
               if (ext.extensionCategory === 'Custard, Cream & Yoghurt') url = `https://www.coles.com.au/browse/pantry/desserts/custard-cream-yoghurt-desserts`
               if (ext.extensionCategory === 'Ice Cream Cones, Syrups & Toppings') url = `https://www.coles.com.au/browse/pantry/desserts/icecream-cones-syrups-toppings`
               if (ext.extensionCategory === 'Jelly') url = `https://www.coles.com.au/browse/pantry/desserts/jelly`
               if (ext.extensionCategory === 'Puddings') url = `https://www.coles.com.au/browse/pantry/desserts/puddings`
               if (ext.extensionCategory === 'Ready to Freeze Ice Blocks') url = `https://www.coles.com.au/browse/pantry/desserts/ready-to-freeze-ice-blocks`
+            }
+            if (sub.subCategory === 'Health Foods') {
+              if (ext.extensionCategory === 'Health Breakfast Food & Spread') url = `https://www.coles.com.au/browse/pantry/health-foods/healthy-breakfasts`
+              if (ext.extensionCategory === 'Health Cooking & Pasta') url = `https://www.coles.com.au/browse/pantry/health-foods/healthy-cooking`
+              if (ext.extensionCategory === 'Health Snacks & Drinks') url = `https://www.coles.com.au/browse/pantry/health-foods/healthy-snacks`
+            }
+            if (sub.subCategory === 'Herbs & Spices') {
+              if (ext.extensionCategory === 'Dried Herbs & Spices') url = `https://www.coles.com.au/browse/pantry/herbs-spices/dried-herbs-spices`
+              if (ext.extensionCategory === 'Salt & Pepper') url = `https://www.coles.com.au/browse/pantry/herbs-spices/salt-pepper`
+            }
+            if (sub.subCategory === 'International Foods') {
+              if (ext.extensionCategory === 'Asian') url = `https://www.coles.com.au/browse/pantry/international-foods/asian`
+              if (ext.extensionCategory === 'European') url = `https://www.coles.com.au/browse/pantry/international-foods/european`
+              if (ext.extensionCategory === 'Indian') url = `https://www.coles.com.au/browse/pantry/international-foods/indian`
+              if (ext.extensionCategory === 'Mexican') url = `https://www.coles.com.au/browse/pantry/international-foods/mexican`
+              if (ext.extensionCategory === 'Middle Eastern') url = `https://www.coles.com.au/browse/pantry/international-foods/middle-eastern`
+              if (ext.extensionCategory === 'UK Foods') url = `https://www.coles.com.au/browse/pantry/international-foods/uk`
+            }
+            if (sub.subCategory === 'Pasta, Rice & Grains') {
+              if (ext.extensionCategory === 'Beans & Legumes') url = `https://www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/beans-legumes`
+              if (ext.extensionCategory === 'Rice') url = `https://www.coles.com.au/browse/pantry/pasta-rice-legumes-grains/rice`
+            }
+            if (sub.subCategory === 'Sauce, Oil & Vinegar') {
+              if (ext.extensionCategory === 'Marinades & Seasoning') url = `https://www.coles.com.au/browse/pantry/sauces/marinades`
+              if (ext.extensionCategory === 'Pizza & Pasta Sauce') url = `https://www.coles.com.au/browse/pantry/sauces/pizza-pasta`
+              if (ext.extensionCategory === 'Soy & Asian Sauces') url = `https://www.coles.com.au/browse/pantry/sauces/soy-asian`
+              if (ext.extensionCategory === 'Stock & Gravy') url = `https://www.coles.com.au/browse/pantry/stocks-gravy`
+            }
+            if (sub.subCategory === 'Snacks & Confectionery') {
+              if (ext.extensionCategory === 'Biscuits & Cookies') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/biscuits-cookies`
+              if (ext.extensionCategory === 'Corn Chips & Salsa') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/corn-chips-salsa`
+              if (ext.extensionCategory === 'Muesli Bars & Snack') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/muesli-bars-fruit-snacks`
+            }
+          }
+          // category Pet
+          if (category === 'Pet') {
+            if (sub.subCategory === 'Birds, Fish & Small Pets') {
+              if (ext.extensionCategory === 'Bird Treats') url = `https://www.coles.com.au/browse/pet/birds/bird-treats`
+              if (ext.extensionCategory === 'Small Pets Food') url = `https://www.coles.com.au/browse/pet/small-pets/small-pets-food`
+            }
+            if (sub.subCategory === 'Cat & Kitten') {
+              if (ext.extensionCategory === 'Dry Cat Food') url = `https://www.coles.com.au/browse/pet/cat-kitten/dry-cat-food`
+              if (ext.extensionCategory === 'Kitten Food') url = `https://www.coles.com.au/browse/pet/cat-kitten/kitten-food-treats-milk`
+            }
+            if (sub.subCategory === 'Dog & Puppy') {
+              if (ext.extensionCategory === 'Puppy Food') url = `https://www.coles.com.au/browse/pet/dog-puppy/puppy-food-treats-milk`
+            }
+          }
+          if (category === 'Poultry, Meat & Seafood') {
+            if (sub.subCategory === 'BBQ Meat & Seafood') {
+              if (ext.extensionCategory === 'Burgers') url = `https://www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/burgers-rissoles`
+              if (ext.extensionCategory === 'Sausages') url = `https://www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/sausages`
+              if (ext.extensionCategory === 'Kebabs') url = `https://www.coles.com.au/browse/meat-seafood/bbq-sausages-burgers/kebabs`
+            }
+            if (sub.subCategory === 'Seafood') {
+              if (ext.extensionCategory === 'Crab & Lobster') url = `https://www.coles.com.au/browse/meat-seafood/seafood/deli-crab-lobster`
+              if (ext.extensionCategory === 'Prepacked Seafood') url = `https://www.coles.com.au/browse/meat-seafood/seafood/prepacked-seafood`
             }
           }
           for (const loc of locations) {
@@ -572,6 +634,12 @@ const scraper = async () => {
                     if (category === 'Pantry') {
                       if (subCategory === 'Breakfast & Spreads') {
                         if (extensionCategory === 'Muesli' || extensionCategory === 'Oats') ext = `Muesli & Oats`
+                      }
+                    }
+                    // category Poultry, Meat & Seafood
+                    if (category === 'Poultry, Meat & Seafood') {
+                      if (subCategory === 'BBQ Meat & Seafood') {
+                        if (extensionCategory === 'Burgers' || extensionCategory === 'Sausages') ext = `Burgers & Sausages`
                       }
                     }
 

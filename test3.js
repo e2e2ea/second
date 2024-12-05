@@ -41,20 +41,21 @@ const ProductSchema = new mongoose.Schema(
 const Product = mongoose.model('Product', ProductSchema);
 function cleanProductName(name) {
     // Remove special characters like | and trim extra spaces
-    return name.replace(/[^a-zA-Z0-9\s]/g, '')      // Remove non-alphanumeric characters
+    return name.replace(/\b(?:coles|woolworths|bakery)\b/gi, '')
+        .replace(/[^a-zA-Z0-9\s]/g, '')      // Remove non-alphanumeric characters
         .replace(/\s+/g, ' ')              // Replace multiple spaces with a single space
         .trim();
 }
 // const jsonArrays = ['Baby--BabyToys&Playtime132-products.json']
-const jsonArrays = ['Drinks-Coffee-CoffeBeans-140products.json']
+const jsonArrays = ['Dairy, Eggs & Fridge-FreshPasta&Sauces-FreshPasta&Noodles.json']
 const getData = async () => {
     let productsMatched = []
     await dbConnect();
     for (const jsonArray of jsonArrays) {
-        const jsonData = JSON.parse(fs.readFileSync(`example/${jsonArray}`, 'utf8'));
+        const jsonData = JSON.parse(fs.readFileSync(`woolworths/${jsonArray}`, 'utf8'));
         for (const data of jsonData) {
             let name1 = data.name;
-            const products = await Product.find();
+            const products = await Product.find({ category: 'Dairy, Eggs & Fridge', subCategory: 'Fresh Pasta & Sauces' });
             const filteredProducts = products.filter((p) => {
                 const nam1 = cleanProductName(p.name)
                 const nam2 = cleanProductName(name1)
@@ -85,9 +86,24 @@ const getData = async () => {
                 productsMatched.push(formattedProduct2)
             }
         }
-        fs.writeFileSync('MatchProducts.json', JSON.stringify(productsMatched, null, 2), 'utf8');
-        console.log('Products found In Coles', productsMatched)
+        try {
+            const baseFolder = './matched';
+            const folderPath = path.join(baseFolder, `Dairy, Eggs & Fridge`);
+            const fileName = `Dairy, Eggs & Fridge - Fresh Pasta & Sauces - Fresh Pasta & Noodles.json`;
+            const filePath = path.join(folderPath, fileName);
+            if (!fs.existsSync(folderPath)) {
+                fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist
+                console.log(`Created folder: ${folderPath}`);
+            }
+            fs.writeFileSync(filePath, JSON.stringify(productsMatched, null, 2)); // Pretty print with 2 spaces
+            console.log(`Data saved to ${filePath}`);
+        } catch (error) {
+            console.error('Error writing data to file:', error);
+        }
         return
+        // fs.writeFileSync('MatchProducts.json', JSON.stringify(productsMatched, null, 2), 'utf8');
+        // console.log('Products found In Coles', productsMatched)
+        // return
     }
 }
 
