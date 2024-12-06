@@ -48,7 +48,7 @@ function cleanProductName(name) {
         .trim();
 }
 // const jsonArrays = ['Baby--BabyToys&Playtime132-products.json']
-const jsonArrays = ['Dairy,Eggs&Fridge-Milk-LongLifeMilk.json']
+const jsonArrays = ['Deli & Chilled Meals-Deli Specialties-Antipasto.json']
 const getData = async () => {
     let productsMatched = []
     await dbConnect();
@@ -56,14 +56,22 @@ const getData = async () => {
         const jsonData = JSON.parse(fs.readFileSync(`woolworths/${jsonArray}`, 'utf8'));
         for (const data of jsonData) {
             let name1 = data.name;
-            const products = await Product.find({ category: 'Dairy, Eggs & Fridge', subCategory: 'Milk' });
+            const products = await Product.find({ category: 'Deli & Chilled Meats', subCategory: 'Deli Meats' });
+            // const filteredProducts = products.filter((p) => {
+            //     const nam1 = cleanProductName(p.name)
+            //     const nam2 = cleanProductName(name1)
+            //     if (nam1.toLowerCase() === nam2.toLowerCase()) {
+            //         return p
+            //     }
+            // })
             const filteredProducts = products.filter((p) => {
-                const nam1 = cleanProductName(p.name)
-                const nam2 = cleanProductName(name1)
-                if (nam1.toLowerCase() === nam2.toLowerCase()) {
-                    return p
+                if (p.barcode && data.barcode) {
+                    if (p.barcode.toString() === data.barcode.toString()) {
+                        return p
+                    }
                 }
             })
+            console.log('filteredProducts', filteredProducts)
             if (filteredProducts && filteredProducts.length > 0) {
                 const formattedProduct1 = {
                     source_url: filteredProducts[0].source_url || null,
@@ -89,8 +97,8 @@ const getData = async () => {
         }
         try {
             const baseFolder = './matched';
-            const folderPath = path.join(baseFolder, `Dairy, Eggs & Fridge`);
-            const fileName = `Dairy, Eggs & Fridge - Milk - Long Life Milk.json`;
+            const folderPath = path.join(baseFolder, `Deli & Chilled Meats`);
+            const fileName = `Deli & Chilled Meats - Deli Meats - Antipasto.json`;
             const filePath = path.join(folderPath, fileName);
             if (!fs.existsSync(folderPath)) {
                 fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist

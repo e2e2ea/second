@@ -55,14 +55,17 @@ const getData = async () => {
         const jsonData = JSON.parse(fs.readFileSync(`woolworths/${jsonArray}`, 'utf8'));
         for (const data of jsonData) {
             let name1 = data.name;
-            const products = await Product.find({ category: 'Dairy, Eggs & Fridge', subCategory: 'Milk' });
-            const filteredProducts = products.filter((p) => {
-                const nam1 = cleanProductName(p.name)
-                const nam2 = cleanProductName(name1)
-                if (nam1.toLowerCase() === nam2.toLowerCase()) {
-                    return p
-                }
-            })
+            const products = await Product.find({ category: 'Deli & Chilled Meats', subCategory: 'Deli Meats' });
+            // const filteredProducts = products.filter((p) => {
+            //     const nam1 = cleanProductName(p.name)
+            //     const nam2 = cleanProductName(name1)
+            //     if (nam1.toLowerCase() === nam2.toLowerCase()) {
+            //         return p
+            //     }
+            // })
+
+            const filteredProducts = products.filter((p) => p.barcode.toString() === data.barcode.toString())
+            console.log('filteredProducts', filteredProducts)
             if (filteredProducts && filteredProducts.length > 0) {
                 const formattedProduct1 = {
                     source_url: filteredProducts[0].source_url || null,
@@ -86,10 +89,10 @@ const getData = async () => {
                 productsMatched.push(formattedProduct2)
             }
         }
-       
-        // fs.writeFileSync('MatchProducts.json', JSON.stringify(productsMatched, null, 2), 'utf8');
-        // console.log('Products found In Coles', productsMatched)
-        // return
+
+        fs.writeFileSync('MatchProducts123.json', JSON.stringify(productsMatched, null, 2), 'utf8');
+        console.log('Products found', productsMatched)
+        return
     }
 }
 

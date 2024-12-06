@@ -7,8 +7,8 @@ const CATEGORIES = [
     //   { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
     //   { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
     //   { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-    //   { id: '1_3151F6F', name: 'Deli & Chilled Meals', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' },
-    { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
+    { id: '1_3151F6F', name: 'Deli & Chilled Meals', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' },
+    // { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
     //   { id: '1_9E92C35', name: 'Lunch Box', url: '/shop/browse/lunch-box', location: '/shop/browse/lunch-box' },
     //   { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' },
     //   { id: '1_F229FBE', name: 'International Foods', url: '/shop/browse/international-foods', location: '/shop/browse/international-foods' },
@@ -95,7 +95,7 @@ class WoolworthsScraper {
         };
 
         const res = await this.callFetch(page, body);
-        console.log('First category response:', res);
+        // console.log('First category response:', res);
 
         const numProducts = res.TotalRecordCount || 0;
         const numPages = Math.ceil(numProducts / 24);
@@ -124,6 +124,7 @@ class WoolworthsScraper {
 
         const products = res.Bundles.map((bundle) => {
             const product = bundle.Products[0];
+            console.log('product1:', product)
             return {
                 name: product.DisplayName,
                 price: product.Price || product.InstorePrice,
@@ -164,8 +165,8 @@ export default WoolworthsScraper;
 // Usage Example:
 (async () => {
     const scraper = new WoolworthsScraper();
-
     const products = await scraper.scrapeAllCategories();
+
     try {
         console.log('Products:', products);
         console.log('Number of products:', products.length);
