@@ -16,6 +16,7 @@ const dbConnect = async () => {
 const ProductSchema = new mongoose.Schema(
     {
         source_url: { type: String, default: 'N/A' },
+        coles_product_id: { type: String },
         category: { type: String },
         subCategory: { type: String },
         extensionCategory: { type: String },
@@ -48,18 +49,19 @@ function cleanProductName(name) {
 const getData = async () => {
     let productsMatched = []
     await dbConnect();
-    const product = await Product.find({ barcode: '8075852' })
-    console.log('pqwe', product)
-    // const products = await Product.find({ category: 'Poultry, Meat & Seafood', subCategory: 'BBQ Meat & Seafood', extensionCategory: 'Muesli & Oats' });
 
-    // // Update the extensionCategory of each product
-    // const updatePromises = products.map((product) => {
-    //     product.extensionCategory = 'Burgers & Sausages';
-    //     return product.save(); // Save the updated product back to the database
-    // });
+    const products = await Product.find();
 
-    // // Wait for all updates to complete
-    // await Promise.all(updatePromises);
+    // Update the extensionCategory of each product
+    const updatePromises = products.map((product) => {
+        // product.coles_product_id = product.barcode
+        product.barcode = '';
+        return product.save(); // Save the updated product back to the database
+    });
+
+    // Wait for all updates to complete
+    await Promise.all(updatePromises);
+    console.log('All products updated', products[0]);
 }
 
 (async () => {

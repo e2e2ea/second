@@ -2,7 +2,6 @@ import categories from './constant/categories.js'
 import mongoose from 'mongoose';
 import fs from 'fs';
 import path from 'path';
-
 const dbConnect = async () => {
     try {
         const conn = await mongoose.connect('mongodb://127.0.0.1/scrape');
@@ -13,9 +12,19 @@ const dbConnect = async () => {
     }
 };
 
+const BarcodeSchema = new mongoose.Schema(
+    {
+        barcode: { type: String },
+    },
+    { timestamps: true }
+);
+
+const Barcode = mongoose.model('Barcode', BarcodeSchema);
+
 const ProductSchema = new mongoose.Schema(
     {
         source_url: { type: String, default: 'N/A' },
+        coles_product_id: { type: String },
         category: { type: String },
         subCategory: { type: String },
         extensionCategory: { type: String },
@@ -47,7 +56,7 @@ function cleanProductName(name) {
         .trim();
 }
 // const jsonArrays = ['Baby--BabyToys&Playtime132-products.json']
-const jsonArrays = ['Dairy,Eggs&Fridge-Milk-LongLifeMilk.json']
+const jsonArrays = ['Bakery-InStoreBakery-Bread.json']
 const getData = async () => {
     let productsMatched = []
     await dbConnect();
@@ -55,7 +64,7 @@ const getData = async () => {
         const jsonData = JSON.parse(fs.readFileSync(`woolworths/${jsonArray}`, 'utf8'));
         for (const data of jsonData) {
             let name1 = data.name;
-            const products = await Product.find({ category: 'Dairy, Eggs & Fridge', subCategory: 'Milk' });
+            const products = await Product.find({ category: 'Bakery', subCategory: 'In-Store Bakery' });
             const filteredProducts = products.filter((p) => {
                 const nam1 = cleanProductName(p.name)
                 const nam2 = cleanProductName(name1)
@@ -77,19 +86,39 @@ const getData = async () => {
                     source_url: data.source_url || null,
                     name: data.name || null,
                     image_url: data.image_url || null,
-                    barcode: data.barcode || null,
+                    barcode: data.barcode || '',
                     shop: data.shop || null,
                     weight: data.weight || null,
                     prices: { ...data.prices },
                 };
+                let a
+                a = await Barcode.findOne({ barcode: `${filteredProducts[0].coles_product_id}-${data.barcode}` })
+                if (!a) a = await Barcode.create({ barcode: `${filteredProducts[0].coles_product_id}-${data.barcode}` })
+                formattedProduct1.barcode = `${filteredProducts[0].coles_product_id}-${data.barcode}`
+                formattedProduct2.barcode = `${filteredProducts[0].coles_product_id}-${data.barcode}`
                 productsMatched.push(formattedProduct1)
                 productsMatched.push(formattedProduct2)
             }
         }
-       
-        // fs.writeFileSync('MatchProducts.json', JSON.stringify(productsMatched, null, 2), 'utf8');
-        // console.log('Products found In Coles', productsMatched)
+        console.log('saved')
+        // try {
+        //     const baseFolder = './matched';
+        //     const folderPath = path.join(baseFolder, `Bakery`);
+        //     const fileName = `Bakery - InStoreBakery - Bread Rolls.json`;
+        //     const filePath = path.join(folderPath, fileName);
+        //     if (!fs.existsSync(folderPath)) {
+        //         fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist
+        //         console.log(`Created folder: ${folderPath}`);
+        //     }
+        //     fs.writeFileSync(filePath, JSON.stringify(productsMatched, null, 2)); // Pretty print with 2 spaces
+        //     console.log(`Data saved to ${filePath}`);
+        // } catch (error) {
+        //     console.error('Error writing data to file:', error);
+        // }
         // return
+        fs.writeFileSync('MatchProductsAndCreateUniqueBarcode.json', JSON.stringify(productsMatched, null, 2), 'utf8');
+        console.log('Products found In Coles', productsMatched)
+        return
     }
 }
 

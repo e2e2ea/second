@@ -24,6 +24,7 @@ const dbConnect = async () => {
 const ProductSchema = new mongoose.Schema(
   {
     source_url: { type: String, default: 'N/A' },
+    coles_product_id: { type: String },
     category: { type: String },
     subCategory: { type: String },
     extensionCategory: { type: String },
@@ -532,7 +533,7 @@ const scraper = async () => {
                     const href = product.querySelector('.product__image_area a')?.href || 'N/A';
 
                     let weight = 'N/A';
-                    let barcode = 'N/A';
+                    let coles_product_id = 'N/A';
                     let unit = null;
 
                     if (href !== 'N/A') {
@@ -547,7 +548,7 @@ const scraper = async () => {
                         unit = potentialWeight;
                       }
 
-                      barcode = parts.length > 0 ? parts[parts.length - 1] : 'N/A';
+                      coles_product_id = parts.length > 0 ? parts[parts.length - 1] : 'N/A';
                     }
 
                     // Extract and convert price to cents
@@ -650,7 +651,8 @@ const scraper = async () => {
                       extensionCategory: ext,
                       name: product.querySelector('.product__title')?.textContent.trim() || 'N/A',
                       image_url: product.querySelector('img[data-testid="product-image"]')?.src || 'N/A',
-                      barcode: barcode,
+                      coles_product_id: coles_product_id,
+                      barcode: '',
                       shop: 'coles',
                       weight: weight,
                       prices: {
@@ -674,7 +676,7 @@ const scraper = async () => {
 
               if (productData.length > 0) {
                 for (const data of productData) {
-                  const q = await Product.findOne({ barcode: data.barcode })
+                  const q = await Product.findOne({ coles_product_id: data.coles_product_id })
                   if (!q) {
                     // console.log('Product not found. Creating new product:', { ...data });
                     const createdProduct = await Product.create({ ...data });
