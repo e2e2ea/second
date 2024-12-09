@@ -33,30 +33,30 @@ const categories = [
     //         },
     //     ]
     // },
-    // {
-    //     category: "Bakery",
-    //     subCategories: [
-    //         /**
-    //          * @commented because its done
-    //          */
-    //         {
-    //             subCategory: "In-Store Bakery",
-    //             childItems: [
-    //                 { extensionCategory: "Bread Rolls" },
-    //                 // Note: the extensionCategory must be "Donuts & Cookies"
-    //                 // { extensionCategory: "Donuts & Cookies" },
-    //                 { extensionCategory: "Donuts" },
-    //                 { extensionCategory: "Cookies" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Packaged Bread & Bakery",
-    //             childItems: [
-    //                 { extensionCategory: "Packaged Bread" },
-    //             ]
-    //         },
-    //     ]
-    // },
+    {
+        category: "Bakery",
+        subCategories: [
+            /**
+             * @commented because its done
+             */
+            {
+                subCategory: "In-Store Bakery",
+                childItems: [
+                    { extensionCategory: "Bread Rolls" },
+                    // Note: the extensionCategory must be "Donuts & Cookies"
+                    { extensionCategory: "Donuts & Cookies" },
+                    // { extensionCategory: "Donuts" },
+                    // { extensionCategory: "Cookies" },
+                ]
+            },
+            {
+                subCategory: "Packaged Bread & Bakery",
+                childItems: [
+                    { extensionCategory: "Packaged Bread" },
+                ]
+            },
+        ]
+    },
     /**
      * @commented Done
      */
@@ -675,31 +675,31 @@ const categories = [
     //         },
     //     ]
     // },
-    {
-        category: "Poultry, Meat & Seafood",
-        subCategories: [
+    // {
+    //     category: "Poultry, Meat & Seafood",
+    //     subCategories: [
             
-            /**
-             * @commented because its done
-             */
-            // {
-            //     subCategory: "BBQ Meat & Seafood",
-            //     childItems: [
-            //         // 2 "Burgers & Sausages"
-            //         { extensionCategory: "Burgers & Sausages" }, // done
-            //         { extensionCategory: "Sausages" }, // done
-            //         { extensionCategory: "Kebabs" }, // done
-            //     ]
-            // },
-            {
-                subCategory: "Seafood",
-                childItems: [
-                    { extensionCategory: "Crab & Lobster" }, // done
-                    { extensionCategory: "Prepacked Seafood" }, // 
-                ]
-            },
-        ]
-    },
+    //         /**
+    //          * @commented because its done
+    //          */
+    //         // {
+    //         //     subCategory: "BBQ Meat & Seafood",
+    //         //     childItems: [
+    //         //         // 2 "Burgers & Sausages"
+    //         //         { extensionCategory: "Burgers & Sausages" }, // done
+    //         //         { extensionCategory: "Sausages" }, // done
+    //         //         { extensionCategory: "Kebabs" }, // done
+    //         //     ]
+    //         // },
+    //         {
+    //             subCategory: "Seafood",
+    //             childItems: [
+    //                 { extensionCategory: "Crab & Lobster" }, // done
+    //                 { extensionCategory: "Prepacked Seafood" }, // 
+    //             ]
+    //         },
+    //     ]
+    // },
 ];
 
 export default categories;

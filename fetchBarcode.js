@@ -60,22 +60,22 @@ axiosRetry(axiosInstance, {
 const getBarcode = async () => {
     try {
         await dbConnect();
-        const products = await Product.find({ category: 'Deli & Chilled Meats', subCategory: 'Deli Meats', extensionCategory: 'Antipasto' })
+        const products = await Product.find()
         console.log('p', products)
 
-        // let i = 1
-        // for (const product of products) {
-        //     // await delay(5000)
-        //     try {
-        //         const { data } = await axiosInstance.get(`https://barcodes.groceryscraper.mc.hzuccon.com/barcode?product=${product.coles_product_id}`)
-        //         console.log(`data${i}`, `${data}-${product.name}`)
-        //         product.barcode = data
-        //         await product.save()
-        //     } catch (error) {
-        //         console.log('no product found', 'skip')
-        //     }
-        //     i++
-        // }
+        let i = 1
+        for (const product of products) {
+            // await delay(5000)
+            try {
+                const { data } = await axiosInstance.get(`https://barcodes.groceryscraper.mc.hzuccon.com/barcode?product=${product.coles_product_id}`)
+                console.log(`data${i}`, `${data}-${product.name}`)
+                product.barcode = data
+                await product.save()
+            } catch (error) {
+                console.log('no product found', 'skip')
+            }
+            i++
+        }
         return
     } catch (err) {
         console.error('Error Details:', {

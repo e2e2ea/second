@@ -1,7 +1,7 @@
 import fs from 'fs';
 
-const filePath = './woolworths/Deli & Chilled Meals-Deli Specialties-Antipasto.json';
-const filePath2 = 'productsWoolWorths-deli.json';
+const filePath = './woolworths/Dairy,Eggs&Fridge-ReadytoEatMeals-ChilledPizza&Bread.json';
+const filePath2 = 'productsWoolWorths.json';
 
 try {
     // Step 1: Read the JSON file
@@ -12,9 +12,14 @@ try {
     const products = JSON.parse(data);
     const products2 = JSON.parse(data2);
     // Example: Update the name of the first product (adjust field names as necessary)
+    console.log(products.length)
     for (const product of products) {
+        
+        // product.woolworths_product_id = product.barcode
+        // product.barcode = ''
+        
         const matched = products2.find((prod) => prod.retailer_product_id.toString() === product.woolworths_product_id.toString());
-        console.log('matched', matched)
+        // console.log('matched', matched.name)
         // If a match is found, update the barcode
         if (matched) {
             product.barcode = matched.barcode;

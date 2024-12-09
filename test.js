@@ -70,7 +70,7 @@ const getData = async () => {
 
           return formattedProduct;
         });
-        const baseFolder = './JSON';
+        const baseFolder = './colesJSON';
         const folderPath = path.join(baseFolder, category);
 
         // Ensure the folder exists
