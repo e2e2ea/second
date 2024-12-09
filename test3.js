@@ -48,14 +48,15 @@ function cleanProductName(name) {
         .trim();
 }
 // const jsonArrays = ['Baby--BabyToys&Playtime132-products.json']
-const jsonArrays = ['Deli & Chilled Meals-Ready to Eat Meals-Chilled Quiches & Pies.json']
+const jsonArrays = ['Drinks-Coffee-Coffee Capsules.json']
 const getData = async () => {
     let productsMatched = []
     await dbConnect();
     for (const jsonArray of jsonArrays) {
         const jsonData = JSON.parse(fs.readFileSync(`woolworths/${jsonArray}`, 'utf8'));
         for (const data of jsonData) {
-            const products = await Product.find({ category: 'Deli & Chilled Meats', subCategory: 'Ready to Eat Meals' });
+            const products = await Product.find({ category: 'Drinks', subCategory: 'Coffee' });
+            console.log(products.length)
             console.log(products.length)
             const filteredProducts = products.filter((p) => {
                 if (p.barcode && data.barcode) {
@@ -92,8 +93,8 @@ const getData = async () => {
         }
         try {
             const baseFolder = './matched';
-            const folderPath = path.join(baseFolder, `Deli & Chilled Meats`);
-            const fileName = `Deli & Chilled Meats -  Ready to Eat Meals - Chilled Quiches & Pies.json`;
+            const folderPath = path.join(baseFolder, `Drinks`);
+            const fileName = `Drinks - Coffee - Coffee Capsules.json`;
             const filePath = path.join(folderPath, fileName);
             if (!fs.existsSync(folderPath)) {
                 fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist

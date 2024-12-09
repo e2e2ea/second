@@ -1,6 +1,7 @@
 import puppeteer from 'puppeteer';
 import RateLimiter from './RateLimit/index.js';
 import fs from 'fs';
+import safeNavigate from './controllers/helpers/coles/safeNavigate.js';
 
 const WOOLWORTHS_API_ENDPOINT = 'https://www.woolworths.com.au/apis/ui/browse/category';
 const CATEGORIES = [
@@ -8,13 +9,13 @@ const CATEGORIES = [
     //   { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
     //   { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
     // { id: '1_3151F6F', name: 'Deli & Chilled Meals', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' },
-    // { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
+    { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
     //   { id: '1_9E92C35', name: 'Lunch Box', url: '/shop/browse/lunch-box', location: '/shop/browse/lunch-box' },
     //   { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' },
     //   { id: '1_F229FBE', name: 'International Foods', url: '/shop/browse/international-foods', location: '/shop/browse/international-foods' },
     //   { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
     //   { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
-      { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
+    //   { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
     //   { id: '1_8E4DA6F', name: 'Beer, Wine & Spirits', url: '/shop/browse/beer-wine-spirits', location: '/shop/browse/beer-wine-spirits' },
     //   { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' },
     //   { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' },
@@ -28,7 +29,9 @@ const CATEGORIES = [
 
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
 const SPEED_LIMIT = 20;
-
+function delay(time) {
+    return new Promise((resolve) => setTimeout(resolve, time));
+}
 class WoolworthsScraper {
     constructor() {
         this.name = 'Woolworths';
@@ -38,10 +41,29 @@ class WoolworthsScraper {
     async scrapeAllCategories() {
         const userAgent =
             'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36';
-        const browser = await puppeteer.launch({ headless: true });
+        const browser = await puppeteer.launch({ headless: false, args: ['--disable-http2'], ignoreHTTPSErrors: true, defaultViewport: null, });
         const page = await browser.newPage();
         await page.setUserAgent(userAgent);
+        await page.setExtraHTTPHeaders({
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Upgrade-Insecure-Requests': '1',
+            'Cache-Control': 'no-cache',
+            'Pragma': 'no-cache'
+        });
 
+        try {
+
+            // await page.goto(WOOLWORTHS_URL, {timeout: 400000});
+            await safeNavigate(page, WOOLWORTHS_URL);
+            await delay(400000)
+            console.log('1st time end')
+            await delay(400000)
+
+        } catch (err) {
+            console.log('Failed to load page: ', err);
+            await browser.close();
+            return [];
+        }
         const htmlOnly = async (page) => {
             await page.setRequestInterception(true);
             page.on('request', (req) => {
@@ -52,15 +74,6 @@ class WoolworthsScraper {
             });
         };
         await htmlOnly(page);
-
-        try {
-            await page.goto(WOOLWORTHS_URL);
-        } catch (err) {
-            console.log('Failed to load page: ', err);
-            await browser.close();
-            return [];
-        }
-
         await page.setBypassCSP(true);
 
         const category = CATEGORIES[0];
