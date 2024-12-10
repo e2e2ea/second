@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer';
-import RateLimiter from '../RateLimit/index.js';
+import RateLimiter from './RateLimit/index.js';
 import fs from 'fs';
 
 const WOOLWORTHS_API_ENDPOINT = 'https://www.woolworths.com.au/apis/ui/browse/category';
@@ -13,8 +13,8 @@ const CATEGORIES = [
     //   { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' },
     //   { id: '1_F229FBE', name: 'International Foods', url: '/shop/browse/international-foods', location: '/shop/browse/international-foods' },
     //   { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
-    //   { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
-      { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
+      { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
+    //   { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
     //   { id: '1_8E4DA6F', name: 'Beer, Wine & Spirits', url: '/shop/browse/beer-wine-spirits', location: '/shop/browse/beer-wine-spirits' },
     //   { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' },
     //   { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' },
@@ -171,7 +171,7 @@ export default WoolworthsScraper;
         console.log('Products:', products);
         console.log('Number of products:', products.length);
         // Save products to a JSON file
-        const filePath = 'productsWoolWorths.json';
+        const filePath = 'productsWoolWorths - Freezer.json';
         fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
 
         console.log(`Scraping completed. ${products.length} products saved to ${filePath}`);
