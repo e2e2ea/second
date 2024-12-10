@@ -48,7 +48,7 @@ function cleanProductName(name) {
         .trim();
 }
 // const jsonArrays = ['Baby--BabyToys&Playtime132-products.json']
-const jsonArrays = ['Drinks-Cordials, Juices & Iced Teas-Chilled Juices.json']
+const jsonArrays = ['Drinks-Cordials, Juices & Iced Teas-Iced Teas.json']
 const getData = async () => {
     let productsMatched = []
     await dbConnect();
@@ -94,7 +94,7 @@ const getData = async () => {
         try {
             const baseFolder = './matched';
             const folderPath = path.join(baseFolder, `Drinks`);
-            const fileName = `Drinks - Cordials, Juices & Iced Teas - Chilled Juices.json`;
+            const fileName = `Drinks - Cordials, Juices & Iced Teas - Iced Teas.json`;
             const filePath = path.join(folderPath, fileName);
             if (!fs.existsSync(folderPath)) {
                 fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist
