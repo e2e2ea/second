@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const filePath = './woolworths/Drinks-Sports and Energy Drinks-Sports Drinks.json';
+const filePath = './woolworths/Drinks-Tea-Herbal & Specialty Tea.json';
 const filePath2 = './woolworths/withBarcodes/productsWoolWorths-Drinks.json';
 
 try {
