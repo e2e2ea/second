@@ -1,4 +1,4 @@
-import categories from './constant/categories.js'
+import categories from '../constant/categories.js'
 const meme = () => {
     for (const loc of locations) {
         meme2(loc)

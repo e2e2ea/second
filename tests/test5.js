@@ -1,4 +1,4 @@
-import categories from './constant/categories.js'
+import categories from '../constant/categories.js'
 import mongoose from 'mongoose';
 import fs from 'fs';
 import path from 'path';
