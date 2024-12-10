@@ -60,7 +60,7 @@ const getBarcode = async () => {
     try {
         await dbConnect();
         const products = await Product.find()
-        console.log('p', products.length)
+        console.log('products length:', products.length)
 
         let i = 1
         for (const product of products) {
