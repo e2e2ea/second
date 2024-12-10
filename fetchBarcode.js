@@ -50,9 +50,8 @@ function delay(time) {
 
 axiosRetry(axiosInstance, {
     retries: 15, // Number of retries
-    retryDelay: (retryCount) => retryCount * 3000, // Exponential backoff: retry after 1s, 2s, 3s...
+    retryDelay: (retryCount) => retryCount * 3000,
     retryCondition: (error) => {
-        // Retry only if the error is a network error or timeout
         return axiosRetry.isNetworkOrIdempotentRequestError(error);
     },
 });
@@ -61,7 +60,7 @@ const getBarcode = async () => {
     try {
         await dbConnect();
         const products = await Product.find()
-        console.log('p', products)
+        console.log('p', products.length)
 
         let i = 1
         for (const product of products) {
@@ -70,7 +69,7 @@ const getBarcode = async () => {
                 const { data } = await axiosInstance.get(`https://barcodes.groceryscraper.mc.hzuccon.com/barcode?product=${product.coles_product_id}`)
                 console.log(`data${i}`, `${data}-${product.name}`)
                 product.barcode = data
-                await product.save()
+                // await product.save()
             } catch (error) {
                 console.log('no product found', 'skip')
             }
