@@ -1,7 +1,7 @@
 import fs from 'fs';
 
-const filePath = './woolworths/Drinks-Tea-Herbal & Specialty Tea.json';
-const filePath2 = './woolworths/withBarcodes/productsWoolWorths-Drinks.json';
+const filePath = './woolworths/Freezer-Frozen Desserts-Dessert Pies & Pastries.json';
+const filePath2 = './woolworths/withBarcodes/productsWoolWorths - Freezer.json';
 
 try {
     // Step 1: Read the JSON file
