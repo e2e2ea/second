@@ -52,10 +52,13 @@ const Product = mongoose.model('Product', ProductSchema);
 
 const WOOLWORTHS_API_ENDPOINT = 'https://www.woolworths.com.au/apis/ui/browse/category';
 const CATEGORIES = [
-  { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
-  { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
-  { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // only nsw
+  // { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' }, // done
+  // { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' }, // done
+  // { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' }, // done
+  // { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // only done in vic
+  // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // only done in nsw
+  // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // not yet process
+  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // only done in nsw
 ];
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
 const SPEED_LIMIT = 20;
@@ -150,7 +153,7 @@ function delay(time) {
     // Save products to a JSON file
     // const filePath = 'productsWoolWorths - frez.json';
     // fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
-    await delay(30000)
+    // await delay(5000)
   }
   // await browser2.close();
 })();
@@ -195,7 +198,7 @@ const scrapeCategory = async (page, category) => {
     body.url = `${category.url}?pageNumber=${i}`;
     const products = await scrapeURL(page, body);
     productRes.push(...products);
-    await delay(5000)
+    // await delay(2000)
   }
 
   return productRes;
@@ -215,10 +218,10 @@ const scrapeURL = async (page, request) => {
     // console.log('product1:', product)
     // const location = 'nsw'
     // const location = 'vic'
-    // const location = 'qld'
+    const location = 'qld'
     // const location = 'wa'
     // const location = 'sa'
-    const location = 'tas'
+    // const location = 'tas'
 
     const inputString = product.CupMeasure;
 

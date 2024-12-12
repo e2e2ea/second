@@ -1,4 +1,4 @@
-import categories from './constant/copy.js'
+import categories from './constant/example.js'
 import mongoose from 'mongoose';
 import fs from 'fs';
 import path from 'path';
@@ -61,23 +61,28 @@ const getData = async () => {
                         productSubCategories: product.subCategory.flatMap((sub) => JSON.parse(sub)),
                         productExtensionSubCategories: product.extensionCategory.flatMap((ext) => JSON.parse(ext)),
                     };
-
+                    let mySubCategory
+                    mySubCategory = category
+                    if (category === 'Poultry, Meat & Seafood' && subCategory === 'BBQ Meat & Seafood') mySubCategory = 'BBQ Meat'
                     // First, check if category matches
                     const hasCategory = parsedFields.productCategories.some(
                         (cat) => cat.toLowerCase() === category.toLowerCase()
                     );
-
+                    
                     // If no matching category, skip this product
                     if (!hasCategory) return false;
-
+                    
                     // Next, filter by subCategory only for matching categories
                     const hasSubCategory = parsedFields.productSubCategories.some(
-                        (sub) => sub.toLowerCase() === subCategory.toLowerCase()
+                        (sub) => sub.toLowerCase() === mySubCategory.toLowerCase()
                     );
-
+                    
                     // If no matching subCategory, skip this product
                     if (!hasSubCategory) return false;
-
+                    
+                    let mySubCategoryExtension
+                    mySubCategoryExtension = category
+                    if (category === 'Poultry, Meat & Seafood' && subCategory === 'Seafood' && extensionCategory === 'Fish') mySubCategory = 'Salmon & Other Fish'
                     // Lastly, filter by extensionCategory for matching subCategories
                     const hasExtensionSubCategories = parsedFields.productExtensionSubCategories.some(
                         (ext) => ext.toLowerCase() === extensionCategory.toLowerCase()

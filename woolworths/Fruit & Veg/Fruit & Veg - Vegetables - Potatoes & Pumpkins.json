@@ -12,8 +12,8 @@
       "nsw_unit": "EA",
       "vic": "330",
       "qld": "330",
-      "wa": "NaN",
-      "sa": "NaN",
+      "wa": "",
+      "sa": "",
       "tas": "330"
     }
   },
@@ -42,12 +42,12 @@
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
+      "nsw": "",
+      "nsw_price_per_unit": "",
       "nsw_unit": "KG",
-      "vic": "NaN",
+      "vic": "",
       "qld": "500",
-      "tas": "NaN"
+      "tas": ""
     }
   },
   {
@@ -58,14 +58,14 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
+      "nsw": "",
+      "nsw_price_per_unit": "",
       "nsw_unit": "EA",
-      "vic": "NaN",
+      "vic": "",
       "qld": "581",
-      "wa": "NaN",
+      "wa": "",
       "sa": "581",
-      "tas": "NaN"
+      "tas": ""
     }
   },
   {
@@ -79,7 +79,7 @@
       "nsw": "500",
       "nsw_price_per_unit": "500",
       "nsw_unit": "KG",
-      "vic": "NaN"
+      "vic": ""
     }
   },
   {
@@ -108,13 +108,13 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
+      "nsw": "",
+      "nsw_price_per_unit": "",
       "nsw_unit": "EA",
-      "vic": "NaN",
+      "vic": "",
       "qld": "84",
-      "wa": "NaN",
-      "sa": "NaN"
+      "wa": "",
+      "sa": ""
     }
   },
   {
@@ -142,8 +142,8 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
+      "nsw": "",
+      "nsw_price_per_unit": "",
       "nsw_unit": "EA"
     }
   },
@@ -155,13 +155,13 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
+      "nsw": "",
+      "nsw_price_per_unit": "",
       "nsw_unit": "EA",
-      "vic": "NaN",
-      "qld": "NaN",
-      "wa": "NaN",
-      "sa": "NaN"
+      "vic": "",
+      "qld": "",
+      "wa": "",
+      "sa": ""
     }
   },
   {
@@ -225,11 +225,11 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
+      "nsw": "",
+      "nsw_price_per_unit": "",
       "nsw_unit": "EA",
-      "vic": "NaN",
-      "qld": "NaN",
+      "vic": "",
+      "qld": "",
       "wa": "1470",
       "sa": "1470",
       "tas": "1470"
@@ -268,7 +268,7 @@
       "qld": "600",
       "wa": "600",
       "sa": "600",
-      "tas": "NaN"
+      "tas": ""
     }
   },
   {
@@ -282,7 +282,7 @@
       "nsw": "221",
       "nsw_price_per_unit": "221",
       "nsw_unit": "EA",
-      "vic": "NaN",
+      "vic": "",
       "qld": "221",
       "wa": "221",
       "sa": "221",
@@ -354,7 +354,7 @@
       "nsw_price_per_unit": "225",
       "nsw_unit": "KG",
       "qld": "900",
-      "tas": "NaN"
+      "tas": ""
     }
   },
   {
@@ -386,7 +386,7 @@
       "nsw": "500",
       "nsw_price_per_unit": "1250",
       "nsw_unit": "KG",
-      "vic": "NaN",
+      "vic": "",
       "qld": "500",
       "wa": "500"
     }
@@ -422,7 +422,7 @@
       "nsw_unit": "KG",
       "vic": "490.00000000000006",
       "qld": "490.00000000000006",
-      "wa": "NaN",
+      "wa": "",
       "sa": "490.00000000000006",
       "tas": "490.00000000000006"
     }
@@ -452,8 +452,8 @@
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
+      "nsw": "",
+      "nsw_price_per_unit": "",
       "nsw_unit": "KG",
       "vic": "700",
       "qld": "550",
@@ -524,7 +524,7 @@
       "nsw_price_per_unit": "900",
       "nsw_unit": "KG",
       "vic": "270",
-      "wa": "NaN",
+      "wa": "",
       "sa": "270",
       "tas": "270"
     }
@@ -537,10 +537,10 @@
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
+      "nsw": "",
+      "nsw_price_per_unit": "",
       "nsw_unit": "KG",
-      "tas": "NaN"
+      "tas": ""
     }
   },
   {
@@ -554,7 +554,7 @@
       "nsw": "790",
       "nsw_price_per_unit": "395",
       "nsw_unit": "KG",
-      "vic": "NaN",
+      "vic": "",
       "qld": "790",
       "wa": "790",
       "sa": "700",
@@ -604,7 +604,7 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "vic": "NaN"
+      "vic": ""
     }
   },
   {
@@ -615,7 +615,7 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "vic": "NaN"
+      "vic": ""
     }
   },
   {
@@ -626,7 +626,7 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "vic": "NaN"
+      "vic": ""
     }
   },
   {
@@ -637,7 +637,7 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "vic": "NaN",
+      "vic": "",
       "tas": "88"
     }
   },
@@ -661,7 +661,7 @@
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": {
-      "vic": "NaN"
+      "vic": ""
     }
   },
   {
@@ -683,7 +683,7 @@
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": {
-      "vic": "NaN"
+      "vic": ""
     }
   },
   {
@@ -694,7 +694,7 @@
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": {
-      "wa": "NaN",
+      "wa": "",
       "sa": "650"
     }
   },
