@@ -1,66 +1,61 @@
 const categories = [
-    {
-        category: "Freezer",
-        subCategories: [
-            {
-                subCategory: "Ice Cream",
-                childItems: [
-                    { extensionCategory: "Frozen Yoghurt" },
-                    { extensionCategory: "Gelato & Sorbet" },
-                    { extensionCategory: "Ice Cream Sticks & Cones" },
-                    { extensionCategory: "Ice Cream Tubs" },
-                    { extensionCategory: "Premium Ice Cream" },
-                ]
-            },
-        ]
-    },
+    // {
+    //     category: "Freezer",
+    //     subCategories: [
+    //         {
+    //             subCategory: "Ice Cream",
+    //             childItems: [
+    //                 { extensionCategory: "Frozen Yoghurt" },
+    //                 { extensionCategory: "Gelato & Sorbet" },
+    //                 { extensionCategory: "Ice Cream Sticks & Cones" },
+    //                 { extensionCategory: "Ice Cream Tubs" },
+    //                 { extensionCategory: "Premium Ice Cream" },
+    //             ]
+    //         },
+    //     ]
+    // },
     {
         category: "Fruit & Veg",
         subCategories: [
             /**
              * @commented because its done
              */
-            {
-                subCategory: "Fruit",
-                childItems: [
-                    { extensionCategory: "Apples & Pears" },
-                    { extensionCategory: "Bananas" },
-                    { extensionCategory: "Berries & Cherries" },
-                    { extensionCategory: "Grapes" },
-                    { extensionCategory: "Melons & Mangoes" },
-                    { extensionCategory: "Pineapples & Kiwi Fruit" },
-                    { extensionCategory: "Tropical & Exotic Fruit" },
-                ]
-            },
-            {
-                subCategory: "Organic",
-                childItems: [
-                    { extensionCategory: "Organic Fruit" },
-                    { extensionCategory: "Organic Vegetables" },
-                ]
-            },
-            {
-                subCategory: "Salad",
-                childItems: [
-                    { extensionCategory: "Herbs" },
-                    { extensionCategory: "Sprouts" },
-                ]
-            },
+            // {
+            //     subCategory: "Fruit",
+            //     childItems: [
+            //         { extensionCategory: "Apples & Pears" },
+            //         { extensionCategory: "Bananas" },
+            //         { extensionCategory: "Berries & Cherries" },
+            //         { extensionCategory: "Grapes" },
+            //         { extensionCategory: "Melons & Mangoes" },
+            //         { extensionCategory: "Pineapples & Kiwi Fruit" },
+            //         { extensionCategory: "Tropical & Exotic Fruit" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Organic",
+            //     childItems: [
+            //         { extensionCategory: "Organic Fruit" },
+            //         { extensionCategory: "Organic Vegetables" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Salad",
+            //     childItems: [
+            //         { extensionCategory: "Herbs" },
+            //         { extensionCategory: "Sprouts" },
+            //     ]
+            // },
             {
                 subCategory: "Vegetables",
                 childItems: [
-                    { extensionCategory: "Broccoli, Cauliflower & Cabbage" }, // done
+                    // { extensionCategory: "Broccoli, Cauliflower & Cabbage" }, // done
                     { extensionCategory: "Capsicum & Mushrooms" }, // done
                     { extensionCategory: "Onions & Leeks" },// done
-                    { extensionCategory: "Cucumber" },
-                    // // this 2 "Potatoes & Pumpkins"
-                    { extensionCategory: "Potatoes" },
-                    { extensionCategory: "Pumpkins" },
-
-                    { extensionCategory: "Tomatoes" },
-                    // // this 2 "Zucchini, Eggplant & Squash"
-                    { extensionCategory: "Eggplant" }, // done
-                    { extensionCategory: "Zucchini & Squash" }, // done
+                    // { extensionCategory: "Cucumber" },
+                    { extensionCategory: "Potatoes & Pumpkins" },
+                    // { extensionCategory: "Tomatoes" },
+                    { extensionCategory: "Zucchini, Eggplant & Squash" }, // done
                 ]
             },
         ]
