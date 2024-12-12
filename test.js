@@ -3,11 +3,59 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import RateLimiter from './RateLimit/index.js';
 import fs from 'fs';
 import safeNavigate from './controllers/helpers/coles/safeNavigate.js';
+import mongoose from 'mongoose';
+
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
+
+
+const dbConnect = async () => {
+  try {
+    const conn = await mongoose.connect('mongodb://127.0.0.1/wooly');
+    console.log('database connected');
+    return conn;
+  } catch (error) {
+    console.log('database error');
+  }
+};
+
+const ProductSchema = new mongoose.Schema(
+  {
+    source_url: { type: String, default: 'N/A' },
+    retailer_product_id: { type: String },
+    category: [{ type: String }],
+    subCategory: [{ type: String }],
+    extensionCategory: [{ type: String }],
+    name: { type: String, default: 'N/A' },
+    image_url: { type: String, default: 'N/A' },
+    barcode: { type: String, default: 'N/A' },
+    shop: { type: String, default: '' },
+    isNew: { type: Boolean },
+    weight: { type: String, default: 'N/A' },
+    prices: {
+      nsw: { type: String },
+      nsw_price_per_unit: { type: String },
+      nsw_unit: { type: String },
+      vic: { type: String },
+      qld: { type: String },
+      wa: { type: String },
+      sa: { type: String },
+      tas: { type: String },
+    },
+  },
+  { timestamps: true }
+);
+
+const Product = mongoose.model('Product', ProductSchema);
+
+
+
 const WOOLWORTHS_API_ENDPOINT = 'https://www.woolworths.com.au/apis/ui/browse/category';
 const CATEGORIES = [
   { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
+  { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
+  { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
+  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // only nsw
 ];
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
 const SPEED_LIMIT = 20;
@@ -16,6 +64,7 @@ function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
 (async () => {
+  await dbConnect()
   const name = 'Woolworths';
   const rateLimit = new RateLimiter(SPEED_LIMIT, 5);
 
@@ -36,6 +85,7 @@ function delay(time) {
   );
 
   // Navigate to the target website
+
   await page.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
 
   // Optionally wait for a specific element to load
@@ -92,13 +142,16 @@ function delay(time) {
 
   await page2.setBypassCSP(true);
 
-  const category = CATEGORIES[0];
-  const products = await scrapeCategory(page2, category);
-  console.log('Products:', products);
-  console.log('Number of products:', products.length);
-  // Save products to a JSON file
-  const filePath = 'productsWoolWorths - frez.json';
-  fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
+  // const category = CATEGORIES[0];
+  for (const category of CATEGORIES) {
+    const products = await scrapeCategory(page2, category);
+    // console.log('Products:', products);
+    console.log('Number of products:', products.length);
+    // Save products to a JSON file
+    // const filePath = 'productsWoolWorths - frez.json';
+    // fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
+    await delay(30000)
+  }
   // await browser2.close();
 })();
 
@@ -136,11 +189,13 @@ const scrapeCategory = async (page, category) => {
 
   const productRes = [];
   for (let i = 1; i <= numPages; i++) {
+    console.log('on page:', i)
     body.pageNumber = i;
     body.location = `${category.location}?pageNumber=${i}`;
     body.url = `${category.url}?pageNumber=${i}`;
     const products = await scrapeURL(page, body);
     productRes.push(...products);
+    await delay(5000)
   }
 
   return productRes;
@@ -156,36 +211,85 @@ const scrapeURL = async (page, request) => {
 
   const products = res.Bundles.map((bundle) => {
     const product = bundle.Products[0];
-    console.log('product1:', product)
+
+    // console.log('product1:', product)
+    // const location = 'nsw'
+    // const location = 'vic'
+    // const location = 'qld'
+    // const location = 'wa'
+    // const location = 'sa'
+    const location = 'tas'
+
+    const inputString = product.CupMeasure;
+
+    // Extract values
+    const price = parseFloat(product.InstorePrice || product.Price);
+    // const priceOnly = price.replace("$", "");
+    const priceInCents = parseFloat(price) * 100
+    const price2 = parseFloat(product.CupPrice || product.InstoreCupPrice);
+    const priceInCentsPerUnits = parseFloat(price2) * 100
+    // Remove numbers and keep only letters
+    const unit = inputString.replace(/[0-9]/g, "");
     return {
       name: product.DisplayName,
-      price: product.Price || product.InstorePrice,
       discounted_from: product.WasPrice,
-      img_url: product.DetailsImagePaths[0],
-      retailer_name: 'woolworths',
-      retailer_product_url: `https://www.woolworths.com.au/shop/productdetails/${product.Stockcode}/${product.UrlFriendlyName}`,
+      image_url: product.DetailsImagePaths[0],
+      shop: 'Woolworths',
+      source_url: `https://www.woolworths.com.au/shop/productdetails/${product.Stockcode}/${product.UrlFriendlyName}`,
       retailer_product_id: product.Stockcode,
       barcode: product.Barcode,
+      name: product.DisplayName,
+      realName: product.name,
+      isNew: product.IsNew,
+      weight: product.CupMeasure,
+      category: product.AdditionalAttributes.piesdepartmentnamesjson,
+      subCategory: product.AdditionalAttributes.piescategorynamesjson,
+      extensionCategory: product.AdditionalAttributes.piessubcategorynamesjson,
+      prices: {
+        ...(location === 'nsw' && { nsw: priceInCents }),
+        ...(location === 'nsw' && { nsw_price_per_unit: priceInCentsPerUnits }),
+        ...(location === 'nsw' && { nsw_unit: unit }),
+        ...(location === 'vic' && { vic: priceInCents }),
+        ...(location === 'qld' && { qld: priceInCents }),
+        ...(location === 'wa' && { wa: priceInCents }),
+        ...(location === 'sa' && { sa: priceInCents }),
+        ...(location === 'tas' && { tas: priceInCents }),
+      },
     };
   });
-
+  if (products.length > 0) {
+    for (const data of products) {
+      const q = await Product.findOne({ retailer_product_id: data.retailer_product_id })
+      if (!q) {
+        // console.log('Product not found. Creating new product:', { ...data });
+        const createdProduct = await Product.create({ ...data });
+        // console.log('Created product:', createdProduct);
+      } else {
+        const updatedPrice = {
+          ...q.prices,
+          ...data.prices,
+        };
+        await Product.findByIdAndUpdate(q._id, { $set: { prices: updatedPrice } }, { new: true })
+      }
+    }
+  }
   return products;
 }
 
-const callFetch = async(page, request) => {
+const callFetch = async (page, request) => {
   return await page.evaluate(
-      async (request, url) => {
-          return await fetch(url, {
-              method: 'POST',
-              headers: {
-                  'Content-Type': 'application/json',
-              },
-              body: JSON.stringify(request),
-          })
-              .then((res) => res.json())
-              .catch((err) => ({ error: err.message }));
-      },
-      request,
-      WOOLWORTHS_API_ENDPOINT
+    async (request, url) => {
+      return await fetch(url, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(request),
+      })
+        .then((res) => res.json())
+        .catch((err) => ({ error: err.message }));
+    },
+    request,
+    WOOLWORTHS_API_ENDPOINT
   );
 }
