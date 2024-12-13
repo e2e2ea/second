@@ -1,30 +1,16 @@
 const categories = [
     {
-        category: "Poultry, Meat & Seafood",
+        category: "Health & Beauty",
         subCategories: [
-            /**
-             * @commented because its done
-             */
             {
-                subCategory: "Seafood",
+                subCategory: "Vitamins",
                 childItems: [
-                    // { extensionCategory: "Deli Seafood" }, // done
-                    { extensionCategory: "Fish" }, // done
-                    // { extensionCategory: "Fresh Seafood" }, // done
-                    // { extensionCategory: "Mixed Marinara" }, // done
-                    // { extensionCategory: "Mussels & Scallops" }, // done
-                    { extensionCategory: "Prawns" }, // done
-                    // { extensionCategory: "Prepacked Seafood" }, // done
-                    // { extensionCategory: "Squid & Octopus" }, // done
+                    { extensionCategory: "Brain & Heart Health" }, // done
+                    { extensionCategory: "Detox & Digestion" }, // done
+                    { extensionCategory: "Hair, Skin & Nails" }, // done
+                    { extensionCategory: "Others" }, // done
                 ]
             },
-            // {
-            //     subCategory: "Crab & Lobster",
-            //     childItems: [
-            //         { extensionCategory: "Crab & Lobster" }, // done
-            //         { extensionCategory: "Prepacked Seafood" }, // 
-            //     ]
-            // },
         ]
     },
 ]

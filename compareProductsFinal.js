@@ -1,4 +1,4 @@
-import categories from './constant/copy.js'
+import categories from './constant/example.js'
 import fs from 'fs';
 import path from 'path';
 

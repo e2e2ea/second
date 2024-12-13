@@ -8,7 +8,7 @@ import mongoose from 'mongoose';
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
 
-
+const mylocation = ['nsw']
 const dbConnect = async () => {
   try {
     const conn = await mongoose.connect('mongodb://127.0.0.1/wooly');
@@ -55,10 +55,16 @@ const CATEGORIES = [
   // { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' }, // done
   // { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' }, // done
   // { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' }, // done
-  // { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // only done in vic
-  // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // only done in nsw
-  // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // not yet process
-  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // only done in nsw
+  // { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // done
+  // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // done
+
+  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // to be process in qld
+  { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // not process but 537
+
+  { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // not yet process
+  
+  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // not yet process
+  // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // too many products 6400 pages
 ];
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
 const SPEED_LIMIT = 20;
@@ -106,59 +112,62 @@ function delay(time) {
 
   // Reload the session with cookies
   const browser2 = await puppeteer.launch({ headless: false });
-  const page2 = await browser2.newPage();
-  // Load cookies from the file
-  const loadedCookies = JSON.parse(fs.readFileSync('cookies.json', 'utf-8'));
-  await page2.setCookie(...loadedCookies);
+  let page2
 
-  // Navigate to the target website again, with the cookies
-  await page2.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
-  await delay(60000)
-  console.log('1')
-  // await delay(60000)
-  // console.log('2')
-  // await delay(60000)
-  // console.log('3')
+  for (let i = 0; i < mylocation.length; i++) {
+    for (const category of CATEGORIES) {
+      page2 = await browser2.newPage();
+      // Load cookies from the file
+      const loadedCookies = JSON.parse(fs.readFileSync('cookies.json', 'utf-8'));
+      await page2.setCookie(...loadedCookies);
 
-  // Verify login or session persistence
-  const content = await page2.evaluate(() => document.body.innerText);
-  // console.log('Page Content After Setting Cookies:', content);
+      // Navigate to the target website again, with the cookies
+      await page2.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
+      await delay(60000)
+      console.log('1')
 
-  const htmlOnly = async (page) => {
-    await page.setRequestInterception(true);
-    page.on('request', (req) => {
-      if (!['document', 'xhr', 'fetch'].includes(req.resourceType())) {
-        return req.abort();
+      const content = await page2.evaluate(() => document.body.innerText);
+
+      const htmlOnly = async (page) => {
+        await page.setRequestInterception(true);
+        page.on('request', (req) => {
+          if (!['document', 'xhr', 'fetch'].includes(req.resourceType())) {
+            return req.abort();
+          }
+          req.continue();
+        });
+      };
+      await htmlOnly(page2);
+
+      try {
+        await safeNavigate(page2, WOOLWORTHS_URL);
+      } catch (err) {
+        console.log('Failed to load page: ', err);
+        await browser2.close();
+        return [];
       }
-      req.continue();
-    });
-  };
-  await htmlOnly(page2);
 
-  try {
-    await safeNavigate(page2, WOOLWORTHS_URL);
-  } catch (err) {
-    console.log('Failed to load page: ', err);
-    await browser.close();
-    return [];
+      await page2.setBypassCSP(true);
+      const products = await scrapeCategory(page2, category, mylocation[i]);
+      console.log('Number of products:', products.length);
+    }
+    console.log('all done in location:', mylocation[i])
+    // await browser2.close();
+    await delay(5000)
+    console.log('1')
+    await delay(5000)
+    console.log('2')
+    await delay(5000)
+    console.log('3')
+    await delay(5000)
+    console.log('4')
+    await delay(5000)
+    console.log('5')
   }
-
-  await page2.setBypassCSP(true);
-
-  // const category = CATEGORIES[0];
-  for (const category of CATEGORIES) {
-    const products = await scrapeCategory(page2, category);
-    // console.log('Products:', products);
-    console.log('Number of products:', products.length);
-    // Save products to a JSON file
-    // const filePath = 'productsWoolWorths - frez.json';
-    // fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
-    // await delay(5000)
-  }
-  // await browser2.close();
+  console.log('all is done')
 })();
 
-const scrapeCategory = async (page, category) => {
+const scrapeCategory = async (page, category, myloc) => {
   console.log('Scraping category: ', category.name);
 
   const body = {
@@ -196,15 +205,15 @@ const scrapeCategory = async (page, category) => {
     body.pageNumber = i;
     body.location = `${category.location}?pageNumber=${i}`;
     body.url = `${category.url}?pageNumber=${i}`;
-    const products = await scrapeURL(page, body);
+    const products = await scrapeURL(page, body, myloc);
     productRes.push(...products);
-    // await delay(2000)
+    // await delay(1000)
   }
 
   return productRes;
 }
 
-const scrapeURL = async (page, request) => {
+const scrapeURL = async (page, request, myloc) => {
   const res = await callFetch(page, request);
 
   if (!res.Bundles) {
@@ -218,11 +227,11 @@ const scrapeURL = async (page, request) => {
     // console.log('product1:', product)
     // const location = 'nsw'
     // const location = 'vic'
-    const location = 'qld'
+    // const location = 'qld'
     // const location = 'wa'
     // const location = 'sa'
     // const location = 'tas'
-
+    const location = myloc
     const inputString = product.CupMeasure;
 
     // Extract values
