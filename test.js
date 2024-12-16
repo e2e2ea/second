@@ -8,7 +8,7 @@ import mongoose from 'mongoose';
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
 
-const mylocation = ['nsw']
+const mylocation = ['tas'] // next is 'tas' 
 const dbConnect = async () => {
   try {
     const conn = await mongoose.connect('mongodb://127.0.0.1/wooly');
@@ -58,11 +58,11 @@ const CATEGORIES = [
   // { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // done
   // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // done
 
-  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // to be process in qld
-  { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // not process but 537
+  { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // in wa
+  { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // in wa
 
-  { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // not yet process
-  
+  { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // in wa
+
   // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // not yet process
   // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // too many products 6400 pages
 ];
@@ -79,6 +79,8 @@ function delay(time) {
 
   const browser = await puppeteer.launch({
     headless: false, // Set to false if you want to see the browser in action
+    executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', // Path to your Chrome
+    userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Default', // Main Chrome profile directory
     // args: [
     //   '--no-sandbox',
     //   '--disable-setuid-sandbox',
@@ -118,8 +120,8 @@ function delay(time) {
     for (const category of CATEGORIES) {
       page2 = await browser2.newPage();
       // Load cookies from the file
-      const loadedCookies = JSON.parse(fs.readFileSync('cookies.json', 'utf-8'));
-      await page2.setCookie(...loadedCookies);
+      // const loadedCookies = JSON.parse(fs.readFileSync('cookies.json', 'utf-8'));
+      // await page2.setCookie(...loadedCookies);
 
       // Navigate to the target website again, with the cookies
       await page2.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
@@ -200,12 +202,53 @@ const scrapeCategory = async (page, category, myloc) => {
   console.log('Pages: ', numPages);
 
   const productRes = [];
+  let pageReset = 0
   for (let i = 1; i <= numPages; i++) {
-    console.log('on page:', i)
+    // if (category.name === 'Beauty & Personal Care' && i < 672) {
+    //   i = 673
+    // }
+    if (category.name === 'Beauty & Personal Care' && i === 418) {
+      console.log('skipping other page', i)
+      pageReset = 0
+      break
+    }
+    if (pageReset > 40) {
+      const loadedCookies = JSON.parse(fs.readFileSync('cookies.json', 'utf-8'));
+      await page.setCookie(...loadedCookies);
+
+      await page.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
+      await delay(3000)
+      console.log('creating new page')
+      page.removeAllListeners('request');
+      const content = await page.evaluate(() => document.body.innerText);
+      const htmlOnly = async (page) => {
+        await page.setRequestInterception(true);
+        page.on('request', (req) => {
+          if (!['document', 'xhr', 'fetch'].includes(req.resourceType())) {
+            return req.abort();
+          }
+          req.continue();
+        });
+      };
+      await htmlOnly(page);
+
+      try {
+        await safeNavigate(page, WOOLWORTHS_URL);
+      } catch (err) {
+        console.log('Failed to load page: ', err);
+        // await browser2.close();
+        // return [];
+      }
+
+      await page.setBypassCSP(true);
+      pageReset = 0
+    }
+    pageReset = pageReset + 1
     body.pageNumber = i;
     body.location = `${category.location}?pageNumber=${i}`;
     body.url = `${category.url}?pageNumber=${i}`;
     const products = await scrapeURL(page, body, myloc);
+    console.log('Number of products:', products.length, 'on page:', i);
     productRes.push(...products);
     // await delay(1000)
   }

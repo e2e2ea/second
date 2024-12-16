@@ -64,7 +64,7 @@ const getData = async () => {
 
                     let mycat = category
                     mycat = category
-                    if (category === 'Health & Beauty') mycat = 'Beauty & Personal Care'
+                    if (category === 'Health & Beauty') mycat = 'Health & Wellness'
 
                     // First, check if category matches
                     const hasCategory = parsedFields.productCategories.some(
@@ -82,13 +82,15 @@ const getData = async () => {
 
                     // If no matching subCategory, skip this product
                     if (!hasSubCategory) return false;
-
+                    
                     let mySubCategoryExtension
-                    mySubCategoryExtension = category
+                    mySubCategoryExtension = extensionCategory
                     if (category === 'Poultry, Meat & Seafood' && subCategory === 'Seafood' && extensionCategory === 'Fish') mySubCategoryExtension = 'Salmon & Other Fish'
+                    if (category === 'Health & Beauty' && subCategory === 'Vitamins' && extensionCategory === 'Brain & Heart Health') mySubCategoryExtension = 'Brain & Heart'
+                    if (category === 'Health & Beauty' && subCategory === 'First Aid & Medicinal' && extensionCategory === 'Bandaids & Bandages') mySubCategoryExtension = 'First Aid & Bandages'
                     // Lastly, filter by extensionCategory for matching subCategories
                     const hasExtensionSubCategories = parsedFields.productExtensionSubCategories.some(
-                        (ext) => ext.toLowerCase() === extensionCategory.toLowerCase()
+                        (ext) => ext.toLowerCase() === mySubCategoryExtension.toLowerCase()
                     );
 
                     // Return true only if all three conditions match
