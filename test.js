@@ -8,10 +8,10 @@ import mongoose from 'mongoose';
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
 
-const mylocation = ['nsw'] // next is 'tas' 
+const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas'] // next is 'tas' 
 const dbConnect = async () => {
   try {
-    const conn = await mongoose.connect('mongodb://127.0.0.1/wooly');
+    const conn = await mongoose.connect('mongodb://127.0.0.1/wooly3');
     console.log('database connected');
     return conn;
   } catch (error) {
@@ -32,21 +32,61 @@ const ProductSchema = new mongoose.Schema(
     shop: { type: String, default: '' },
     isNew: { type: Boolean },
     weight: { type: String, default: 'N/A' },
-    prices: {
-      nsw: { type: String },
-      nsw_price_per_unit: { type: String },
-      nsw_unit: { type: String },
-      vic: { type: String },
-      qld: { type: String },
-      wa: { type: String },
-      sa: { type: String },
-      tas: { type: String },
-    },
+    prices: [{
+      state: { type: String },
+      price: { type: String },
+      price_per_unit: { type: String },
+      price_unit: { type: String }
+    }],
   },
   { timestamps: true }
 );
 
 const Product = mongoose.model('Product', ProductSchema);
+const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
+  const prices = [];
+
+  if (location === 'nsw') {
+    prices.push({
+      state: 'nsw',
+      price: priceInCents,
+      price_per_unit: priceInCentsPerUnits,
+      price_unit: unit,
+    });
+  }
+  if (location === 'vic') {
+    prices.push({
+      state: 'vic',
+      price: priceInCents,
+    });
+  }
+  if (location === 'qld') {
+    prices.push({
+      state: 'qld',
+      price: priceInCents,
+    });
+  }
+  if (location === 'wa') {
+    prices.push({
+      state: 'wa',
+      price: priceInCents,
+    });
+  }
+  if (location === 'sa') {
+    prices.push({
+      state: 'sa',
+      price: priceInCents,
+    });
+  }
+  if (location === 'tas') {
+    prices.push({
+      state: 'tas',
+      price: priceInCents,
+    });
+  }
+
+  return prices;
+};
 
 
 
@@ -62,8 +102,8 @@ const CATEGORIES = [
   // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // in done
   // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // in done
 
-  { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // not yet process
-  { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // too many products
+  { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // process in nsw
+  { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // process in nsw
 ];
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
 const SPEED_LIMIT = 20;
@@ -76,40 +116,40 @@ function delay(time) {
   const name = 'Woolworths';
   const rateLimit = new RateLimiter(SPEED_LIMIT, 5);
 
-  const browser = await puppeteer.launch({
-    headless: false, // Set to false if you want to see the browser in action
-    executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', // Path to your Chrome
-    userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Default', // Main Chrome profile directory
-    // args: [
-    //   '--no-sandbox',
-    //   '--disable-setuid-sandbox',
-    //   '--disable-blink-features=AutomationControlled',
-    // ],
-  });
+  // const browser = await puppeteer.launch({
+  //   headless: false, // Set to false if you want to see the browser in action
+  //   executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', // Path to your Chrome
+  //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Default', // Main Chrome profile directory
+  //   // args: [
+  //   //   '--no-sandbox',
+  //   //   '--disable-setuid-sandbox',
+  //   //   '--disable-blink-features=AutomationControlled',
+  //   // ],
+  // });
 
-  const page = await browser.newPage();
+  // const page = await browser.newPage();
 
-  // Set a user agent to mimic a real browser
-  await page.setUserAgent(
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
-  );
+  // // Set a user agent to mimic a real browser
+  // await page.setUserAgent(
+  //   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
+  // );
 
-  // Navigate to the target website
+  // // Navigate to the target website
 
-  await page.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
+  // await page.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
 
-  // Optionally wait for a specific element to load
-  await page.waitForSelector('h1');
+  // // Optionally wait for a specific element to load
+  // await page.waitForSelector('h1');
 
-  // Extract cookies
-  const cookies = await page.cookies();
-  console.log('Extracted Cookies:', cookies);
+  // // Extract cookies
+  // const cookies = await page.cookies();
+  // console.log('Extracted Cookies:', cookies);
 
-  // Save cookies to a file or database (optional)
-  fs.writeFileSync('cookies.json', JSON.stringify(cookies, null, 2));
+  // // Save cookies to a file or database (optional)
+  // fs.writeFileSync('cookies.json', JSON.stringify(cookies, null, 2));
 
-  // Close the browser after extracting cookies
-  await browser.close();
+  // // Close the browser after extracting cookies
+  // await browser.close();
 
   // Reload the session with cookies
   const browser2 = await puppeteer.launch({ headless: false });
@@ -124,8 +164,9 @@ function delay(time) {
 
       // Navigate to the target website again, with the cookies
       await page2.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
-      await delay(60000)
-      await delay(30000)
+      // await delay(60000)
+      // await delay(30000)
+      await delay(5000)
       console.log('1')
 
       const content = await page2.evaluate(() => document.body.innerText);
@@ -249,7 +290,7 @@ const scrapeCategory = async (page, category, myloc) => {
     body.url = `${category.url}?pageNumber=${i}`;
     const products = await scrapeURL(page, body, myloc);
     console.log('Number of products:', products.length, 'on page:', i);
-    if (products && products.length > 0) {
+    if (products && products.length === 0) {
       console.log('No more products:')
       break
     }
@@ -304,16 +345,17 @@ const scrapeURL = async (page, request, myloc) => {
       category: product.AdditionalAttributes.piesdepartmentnamesjson,
       subCategory: product.AdditionalAttributes.piescategorynamesjson,
       extensionCategory: product.AdditionalAttributes.piessubcategorynamesjson,
-      prices: {
-        ...(location === 'nsw' && { nsw: priceInCents }),
-        ...(location === 'nsw' && { nsw_price_per_unit: priceInCentsPerUnits }),
-        ...(location === 'nsw' && { nsw_unit: unit }),
-        ...(location === 'vic' && { vic: priceInCents }),
-        ...(location === 'qld' && { qld: priceInCents }),
-        ...(location === 'wa' && { wa: priceInCents }),
-        ...(location === 'sa' && { sa: priceInCents }),
-        ...(location === 'tas' && { tas: priceInCents }),
-      },
+      prices: getPrices(location, priceInCents, priceInCentsPerUnits, unit),
+      // prices: [{
+      //   ...(location === 'nsw' && { nsw: priceInCents }),
+      //   ...(location === 'nsw' && { nsw_price_per_unit: priceInCentsPerUnits }),
+      //   ...(location === 'nsw' && { nsw_unit: unit }),
+      //   ...(location === 'vic' && { vic: priceInCents }),
+      //   ...(location === 'qld' && { qld: priceInCents }),
+      //   ...(location === 'wa' && { wa: priceInCents }),
+      //   ...(location === 'sa' && { sa: priceInCents }),
+      //   ...(location === 'tas' && { tas: priceInCents }),
+      // }],
     };
   });
   if (products.length > 0) {

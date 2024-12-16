@@ -1,4 +1,70 @@
 const categories = [
+    {
+        category: "Bakery",
+        subCategories: [
+            /**
+             * @commented because its done
+             */
+            {
+                subCategory: "In-Store Bakery",
+                childItems: [
+                    { extensionCategory: "Bread" },
+                    { extensionCategory: "Bread Rolls" },
+                    { extensionCategory: "Donuts & Cookies" },
+                    { extensionCategory: "Pastries & Desserts" },
+                    { extensionCategory: "Sourdough & Specialty Bread" },
+                ]
+            },
+            {
+                subCategory: "Packaged Bread & Bakery",
+                childItems: [
+                    { extensionCategory: "Bake At Home" },
+                    { extensionCategory: "Cakes" },
+                    { extensionCategory: "Crumpets & Pancakes" },
+                    { extensionCategory: "Desserts & Pastries" },
+                    { extensionCategory: "Gluten-Free" },
+                    { extensionCategory: "Muffins, Scones & Cupcakes" },
+                    { extensionCategory: "Organic Bakery" },
+                    { extensionCategory: "Packaged Bread" },
+                    { extensionCategory: "Pies & Quiches" },
+                    { extensionCategory: "Pizza Bases" },
+                    { extensionCategory: "Rolls & Bagels" },
+                    { extensionCategory: "Wraps & Flatbread" },
+                ]
+            },
+        ]
+    },
+    // {
+    //     category: "Pet",
+    //     subCategories: [
+    //         /**
+    //          * @commented because its done
+    //          */
+    //         {
+    //             subCategory: "Birds, Fish & Small Pets",
+    //             childItems: [
+    //                 { extensionCategory: "Bird Treats" }, // done
+    //                 { extensionCategory: "Small Pets Food" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Cat & Kitten",
+    //             childItems: [
+    //                 { extensionCategory: "Chilled Cat Food" }, // done
+    //                 { extensionCategory: "Dry Cat Food" }, // done
+    //                 { extensionCategory: "Kitten Food" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Dog & Puppy",
+    //             childItems: [
+    //                 { extensionCategory: "Chilled Dog Food" }, // done
+    //                 { extensionCategory: "Frozen Dog Food" }, // done
+    //                 { extensionCategory: "Puppy Food" }, // done
+    //             ]
+    //         },
+    //     ]
+    // },
     // {
     //     category: "Health & Beauty",
     //     subCategories: [
