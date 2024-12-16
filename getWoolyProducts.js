@@ -64,7 +64,8 @@ const getData = async () => {
 
                     let mycat = category
                     mycat = category
-                    if (category === 'Health & Beauty') mycat = 'Health & Wellness'
+                    // if (category === 'Health & Beauty') mycat = 'Health & Wellness'
+                    if (category === 'Health & Beauty') mycat = 'Beauty & Personal Care'
 
                     // First, check if category matches
                     const hasCategory = parsedFields.productCategories.some(

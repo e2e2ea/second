@@ -8,7 +8,7 @@ import mongoose from 'mongoose';
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
 
-const mylocation = ['tas'] // next is 'tas' 
+const mylocation = ['nsw'] // next is 'tas' 
 const dbConnect = async () => {
   try {
     const conn = await mongoose.connect('mongodb://127.0.0.1/wooly');
@@ -58,13 +58,12 @@ const CATEGORIES = [
   // { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // done
   // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // done
 
-  { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // in wa
-  { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // in wa
+  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // in done
+  // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // in done
+  // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // in done
 
-  { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // in wa
-
-  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // not yet process
-  // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // too many products 6400 pages
+  { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // not yet process
+  { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // too many products
 ];
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
 const SPEED_LIMIT = 20;
@@ -126,6 +125,7 @@ function delay(time) {
       // Navigate to the target website again, with the cookies
       await page2.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
       await delay(60000)
+      await delay(30000)
       console.log('1')
 
       const content = await page2.evaluate(() => document.body.innerText);
@@ -249,6 +249,10 @@ const scrapeCategory = async (page, category, myloc) => {
     body.url = `${category.url}?pageNumber=${i}`;
     const products = await scrapeURL(page, body, myloc);
     console.log('Number of products:', products.length, 'on page:', i);
+    if (products && products.length > 0) {
+      console.log('No more products:')
+      break
+    }
     productRes.push(...products);
     // await delay(1000)
   }
