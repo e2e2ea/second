@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 const dbConnect = async () => {
     try {
-        const conn = await mongoose.connect('mongodb://127.0.0.1/wooly');
+        const conn = await mongoose.connect('mongodb://127.0.0.1/wooly4');
         console.log('database connected');
         return conn;
     } catch (error) {
@@ -25,20 +25,15 @@ const ProductSchema = new mongoose.Schema(
         shop: { type: String, default: '' },
         isNew: { type: Boolean },
         weight: { type: String, default: 'N/A' },
-        prices: {
-            nsw: { type: String },
-            nsw_price_per_unit: { type: String },
-            nsw_unit: { type: String },
-            vic: { type: String },
-            qld: { type: String },
-            wa: { type: String },
-            sa: { type: String },
-            tas: { type: String },
-        },
+        prices: [{
+            state: { type: String },
+            price: { type: String },
+            price_per_unit: { type: String },
+            price_unit: { type: String }
+        }],
     },
     { timestamps: true }
 );
-
 
 const Product = mongoose.model('Product', ProductSchema);
 
@@ -64,8 +59,8 @@ const getData = async () => {
 
                     let mycat = category
                     mycat = category
-                    // if (category === 'Health & Beauty') mycat = 'Health & Wellness'
-                    if (category === 'Health & Beauty') mycat = 'Beauty & Personal Care'
+                    if (category === 'Health & Beauty') mycat = 'Health & Wellness'
+                    // if (category === 'Health & Beauty') mycat = 'Beauty & Personal Care'
 
                     // First, check if category matches
                     const hasCategory = parsedFields.productCategories.some(
@@ -83,7 +78,7 @@ const getData = async () => {
 
                     // If no matching subCategory, skip this product
                     if (!hasSubCategory) return false;
-                    
+
                     let mySubCategoryExtension
                     mySubCategoryExtension = extensionCategory
                     if (category === 'Poultry, Meat & Seafood' && subCategory === 'Seafood' && extensionCategory === 'Fish') mySubCategoryExtension = 'Salmon & Other Fish'
@@ -103,14 +98,20 @@ const getData = async () => {
                 console.log(`Filtered products in ${category} - ${subCategory} - ${extensionCategory}: `, filteredProducts.length)
                 const productsData = filteredProducts.map((product) => {
                     const productObj = product.toObject();
+                    const cleanedPrices = productObj.prices.map((price) => {
+                        if (!price || price === null) return;
+                        const { _id, ...rest } = price; // Destructure to exclude _id
+                        return rest; // Return the remaining price object without _id
+                    });
                     const formattedProduct = {
                         source_url: productObj.source_url || null,
                         name: productObj.name || null,
                         image_url: productObj.image_url || null,
+                        source_id: `Woolworths - ${productObj.retailer_product_id}` || null,
                         barcode: productObj.barcode || null,
                         shop: productObj.shop || null,
                         weight: productObj.weight || null,
-                        prices: { ...productObj.prices },
+                        prices: cleanedPrices,
                     };
 
                     return formattedProduct;

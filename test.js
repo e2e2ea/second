@@ -8,10 +8,11 @@ import mongoose from 'mongoose';
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
 
-const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas'] // next is 'tas' 
+// const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas', 'act', 'nt']
+const mylocation = ['act', 'nt']
 const dbConnect = async () => {
   try {
-    const conn = await mongoose.connect('mongodb://127.0.0.1/wooly3');
+    const conn = await mongoose.connect('mongodb://127.0.0.1/wooly4');
     console.log('database connected');
     return conn;
   } catch (error) {
@@ -45,44 +46,71 @@ const ProductSchema = new mongoose.Schema(
 const Product = mongoose.model('Product', ProductSchema);
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
-
-  if (location === 'nsw') {
-    prices.push({
-      state: 'nsw',
-      price: priceInCents,
-      price_per_unit: priceInCentsPerUnits,
-      price_unit: unit,
-    });
-  }
-  if (location === 'vic') {
-    prices.push({
-      state: 'vic',
-      price: priceInCents,
-    });
-  }
-  if (location === 'qld') {
-    prices.push({
-      state: 'qld',
-      price: priceInCents,
-    });
-  }
-  if (location === 'wa') {
-    prices.push({
-      state: 'wa',
-      price: priceInCents,
-    });
-  }
-  if (location === 'sa') {
-    prices.push({
-      state: 'sa',
-      price: priceInCents,
-    });
-  }
-  if (location === 'tas') {
-    prices.push({
-      state: 'tas',
-      price: priceInCents,
-    });
+  if (priceInCents && priceInCentsPerUnits) {
+    if (location === 'nsw') {
+      prices.push({
+        state: 'nsw'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (location === 'vic') {
+      prices.push({
+        state: 'vic'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (location === 'qld') {
+      prices.push({
+        state: 'qld'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (location === 'wa') {
+      prices.push({
+        state: 'wa'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (location === 'sa') {
+      prices.push({
+        state: 'sa'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (location === 'tas') {
+      prices.push({
+        state: 'tas'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (location === 'act') {
+      prices.push({
+        state: 'act'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (location === 'nt') {
+      prices.push({
+        state: 'nt'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
   }
 
   return prices;
@@ -98,12 +126,12 @@ const CATEGORIES = [
   // { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // done
   // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // done
 
-  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // in done
-  // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // in done
-  // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // in done
+  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // in 
+  // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // in 
+  // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // in 
 
-  { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // process in nsw
-  { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // process in nsw
+  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // 
+  // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // 
 ];
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
 const SPEED_LIMIT = 20;
@@ -163,8 +191,9 @@ function delay(time) {
       // await page2.setCookie(...loadedCookies);
 
       // Navigate to the target website again, with the cookies
-      await page2.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
-      // await delay(60000)
+      await safeNavigate(page2, 'https://www.woolworths.com.au');
+      // await page2.goto(, { waitUntil: 'domcontentloaded' });
+      await delay(60000)
       // await delay(30000)
       await delay(5000)
       console.log('1')
@@ -197,13 +226,18 @@ function delay(time) {
     console.log('all done in location:', mylocation[i])
     // await browser2.close();
     await delay(5000)
+    await delay(10000)
     console.log('1')
     await delay(5000)
+    await delay(10000)
     console.log('2')
     await delay(5000)
+    await delay(10000)
     console.log('3')
     await delay(5000)
+    await delay(10000)
     console.log('4')
+    await delay(10000)
     await delay(5000)
     console.log('5')
   }
@@ -245,21 +279,28 @@ const scrapeCategory = async (page, category, myloc) => {
   const productRes = [];
   let pageReset = 0
   for (let i = 1; i <= numPages; i++) {
-    // if (category.name === 'Beauty & Personal Care' && i < 672) {
-    //   i = 673
-    // }
-    if (category.name === 'Beauty & Personal Care' && i === 418) {
+    if (category.name === 'Pantry' && i < 74 && myloc === 'act') {
+      i = 76
+    }
+    if (category.name === 'Freezer' && myloc === 'act') {
       console.log('skipping other page', i)
-      pageReset = 0
       break
     }
-    if (pageReset > 40) {
+    if (category.name === 'Fruit & Veg' && myloc === 'act') {
+      console.log('skipping other page', i)
+      break
+    }
+    if (category.name === 'Poultry, Meat & Seafood' && myloc === 'act') {
+      console.log('skipping other page', i)
+      break
+    }
+    if (pageReset > 50) {
       const loadedCookies = JSON.parse(fs.readFileSync('cookies.json', 'utf-8'));
       await page.setCookie(...loadedCookies);
-
-      await page.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
-      await delay(3000)
+      await safeNavigate(page, 'https://www.woolworths.com.au');
+      // await page.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
       console.log('creating new page')
+      await delay(30000)
       page.removeAllListeners('request');
       const content = await page.evaluate(() => document.body.innerText);
       const htmlOnly = async (page) => {
@@ -366,11 +407,27 @@ const scrapeURL = async (page, request, myloc) => {
         const createdProduct = await Product.create({ ...data });
         // console.log('Created product:', createdProduct);
       } else {
-        const updatedPrice = {
-          ...q.prices,
-          ...data.prices,
-        };
-        await Product.findByIdAndUpdate(q._id, { $set: { prices: updatedPrice } }, { new: true })
+        const updatedPrices = [...q.prices];
+        let priceUpdated = false;
+
+        // Compare and update prices
+        for (let i = 0; i < updatedPrices.length; i++) {
+          if (data.prices > 0 && updatedPrices > 0) {
+            if (updatedPrices[i].state.toLowerCase() === data.prices[0].state.toLowerCase()) { // Compare location
+              updatedPrices[i].price = data.prices[0].price;
+              updatedPrices[i].price_per_unit = data.prices[0].price_per_unit;
+              updatedPrices[i].price_unit = data.prices[0].price_unit;
+              priceUpdated = true;
+              break;
+            }
+          }
+        }
+
+        // If no match, push the new price data
+        if (!priceUpdated) {
+          updatedPrices.push(data.prices[0]);
+        }
+        await Product.findByIdAndUpdate(q._id, { $set: { prices: updatedPrices } }, { new: true })
       }
     }
   }

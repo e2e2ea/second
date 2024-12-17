@@ -3,143 +3,296 @@
     "source_url": "https://www.woolworths.com.au/shop/productdetails/405774/grape-black-seedless-grapes",
     "name": "Black Seedless Grapes Each",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/405774.jpg",
+    "source_id": "Woolworths - 405774",
     "barcode": "0264613000004",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "1321",
-      "nsw_price_per_unit": "1321",
-      "nsw_unit": "EA",
-      "vic": "",
-      "qld": "1321",
-      "wa": "1511",
-      "sa": "1321",
-      "tas": "1321"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1321",
+        "price_per_unit": "1321",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "1321",
+        "price_per_unit": "1321",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1321",
+        "price_per_unit": "1321",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1321",
+        "price_per_unit": "1321",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1321",
+        "price_per_unit": "1321",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1036",
+        "price_per_unit": "1036",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1036",
+        "price_per_unit": "1036",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "751",
+        "price_per_unit": "751",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/85417/grape-candy-hearts-grapes",
     "name": "Candy Hearts™ Grapes 400g pack",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/085417.jpg",
+    "source_id": "Woolworths - 85417",
     "barcode": "9355968000045",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "nsw": "",
-      "nsw_price_per_unit": "",
-      "nsw_unit": "KG",
-      "vic": "",
-      "qld": "",
-      "wa": "",
-      "sa": "",
-      "tas": ""
-    }
+    "prices": [
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/679543/grape-cotton-cotton-candy-grapes",
+    "name": "Cotton Candy™ Grapes 400g pack",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/default.png",
+    "source_id": "Woolworths - 679543",
+    "barcode": "9341863099741",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      null
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/266908/hello-candy-snaps-grapes-punnet",
     "name": "Hello Candy Snaps Grapes Punnet 400g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/266908.jpg",
+    "source_id": "Woolworths - 266908",
     "barcode": "9359147000093",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "nsw": "850",
-      "nsw_price_per_unit": "2125",
-      "nsw_unit": "KG",
-      "vic": "850",
-      "qld": "850"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "850",
+        "price_per_unit": "2125",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/206173/hello-sweet-nectar-grapes",
     "name": "Hello Sweet Nectar Grapes 400g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/206173.jpg",
+    "source_id": "Woolworths - 206173",
     "barcode": "9355968000069",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "nsw": "",
-      "nsw_price_per_unit": "",
-      "nsw_unit": "KG",
-      "qld": "",
-      "wa": "",
-      "sa": ""
-    }
+    "prices": [
+      null
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/781399/macro-red-grapes-organic",
     "name": "Macro Red Grapes Organic 500g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/781399.jpg",
+    "source_id": "Woolworths - 781399",
     "barcode": "9300633703127",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "nsw": "",
-      "nsw_price_per_unit": "",
-      "nsw_unit": "KG",
-      "vic": "",
-      "qld": ""
-    }
+    "prices": [
+      null
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/405838/red-seedless-grapes-seedless",
     "name": "Red Seedless Grapes each",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/405838.jpg",
+    "source_id": "Woolworths - 405838",
     "barcode": "0264595000009",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "1131",
-      "nsw_price_per_unit": "1131",
-      "nsw_unit": "EA",
-      "vic": "1131",
-      "qld": "941",
-      "wa": "1511"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1131",
+        "price_per_unit": "1131",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "1131",
+        "price_per_unit": "1131",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1131",
+        "price_per_unit": "1131",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1131",
+        "price_per_unit": "1131",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "751",
+        "price_per_unit": "751",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/138801/white-seedless-grapes-grapes-bunch",
     "name": "White Seedless Grapes each",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/138801.jpg",
+    "source_id": "Woolworths - 138801",
     "barcode": "0264274000009",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "941",
-      "nsw_price_per_unit": "941",
-      "nsw_unit": "EA",
-      "vic": "941",
-      "qld": "1036",
-      "wa": "941",
-      "sa": "1036",
-      "tas": "941"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "941",
+        "price_per_unit": "941",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "941",
+        "price_per_unit": "941",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "941",
+        "price_per_unit": "941",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "941",
+        "price_per_unit": "941",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1036",
+        "price_per_unit": "1036",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "846",
+        "price_per_unit": "846",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "846",
+        "price_per_unit": "846",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "846",
+        "price_per_unit": "846",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/206816/hello-sweet-sapphire-grapes",
     "name": "Hello Sweet Sapphire Grapes 400g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/206816.jpg",
+    "source_id": "Woolworths - 206816",
     "barcode": "9355968000052",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "vic": "",
-      "qld": "",
-      "wa": "",
-      "sa": ""
-    }
+    "prices": [
+      null
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/855216/woolworths-black-seedless-grapes-bunch",
+    "name": "Woolworths Black Seedless Grapes Bunch Each",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/855216.jpg",
+    "source_id": "Woolworths - 855216",
+    "barcode": "0264941000004",
+    "shop": "Woolworths",
+    "weight": "1EA",
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/855246/woolworths-red-seedless-grapes-bunch",
     "name": "Woolworths Red Seedless Grapes Bunch Each",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/855246.jpg",
+    "source_id": "Woolworths - 855246",
     "barcode": "0264942000003",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "vic": "",
-      "wa": "",
-      "sa": ""
-    }
+    "prices": [
+      null
+    ]
   }
 ]

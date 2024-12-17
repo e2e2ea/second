@@ -3,65 +3,171 @@
     "source_url": "https://www.woolworths.com.au/shop/productdetails/84056/bugs-moreton-bay-bug-cooked",
     "name": "Moreton Bay Bug Cooked per kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/084056.jpg",
+    "source_id": "Woolworths - 84056",
     "barcode": "0271401000009",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "vic": "4500",
-      "qld": "4500",
-      "wa": "",
-      "sa": "4500",
-      "tas": ""
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4500",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "4500",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "4500",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "4500",
+        "price_per_unit": "4500",
+        "price_unit": "KG"
+      },
+      null,
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "3000",
+        "price_per_unit": "3000",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34321/woolworths-cooked-thawed-small-rock-lobster",
     "name": "Woolworths Cooked Thawed Small Rock Lobster Each",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/034321.jpg",
+    "source_id": "Woolworths - 34321",
     "barcode": "0272709000005",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "vic": "2400",
-      "qld": "2400",
-      "wa": "2400",
-      "sa": "2400",
-      "tas": "2400"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "2400",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "2700",
+        "price_per_unit": "2700",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/441084/woolworths-thawed-lobster-tails",
     "name": "Woolworths Thawed Lobster Tails Each",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/441084.jpg",
+    "source_id": "Woolworths - 441084",
     "barcode": "0276252000000",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "vic": "950",
-      "qld": "950",
-      "tas": "950"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "950",
+        "price_per_unit": "950",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "850",
+        "price_per_unit": "850",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93998/woolworths-fresh-cooked-blue-swimmer-crab",
     "name": "Woolworths Fresh Cooked Blue Swimmer Crab 1kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/093998.jpg",
+    "source_id": "Woolworths - 93998",
     "barcode": "0278818000004",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "qld": "3500"
-    }
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/95722/woolworths-fresh-green-blue-swimmer-crab",
     "name": "Woolworths Fresh Green Blue Swimmer Crab 1kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/095722.jpg",
+    "source_id": "Woolworths - 95722",
     "barcode": "0277646000002",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "qld": ""
-    }
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "3500",
+        "price_per_unit": "3500",
+        "price_unit": "KG"
+      },
+      null
+    ]
   }
 ]

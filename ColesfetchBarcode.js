@@ -4,7 +4,7 @@ import mongoose from 'mongoose';
 
 const dbConnect = async () => {
     try {
-        const conn = await mongoose.connect('mongodb://127.0.0.1/scrape');
+        const conn = await mongoose.connect('mongodb://127.0.0.1/coles4');
         console.log('database connected');
         return conn;
     } catch (error) {
@@ -69,7 +69,7 @@ const getBarcode = async () => {
                 const { data } = await axiosInstance.get(`https://barcodes.groceryscraper.mc.hzuccon.com/barcode?product=${product.coles_product_id}`)
                 console.log(`data${i}`, `${data}-${product.name}`)
                 product.barcode = data
-                // await product.save()
+                await product.save()
             } catch (error) {
                 console.log('no product found', 'skip')
             }

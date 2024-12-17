@@ -3,15 +3,47 @@
     "source_url": "https://www.woolworths.com.au/shop/productdetails/577912/twisted-minis-frozen-yoghurt-dessert-assorted",
     "name": "Twisted Minis Frozen Yoghurt Dessert Assorted 4 pack",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/577912.jpg",
+    "source_id": "Woolworths - 577912",
     "barcode": "9349107000089",
     "shop": "Woolworths",
     "weight": "100ML",
-    "prices": {
-      "vic": "",
-      "qld": "700",
-      "wa": "700",
-      "sa": "700",
-      "tas": "700"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "700",
+        "price_per_unit": "146",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "700",
+        "price_per_unit": "146",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "700",
+        "price_per_unit": "146",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "700",
+        "price_per_unit": "146",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "800",
+        "price_per_unit": "167",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "800",
+        "price_per_unit": "167",
+        "price_unit": "ML"
+      }
+    ]
   }
 ]

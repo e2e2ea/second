@@ -3,437 +3,1304 @@
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075341022/braggs-nutritional-yeast-127g",
     "name": "Braggs Nutritional Yeast 127g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075341022.jpg",
+    "source_id": "Woolworths - 1075341022",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "1595",
-      "nsw_price_per_unit": "1256",
-      "nsw_unit": "G",
-      "vic": "1595",
-      "qld": "1595",
-      "wa": "1595",
-      "sa": "1595",
-      "tas": "1595"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1595",
+        "price_per_unit": "1256",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1595",
+        "price_per_unit": "1256",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1595",
+        "price_per_unit": "1256",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1595",
+        "price_per_unit": "1256",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1595",
+        "price_per_unit": "1256",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1595",
+        "price_per_unit": "1256",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1595",
+        "price_per_unit": "1256",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1595",
+        "price_per_unit": "1256",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1076004145/edlyn-banking-powder-2-5kg-bulk",
     "name": "Edlyn Banking Powder 2.5kg Bulk",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1076004145.jpg",
+    "source_id": "Woolworths - 1076004145",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "6995",
-      "nsw_price_per_unit": "6995",
-      "nsw_unit": "EA",
-      "vic": "6995",
-      "qld": "6995",
-      "wa": "6995",
-      "sa": "6995",
-      "tas": "6995"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "6995",
+        "price_per_unit": "6995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "6995",
+        "price_per_unit": "6995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "6995",
+        "price_per_unit": "6995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "6995",
+        "price_per_unit": "6995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "6995",
+        "price_per_unit": "6995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "6995",
+        "price_per_unit": "6995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "6995",
+        "price_per_unit": "6995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "6995",
+        "price_per_unit": "6995",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074032678/gefen-pure-baking-soda-340g-x-2",
     "name": "Gefen Pure Baking Soda 340g x 2",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074032678.jpg",
+    "source_id": "Woolworths - 1074032678",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "3600",
-      "nsw_price_per_unit": "1800",
-      "nsw_unit": "EA",
-      "vic": "3600",
-      "qld": "3600",
-      "wa": "3600",
-      "sa": "3600",
-      "tas": "3600"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3600",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "3600",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "3600",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "3600",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "3600",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "3600",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "3600",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "3600",
+        "price_per_unit": "1800",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075347618/gelatin-health-gelatin-food-grade-1kg",
     "name": "Gelatin Health Gelatin - Food Grade 1kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075347618.jpg",
+    "source_id": "Woolworths - 1075347618",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "4200",
-      "nsw_price_per_unit": "420",
-      "nsw_unit": "G",
-      "vic": "4200",
-      "qld": "4200",
-      "wa": "4200",
-      "sa": "4200",
-      "tas": "4200"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4200",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "4200",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "4200",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "4200",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "4200",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "4200",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "4200",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "4200",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075347290/gelatin-health-gelatin-food-grade-500g",
     "name": "Gelatin Health Gelatin - Food Grade 500g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075347290.jpg",
+    "source_id": "Woolworths - 1075347290",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "2824",
-      "nsw_price_per_unit": "565",
-      "nsw_unit": "G",
-      "vic": "2824",
-      "qld": "2824",
-      "wa": "2824",
-      "sa": "2824",
-      "tas": "2824"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2824",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2824",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2824",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2824",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2824",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2824",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2824",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2824",
+        "price_per_unit": "565",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075479263/honest-to-goodness-natural-brewers-yeast-350g",
     "name": "Honest to Goodness Natural Brewers Yeast 350g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075479263.jpg",
+    "source_id": "Woolworths - 1075479263",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "1425",
-      "nsw_price_per_unit": "407",
-      "nsw_unit": "G",
-      "vic": "1425",
-      "qld": "1425",
-      "wa": "1425",
-      "sa": "1425",
-      "tas": "1425"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1425",
+        "price_per_unit": "407",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1425",
+        "price_per_unit": "407",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1425",
+        "price_per_unit": "407",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1425",
+        "price_per_unit": "407",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1425",
+        "price_per_unit": "407",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1425",
+        "price_per_unit": "407",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1425",
+        "price_per_unit": "407",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1425",
+        "price_per_unit": "407",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/673516/lighthouse-yeast-bread-improver",
     "name": "Lighthouse Yeast Bread Improver 10x7g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/673516.jpg",
+    "source_id": "Woolworths - 673516",
     "barcode": "9300609107577",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "495",
-      "nsw_price_per_unit": "707",
-      "nsw_unit": "G",
-      "wa": "495",
-      "sa": "495",
-      "tas": "495"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "495",
+        "price_per_unit": "707",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "495",
+        "price_per_unit": "707",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "495",
+        "price_per_unit": "707",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "495",
+        "price_per_unit": "707",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "495",
+        "price_per_unit": "707",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "495",
+        "price_per_unit": "707",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "620",
+        "price_per_unit": "886",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "620",
+        "price_per_unit": "886",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075347223/lotus-agar-agar-powder-75g",
     "name": "Lotus Agar Agar Powder 75g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075347223.jpg",
+    "source_id": "Woolworths - 1075347223",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "2245",
-      "nsw_price_per_unit": "2993",
-      "nsw_unit": "G",
-      "vic": "2245",
-      "qld": "2245",
-      "wa": "2245",
-      "sa": "2245",
-      "tas": "2245"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2245",
+        "price_per_unit": "2993",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2245",
+        "price_per_unit": "2993",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2245",
+        "price_per_unit": "2993",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2245",
+        "price_per_unit": "2993",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2245",
+        "price_per_unit": "2993",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2245",
+        "price_per_unit": "2993",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2245",
+        "price_per_unit": "2993",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2245",
+        "price_per_unit": "2993",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075346804/lotus-brewer-s-yeast-500g",
     "name": "Lotus Brewer's Yeast 500g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075346804.jpg",
+    "source_id": "Woolworths - 1075346804",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "1769.0000000000002",
-      "nsw_price_per_unit": "354",
-      "nsw_unit": "G",
-      "vic": "1769.0000000000002",
-      "qld": "1769.0000000000002",
-      "wa": "1769.0000000000002",
-      "sa": "1769.0000000000002",
-      "tas": "1769.0000000000002"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1769",
+        "price_per_unit": "354",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1769",
+        "price_per_unit": "354",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1769",
+        "price_per_unit": "354",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1769",
+        "price_per_unit": "354",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1769",
+        "price_per_unit": "354",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1769",
+        "price_per_unit": "354",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1769",
+        "price_per_unit": "354",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1769",
+        "price_per_unit": "354",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075347327/lotus-lecithin-granules-200g",
     "name": "Lotus Lecithin Granules 200g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075347327.jpg",
+    "source_id": "Woolworths - 1075347327",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "2499",
-      "nsw_price_per_unit": "1250",
-      "nsw_unit": "G",
-      "vic": "2499",
-      "qld": "2499",
-      "wa": "2499",
-      "sa": "2499",
-      "tas": "2499"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2499",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2499",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2499",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2499",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2499",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2499",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2499",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2499",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075481319/lotus-torula-yeast-250g",
     "name": "Lotus Torula Yeast 250g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075481319.jpg",
+    "source_id": "Woolworths - 1075481319",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "1597",
-      "nsw_price_per_unit": "639",
-      "nsw_unit": "G",
-      "vic": "1597",
-      "qld": "1597",
-      "wa": "1597",
-      "sa": "1597",
-      "tas": "1597"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1597",
+        "price_per_unit": "639",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1597",
+        "price_per_unit": "639",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1597",
+        "price_per_unit": "639",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1597",
+        "price_per_unit": "639",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1597",
+        "price_per_unit": "639",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1597",
+        "price_per_unit": "639",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1597",
+        "price_per_unit": "639",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1597",
+        "price_per_unit": "639",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/184917/lowan-yeast-dried-instant",
     "name": "Lowan Yeast Dried Instant 280g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/184917.jpg",
+    "source_id": "Woolworths - 184917",
     "barcode": "9310598500211",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "480",
-      "nsw_price_per_unit": "171",
-      "nsw_unit": "G",
-      "vic": "480",
-      "qld": "480",
-      "wa": "480",
-      "sa": "480",
-      "tas": "480"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074709496/orku-1-3kg-sodium-bicarbonate-tub-food-grade-bicarb-baking-soda-hydrogen-carbonate",
     "name": "Orku 1.3Kg Sodium Bicarbonate Tub - Food Grade Bicarb Baking Soda Hydrogen Carbonate",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074709496.jpg",
+    "source_id": "Woolworths - 1074709496",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "5599",
-      "nsw_price_per_unit": "430.99999999999994",
-      "nsw_unit": "G",
-      "vic": "5599",
-      "qld": "5599",
-      "wa": "5599",
-      "sa": "5599",
-      "tas": "5599"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5599",
+        "price_per_unit": "431",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "5599",
+        "price_per_unit": "431",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "5599",
+        "price_per_unit": "431",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "5599",
+        "price_per_unit": "431",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "5599",
+        "price_per_unit": "431",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "5599",
+        "price_per_unit": "431",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "5599",
+        "price_per_unit": "431",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "5599",
+        "price_per_unit": "431",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074709559/orku-100g-sodium-bicarbonate-food-grade-bicarb-baking-soda-hydrogen-carbonate",
     "name": "Orku 100g Sodium Bicarbonate - Food Grade Bicarb Baking Soda Hydrogen Carbonate",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074709559.jpg",
+    "source_id": "Woolworths - 1074709559",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "2799",
-      "nsw_price_per_unit": "2799",
-      "nsw_unit": "G",
-      "vic": "2799",
-      "qld": "2799",
-      "wa": "2799",
-      "sa": "2799",
-      "tas": "2799"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2799",
+        "price_per_unit": "2799",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2799",
+        "price_per_unit": "2799",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2799",
+        "price_per_unit": "2799",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2799",
+        "price_per_unit": "2799",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2799",
+        "price_per_unit": "2799",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2799",
+        "price_per_unit": "2799",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2799",
+        "price_per_unit": "2799",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2799",
+        "price_per_unit": "2799",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074709820/orku-1kg-sodium-bicarbonate-food-grade-bicarb-baking-soda-hydrogen-carbonate-powder",
     "name": "Orku 1Kg Sodium Bicarbonate - Food Grade Bicarb Baking Soda Hydrogen Carbonate Powder",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074709820.jpg",
+    "source_id": "Woolworths - 1074709820",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "4199",
-      "nsw_price_per_unit": "420",
-      "nsw_unit": "G",
-      "vic": "4199",
-      "qld": "4199",
-      "wa": "4199",
-      "sa": "4199",
-      "tas": "4199"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4199",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "4199",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "4199",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "4199",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "4199",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "4199",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "4199",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "4199",
+        "price_per_unit": "420",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074709992/orku-2kg-sodium-bicarbonate-food-grade-bicarb-baking-soda-hydrogen-carbonate-powder",
     "name": "Orku 2Kg Sodium Bicarbonate - Food Grade Bicarb Baking Soda Hydrogen Carbonate Powder",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074709992.jpg",
+    "source_id": "Woolworths - 1074709992",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "5199",
-      "nsw_price_per_unit": "260",
-      "nsw_unit": "G",
-      "vic": "5199",
-      "qld": "5199",
-      "wa": "5199",
-      "sa": "5199",
-      "tas": "5199"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5199",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "5199",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "5199",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "5199",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "5199",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "5199",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "5199",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "5199",
+        "price_per_unit": "260",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074710278/orku-400g-sodium-bicarbonate-food-grade-bicarb-baking-soda-hydrogen-carbonate",
     "name": "Orku 400g Sodium Bicarbonate - Food Grade Bicarb Baking Soda Hydrogen Carbonate",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074710278.jpg",
+    "source_id": "Woolworths - 1074710278",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "2899",
-      "nsw_price_per_unit": "725",
-      "nsw_unit": "G",
-      "vic": "2899",
-      "qld": "2899",
-      "wa": "2899",
-      "sa": "2899",
-      "tas": "2899"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "2899",
+        "price_per_unit": "725",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "2899",
+        "price_per_unit": "725",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "2899",
+        "price_per_unit": "725",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "2899",
+        "price_per_unit": "725",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "2899",
+        "price_per_unit": "725",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "2899",
+        "price_per_unit": "725",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "2899",
+        "price_per_unit": "725",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "2899",
+        "price_per_unit": "725",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074885657/orku-5kg-sodium-bicarbonate-food-grade-bicarb-baking-soda-hydrogen-carbonate-powder",
     "name": "Orku 5Kg Sodium Bicarbonate - Food Grade Bicarb Baking Soda Hydrogen Carbonate Powder",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074885657.jpg",
+    "source_id": "Woolworths - 1074885657",
     "barcode": null,
     "shop": "Woolworths",
     "weight": null,
-    "prices": {
-      "nsw": "9399",
-      "nsw_price_per_unit": "NaN",
-      "nsw_unit": "",
-      "vic": "9399",
-      "qld": "9399",
-      "wa": "9399",
-      "sa": "9399",
-      "tas": "9399"
-    }
+    "prices": [
+      null,
+      null,
+      null
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074885656/orku-5kg-sodium-bicarbonate-tub-food-grade-bicarb-baking-soda-hydrogen-carbonate",
     "name": "Orku 5Kg Sodium Bicarbonate Tub - Food Grade Bicarb Baking Soda Hydrogen Carbonate",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074885656.jpg",
+    "source_id": "Woolworths - 1074885656",
     "barcode": null,
     "shop": "Woolworths",
     "weight": null,
-    "prices": {
-      "nsw": "10999",
-      "nsw_price_per_unit": "NaN",
-      "nsw_unit": "",
-      "vic": "10999",
-      "qld": "10999",
-      "wa": "10999",
-      "sa": "10999",
-      "tas": "10999"
-    }
+    "prices": [
+      null,
+      null,
+      null
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074890600/orku-bulk-10kg-sodium-bicarbonate-food-grade-bicarb-baking-soda-hydrogen-carbonate",
     "name": "Orku Bulk 10Kg Sodium Bicarbonate - Food Grade Bicarb Baking Soda Hydrogen Carbonate",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074890600.jpg",
+    "source_id": "Woolworths - 1074890600",
     "barcode": null,
     "shop": "Woolworths",
     "weight": null,
-    "prices": {
-      "nsw": "12999",
-      "nsw_price_per_unit": "NaN",
-      "nsw_unit": "",
-      "vic": "12999",
-      "qld": "12999",
-      "wa": "12999",
-      "sa": "12999",
-      "tas": "12999"
-    }
+    "prices": [
+      null,
+      null,
+      null
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074890571/orku-bulk-20kg-sodium-bicarbonate-food-grade-bicarb-baking-soda-hydrogen-carbonate",
     "name": "Orku Bulk 20Kg Sodium Bicarbonate - Food Grade Bicarb Baking Soda Hydrogen Carbonate",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074890571.jpg",
+    "source_id": "Woolworths - 1074890571",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "20999",
-      "nsw_price_per_unit": "105",
-      "nsw_unit": "G",
-      "vic": "20999",
-      "qld": "20999",
-      "wa": "20999",
-      "sa": "20999",
-      "tas": "20999"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "20999",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "20999",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "20999",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "20999",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "20999",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "20999",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "20999",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "20999",
+        "price_per_unit": "105",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/15391/tandaco-dry-yeast-5x7g-sachets",
     "name": "Tandaco Dry Yeast 5x7g Sachets 35g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/015391.jpg",
+    "source_id": "Woolworths - 15391",
     "barcode": "9300681225350",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "280",
-      "nsw_price_per_unit": "800",
-      "nsw_unit": "G",
-      "vic": "280",
-      "qld": "280",
-      "wa": "280",
-      "sa": "280",
-      "tas": "280"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/39156/tandaco-dry-yeast-12x7g-sachets",
-    "name": "Tandaco Dry Yeast 12x7g Sachets 84g",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039156.jpg",
-    "barcode": "9300681225114",
-    "shop": "Woolworths",
-    "weight": "100G",
-    "prices": {
-      "vic": "550",
-      "qld": "550",
-      "wa": "550",
-      "sa": "550",
-      "tas": "550"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/349621/wallaby-bread-improver",
-    "name": "Wallaby Bread Improver 125g",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/349621.jpg",
-    "barcode": "9321885002011",
-    "shop": "Woolworths",
-    "weight": "100G",
-    "prices": {
-      "vic": "520",
-      "qld": "520",
-      "wa": "520",
-      "sa": "520"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "280",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "280",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "280",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "280",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "280",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "280",
+        "price_per_unit": "800",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "295",
+        "price_per_unit": "843",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/143327/mckenzie-s-vegan-instant-dried-baker-s-yeast",
     "name": "McKenzie's Vegan Instant Dried Baker's Yeast 200g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143327.jpg",
+    "source_id": "Woolworths - 143327",
     "barcode": "9310061125132",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "qld": "500",
-      "wa": "500",
-      "sa": "500",
-      "tas": "500"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "450",
+        "price_per_unit": "225",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39156/tandaco-dry-yeast-12x7g-sachets",
+    "name": "Tandaco Dry Yeast 12x7g Sachets 84g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039156.jpg",
+    "source_id": "Woolworths - 39156",
+    "barcode": "9300681225114",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "655",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "655",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "655",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "655",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "470",
+        "price_per_unit": "560",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "470",
+        "price_per_unit": "560",
+        "price_unit": "G"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/349621/wallaby-bread-improver",
+    "name": "Wallaby Bread Improver 125g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/349621.jpg",
+    "source_id": "Woolworths - 349621",
+    "barcode": "9321885002011",
+    "shop": "Woolworths",
+    "weight": "100G",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "520",
+        "price_per_unit": "416",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "520",
+        "price_per_unit": "416",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "520",
+        "price_per_unit": "416",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "520",
+        "price_per_unit": "416",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "520",
+        "price_per_unit": "416",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "520",
+        "price_per_unit": "416",
+        "price_unit": "G"
+      }
+    ]
   }
 ]

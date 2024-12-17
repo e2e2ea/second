@@ -3,953 +3,2992 @@
     "source_url": "https://www.coles.com.au/product/coles-cheese-slices-tasty-24-pack-500g-5433050",
     "name": "Coles Cheese Slices Tasty 24 Pack | 500g",
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5433050.jpg&w=640&q=90",
+    "source_id": "Coles - 5433050",
     "barcode": "9300601017003",
     "shop": "coles",
     "weight": "500g",
-    "prices": {
-      "nsw": "1580",
-      "nsw_price_per_unit": "790",
-      "nsw_unit": "g",
-      "vic": "1580",
-      "qld": "1580",
-      "wa": "1580",
-      "sa": "1580",
-      "tas": "1580"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/the-organic-milk-co-organic-cheddar-slices-250g-4380865",
     "name": "The Organic Milk Co Organic Cheddar Slices | 250g",
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4380865.jpg&w=640&q=90",
+    "source_id": "Coles - 4380865",
     "barcode": "9351916000334",
     "shop": "coles",
     "weight": "250g",
-    "prices": {
-      "nsw": "3000",
-      "nsw_price_per_unit": "750",
-      "nsw_unit": "g",
-      "vic": "3000",
-      "wa": "3000",
-      "sa": "3000",
-      "tas": "3000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/sheese-vegan-tasty-cheese-slices-200g-4223889",
-    "name": "Sheese Vegan Tasty Cheese Slices | 200g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4223889.jpg&w=640&q=90",
-    "barcode": "5034795003620",
-    "shop": "coles",
-    "weight": "200g",
-    "prices": {
-      "nsw": "3750",
-      "nsw_price_per_unit": "750",
-      "nsw_unit": "g",
-      "vic": "3750",
-      "qld": "3750",
-      "wa": "3750",
-      "sa": "3750",
-      "tas": "3750"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/cracker-barrel-extra-sharp-cheese-slices-250g-4389178",
-    "name": "Cracker Barrel Extra Sharp Cheese Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4389178.jpg&w=640&q=90",
-    "barcode": "9311482007472",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "2800",
-      "nsw_price_per_unit": "700",
-      "nsw_unit": "g",
-      "vic": "2800",
-      "qld": "2800",
-      "wa": "2800",
-      "sa": "2800",
-      "tas": "2800"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-simply-sandwich-slices-24-pack-500g-244242",
-    "name": "Coles Simply Sandwich Slices 24 Pack | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F244242.jpg&w=640&q=90",
-    "barcode": "9310645354422",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "880",
-      "nsw_price_per_unit": "440",
-      "nsw_unit": "g",
-      "vic": "880",
-      "qld": "880",
-      "wa": "880",
-      "sa": "880",
-      "tas": "880"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-dairy-natural-tasty-cheese-slices-30-pack-500g-6704811",
-    "name": "Bega Dairy Natural Tasty Cheese Slices 30 Pack | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6704811.jpg&w=640&q=90",
-    "barcode": "9310264912768",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "2200",
-      "nsw_price_per_unit": "1100",
-      "nsw_unit": "g",
-      "vic": "2200",
-      "qld": "2200",
-      "wa": "2200",
-      "sa": "2200",
-      "tas": "2200"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/cheer-tasty-cheese-slices-750g-3274750",
-    "name": "Cheer Tasty Cheese Slices | 750g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3274750.jpg&w=640&q=90",
-    "barcode": "9311482014753",
-    "shop": "coles",
-    "weight": "750g",
-    "prices": {
-      "nsw": "1867",
-      "nsw_price_per_unit": "1400",
-      "nsw_unit": "g",
-      "vic": "1867",
-      "qld": "1867",
-      "wa": "1867",
-      "sa": "1867",
-      "tas": "1867"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-tasty-light-cheese-slices-24-pack-500g-5433027",
-    "name": "Coles Tasty Light Cheese Slices 24 Pack | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5433027.jpg&w=640&q=90",
-    "barcode": "9300601069903",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "1580",
-      "nsw_price_per_unit": "790",
-      "nsw_unit": "g",
-      "vic": "1580",
-      "qld": "1580",
-      "wa": "1580",
-      "sa": "1580",
-      "tas": "1580"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-tasty-natural-cheese-slices-15-pack-250g-6704323",
-    "name": "Bega Tasty Natural Cheese Slices 15 pack | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6704323.jpg&w=640&q=90",
-    "barcode": "9310264912751",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "3000",
-      "nsw_price_per_unit": "750",
-      "nsw_unit": "g",
-      "vic": "3000",
-      "qld": "3000",
-      "wa": "3000",
-      "sa": "3000",
-      "tas": "3000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-swiss-style-cheese-slices-200g-1462544",
-    "name": "Coles Swiss Style Cheese Slices | 200g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1462544.jpg&w=640&q=90",
-    "barcode": "9300601970230",
-    "shop": "coles",
-    "weight": "200g",
-    "prices": {
-      "nsw": "2450",
-      "nsw_price_per_unit": "490",
-      "nsw_unit": "g",
-      "vic": "2450",
-      "qld": "2450",
-      "wa": "2450",
-      "sa": "2450",
-      "tas": "2450"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-simply-light-sandwich-slices-24-pack-500g-5164639",
-    "name": "Coles Simply Light Sandwich Slices 24 Pack | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5164639.jpg&w=640&q=90",
-    "barcode": "9310645354439",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "880",
-      "nsw_price_per_unit": "440",
-      "nsw_unit": "g",
-      "vic": "880",
-      "qld": "880",
-      "wa": "880",
-      "sa": "880",
-      "tas": "880"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-strong-and-bitey-natural-vintage-slices-500g-4413658",
-    "name": "Bega Strong & Bitey Natural Vintage Slices | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4413658.jpg&w=640&q=90",
-    "barcode": "9310264912782",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "2200",
-      "nsw_price_per_unit": "1100",
-      "nsw_unit": "g",
-      "vic": "2200",
-      "qld": "2200",
-      "wa": "2200",
-      "sa": "2200",
-      "tas": "2200"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/cheer-tasty-cheese-slices-500g-8578",
-    "name": "Cheer Tasty Cheese Slices | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8578.jpg&w=640&q=90",
-    "barcode": "9311482014722",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "2000",
-      "nsw_price_per_unit": "1000",
-      "nsw_unit": "g",
-      "vic": "2000",
-      "qld": "2000",
-      "wa": "2000",
-      "sa": "2000",
-      "tas": "2000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-simply-sandwich-slices-84-pack-1kg-1978140",
-    "name": "Coles Simply Sandwich Slices 84 Pack | 1kg",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1978140.jpg&w=640&q=90",
-    "barcode": "9310645044408",
-    "shop": "coles",
-    "weight": "1kg",
-    "prices": {
-      "vic": "1250",
-      "wa": "1250",
-      "sa": "1250",
-      "tas": "1250"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-simply-smokey-flavoured-sandwich-slices-12-pack-250g-1980491",
-    "name": "Coles Simply Smokey Flavoured Sandwich Slices 12 Pack | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1980491.jpg&w=640&q=90",
-    "barcode": "9310645354415",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "1400",
-      "nsw_price_per_unit": "350",
-      "nsw_unit": "g",
-      "vic": "1400",
-      "qld": "1400",
-      "wa": "1400",
-      "sa": "1400",
-      "tas": "1400"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-strong-and-bitey-vintage-cheese-slices-15x250g-250g-9759365",
-    "name": "Bega Strong & Bitey Vintage Cheese Slices 15x250g | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9759365.jpg&w=640&q=90",
-    "barcode": "9310264912775",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "3000",
-      "nsw_price_per_unit": "750",
-      "nsw_unit": "g",
-      "vic": "3000",
-      "qld": "3000",
-      "wa": "3000",
-      "sa": "3000",
-      "tas": "3000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/cheer-colby-cheese-slices-500g-2781978",
-    "name": "Cheer Colby Cheese Slices | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2781978.jpg&w=640&q=90",
-    "barcode": "9311482014746",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "2000",
-      "nsw_price_per_unit": "1000",
-      "nsw_unit": "g",
-      "vic": "2000",
-      "qld": "2000",
-      "wa": "2000",
-      "sa": "2000",
-      "tas": "2000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/jarlsberg-dairy-original-swiss-cheese-slices-150g-5498703",
-    "name": "Jarlsberg Dairy Original Swiss Cheese Slices | 150g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5498703.jpg&w=640&q=90",
-    "barcode": "9310631628414",
-    "shop": "coles",
-    "weight": "150g",
-    "prices": {
-      "nsw": "5667",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "5667",
-      "qld": "5667",
-      "wa": "5667",
-      "sa": "5667",
-      "tas": "5667"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-gouda-cheese-slices-200g-1462533",
-    "name": "Coles Gouda Cheese Slices | 200g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1462533.jpg&w=640&q=90",
-    "barcode": "9300601970223",
-    "shop": "coles",
-    "weight": "200g",
-    "prices": {
-      "nsw": "2450",
-      "nsw_price_per_unit": "490",
-      "nsw_unit": "g",
-      "vic": "2450",
-      "qld": "2450",
-      "wa": "2450",
-      "sa": "2450",
-      "tas": "2450"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-australian-tasty-cheese-slices-250g-1472231",
-    "name": "Coles Australian Tasty Cheese Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1472231.jpg&w=640&q=90",
-    "barcode": "9300601970339",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "2400",
-      "nsw_price_per_unit": "600",
-      "nsw_unit": "g",
-      "vic": "2400",
-      "qld": "2400",
-      "wa": "2400",
-      "sa": "2400",
-      "tas": "2400"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-lactose-free-natural-cheese-slices-250g-4385756",
-    "name": "Bega Lactose Free Natural Cheese Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4385756.jpg&w=640&q=90",
-    "barcode": "9310264109588",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "3000",
-      "nsw_price_per_unit": "750",
-      "nsw_unit": "g",
-      "vic": "3000",
-      "qld": "3000",
-      "wa": "3000",
-      "sa": "3000",
-      "tas": "3000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/cheer-tasty-cheese-slices-250g-217104",
-    "name": "Cheer Tasty Cheese Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F217104.jpg&w=640&q=90",
-    "barcode": "9311482014685",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "vic": "3000",
-      "qld": "3000",
-      "sa": "3000",
-      "tas": "3000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-light-and-tasty-natural-cheese-slices-12x250g-250g-9400960",
-    "name": "Bega Light & Tasty Natural Cheese Slices 12x250g | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9400960.jpg&w=640&q=90",
-    "barcode": "9310264912836",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "3000",
-      "nsw_price_per_unit": "750",
-      "nsw_unit": "g",
-      "vic": "3000",
-      "qld": "3000",
-      "wa": "3000",
-      "sa": "3000",
-      "tas": "3000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/cheer-light-and-tasty-cheese-slices-500g-5292118",
-    "name": "Cheer Light & Tasty Cheese Slices | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5292118.jpg&w=640&q=90",
-    "barcode": "9311482014739",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "2000",
-      "nsw_price_per_unit": "1000",
-      "nsw_unit": "g",
-      "vic": "2000",
-      "qld": "2000",
-      "wa": "2000",
-      "sa": "2000",
-      "tas": "2000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-cheese-burger-slices-250g-8792988",
-    "name": "Bega Cheese Burger Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8792988.jpg&w=640&q=90",
-    "barcode": "",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "2160",
-      "nsw_price_per_unit": "540",
-      "nsw_unit": "g",
-      "vic": "2160",
-      "qld": "2160",
-      "wa": "2160",
-      "sa": "2160",
-      "tas": "2160"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-easy-melt-colby-slices-250g-1446286",
-    "name": "Bega Easy Melt Colby Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1446286.jpg&w=640&q=90",
-    "barcode": "9310264912850",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "3000",
-      "nsw_price_per_unit": "750",
-      "nsw_unit": "g",
-      "vic": "3000",
-      "qld": "3000",
-      "wa": "3000",
-      "sa": "3000",
-      "tas": "3000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-dairy-vintage-cheese-slices-12-pack-250g-5726058",
-    "name": "Coles Dairy Vintage Cheese Slices 12 Pack | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5726058.jpg&w=640&q=90",
-    "barcode": "9300601310623",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "2400",
-      "nsw_price_per_unit": "600",
-      "nsw_unit": "g",
-      "vic": "2400",
-      "qld": "2400",
-      "wa": "2400",
-      "sa": "2400",
-      "tas": "2400"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/liddells-lactose-free-tasty-cheese-slices-250g-3843298",
-    "name": "Liddells Lactose Free Tasty Cheese Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3843298.jpg&w=640&q=90",
-    "barcode": "9311482013725",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "3000",
-      "nsw_price_per_unit": "750",
-      "nsw_unit": "g",
-      "vic": "3000",
-      "qld": "3000",
-      "wa": "3000",
-      "sa": "3000",
-      "tas": "3000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-regular-432g-8793030",
-    "name": "Bega Cheese Slices Regular | 432g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8793030.jpg&w=640&q=90",
-    "barcode": "",
-    "shop": "coles",
-    "weight": "432g",
-    "prices": {
-      "nsw": "1806",
-      "nsw_price_per_unit": "780",
-      "nsw_unit": "g",
-      "vic": "1806",
-      "qld": "1806",
-      "wa": "1806",
-      "sa": "1806",
-      "tas": "1806"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-regular-648g-8793040",
-    "name": "Bega Cheese Slices Regular | 648g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8793040.jpg&w=640&q=90",
-    "barcode": "",
-    "shop": "coles",
-    "weight": "648g",
-    "prices": {
-      "nsw": "1667",
-      "nsw_price_per_unit": "1080",
-      "nsw_unit": "g",
-      "vic": "1667",
-      "qld": "1667",
-      "wa": "1667",
-      "sa": "1667",
-      "tas": "1667"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-colby-500g-6796660",
-    "name": "Bega Cheese Slices Colby | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6796660.jpg&w=640&q=90",
-    "barcode": "9310264115886",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "2200",
-      "nsw_price_per_unit": "1100",
-      "nsw_unit": "g",
-      "vic": "2200",
-      "wa": "2200",
-      "sa": "2200",
-      "tas": "2200"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-dairy-colby-cheese-slices-12-pack-250g-7247191",
-    "name": "Coles Dairy Colby Cheese Slices 12 Pack | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7247191.jpg&w=640&q=90",
-    "barcode": "9300601392810",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "2400",
-      "nsw_price_per_unit": "600",
-      "nsw_unit": "g",
-      "vic": "2400",
-      "qld": "2400",
-      "wa": "2400",
-      "sa": "2400",
-      "tas": "2400"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-havarti-cheese-slices-200g-1462555",
-    "name": "Coles Havarti Cheese Slices | 200g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1462555.jpg&w=640&q=90",
-    "barcode": "9300601970247",
-    "shop": "coles",
-    "weight": "200g",
-    "prices": {
-      "nsw": "2450",
-      "nsw_price_per_unit": "490",
-      "nsw_unit": "g",
-      "vic": "2450",
-      "qld": "2450",
-      "wa": "2450",
-      "sa": "2450",
-      "tas": "2450"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-cheese-cheddar-slices-250g-8792999",
-    "name": "Bega Cheese Cheddar Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8792999.jpg&w=640&q=90",
-    "barcode": "",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "nsw": "2160",
-      "nsw_price_per_unit": "540",
-      "nsw_unit": "g",
-      "vic": "2160",
-      "qld": "2160",
-      "wa": "2160",
-      "sa": "2160",
-      "tas": "2160"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bega-natural-25percent-red-fat-tasty-slices-30-pack-500g-9184139",
-    "name": "Bega Natural 25% Red Fat Tasty Slices 30 pack | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9184139.jpg&w=640&q=90",
-    "barcode": "9310264912805",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "2200",
-      "nsw_price_per_unit": "1100",
-      "nsw_unit": "g",
-      "vic": "2200",
-      "qld": "2200",
-      "wa": "2200",
-      "sa": "2200",
-      "tas": "2200"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/cheer-extra-tasty-cheese-slices-500g-5432320",
-    "name": "Cheer Extra Tasty Cheese Slices | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5432320.jpg&w=640&q=90",
-    "barcode": "9311482019697",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "vic": "2000",
-      "qld": "2000",
-      "wa": "2000",
-      "sa": "2000",
-      "tas": "2000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/liddells-lactose-free-colby-cheese-slices-250g-3241626",
-    "name": "Liddells Lactose Free Colby Cheese Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3241626.jpg&w=640&q=90",
-    "barcode": "9300639609171",
-    "shop": "coles",
-    "weight": "250g",
-    "prices": {
-      "vic": "3000",
-      "qld": "N/A",
-      "sa": "3000",
-      "tas": "3000"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/bio-cheddar-cheese-slices-200g-3274782",
-    "name": "Bio Cheddar Cheese Slices | 200g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3274782.jpg&w=640&q=90",
-    "barcode": "9348204000084",
-    "shop": "coles",
-    "weight": "200g",
-    "prices": {
-      "nsw": "4500",
-      "nsw_price_per_unit": "900",
-      "nsw_unit": "g",
-      "vic": "4500",
-      "qld": "4500",
-      "wa": "4500",
-      "sa": "4500",
-      "tas": "4500"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/coles-edam-cheese-slices-200g-1462511",
-    "name": "Coles Edam Cheese Slices | 200g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1462511.jpg&w=640&q=90",
-    "barcode": "9300601970209",
-    "shop": "coles",
-    "weight": "200g",
-    "prices": {
-      "nsw": "2450",
-      "nsw_price_per_unit": "490",
-      "nsw_unit": "g",
-      "vic": "2450",
-      "qld": "2450",
-      "wa": "2450",
-      "sa": "2450",
-      "tas": "2450"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3240",
+        "price_per_unit": "810",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mainland-cheese-slices-extra-tasty-210g-6576788",
     "name": "Mainland Cheese Slices Extra Tasty | 210g",
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6576788.jpg&w=640&q=90",
+    "source_id": "Coles - 6576788",
     "barcode": "9310052273903",
     "shop": "coles",
     "weight": "210g",
-    "prices": {
-      "vic": "3333",
-      "qld": "3333",
-      "wa": "3333",
-      "sa": "3333",
-      "tas": "3333"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3333",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3333",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3333",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3333",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3333",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/cheer-mozzarella-cheese-slices-250g-7648589",
-    "name": "Cheer Mozzarella Cheese Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7648589.jpg&w=640&q=90",
-    "barcode": "9300639618081",
+    "source_url": "https://www.coles.com.au/product/sheese-vegan-tasty-cheese-slices-200g-4223889",
+    "name": "Sheese Vegan Tasty Cheese Slices | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4223889.jpg&w=640&q=90",
+    "source_id": "Coles - 4223889",
+    "barcode": "5034795003620",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3250",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cracker-barrel-extra-sharp-cheese-slices-250g-4389178",
+    "name": "Cracker Barrel Extra Sharp Cheese Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4389178.jpg&w=640&q=90",
+    "source_id": "Coles - 4389178",
+    "barcode": "9311482007472",
     "shop": "coles",
     "weight": "250g",
-    "prices": {
-      "nsw": "2800",
-      "nsw_price_per_unit": "700",
-      "nsw_unit": "g",
-      "vic": "2800",
-      "qld": "2800",
-      "wa": "2800",
-      "sa": "2800",
-      "tas": "2800"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2800",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-light-432g-8793029",
-    "name": "Bega Cheese Slices Light | 432g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8793029.jpg&w=640&q=90",
-    "barcode": "",
+    "source_url": "https://www.coles.com.au/product/coles-simply-sandwich-slices-24-pack-500g-244242",
+    "name": "Coles Simply Sandwich Slices 24 Pack | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F244242.jpg&w=640&q=90",
+    "source_id": "Coles - 244242",
+    "barcode": "9310645354422",
     "shop": "coles",
-    "weight": "432g",
-    "prices": {
-      "nsw": "1806",
-      "nsw_price_per_unit": "780",
-      "nsw_unit": "g",
-      "vic": "1806",
-      "qld": "1806",
-      "wa": "1806",
-      "sa": "1806",
-      "tas": "1806"
-    }
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/cheer-light-and-tasty-cheese-slices-750g-5420590",
-    "name": "Cheer Light & Tasty Cheese Slices | 750g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5420590.jpg&w=640&q=90",
-    "barcode": "9311482014760",
+    "source_url": "https://www.coles.com.au/product/bega-dairy-natural-tasty-cheese-slices-30-pack-500g-6704811",
+    "name": "Bega Dairy Natural Tasty Cheese Slices 30 Pack | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6704811.jpg&w=640&q=90",
+    "source_id": "Coles - 6704811",
+    "barcode": "9310264912768",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2376",
+        "price_per_unit": "1188",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cheer-tasty-cheese-slices-750g-3274750",
+    "name": "Cheer Tasty Cheese Slices | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3274750.jpg&w=640&q=90",
+    "source_id": "Coles - 3274750",
+    "barcode": "9311482014753",
     "shop": "coles",
     "weight": "750g",
-    "prices": {
-      "vic": "1867",
-      "sa": "1867",
-      "tas": "1867"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/jarlsberg-dairy-swiss-lite-cheese-slices-150g-8389680",
-    "name": "Jarlsberg Dairy Swiss Lite Cheese Slices | 150g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8389680.jpg&w=640&q=90",
-    "barcode": "9310631628421",
+    "source_url": "https://www.coles.com.au/product/bega-strong-and-bitey-natural-vintage-slices-500g-4413658",
+    "name": "Bega Strong & Bitey Natural Vintage Slices | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4413658.jpg&w=640&q=90",
+    "source_id": "Coles - 4413658",
+    "barcode": "9310264912782",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2376",
+        "price_per_unit": "1188",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-light-sandwich-slices-24-pack-500g-5164639",
+    "name": "Coles Simply Light Sandwich Slices 24 Pack | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5164639.jpg&w=640&q=90",
+    "source_id": "Coles - 5164639",
+    "barcode": "9310645354439",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "880",
+        "price_per_unit": "440",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-swiss-style-cheese-slices-200g-1462544",
+    "name": "Coles Swiss Style Cheese Slices | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1462544.jpg&w=640&q=90",
+    "source_id": "Coles - 1462544",
+    "barcode": "9300601970230",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-tasty-light-cheese-slices-24-pack-500g-5433027",
+    "name": "Coles Tasty Light Cheese Slices 24 Pack | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5433027.jpg&w=640&q=90",
+    "source_id": "Coles - 5433027",
+    "barcode": "9300601069903",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1580",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cheer-tasty-cheese-slices-500g-8578",
+    "name": "Cheer Tasty Cheese Slices | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8578.jpg&w=640&q=90",
+    "source_id": "Coles - 8578",
+    "barcode": "9311482014722",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2376",
+        "price_per_unit": "1188",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-tasty-natural-cheese-slices-15-pack-250g-6704323",
+    "name": "Bega Tasty Natural Cheese Slices 15 pack | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6704323.jpg&w=640&q=90",
+    "source_id": "Coles - 6704323",
+    "barcode": "9310264912751",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3240",
+        "price_per_unit": "810",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-simply-sandwich-slices-84-pack-1kg-1978140",
+    "name": "Coles Simply Sandwich Slices 84 Pack | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1978140.jpg&w=640&q=90",
+    "source_id": "Coles - 1978140",
+    "barcode": "9310645044408",
+    "shop": "coles",
+    "weight": "1kg",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "QLD",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "TAS",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "ACT",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      },
+      {
+        "state": "WA",
+        "price": "1250",
+        "price_per_unit": "1250",
+        "price_unit": "kg"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jarlsberg-dairy-original-swiss-cheese-slices-150g-5498703",
+    "name": "Jarlsberg Dairy Original Swiss Cheese Slices | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5498703.jpg&w=640&q=90",
+    "source_id": "Coles - 5498703",
+    "barcode": "9310631628414",
     "shop": "coles",
     "weight": "150g",
-    "prices": {
-      "nsw": "5667",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "5667",
-      "qld": "5667",
-      "sa": "5667",
-      "tas": "5667"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "6120",
+        "price_per_unit": "918",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/cheer-cheese-slices-colby-750g-6800134",
-    "name": "Cheer Cheese Slices Colby | 750g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6800134.jpg&w=640&q=90",
-    "barcode": "9300639617794",
+    "source_url": "https://www.coles.com.au/product/coles-simply-smokey-flavoured-sandwich-slices-12-pack-250g-1980491",
+    "name": "Coles Simply Smokey Flavoured Sandwich Slices 12 Pack | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1980491.jpg&w=640&q=90",
+    "source_id": "Coles - 1980491",
+    "barcode": "9310645354415",
     "shop": "coles",
-    "weight": "750g",
-    "prices": {
-      "vic": "1867",
-      "sa": "1867",
-      "tas": "1867"
-    }
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cheer-tasty-cheese-slices-250g-217104",
+    "name": "Cheer Tasty Cheese Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F217104.jpg&w=640&q=90",
+    "source_id": "Coles - 217104",
+    "barcode": "9311482014685",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-australian-tasty-cheese-slices-250g-1472231",
+    "name": "Coles Australian Tasty Cheese Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1472231.jpg&w=640&q=90",
+    "source_id": "Coles - 1472231",
+    "barcode": "9300601970339",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-gouda-cheese-slices-200g-1462533",
+    "name": "Coles Gouda Cheese Slices | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1462533.jpg&w=640&q=90",
+    "source_id": "Coles - 1462533",
+    "barcode": "9300601970223",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cheese-burger-slices-250g-8792988",
+    "name": "Bega Cheese Burger Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8792988.jpg&w=640&q=90",
+    "source_id": "Coles - 8792988",
+    "barcode": null,
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2332",
+        "price_per_unit": "583",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-lactose-free-natural-cheese-slices-250g-4385756",
+    "name": "Bega Lactose Free Natural Cheese Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4385756.jpg&w=640&q=90",
+    "source_id": "Coles - 4385756",
+    "barcode": "9310264109588",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3240",
+        "price_per_unit": "810",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cheer-colby-cheese-slices-500g-2781978",
+    "name": "Cheer Colby Cheese Slices | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2781978.jpg&w=640&q=90",
+    "source_id": "Coles - 2781978",
+    "barcode": "9311482014746",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2376",
+        "price_per_unit": "1188",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cheer-light-and-tasty-cheese-slices-500g-5292118",
+    "name": "Cheer Light & Tasty Cheese Slices | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5292118.jpg&w=640&q=90",
+    "source_id": "Coles - 5292118",
+    "barcode": "9311482014739",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2376",
+        "price_per_unit": "1188",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-strong-and-bitey-vintage-cheese-slices-15x250g-250g-9759365",
+    "name": "Bega Strong & Bitey Vintage Cheese Slices 15x250g | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9759365.jpg&w=640&q=90",
+    "source_id": "Coles - 9759365",
+    "barcode": "9310264912775",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3240",
+        "price_per_unit": "810",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-regular-648g-8793040",
+    "name": "Bega Cheese Slices Regular | 648g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8793040.jpg&w=640&q=90",
+    "source_id": "Coles - 8793040",
+    "barcode": null,
+    "shop": "coles",
+    "weight": "648g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1667",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1667",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1667",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1667",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1667",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1667",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1799",
+        "price_per_unit": "1166",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1667",
+        "price_per_unit": "1080",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/liddells-lactose-free-tasty-cheese-slices-250g-3843298",
+    "name": "Liddells Lactose Free Tasty Cheese Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3843298.jpg&w=640&q=90",
+    "source_id": "Coles - 3843298",
+    "barcode": "9311482013725",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-light-and-tasty-natural-cheese-slices-12x250g-250g-9400960",
+    "name": "Bega Light & Tasty Natural Cheese Slices 12x250g | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9400960.jpg&w=640&q=90",
+    "source_id": "Coles - 9400960",
+    "barcode": "9310264912836",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3240",
+        "price_per_unit": "810",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-dairy-colby-cheese-slices-12-pack-250g-7247191",
+    "name": "Coles Dairy Colby Cheese Slices 12 Pack | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7247191.jpg&w=640&q=90",
+    "source_id": "Coles - 7247191",
+    "barcode": "9300601392810",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-colby-500g-6796660",
+    "name": "Bega Cheese Slices Colby | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6796660.jpg&w=640&q=90",
+    "source_id": "Coles - 6796660",
+    "barcode": "9310264115886",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2376",
+        "price_per_unit": "1188",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-regular-432g-8793030",
+    "name": "Bega Cheese Slices Regular | 432g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8793030.jpg&w=640&q=90",
+    "source_id": "Coles - 8793030",
+    "barcode": null,
+    "shop": "coles",
+    "weight": "432g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-cheese-slices-tasty-refill-250g-7648603",
     "name": "Cheer Cheese Slices Tasty Refill | 250g",
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7648603.jpg&w=640&q=90",
+    "source_id": "Coles - 7648603",
     "barcode": "9300639618111",
     "shop": "coles",
     "weight": "250g",
-    "prices": {
-      "nsw": "2800",
-      "nsw_price_per_unit": "700",
-      "nsw_unit": "g",
-      "vic": "2800",
-      "qld": "2800",
-      "wa": "2800",
-      "sa": "2800",
-      "tas": "2800"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/mainland-cheese-slices-swiss-180g-5415375",
-    "name": "Mainland Cheese Slices Swiss | 180g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5415375.jpg&w=640&q=90",
-    "barcode": "9310053102080",
-    "shop": "coles",
-    "weight": "180g",
-    "prices": {
-      "nsw": "3889",
-      "nsw_price_per_unit": "700",
-      "nsw_unit": "g",
-      "vic": "3889",
-      "qld": "3889",
-      "sa": "3889",
-      "tas": "3889"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/norco-natural-dairy-cheese-slices-12-pack-250g-7119409",
-    "name": "Norco Natural Dairy Cheese Slices 12 Pack | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7119409.jpg&w=640&q=90",
-    "barcode": "9341661003025",
+    "source_url": "https://www.coles.com.au/product/coles-dairy-vintage-cheese-slices-12-pack-250g-5726058",
+    "name": "Coles Dairy Vintage Cheese Slices 12 Pack | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5726058.jpg&w=640&q=90",
+    "source_id": "Coles - 5726058",
+    "barcode": "9300601310623",
     "shop": "coles",
     "weight": "250g",
-    "prices": {
-      "nsw": "2760",
-      "nsw_price_per_unit": "690",
-      "nsw_unit": "g",
-      "vic": "2760",
-      "qld": "2760",
-      "wa": "2760",
-      "sa": "2760",
-      "tas": "2760"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/cheer-aussie-jack-cheese-slices-250g-3847812",
-    "name": "Cheer Aussie Jack Cheese Slices | 250g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3847812.jpg&w=640&q=90",
-    "barcode": "9311482014715",
+    "source_url": "https://www.coles.com.au/product/bega-cheese-cheddar-slices-250g-8792999",
+    "name": "Bega Cheese Cheddar Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8792999.jpg&w=640&q=90",
+    "source_id": "Coles - 8792999",
+    "barcode": null,
     "shop": "coles",
     "weight": "250g",
-    "prices": {
-      "vic": "3000",
-      "qld": "3000",
-      "sa": "3000",
-      "tas": "3000"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2332",
+        "price_per_unit": "583",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2160",
+        "price_per_unit": "540",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/coles-finest-italian-provolone-slices-110g-8093344",
-    "name": "Coles Finest Italian Provolone Slices | 110g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8093344.jpg&w=640&q=90",
-    "barcode": "",
+    "source_url": "https://www.coles.com.au/product/bio-cheddar-cheese-slices-200g-3274782",
+    "name": "Bio Cheddar Cheese Slices | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3274782.jpg&w=640&q=90",
+    "source_id": "Coles - 3274782",
+    "barcode": "9348204000084",
     "shop": "coles",
-    "weight": "110g",
-    "prices": {
-      "nsw": "5455",
-      "nsw_price_per_unit": "600",
-      "nsw_unit": "g",
-      "vic": "5455",
-      "qld": "5455",
-      "sa": "5455",
-      "tas": "5455"
-    }
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "4500",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "4500",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "4500",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "4500",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "4500",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "4500",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "4500",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "4500",
+        "price_per_unit": "900",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-regular-216g-8793051",
-    "name": "Bega Cheese Slices Regular | 216g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8793051.jpg&w=640&q=90",
-    "barcode": "",
+    "source_url": "https://www.coles.com.au/product/bega-easy-melt-colby-slices-250g-1446286",
+    "name": "Bega Easy Melt Colby Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1446286.jpg&w=640&q=90",
+    "source_id": "Coles - 1446286",
+    "barcode": "9310264912850",
     "shop": "coles",
-    "weight": "216g",
-    "prices": {
-      "vic": "2431",
-      "sa": "2431",
-      "tas": "2431"
-    }
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3240",
+        "price_per_unit": "810",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "750",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-tasty-750g-4405810",
-    "name": "Bega Cheese Slices Tasty | 750g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4405810.jpg&w=640&q=90",
-    "barcode": "9310264913444",
+    "source_url": "https://www.coles.com.au/product/coles-havarti-cheese-slices-200g-1462555",
+    "name": "Coles Havarti Cheese Slices | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1462555.jpg&w=640&q=90",
+    "source_id": "Coles - 1462555",
+    "barcode": "9300601970247",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/liddells-lactose-free-colby-cheese-slices-250g-3241626",
+    "name": "Liddells Lactose Free Colby Cheese Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3241626.jpg&w=640&q=90",
+    "source_id": "Coles - 3241626",
+    "barcode": "9300639609171",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2700",
+        "price_per_unit": "675",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-natural-25percent-red-fat-tasty-slices-30-pack-500g-9184139",
+    "name": "Bega Natural 25% Red Fat Tasty Slices 30 pack | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9184139.jpg&w=640&q=90",
+    "source_id": "Coles - 9184139",
+    "barcode": "9310264912805",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2376",
+        "price_per_unit": "1188",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-edam-cheese-slices-200g-1462511",
+    "name": "Coles Edam Cheese Slices | 200g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1462511.jpg&w=640&q=90",
+    "source_id": "Coles - 1462511",
+    "barcode": "9300601970209",
+    "shop": "coles",
+    "weight": "200g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2450",
+        "price_per_unit": "490",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cheer-light-and-tasty-cheese-slices-750g-5420590",
+    "name": "Cheer Light & Tasty Cheese Slices | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5420590.jpg&w=640&q=90",
+    "source_id": "Coles - 5420590",
+    "barcode": "9311482014760",
     "shop": "coles",
     "weight": "750g",
-    "prices": {
-      "vic": "1867",
-      "tas": "1867"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cheer-extra-tasty-cheese-slices-500g-5432320",
+    "name": "Cheer Extra Tasty Cheese Slices | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5432320.jpg&w=640&q=90",
+    "source_id": "Coles - 5432320",
+    "barcode": "9311482019697",
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "1100",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/jarlsberg-dairy-swiss-lite-cheese-slices-150g-8389680",
+    "name": "Jarlsberg Dairy Swiss Lite Cheese Slices | 150g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8389680.jpg&w=640&q=90",
+    "source_id": "Coles - 8389680",
+    "barcode": "9310631628421",
+    "shop": "coles",
+    "weight": "150g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "5667",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "6120",
+        "price_per_unit": "918",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cheer-mozzarella-cheese-slices-250g-7648589",
+    "name": "Cheer Mozzarella Cheese Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7648589.jpg&w=640&q=90",
+    "source_id": "Coles - 7648589",
+    "barcode": "9300639618081",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-light-432g-8793029",
+    "name": "Bega Cheese Slices Light | 432g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8793029.jpg&w=640&q=90",
+    "source_id": "Coles - 8793029",
+    "barcode": null,
+    "shop": "coles",
+    "weight": "432g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "1806",
+        "price_per_unit": "780",
+        "price_unit": "g"
+      }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-cheese-slices-aussie-jack-refill-250g-7648556",
     "name": "Cheer Cheese Slices Aussie Jack Refill | 250g",
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7648556.jpg&w=640&q=90",
+    "source_id": "Coles - 7648556",
     "barcode": "9300639618074",
     "shop": "coles",
     "weight": "250g",
-    "prices": {
-      "nsw": "2800",
-      "nsw_price_per_unit": "700",
-      "nsw_unit": "g",
-      "vic": "2800",
-      "qld": "2800",
-      "sa": "2800",
-      "tas": "2800"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2200",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
+    ]
   },
   {
-    "source_url": "https://www.coles.com.au/product/coles-organic-cheddar-slices-500g-8508042",
-    "name": "Coles Organic Cheddar Slices | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8508042.jpg&w=640&q=90",
-    "barcode": "",
+    "source_url": "https://www.coles.com.au/product/cheer-cheese-slices-colby-750g-6800134",
+    "name": "Cheer Cheese Slices Colby | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6800134.jpg&w=640&q=90",
+    "source_id": "Coles - 6800134",
+    "barcode": "9300639617794",
     "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "vic": "2000",
-      "tas": "2000"
-    }
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-regular-216g-8793051",
+    "name": "Bega Cheese Slices Regular | 216g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8793051.jpg&w=640&q=90",
+    "source_id": "Coles - 8793051",
+    "barcode": null,
+    "shop": "coles",
+    "weight": "216g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2431",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2431",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2431",
+        "price_per_unit": "525",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-finest-italian-provolone-slices-110g-8093344",
+    "name": "Coles Finest Italian Provolone Slices | 110g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8093344.jpg&w=640&q=90",
+    "source_id": "Coles - 8093344",
+    "barcode": null,
+    "shop": "coles",
+    "weight": "110g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "5455",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "5455",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "5455",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "5455",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "5455",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "5455",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "5455",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mainland-cheese-slices-swiss-180g-5415375",
+    "name": "Mainland Cheese Slices Swiss | 180g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5415375.jpg&w=640&q=90",
+    "source_id": "Coles - 5415375",
+    "barcode": "9310053102080",
+    "shop": "coles",
+    "weight": "180g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3889",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3889",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3889",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3889",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3889",
+        "price_per_unit": "700",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "4200",
+        "price_per_unit": "756",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/bega-cheese-slices-tasty-750g-4405810",
+    "name": "Bega Cheese Slices Tasty | 750g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4405810.jpg&w=640&q=90",
+    "source_id": "Coles - 4405810",
+    "barcode": "9310264913444",
+    "shop": "coles",
+    "weight": "750g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "1867",
+        "price_per_unit": "1400",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/norco-natural-dairy-cheese-slices-12-pack-250g-7119409",
+    "name": "Norco Natural Dairy Cheese Slices 12 Pack | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7119409.jpg&w=640&q=90",
+    "source_id": "Coles - 7119409",
+    "barcode": "9341661003025",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3160",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3160",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3160",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3160",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3160",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3160",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3412",
+        "price_per_unit": "853",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3160",
+        "price_per_unit": "790",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/cheer-aussie-jack-cheese-slices-250g-3847812",
+    "name": "Cheer Aussie Jack Cheese Slices | 250g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3847812.jpg&w=640&q=90",
+    "source_id": "Coles - 3847812",
+    "barcode": "9311482014715",
+    "shop": "coles",
+    "weight": "250g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2400",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coles-finest-uk-chilli-cheddar-slices-160g-8093311",
     "name": "Coles Finest UK Chilli Cheddar Slices | 160g",
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8093311.jpg&w=640&q=90",
-    "barcode": "",
+    "source_id": "Coles - 8093311",
+    "barcode": null,
     "shop": "coles",
     "weight": "160g",
-    "prices": {
-      "nsw": "3750",
-      "nsw_price_per_unit": "600",
-      "nsw_unit": "g",
-      "vic": "3750",
-      "qld": "3750",
-      "wa": "3750",
-      "sa": "3750",
-      "tas": "3750"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/coles-organic-cheddar-slices-500g-8508042",
+    "name": "Coles Organic Cheddar Slices | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8508042.jpg&w=640&q=90",
+    "source_id": "Coles - 8508042",
+    "barcode": null,
+    "shop": "coles",
+    "weight": "500g",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "2000",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "2000",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coles-finest-uk-peppercorn-cheddar-slices-160g-8093253",
     "name": "Coles Finest UK Peppercorn Cheddar Slices | 160g",
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8093253.jpg&w=640&q=90",
-    "barcode": "",
+    "source_id": "Coles - 8093253",
+    "barcode": null,
     "shop": "coles",
     "weight": "160g",
-    "prices": {
-      "nsw": "3750",
-      "nsw_price_per_unit": "600",
-      "nsw_unit": "g",
-      "vic": "3750",
-      "qld": "3750",
-      "wa": "3750",
-      "sa": "3750",
-      "tas": "3750"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NSW",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "QLD",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "SA",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "TAS",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "ACT",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "NT",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      {
+        "state": "WA",
+        "price": "3750",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      }
+    ]
   }
 ]

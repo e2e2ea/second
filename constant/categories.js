@@ -1,4 +1,7 @@
 const categories = [
+    /**
+     * @commented Baby Done
+     */
     // {
     //     category: "Baby",
     //     subCategories: [
@@ -33,6 +36,9 @@ const categories = [
     //         },
     //     ]
     // },
+    /**
+     * @commented Bakery Done
+     */
     // {
     //     category: "Bakery",
     //     subCategories: [
@@ -44,9 +50,8 @@ const categories = [
     //             childItems: [
     //                 { extensionCategory: "Bread Rolls" },
     //                 // Note: the extensionCategory must be "Donuts & Cookies"
-    //                 { extensionCategory: "Donuts & Cookies" },
-    //                 // { extensionCategory: "Donuts" },
-    //                 // { extensionCategory: "Cookies" },
+    //                 { extensionCategory: "Donuts" },
+    //                 { extensionCategory: "Cookies" },
     //             ]
     //         },
     //         {
@@ -57,9 +62,9 @@ const categories = [
     //         },
     //     ]
     // },
-    // /**
-    //  * @commented Done
-    //  */
+    /**
+     * @commented Bakery Done
+     */
     // {
     //     category: "Dairy, Eggs & Fridge",
     //     subCategories: [
@@ -117,9 +122,9 @@ const categories = [
     //                 { extensionCategory: "Pasta Sauces" },
     //             ]
     //         },
-    //         // /**
-    //         //  * @commented because its done
-    //         //  */
+    //         /**
+    //          * @commented because its done
+    //          */
     //         {
     //             subCategory: "Milk",
     //             childItems: [
@@ -129,199 +134,200 @@ const categories = [
     //         },
     //     ]
     // },
-    // {
-    //     category: "Deli & Chilled Meats",
-    //     subCategories: [
-    //         /**
-    //          * @commented because its done
-    //          */
-    //         {
-    //             subCategory: "Deli Meats",
-    //             childItems: [
-    //                 { extensionCategory: "Antipasto" },
-    //                 { extensionCategory: "Deli Poultry" },
-    //             ]
-    //         },
-    //         /**
-    //          * @commented because its done
-    //          */
-    //         {
-    //             subCategory: "Deli Specialties",
-    //             childItems: [
-    //                 { extensionCategory: "Gourmet Cheese" },
-    //                 { extensionCategory: "Platters" },
-    //             ]
-    //         },
-    //         /**
-    //          * @commented because its done
-    //          */
-    //         {
-    //             subCategory: "Ready to Eat Meals",
-    //             childItems: [
-    //                 { extensionCategory: "Chilled Quiches & Pies" },
-    //             ]
-    //         },
-    //     ]
-    // },
-    // {
-    //     category: "Drinks",
-    //     subCategories: [
-    //         {
-    //             subCategory: "Chilled Drinks",
-    //             childItems: [
-    //                 // this 2 will be "Chilled Soft Drinks & Energy Drinks"
-    //                 { extensionCategory: "Soft Drinks" },
-    //                 { extensionCategory: "Energy Drinks" },
-    //                 { extensionCategory: "Chilled Water" },
-    //             ]
-    //         },
-    //         /**
-    //          * @commented because its done
-    //          */
-    //         {
-    //             subCategory: "Coffee",
-    //             childItems: [
-    //                 { extensionCategory: "Coffee Beans" },
-    //                 { extensionCategory: "Coffee Capsules" },
-    //                 { extensionCategory: "Ground Coffee" },
-    //                 { extensionCategory: "Instant & Flavoured Coffee" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Cordials, Juices & Iced Teas",
-    //             childItems: [
-    //                 { extensionCategory: "Chilled Juices" },
-    //                 { extensionCategory: "Cordials" },
-    //                 { extensionCategory: "Iced Teas" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Flavoured Milk",
-    //             childItems: [
-    //                 { extensionCategory: "Drinking Chocolate" },
-    //                 { extensionCategory: "Drinks & Powders" },
-    //                 { extensionCategory: "Kids Milk" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Long Life Milk",
-    //             childItems: [
-    //                 { extensionCategory: "Almond Milk" },
-    //                 { extensionCategory: "Lactose Free Milk" },
-    //                 { extensionCategory: "Oat & Rice Milk" },
-    //                 { extensionCategory: "Powdered Milk" },
-    //                 { extensionCategory: "Soy Milk" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Soft Drinks",
-    //             childItems: [
-    //                 { extensionCategory: "Mixers" },
-    //                 { extensionCategory: "Soft Drink Bottles" },
-    //                 { extensionCategory: "Soft Drink Cans" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Sports & Energy Drinks",
-    //             childItems: [
-    //                 { extensionCategory: "Energy Drinks" },
-    //                 { extensionCategory: "Sports Drinks" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Tea",
-    //             childItems: [
-    //                 { extensionCategory: "Black Tea" },
-    //                 { extensionCategory: "Green Tea" },
-    //                 { extensionCategory: "Herbal & Specialty Tea" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Water",
-    //             childItems: [
-    //                 { extensionCategory: "Flavoured & Coconut Water" },
-    //                 { extensionCategory: "Sparkling Water" },
-    //                 { extensionCategory: "Still Water" },
-    //             ]
-    //         },
-    //     ]
-    // },
     {
-        category: "Freezer",
+        category: "Deli & Chilled Meats",
         subCategories: [
             /**
              * @commented because its done
              */
             {
-                subCategory: "Frozen Desserts",
+                subCategory: "Deli Meats",
                 childItems: [
-                    { extensionCategory: "Assorted Desserts" },
-                    { extensionCategory: "Cakes & Cheesecakes" },
-                    { extensionCategory: "Dessert Pies & Pastries" },
+                    { extensionCategory: "Antipasto" },
+                    { extensionCategory: "Deli Poultry" },
                 ]
             },
+            /**
+             * @commented because its done
+             */
             {
-                subCategory: "Frozen Fruit",
+                subCategory: "Deli Specialties",
                 childItems: [
-                    // 2 extension must be Berries & Tropical
-                    { extensionCategory: "Berries" },
-                    { extensionCategory: "Tropical" },
+                    { extensionCategory: "Gourmet Cheese" },
+                    { extensionCategory: "Platters" },
                 ]
             },
+            /**
+             * @commented because its done
+             */
             {
-                subCategory: "Frozen Meat",
+                subCategory: "Ready to Eat Meals",
                 childItems: [
-                    { extensionCategory: "Chicken Pieces & Nuggets" },
-                    { extensionCategory: "Whole Birds & Roasts" },
-                ]
-            },
-            {
-                subCategory: "Frozen Party Food",
-                childItems: [
-                    { extensionCategory: "Pastry Sheets" },
-                    // this 2 main extCategory "Pies, Pastries & Quiches"
-                    { extensionCategory: "Pastries" },
-                    { extensionCategory: "Pies & Quiches" },
-                ]
-            },
-            {
-                subCategory: "Frozen Pizzas",
-                childItems: [
-                    { extensionCategory: "Pizzas" },
-                ]
-            },
-            {
-                subCategory: "Frozen Seafood",
-                childItems: [
-                    { extensionCategory: "Fish Fillets" },
-                    { extensionCategory: "Fish Fingers & Cakes" },
-                    { extensionCategory: "Frozen Seafood" },
-                ]
-            },
-            {
-                subCategory: "Frozen Vegetables",
-                childItems: [
-                    // this 2 is "Beans & Peas"
-                    { extensionCategory: "Beans" },
-                    { extensionCategory: "Peas" },
-                    { extensionCategory: "Corn" },
-                    { extensionCategory: "Mixed Vegetables" },
-                    { extensionCategory: "Other Vegetables" },
-                    { extensionCategory: "Steam Packs" },
-                ]
-            },
-            {
-                subCategory: "Ice Cream",
-                childItems: [
-                    { extensionCategory: "Frozen Yoghurt" },
-                    { extensionCategory: "Gelato & Sorbet" },
-                    { extensionCategory: "Ice Cream Sticks & Cones" },
-                    { extensionCategory: "Ice Cream Tubs" },
-                    { extensionCategory: "Premium Ice Cream" },
+                    { extensionCategory: "Chilled Quiches & Pies" },
                 ]
             },
         ]
     },
+    {
+        category: "Drinks",
+        subCategories: [
+            {
+                subCategory: "Chilled Drinks",
+                childItems: [
+                    // this 2 will be "Chilled Soft Drinks & Energy Drinks"
+                    { extensionCategory: "Chilled Soft Drinks & Energy Drinks" },
+                    // { extensionCategory: "Soft Drinks" },
+                    // { extensionCategory: "Energy Drinks" },
+                    { extensionCategory: "Chilled Water" },
+                ]
+            },
+            /**
+             * @commented because its done
+             */
+            {
+                subCategory: "Coffee",
+                childItems: [
+                    { extensionCategory: "Coffee Beans" },
+                    { extensionCategory: "Coffee Capsules" },
+                    { extensionCategory: "Ground Coffee" }, 
+                    // { extensionCategory: "Instant & Flavoured Coffee" },// 12/18/2024, to be continued 
+                ]
+            },
+            // {
+            //     subCategory: "Cordials, Juices & Iced Teas",
+            //     childItems: [
+            //         { extensionCategory: "Chilled Juices" },
+            //         { extensionCategory: "Cordials" },
+            //         { extensionCategory: "Iced Teas" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Flavoured Milk",
+            //     childItems: [
+            //         { extensionCategory: "Drinking Chocolate" },
+            //         { extensionCategory: "Drinks & Powders" },
+            //         { extensionCategory: "Kids Milk" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Long Life Milk",
+            //     childItems: [
+            //         { extensionCategory: "Almond Milk" },
+            //         { extensionCategory: "Lactose Free Milk" },
+            //         { extensionCategory: "Oat & Rice Milk" },
+            //         { extensionCategory: "Powdered Milk" },
+            //         { extensionCategory: "Soy Milk" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Soft Drinks",
+            //     childItems: [
+            //         { extensionCategory: "Mixers" },
+            //         { extensionCategory: "Soft Drink Bottles" },
+            //         { extensionCategory: "Soft Drink Cans" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Sports & Energy Drinks",
+            //     childItems: [
+            //         { extensionCategory: "Energy Drinks" },
+            //         { extensionCategory: "Sports Drinks" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Tea",
+            //     childItems: [
+            //         { extensionCategory: "Black Tea" },
+            //         { extensionCategory: "Green Tea" },
+            //         { extensionCategory: "Herbal & Specialty Tea" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Water",
+            //     childItems: [
+            //         { extensionCategory: "Flavoured & Coconut Water" },
+            //         { extensionCategory: "Sparkling Water" },
+            //         { extensionCategory: "Still Water" },
+            //     ]
+            // },
+        ]
+    },
+    // {
+    //     category: "Freezer",
+    //     subCategories: [
+    //         /**
+    //          * @commented because its done
+    //          */
+    //         {
+    //             subCategory: "Frozen Desserts",
+    //             childItems: [
+    //                 { extensionCategory: "Assorted Desserts" },
+    //                 { extensionCategory: "Cakes & Cheesecakes" },
+    //                 { extensionCategory: "Dessert Pies & Pastries" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Frozen Fruit",
+    //             childItems: [
+    //                 // 2 extension must be Berries & Tropical
+    //                 { extensionCategory: "Berries" },
+    //                 { extensionCategory: "Tropical" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Frozen Meat",
+    //             childItems: [
+    //                 { extensionCategory: "Chicken Pieces & Nuggets" },
+    //                 { extensionCategory: "Whole Birds & Roasts" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Frozen Party Food",
+    //             childItems: [
+    //                 { extensionCategory: "Pastry Sheets" },
+    //                 // this 2 main extCategory "Pies, Pastries & Quiches"
+    //                 { extensionCategory: "Pastries" },
+    //                 { extensionCategory: "Pies & Quiches" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Frozen Pizzas",
+    //             childItems: [
+    //                 { extensionCategory: "Pizzas" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Frozen Seafood",
+    //             childItems: [
+    //                 { extensionCategory: "Fish Fillets" },
+    //                 { extensionCategory: "Fish Fingers & Cakes" },
+    //                 { extensionCategory: "Frozen Seafood" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Frozen Vegetables",
+    //             childItems: [
+    //                 // this 2 is "Beans & Peas"
+    //                 { extensionCategory: "Beans" },
+    //                 { extensionCategory: "Peas" },
+    //                 { extensionCategory: "Corn" },
+    //                 { extensionCategory: "Mixed Vegetables" },
+    //                 { extensionCategory: "Other Vegetables" },
+    //                 { extensionCategory: "Steam Packs" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Ice Cream",
+    //             childItems: [
+    //                 { extensionCategory: "Frozen Yoghurt" },
+    //                 { extensionCategory: "Gelato & Sorbet" },
+    //                 { extensionCategory: "Ice Cream Sticks & Cones" },
+    //                 { extensionCategory: "Ice Cream Tubs" },
+    //                 { extensionCategory: "Premium Ice Cream" },
+    //             ]
+    //         },
+    //     ]
+    // },
     // {
     //     category: "Fruit & Veg",
     //     subCategories: [
@@ -678,7 +684,7 @@ const categories = [
     // {
     //     category: "Poultry, Meat & Seafood",
     //     subCategories: [
-            
+
     //         /**
     //          * @commented because its done
     //          */

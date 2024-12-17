@@ -3,477 +3,1388 @@
     "source_url": "https://www.woolworths.com.au/shop/productdetails/231842/al-brown-old-yella-habanero-mustard",
     "name": "Al Brown Old Yella Habanero Mustard 250g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/231842.jpg",
+    "source_id": "Woolworths - 231842",
     "barcode": "9421903360120",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "919.9999999999999",
-      "nsw_price_per_unit": "368",
-      "nsw_unit": "G",
-      "vic": "919.9999999999999",
-      "qld": "919.9999999999999",
-      "wa": "919.9999999999999",
-      "sa": "919.9999999999999",
-      "tas": "919.9999999999999"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "920",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "920",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "920",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "920",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "920",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1150",
+        "price_per_unit": "460",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1150",
+        "price_per_unit": "460",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074496788/french-s-mustard-classic-yellow-850g-x-2",
     "name": "French's Mustard Classic Yellow 850g x 2",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074496788.jpg",
+    "source_id": "Woolworths - 1074496788",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "3299",
-      "nsw_price_per_unit": "194",
-      "nsw_unit": "G",
-      "vic": "3299",
-      "qld": "3299",
-      "wa": "3299",
-      "sa": "3299",
-      "tas": "3299"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "3299",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "3299",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "3299",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "3299",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "3299",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "3299",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "3299",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "3299",
+        "price_per_unit": "194",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/5558/maille-mustard-dijon",
     "name": "Maille Mustard Dijon 215g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/005558.jpg",
+    "source_id": "Woolworths - 5558",
     "barcode": "8714100897935",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "480",
-      "nsw_price_per_unit": "223",
-      "nsw_unit": "G",
-      "vic": "480",
-      "qld": "480",
-      "wa": "480",
-      "sa": "480",
-      "tas": "480"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "480",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "223",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075557135/masterfoods-american-mustard-sauce-2-5kg-bottle-bulk",
     "name": "Masterfoods American Mustard Sauce 2.5kg Bottle Bulk",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075557135.jpg",
+    "source_id": "Woolworths - 1075557135",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "5000",
-      "nsw_price_per_unit": "5000",
-      "nsw_unit": "EA",
-      "vic": "5000",
-      "qld": "5000",
-      "wa": "5000",
-      "sa": "5000",
-      "tas": "5000"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075501746/masterfoods-american-mustard-sauce-squeezy-individual-portions-10g-100-carton-squeeze-bulk-box",
     "name": "Masterfoods American Mustard Sauce Squeezy Individual Portions 10g 100 Carton Squeeze Bulk Box",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075501746.jpg",
+    "source_id": "Woolworths - 1075501746",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "5495",
-      "nsw_price_per_unit": "55.00000000000001",
-      "nsw_unit": "EA",
-      "vic": "5495",
-      "qld": "5495",
-      "wa": "5495",
-      "sa": "5495",
-      "tas": "5495"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5495",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "5495",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "5495",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "5495",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "5495",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "5495",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "5495",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "5495",
+        "price_per_unit": "55",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075557224/masterfoods-dijon-mustard-sauce-condiment-2-5kg-bottle-bulk",
     "name": "Masterfoods Dijon Mustard Sauce Condiment 2.5kg Bottle Bulk",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075557224.jpg",
+    "source_id": "Woolworths - 1075557224",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "5000",
-      "nsw_price_per_unit": "5000",
-      "nsw_unit": "EA",
-      "vic": "5000",
-      "qld": "5000",
-      "wa": "5000",
-      "sa": "5000",
-      "tas": "5000"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "5000",
+        "price_per_unit": "5000",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075557229/masterfoods-honey-mustard-salad-dressing-sauce-2-5kg-bottle-bulk",
     "name": "Masterfoods Honey Mustard Salad Dressing Sauce 2.5kg Bottle Bulk",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075557229.jpg",
+    "source_id": "Woolworths - 1075557229",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "5995",
-      "nsw_price_per_unit": "5995",
-      "nsw_unit": "EA",
-      "vic": "5995",
-      "qld": "5995",
-      "wa": "5995",
-      "sa": "5995",
-      "tas": "5995"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "5995",
+        "price_per_unit": "5995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "5995",
+        "price_per_unit": "5995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "5995",
+        "price_per_unit": "5995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "5995",
+        "price_per_unit": "5995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "5995",
+        "price_per_unit": "5995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "5995",
+        "price_per_unit": "5995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "5995",
+        "price_per_unit": "5995",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "5995",
+        "price_per_unit": "5995",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32831/masterfoods-horseradish-cream",
     "name": "MasterFoods Horseradish Cream 175g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032831.jpg",
+    "source_id": "Woolworths - 32831",
     "barcode": "93718738",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "290",
-      "nsw_price_per_unit": "166",
-      "nsw_unit": "G",
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075557241/masterfoods-seeded-mustard-medium-hot-2-5kg-bulk",
     "name": "Masterfoods Seeded Mustard Medium Hot 2.5kg Bulk",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075557241.jpg",
+    "source_id": "Woolworths - 1075557241",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "4295",
-      "nsw_price_per_unit": "4295",
-      "nsw_unit": "EA",
-      "vic": "4295",
-      "qld": "4295",
-      "wa": "4295",
-      "sa": "4295",
-      "tas": "4295"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "4295",
+        "price_per_unit": "4295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "4295",
+        "price_per_unit": "4295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "4295",
+        "price_per_unit": "4295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "4295",
+        "price_per_unit": "4295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "4295",
+        "price_per_unit": "4295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "4295",
+        "price_per_unit": "4295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "4295",
+        "price_per_unit": "4295",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "4295",
+        "price_per_unit": "4295",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32822/masterfoods-wholegrain-mustard",
     "name": "MasterFoods Wholegrain Mustard 175g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032822.jpg",
+    "source_id": "Woolworths - 32822",
     "barcode": "93718714",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "290",
-      "nsw_price_per_unit": "166",
-      "nsw_unit": "G",
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/777254/ogilvie-co-mustard",
     "name": "Ogilvie & Co. Mustard 120mL",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/777254.jpg",
+    "source_id": "Woolworths - 777254",
     "barcode": "9321237010268",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "1500",
-      "nsw_price_per_unit": "1250",
-      "nsw_unit": "G",
-      "vic": "1500",
-      "qld": "1500",
-      "wa": "1500",
-      "tas": "1500"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1500",
+        "price_per_unit": "1250",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1887",
+        "price_per_unit": "1573",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/129641/tar10-honey-mustard-poppy-seed-dressing",
     "name": "Tar10 Honey Mustard & Poppy Seed Dressing 250ml",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/129641.jpg",
+    "source_id": "Woolworths - 129641",
     "barcode": "9343025000411",
     "shop": "Woolworths",
     "weight": "100ML",
-    "prices": {
-      "nsw": "1250",
-      "nsw_price_per_unit": "500",
-      "nsw_unit": "ML",
-      "vic": "1250",
-      "qld": "1250",
-      "sa": "1250"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "1250",
+        "price_per_unit": "500",
+        "price_unit": "ML"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/96145/french-s-classic-yellow-american-mustard",
     "name": "French's Classic Yellow American Mustard 226g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/096145.jpg",
+    "source_id": "Woolworths - 96145",
     "barcode": "41500010236",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "350",
-      "qld": "350",
-      "wa": "350",
-      "sa": "350",
-      "tas": "350"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "350",
+        "price_per_unit": "155",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "350",
+        "price_per_unit": "155",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "350",
+        "price_per_unit": "155",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "350",
+        "price_per_unit": "155",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "300",
+        "price_per_unit": "133",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "370",
+        "price_per_unit": "164",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/522639/heinz-american-mustard-squeeze-bottle",
     "name": "Heinz American Mustard Squeeze Bottle 220ml",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/522639.jpg",
+    "source_id": "Woolworths - 522639",
     "barcode": "9300657036270",
     "shop": "Woolworths",
     "weight": "100ML",
-    "prices": {
-      "vic": "380",
-      "qld": "380",
-      "wa": "380",
-      "sa": "380",
-      "tas": "380"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "QLD",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "WA",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "SA",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "TAS",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "ACT",
+        "price": "380",
+        "price_per_unit": "173",
+        "price_unit": "ML"
+      },
+      {
+        "state": "NT",
+        "price": "340",
+        "price_per_unit": "155",
+        "price_unit": "ML"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/12799/maille-dijonnaise-sauce-with-wholegrain-mustard",
     "name": "Maille Dijonnaise Sauce With Wholegrain Mustard 185g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/012799.jpg",
+    "source_id": "Woolworths - 12799",
     "barcode": "8720182768278",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "680",
-      "qld": "680",
-      "wa": "680",
-      "sa": "680",
-      "tas": "680"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/18818/maille-hollandaise-sauce-with-a-touch-of-lemon",
     "name": "Maille Hollandaise Sauce With A Touch Of Lemon 185g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/018818.jpg",
+    "source_id": "Woolworths - 18818",
     "barcode": "8720182733788",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "680",
-      "qld": "680",
-      "wa": "680",
-      "sa": "680",
-      "tas": "680"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      },
+      null,
+      {
+        "state": "NT",
+        "price": "680",
+        "price_per_unit": "368",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/5556/maille-wholegrain-mustard-mild",
     "name": "Maille Wholegrain Mustard Mild 210g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/005556.jpg",
+    "source_id": "Woolworths - 5556",
     "barcode": "3036810207589",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "480",
-      "qld": "480",
-      "wa": "480",
-      "sa": "480",
-      "tas": "480"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "480",
+        "price_per_unit": "229",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32901/masterfoods-australian-mustard",
     "name": "MasterFoods Australian Mustard 175g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032901.jpg",
+    "source_id": "Woolworths - 32901",
     "barcode": "93718707",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/49709/masterfoods-dijon-mustard",
     "name": "MasterFoods Dijon Mustard 170g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/049709.jpg",
+    "source_id": "Woolworths - 49709",
     "barcode": "93718400",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "171",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32787/masterfoods-hot-english-mustard",
     "name": "MasterFoods Hot English Mustard 175g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032787.jpg",
+    "source_id": "Woolworths - 32787",
     "barcode": "93718653",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/36557/masterfoods-mild-american-mustard-mild-american-mustard",
     "name": "MasterFoods Mild American Mustard 250g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/036557.jpg",
+    "source_id": "Woolworths - 36557",
     "barcode": "9310012007104",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "400",
-      "qld": "400",
-      "wa": "400",
-      "sa": "400",
-      "tas": "400"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "160",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141604/masterfoods-mild-american-mustard-mild-american-squeeze",
     "name": "MasterFoods Mild American Mustard 550g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141604.jpg",
+    "source_id": "Woolworths - 141604",
     "barcode": "9310012024958",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "550",
-      "qld": "550",
-      "wa": "550",
-      "sa": "550",
-      "tas": "550"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "550",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "550",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "550",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "550",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "550",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "550",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "550",
+        "price_per_unit": "100",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32820/masterfoods-mild-english-mustard",
     "name": "MasterFoods Mild English Mustard 175g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/032820.jpg",
+    "source_id": "Woolworths - 32820",
     "barcode": "93718660",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "166",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/748932/woolworths-mild-american-mustard",
     "name": "Woolworths Mild American Mustard 250g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/748932.jpg",
+    "source_id": "Woolworths - 748932",
     "barcode": "9300633384180",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "270",
-      "qld": "270",
-      "wa": "270",
-      "sa": "270",
-      "tas": "270"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/724365/yarra-valley-preserves-horseradish-mustard",
-    "name": "Yarra Valley Preserves Horseradish Mustard 100g",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/724365.jpg",
-    "barcode": "93515610",
-    "shop": "Woolworths",
-    "weight": "100G",
-    "prices": {
-      "vic": "699"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "108",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "270",
+        "price_per_unit": "108",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "108",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/237378/your-condiment-co-dijon-mustard-dijon-mustard",
     "name": "Your Condiment Co Dijon Mustard 200g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237378.jpg",
+    "source_id": "Woolworths - 237378",
     "barcode": "9359676000007",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "305",
+        "price_per_unit": "153",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/943262/your-condiment-co-hot-english-mustard",
     "name": "Your Condiment Co Hot English Mustard 200g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/943262.jpg",
+    "source_id": "Woolworths - 943262",
     "barcode": "9359676000021",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/942048/your-condiment-co-mild-english-mustard",
     "name": "Your Condiment Co Mild English Mustard 200g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/942048.jpg",
+    "source_id": "Woolworths - 942048",
     "barcode": "9359676000038",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "290",
+        "price_per_unit": "145",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/237995/your-condiment-co-wholegrain-mustard-wholegrain-mustard",
     "name": "Your Condiment Co Wholegrain Mustard 200g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/237995.jpg",
+    "source_id": "Woolworths - 237995",
     "barcode": "9359676000014",
     "shop": "Woolworths",
     "weight": "10G",
-    "prices": {
-      "vic": "290",
-      "qld": "290",
-      "wa": "290",
-      "sa": "290",
-      "tas": "290"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "15",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "15",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "305",
+        "price_per_unit": "15",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/702339/beaver-brand-extra-hot-jalapeno-mustard",
     "name": "Beaver Brand Extra Hot Jalapeno Mustard 368g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/702339.jpg",
+    "source_id": "Woolworths - 702339",
     "barcode": "71828002675",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "qld": "1000",
-      "wa": "1000",
-      "sa": "1000"
-    }
+    "prices": [
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "272",
+        "price_unit": "G"
+      }
+    ]
   }
 ]

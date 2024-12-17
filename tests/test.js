@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 const dbConnect = async () => {
   try {
-    const conn = await mongoose.connect('mongodb://127.0.0.1/scrape');
+    const conn = await mongoose.connect('mongodb://127.0.0.1/coles4');
     console.log('database connected');
     return conn;
   } catch (error) {
@@ -23,16 +23,12 @@ const ProductSchema = new mongoose.Schema(
     barcode: { type: String, default: 'N/A' },
     shop: { type: String, default: '' },
     weight: { type: String, default: 'N/A' },
-    prices: {
-      nsw: { type: String },
-      nsw_price_per_unit: { type: String },
-      nsw_unit: { type: String },
-      vic: { type: String },
-      qld: { type: String },
-      wa: { type: String },
-      sa: { type: String },
-      tas: { type: String },
-    },
+    prices: [{
+      state: { type: String },
+      price: { type: String },
+      price_per_unit: { type: String },
+      price_unit: { type: String }
+    }],
   },
   { timestamps: true }
 );
@@ -50,23 +46,20 @@ const getData = async () => {
         const a = await Product.find({ category: category, subCategory: subCategory, extensionCategory: extensionCategory }).exec();
         const productsData = a.map((product) => {
           const productObj = product.toObject();
+          const cleanedPrices = productObj.prices.map((price) => {
+            const { _id, ...rest } = price; // Destructure to exclude _id
+            return rest; // Return the remaining price object without _id
+          });
           const formattedProduct = {
             source_url: productObj.source_url || null,
             name: productObj.name || null,
             image_url: productObj.image_url || null,
+            source_id: `Coles - ${productObj.coles_product_id}` || null,
             barcode: productObj.barcode || null,
             shop: productObj.shop || null,
             weight: productObj.weight || null,
-            prices: { ...productObj.prices },
+            prices: cleanedPrices,
           };
-          // Remove unwanted fields
-          // delete productObj._id;
-          // delete productObj.category;
-          // delete productObj.subCategory;
-          // delete productObj.extensionCategory;
-          // delete productObj.__v;
-          // delete productObj.createdAt;
-          // delete productObj.updatedAt;
 
           return formattedProduct;
         });

@@ -3,281 +3,862 @@
     "source_url": "https://www.woolworths.com.au/shop/productdetails/252201/laucke-crusty-white-bread-mix",
     "name": "Laucke Crusty White Bread Mix 2.4kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/252201.jpg",
+    "source_id": "Woolworths - 252201",
     "barcode": "871893000701",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "nsw": "850",
-      "nsw_price_per_unit": "354",
-      "nsw_unit": "KG",
-      "vic": "850",
-      "qld": "850",
-      "wa": "850",
-      "sa": "850"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1090",
+        "price_per_unit": "454",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1090",
+        "price_per_unit": "454",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/663708/laucke-multigrain-bread-mix",
     "name": "Laucke Multigrain Bread Mix 2.4kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/663708.jpg",
+    "source_id": "Woolworths - 663708",
     "barcode": "9321885004701",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "nsw": "850",
-      "nsw_price_per_unit": "354",
-      "nsw_unit": "KG",
-      "vic": "850",
-      "qld": "850",
-      "wa": "850",
-      "sa": "850",
-      "tas": "850"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1090",
+        "price_per_unit": "454",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1090",
+        "price_per_unit": "454",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1090",
+        "price_per_unit": "454",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/673513/lighthouse-pizza-focaccia-bread-mix",
     "name": "Lighthouse Pizza & Focaccia Bread Mix 1kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/673513.jpg",
+    "source_id": "Woolworths - 673513",
     "barcode": "9300609107553",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "nsw": "530",
-      "nsw_price_per_unit": "530",
-      "nsw_unit": "KG",
-      "vic": "530",
-      "qld": "530",
-      "wa": "530",
-      "sa": "530",
-      "tas": "530"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "530",
+        "price_per_unit": "530",
+        "price_unit": "KG"
+      },
+      {
+        "state": "VIC",
+        "price": "530",
+        "price_per_unit": "530",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "530",
+        "price_per_unit": "530",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "530",
+        "price_per_unit": "530",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "530",
+        "price_per_unit": "530",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "530",
+        "price_per_unit": "530",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "660",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "660",
+        "price_per_unit": "660",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/81921/lion-pastry-mix",
     "name": "Lion Pastry Mix 375g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/081921.jpg",
+    "source_id": "Woolworths - 81921",
     "barcode": "9300609110607",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "340",
-      "nsw_price_per_unit": "91",
-      "nsw_unit": "G",
-      "vic": "340",
-      "qld": "340",
-      "wa": "340",
-      "sa": "340",
-      "tas": "340"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "340",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "340",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "340",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "340",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "340",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "340",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "340",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "340",
+        "price_per_unit": "91",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075481691/macro-mike-v2-plant-based-protein-banana-bread-baking-mix-250g",
     "name": "Macro Mike V2 Plant Based Protein Banana Bread Baking Mix 250g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075481691.jpg",
+    "source_id": "Woolworths - 1075481691",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "1995",
-      "nsw_price_per_unit": "798",
-      "nsw_unit": "G",
-      "vic": "1995",
-      "qld": "1995",
-      "wa": "1995",
-      "sa": "1995",
-      "tas": "1995"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1995",
+        "price_per_unit": "798",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1995",
+        "price_per_unit": "798",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1995",
+        "price_per_unit": "798",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1995",
+        "price_per_unit": "798",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1995",
+        "price_per_unit": "798",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1995",
+        "price_per_unit": "798",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1995",
+        "price_per_unit": "798",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1995",
+        "price_per_unit": "798",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075345562/mad-millie-sourdough-culture",
     "name": "Mad Millie Sourdough Culture",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075345562.jpg",
+    "source_id": "Woolworths - 1075345562",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": {
-      "nsw": "1000",
-      "nsw_price_per_unit": "1000",
-      "nsw_unit": "EA",
-      "vic": "1000",
-      "qld": "1000",
-      "wa": "1000",
-      "sa": "1000",
-      "tas": "1000"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "VIC",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "QLD",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "WA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "SA",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "TAS",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "ACT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      },
+      {
+        "state": "NT",
+        "price": "1000",
+        "price_per_unit": "1000",
+        "price_unit": "EA"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075345983/pbco-low-carb-banana-bread-mix-350g",
     "name": "Pbco. Low Carb Banana Bread Mix 350g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075345983.jpg",
+    "source_id": "Woolworths - 1075345983",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "1036",
-      "nsw_price_per_unit": "296",
-      "nsw_unit": "G",
-      "vic": "1036",
-      "qld": "1036",
-      "wa": "1036",
-      "sa": "1036",
-      "tas": "1036"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1036",
+        "price_per_unit": "296",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1036",
+        "price_per_unit": "296",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1036",
+        "price_per_unit": "296",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1036",
+        "price_per_unit": "296",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1036",
+        "price_per_unit": "296",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1036",
+        "price_per_unit": "296",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1036",
+        "price_per_unit": "296",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1036",
+        "price_per_unit": "296",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1075345985/pbco-protein-pizza-base-320g",
     "name": "Pbco. Protein Pizza Base 320g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1075345985.jpg",
+    "source_id": "Woolworths - 1075345985",
     "barcode": null,
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "1695",
-      "nsw_price_per_unit": "530",
-      "nsw_unit": "G",
-      "vic": "1695",
-      "qld": "1695",
-      "wa": "1695",
-      "sa": "1695",
-      "tas": "1695"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "1695",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "1695",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "1695",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "1695",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "1695",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "1695",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "1695",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "1695",
+        "price_per_unit": "530",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/1074032665/telma-kneidl-matzo-ball-mix-130g-x-3",
     "name": "Telma Kneidl Matzo Ball Mix 130g x 3",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/1074032665.jpg",
+    "source_id": "Woolworths - 1074032665",
     "barcode": null,
     "shop": "Woolworths",
     "weight": null,
-    "prices": {
-      "nsw": "3449",
-      "nsw_price_per_unit": "NaN",
-      "nsw_unit": "",
-      "vic": "3449",
-      "qld": "3449",
-      "wa": "3449",
-      "sa": "3449",
-      "tas": "3449"
-    }
+    "prices": [
+      null,
+      null
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/91304/defiance-white-baker-s-flour",
     "name": "Defiance White Baker's Flour 5kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/091304.jpg",
+    "source_id": "Woolworths - 91304",
     "barcode": "9310138212024",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "vic": "1350",
-      "wa": "1350",
-      "sa": "1350",
-      "tas": "1350"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1350",
+        "price_per_unit": "270",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1350",
+        "price_per_unit": "270",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1350",
+        "price_per_unit": "270",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "1350",
+        "price_per_unit": "270",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1350",
+        "price_per_unit": "270",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1350",
+        "price_per_unit": "270",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1350",
+        "price_per_unit": "270",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/252199/laucke-barossa-sourdough-rye-bread-mix",
     "name": "Laucke Barossa Sourdough Rye Bread Mix 2.4kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/252199.jpg",
+    "source_id": "Woolworths - 252199",
     "barcode": "871893000749",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "vic": "850",
-      "qld": "850",
-      "wa": "NaN",
-      "sa": "850"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/381343/laucke-pizza-focaccia-dough-mix",
-    "name": "Laucke Pizza & Focaccia Dough Mix 1kg",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/381343.jpg",
-    "barcode": "9321885002035",
-    "shop": "Woolworths",
-    "weight": "1KG",
-    "prices": {
-      "vic": "680",
-      "qld": "680",
-      "wa": "680",
-      "sa": "680",
-      "tas": "680"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/142314/vetta-smart-protein-plain-flour",
-    "name": "Vetta Smart Protein Plain Flour 1kg",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/142314.jpg",
-    "barcode": "9350585000041",
-    "shop": "Woolworths",
-    "weight": "1KG",
-    "prices": {
-      "vic": "450",
-      "wa": "450",
-      "tas": "450"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/309217/wallaby-bakers-flour",
-    "name": "Wallaby Bakers Flour 5kg",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/309217.jpg",
-    "barcode": "871893000299",
-    "shop": "Woolworths",
-    "weight": "1KG",
-    "prices": {
-      "vic": "1400",
-      "wa": "1400",
-      "sa": "1400",
-      "tas": "1400"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "850",
+        "price_per_unit": "354",
+        "price_unit": "KG"
+      },
+      null,
+      null,
+      {
+        "state": "NT",
+        "price": "1090",
+        "price_per_unit": "454",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/727560/laucke-crusty-white-bread-mix",
     "name": "Laucke Crusty White Bread Mix 500g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/727560.jpg",
+    "source_id": "Woolworths - 727560",
     "barcode": "9321885003001",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "qld": "200",
-      "wa": "200",
-      "sa": "200"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "200",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "200",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "200",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "200",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "800",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/381343/laucke-pizza-focaccia-dough-mix",
+    "name": "Laucke Pizza & Focaccia Dough Mix 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/381343.jpg",
+    "source_id": "Woolworths - 381343",
+    "barcode": "9321885002035",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "680",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "680",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "680",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "680",
+        "price_per_unit": "680",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "600",
+        "price_per_unit": "600",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/143380/laucke-sprouted-whole-wheat-flour-blend",
     "name": "Laucke Sprouted Whole Wheat Flour Blend 1kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143380.jpg",
+    "source_id": "Woolworths - 143380",
     "barcode": "9321885004770",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "wa": "500",
-      "sa": "500",
-      "tas": "500"
-    }
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "SA",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "500",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/142314/vetta-smart-protein-plain-flour",
+    "name": "Vetta Smart Protein Plain Flour 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/142314.jpg",
+    "source_id": "Woolworths - 142314",
+    "barcode": "9350585000041",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "450",
+        "price_per_unit": "450",
+        "price_unit": "KG"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/309217/wallaby-bakers-flour",
+    "name": "Wallaby Bakers Flour 5kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/309217.jpg",
+    "source_id": "Woolworths - 309217",
+    "barcode": "871893000299",
+    "shop": "Woolworths",
+    "weight": "1KG",
+    "prices": [
+      {
+        "state": "VIC",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "QLD",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "WA",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "ACT",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      {
+        "state": "NT",
+        "price": "1400",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92404/laucke-crusty-white-bread-mix",
     "name": "Laucke Crusty White Bread Mix 5kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092404.jpg",
+    "source_id": "Woolworths - 92404",
     "barcode": "9321885000000",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "sa": "1200",
-      "tas": "1200"
-    }
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "240",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "2000",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92413/laucke-multigrain-bread-mix",
     "name": "Laucke Multigrain Bread Mix 5kg",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092413.jpg",
+    "source_id": "Woolworths - 92413",
     "barcode": "9321885000109",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": {
-      "sa": "1200",
-      "tas": "1200"
-    }
+    "prices": [
+      {
+        "state": "SA",
+        "price": "1200",
+        "price_per_unit": "240",
+        "price_unit": "KG"
+      },
+      {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "340",
+        "price_unit": "KG"
+      }
+    ]
   }
 ]

@@ -13,7 +13,7 @@ puppeteer.use(StealthPlugin());
 
 const dbConnect = async () => {
   try {
-    const conn = await mongoose.connect('mongodb://127.0.0.1/scrape3');
+    const conn = await mongoose.connect('mongodb://127.0.0.1/coles4');
     console.log('database connected');
     return conn;
   } catch (error) {
@@ -33,16 +33,12 @@ const ProductSchema = new mongoose.Schema(
     barcode: { type: String, default: 'N/A' },
     shop: { type: String, default: '' },
     weight: { type: String, default: 'N/A' },
-    prices: {
-      nsw: { type: String },
-      nsw_price_per_unit: { type: String },
-      nsw_unit: { type: String },
-      vic: { type: String },
-      qld: { type: String },
-      wa: { type: String },
-      sa: { type: String },
-      tas: { type: String },
-    },
+    prices: [{
+      state: { type: String },
+      price: { type: String },
+      price_per_unit: { type: String },
+      price_unit: { type: String }
+    }],
   },
   { timestamps: true }
 );
@@ -51,6 +47,86 @@ const Product = mongoose.model('Product', ProductSchema);
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
+const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
+  const prices = [];
+  let loc
+  if (location.toLowerCase() === 'Sydney, NSW 2000'.toLowerCase()) loc = 'NSW'
+  if (location.toLowerCase() === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase()) loc = 'VIC'
+  if (location.toLowerCase() === 'Kedron, QLD 4031'.toLowerCase()) loc = 'QLD'
+  if (location.toLowerCase() === 'Perth, WA 6000'.toLowerCase()) loc = 'QLD'
+  if (location.toLowerCase() === 'Kilburn, SA 5084'.toLowerCase()) loc = 'SA'
+  if (location.toLowerCase() === 'Hobart, TAS 7000'.toLowerCase()) loc = 'TAS'
+  if (location.toLowerCase() === 'Acton, ACT 2601'.toLowerCase()) loc = 'ACT'
+  if (location.toLowerCase() === 'Casuarina, NT 0810'.toLowerCase()) loc = 'NT'
+  if (priceInCents && priceInCentsPerUnits) {
+    if (loc.toLowerCase() === 'nsw') {
+      prices.push({
+        state: 'nsw'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (loc.toLowerCase() === 'vic') {
+      prices.push({
+        state: 'vic'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (loc.toLowerCase() === 'qld') {
+      prices.push({
+        state: 'qld'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (loc.toLowerCase() === 'wa') {
+      prices.push({
+        state: 'wa'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (loc.toLowerCase() === 'sa') {
+      prices.push({
+        state: 'sa'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (loc.toLowerCase() === 'tas') {
+      prices.push({
+        state: 'tas'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (loc.toLowerCase() === 'act') {
+      prices.push({
+        state: 'act'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+    if (loc.toLowerCase() === 'nt') {
+      prices.push({
+        state: 'nt'.toUpperCase(),
+        price: parseFloat(Number(priceInCents).toFixed(2)),
+        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+        price_unit: unit,
+      });
+    }
+  }
+
+  return prices;
+};
 
 const scraper = async () => {
   await dbConnect();
@@ -530,6 +606,86 @@ const scraper = async () => {
                   const products = document.querySelectorAll('section[data-testid="product-tile"]');
                   if (!products || products.length === 0) return [];
                   return Array.from(products).map((product) => {
+                    const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
+                      const prices = [];
+                      let loc
+                      if (location.toLowerCase() === 'Sydney, NSW 2000'.toLowerCase()) loc = 'NSW'
+                      if (location.toLowerCase() === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase()) loc = 'VIC'
+                      if (location.toLowerCase() === 'Kedron, QLD 4031'.toLowerCase()) loc = 'QLD'
+                      if (location.toLowerCase() === 'Perth, WA 6000'.toLowerCase()) loc = 'WA'
+                      if (location.toLowerCase() === 'Kilburn, SA 5084'.toLowerCase()) loc = 'SA'
+                      if (location.toLowerCase() === 'Hobart, TAS 7000'.toLowerCase()) loc = 'TAS'
+                      if (location.toLowerCase() === 'Acton, ACT 2601'.toLowerCase()) loc = 'ACT'
+                      if (location.toLowerCase() === 'Casuarina, NT 0810'.toLowerCase()) loc = 'NT'
+                      if (priceInCents && priceInCentsPerUnits) {
+                        if (loc.toLowerCase() === 'nsw') {
+                          prices.push({
+                            state: 'nsw'.toUpperCase(),
+                            price: parseFloat(Number(priceInCents).toFixed(2)),
+                            price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+                            price_unit: unit,
+                          });
+                        }
+                        if (loc.toLowerCase() === 'vic') {
+                          prices.push({
+                            state: 'vic'.toUpperCase(),
+                            price: parseFloat(Number(priceInCents).toFixed(2)),
+                            price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+                            price_unit: unit,
+                          });
+                        }
+                        if (loc.toLowerCase() === 'qld') {
+                          prices.push({
+                            state: 'qld'.toUpperCase(),
+                            price: parseFloat(Number(priceInCents).toFixed(2)),
+                            price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+                            price_unit: unit,
+                          });
+                        }
+                        if (loc.toLowerCase() === 'wa') {
+                          prices.push({
+                            state: 'wa'.toUpperCase(),
+                            price: parseFloat(Number(priceInCents).toFixed(2)),
+                            price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+                            price_unit: unit,
+                          });
+                        }
+                        if (loc.toLowerCase() === 'sa') {
+                          prices.push({
+                            state: 'sa'.toUpperCase(),
+                            price: parseFloat(Number(priceInCents).toFixed(2)),
+                            price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+                            price_unit: unit,
+                          });
+                        }
+                        if (loc.toLowerCase() === 'tas') {
+                          prices.push({
+                            state: 'tas'.toUpperCase(),
+                            price: parseFloat(Number(priceInCents).toFixed(2)),
+                            price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+                            price_unit: unit,
+                          });
+                        }
+                        if (loc.toLowerCase() === 'act') {
+                          prices.push({
+                            state: 'act'.toUpperCase(),
+                            price: parseFloat(Number(priceInCents).toFixed(2)),
+                            price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+                            price_unit: unit,
+                          });
+                        }
+                        if (loc.toLowerCase() === 'nt') {
+                          prices.push({
+                            state: 'nt'.toUpperCase(),
+                            price: parseFloat(Number(priceInCents).toFixed(2)),
+                            price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
+                            price_unit: unit,
+                          });
+                        }
+                      }
+                    
+                      return prices;
+                    };
                     const href = product.querySelector('.product__image_area a')?.href || 'N/A';
 
                     let weight = 'N/A';
@@ -655,23 +811,24 @@ const scraper = async () => {
                       barcode: '',
                       shop: 'coles',
                       weight: weight,
-                      prices: {
-                        ...(loc.location === 'Sydney, NSW 2000' && { nsw: priceInCents }),
-                        ...(loc.location === 'Sydney, NSW 2000' && { nsw_price_per_unit: pricePerUnit }),
-                        ...(loc.location === 'Sydney, NSW 2000' && { nsw_unit: unit }),
-                        ...(loc.location.toLowerCase() === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase() && { vic: priceInCents }),
-                        ...(loc.location === 'Kedron, QLD 4031' && { qld: priceInCents }),
-                        ...(loc.location === 'Perth, WA 6000' && { wa: priceInCents }),
-                        ...(loc.location === 'Kilburn, SA 5084' && { sa: priceInCents }),
-                        ...(loc.location === 'Hobart, TAS 7000' && { tas: priceInCents }),
-                      },
+                      prices: getPrices(loc.location, priceInCents, pricePerUnit, unit),
+                      // prices: {
+                      //   ...(loc.location === 'Sydney, NSW 2000' && { nsw: priceInCents }),
+                      //   ...(loc.location === 'Sydney, NSW 2000' && { nsw_price_per_unit: pricePerUnit }),
+                      //   ...(loc.location === 'Sydney, NSW 2000' && { nsw_unit: unit }),
+                      //   ...(loc.location.toLowerCase() === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase() && { vic: priceInCents }),
+                      //   ...(loc.location === 'Kedron, QLD 4031' && { qld: priceInCents }),
+                      //   ...(loc.location === 'Perth, WA 6000' && { wa: priceInCents }),
+                      //   ...(loc.location === 'Kilburn, SA 5084' && { sa: priceInCents }),
+                      //   ...(loc.location === 'Hobart, TAS 7000' && { tas: priceInCents }),
+                      // },
                     };
                   });
                 },
                 category,
                 subCategory,
                 extensionCategory,
-                loc
+                loc,
               );
 
               if (productData.length > 0) {
@@ -682,11 +839,32 @@ const scraper = async () => {
                     const createdProduct = await Product.create({ ...data });
                     // console.log('Created product:', createdProduct);
                   } else {
-                    const updatedPrice = {
-                      ...q.prices,
-                      ...data.prices,
-                    };
-                    await Product.findByIdAndUpdate(q._id, { $set: { prices: updatedPrice } }, { new: true })
+                    const updatedPrices = [...q.prices];
+                    let priceUpdated = false;
+
+                    // Compare and update prices
+                    for (let i = 0; i < updatedPrices.length; i++) {
+                      if (updatedPrices[i].state.toLowerCase() === data.prices[0].state.toLowerCase()) { // Compare location
+                        updatedPrices[i].price = data.prices[0].price;
+                        updatedPrices[i].price_per_unit = data.prices[0].price_per_unit;
+                        updatedPrices[i].price_unit = data.prices[0].price_unit;
+                        priceUpdated = true;
+                        break;
+                      }
+                    }
+
+                    // If no match, push the new price data
+                    if (!priceUpdated) {
+                      updatedPrices.push(data.prices[0]);
+                    }
+
+                    // Update the document in MongoDB
+                    await Product.findByIdAndUpdate(
+                      q._id,
+                      { $set: { prices: updatedPrices } },
+                      { new: true }
+                    );
+                    // await Product.findByIdAndUpdate(q._id, { $set: { prices: updatedPrice } }, { new: true })
                   }
                 }
               }

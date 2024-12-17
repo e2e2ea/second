@@ -3,33 +3,82 @@
     "source_url": "https://www.woolworths.com.au/shop/productdetails/176008/little-bellies-organic-pear-vanilla-paws",
     "name": "Little Bellies Organic Pear & Vanilla Paws 12g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/176008.jpg",
+    "source_id": "Woolworths - 176008",
     "barcode": "9337824003421",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "nsw": "185",
-      "nsw_price_per_unit": "1542",
-      "nsw_unit": "G",
-      "vic": "185",
-      "qld": "185",
-      "wa": "185",
-      "sa": "185",
-      "tas": "185"
-    }
+    "prices": [
+      {
+        "state": "NSW",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "VIC",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "QLD",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "WA",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "SA",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "TAS",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      },
+      {
+        "state": "NT",
+        "price": "185",
+        "price_per_unit": "1542",
+        "price_unit": "G"
+      }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/789898/pereg-natural-foods-japanese-style-fine-panko-bread-crumbs",
     "name": "Pereg Natural Foods Japanese Style Fine Panko Bread Crumbs 255g",
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/789898.jpg",
+    "source_id": "Woolworths - 789898",
     "barcode": "813568001552",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": {
-      "vic": "994.9999999999999",
-      "qld": "994.9999999999999",
-      "wa": "994.9999999999999",
-      "sa": "994.9999999999999",
-      "tas": "994.9999999999999"
-    }
+    "prices": [
+      {
+        "state": "SA",
+        "price": "995",
+        "price_per_unit": "390",
+        "price_unit": "G"
+      },
+      {
+        "state": "ACT",
+        "price": "995",
+        "price_per_unit": "390",
+        "price_unit": "G"
+      }
+    ]
   }
 ]
