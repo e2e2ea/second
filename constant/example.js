@@ -377,6 +377,209 @@ const categories = [
     //     ]
     // },
     // {
+    //     category: "Drinks",
+    //     subCategories: [
+    //         {
+    //             subCategory: "Chilled Drinks",
+    //             childItems: [
+    //                 { extensionCategory: "Chilled Juices, Iced Teas & Iced Coffee" },
+    //                 { extensionCategory: "Chilled Soft Drinks & Energy Drinks" },
+    //                 { extensionCategory: "Chilled Water" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Coffee",
+    //             childItems: [
+    //                 { extensionCategory: "Coffee Beans" },
+    //                 { extensionCategory: "Coffee Capsules" },
+    //                 { extensionCategory: "Ground Coffee" },
+    //                 { extensionCategory: "Instant & Flavoured Coffee" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Cordials, Juices & Iced Teas",
+    //             childItems: [
+    //                 { extensionCategory: "Chilled Juices" },
+    //                 { extensionCategory: "Cordials" },
+    //                 { extensionCategory: "Iced Teas" },
+    //                 { extensionCategory: "Juices" },
+    //                 { extensionCategory: "Lunch Box Juice" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Flavoured Milk",
+    //             childItems: [
+    //                 { extensionCategory: "Bubble Tea" },
+    //                 { extensionCategory: "Drinking Chocolate" },
+    //                 { extensionCategory: "Drinks & Powders" },
+    //                 { extensionCategory: "Kids Milk" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Long Life Milk",
+    //             childItems: [
+    //                 { extensionCategory: "Almond Milk" },
+    //                 { extensionCategory: "Condensed & Evaporated Milk" },
+    //                 { extensionCategory: "Lactose Free Milk" },
+    //                 { extensionCategory: "Oat & Rice Milk" },
+    //                 { extensionCategory: "Powdered Milk" },
+    //                 { extensionCategory: "Soy Milk" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Soft Drinks",
+    //             childItems: [
+    //                 { extensionCategory: "Mixers" },
+    //                 { extensionCategory: "Soft Drink Bottles" },
+    //                 { extensionCategory: "Soft Drink Cans" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Sports & Energy Drinks",
+    //             childItems: [
+    //                 { extensionCategory: "Energy Drinks" },
+    //                 { extensionCategory: "Sports Drinks" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Tea",
+    //             childItems: [
+    //                 { extensionCategory: "Black Tea" },
+    //                 { extensionCategory: "Green Tea" },
+    //                 { extensionCategory: "Herbal & Specialty Tea" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Water",
+    //             childItems: [
+    //                 { extensionCategory: "Flavoured & Coconut Water" },
+    //                 { extensionCategory: "Sparkling Water" },
+    //                 { extensionCategory: "Still Water" },
+    //             ]
+    //         },
+    //     ]
+    // },
+    // {
+    //     category: "Deli & Chilled Meats",
+    //     subCategories: [
+    //         {
+    //             subCategory: "Deli Meats",
+    //             childItems: [
+    //                 { extensionCategory: "Deli Poultry" },
+    //                 { extensionCategory: "Packaged Ham, Bacon & Salami" },
+    //                 { extensionCategory: "Sliced & Shaved Deli Meat" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Deli Specialties",
+    //             childItems: [
+    //                 { extensionCategory: "Antipasto" },
+    //                 { extensionCategory: "Dips & Pate" },
+    //                 { extensionCategory: "Gourmet Cheese" },
+    //                 { extensionCategory: "Platters" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Ready to Eat Meals",
+    //             childItems: [
+    //                 { extensionCategory: "Chilled Pizza & Garlic Bread" },
+    //                 { extensionCategory: "Chilled Quiches & Pies" },
+    //                 { extensionCategory: "Chilled Soup" },
+    //                 { extensionCategory: "Entertaining & Sides" },
+    //                 { extensionCategory: "Family Meals" },
+    //                 { extensionCategory: "Fresh Pasta & Sauces" },
+    //                 { extensionCategory: "Packaged Salads" },
+    //                 { extensionCategory: "Single Serve" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Vegetarian & Vegan",
+    //             childItems: [
+    //                 { extensionCategory: "Vegan" },
+    //                 { extensionCategory: "Vegetarian" },
+    //             ]
+    //         },
+    //     ]
+    // },
+    // {
+    //     category: "Dairy, Eggs & Fridge",
+    //     subCategories: [
+    //         {
+    //             subCategory: "Cheese",
+    //             childItems: [
+    //                 { extensionCategory: "Block Cheese" },
+    //                 { extensionCategory: "Cooking Cheese" },
+    //                 { extensionCategory: "Entertaining Cheese" },
+    //                 { extensionCategory: "Fetta & Goat's Cheese" },
+    //                 { extensionCategory: "Grated Cheese" },
+    //                 { extensionCategory: "Parmesan & Italian Cheese" },
+    //                 { extensionCategory: "Ricotta, Cottage & Cream Cheese" },
+    //                 { extensionCategory: "Sliced Cheese" },
+    //                 { extensionCategory: "Snacking Cheese" },
+    //                 { extensionCategory: "Soft Cheese" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Cream, Custard & Desserts",
+    //             childItems: [
+    //                 { extensionCategory: "Cream" },
+    //                 { extensionCategory: "Custard" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Dips & Pate",
+    //             childItems: [
+    //                 { extensionCategory: "Dips" },
+    //                 { extensionCategory: "Pate, Paste & Caviar" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Eggs, Butter & Margarine",
+    //             childItems: [
+    //                 { extensionCategory: "Butter & Margarine" },
+    //                 { extensionCategory: "Eggs" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Fresh Pasta & Sauces",
+    //             childItems: [
+    //                 { extensionCategory: "Fresh Pasta & Noodles" },
+    //                 { extensionCategory: "Pasta Sauces" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "International Foods",
+    //             childItems: [
+    //                 { extensionCategory: "Chilled Asian" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Milk",
+    //             childItems: [
+    //                 { extensionCategory: "Flavoured Milk" },
+    //                 { extensionCategory: "Full Cream Milk" },
+    //                 { extensionCategory: "Lactose Free Milk" },
+    //                 { extensionCategory: "Long Life Milk" },
+    //                 { extensionCategory: "Skim & Reduced Fat Milk" },
+    //                 { extensionCategory: "Soy & Speciality Milk" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Ready to Eat Meals",
+    //             childItems: [
+    //                 { extensionCategory: "Asian Meals" },
+    //                 { extensionCategory: "Chilled Pizza & Bread" },
+    //                 { extensionCategory: "Chilled Ready Meals" },
+    //                 { extensionCategory: "Chilled Soup" },
+    //                 { extensionCategory: "Indian Meals" },
+    //                 { extensionCategory: "Italian Meals" },
+    //                 { extensionCategory: "Packaged Salads & Sides" },
+    //                 { extensionCategory: "Vegetarian & Meat Free" },
+    //             ]
+    //         },
+    //     ]
+    // },
+    // {
     //     category: "Health & Beauty",
     //     subCategories: [
     //         // {

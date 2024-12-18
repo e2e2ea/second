@@ -59,6 +59,7 @@ const getData = async () => {
 
                     let mycat = category
                     mycat = category
+                    if (category === 'Deli & Chilled Meats') mycat = 'Deli & Chilled Meals'
                     if (category === 'Health & Beauty') mycat = 'Health & Wellness'
                     // if (category === 'Health & Beauty') mycat = 'Beauty & Personal Care'
 

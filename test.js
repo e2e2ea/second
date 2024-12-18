@@ -9,7 +9,7 @@ import mongoose from 'mongoose';
 puppeteer.use(StealthPlugin());
 
 // const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas', 'act', 'nt']
-const mylocation = ['act', 'nt']
+const mylocation = ['qld', 'wa', 'sa', 'tas', 'act', 'nt']
 const dbConnect = async () => {
   try {
     const conn = await mongoose.connect('mongodb://127.0.0.1/wooly4');
@@ -126,11 +126,16 @@ const CATEGORIES = [
   // { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // done
   // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // done
 
-  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // in 
-  // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // in 
-  // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // in 
+  // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // done
+  // { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' }, // done
+  // { id: '1_3151F6F', name: 'Deli & Chilled Meals', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' }, // done
+  // { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' }, // done
 
-  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // 
+  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // done
+
+  // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, //  only in vic
+  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // only in vic
+
   // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // 
 ];
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
@@ -279,28 +284,29 @@ const scrapeCategory = async (page, category, myloc) => {
   const productRes = [];
   let pageReset = 0
   for (let i = 1; i <= numPages; i++) {
-    if (category.name === 'Pantry' && i < 74 && myloc === 'act') {
-      i = 76
+    if (category.name === 'Pet' && i < 41 && myloc === 'nt') {
+      i = 42
     }
-    if (category.name === 'Freezer' && myloc === 'act') {
-      console.log('skipping other page', i)
-      break
-    }
-    if (category.name === 'Fruit & Veg' && myloc === 'act') {
-      console.log('skipping other page', i)
-      break
-    }
-    if (category.name === 'Poultry, Meat & Seafood' && myloc === 'act') {
-      console.log('skipping other page', i)
-      break
-    }
-    if (pageReset > 50) {
+    // if (category.name === 'Freezer' && myloc === 'act') {
+    //   console.log('skipping other page', i)
+    //   break
+    // }
+    // if (category.name === 'Fruit & Veg' && myloc === 'act') {
+    //   console.log('skipping other page', i)
+    //   break
+    // }
+    // if (category.name === 'Poultry, Meat & Seafood' && myloc === 'act') {
+    //   console.log('skipping other page', i)
+    //   break
+    // }
+    if (pageReset > 100) {
       const loadedCookies = JSON.parse(fs.readFileSync('cookies.json', 'utf-8'));
       await page.setCookie(...loadedCookies);
       await safeNavigate(page, 'https://www.woolworths.com.au');
       // await page.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
       console.log('creating new page')
       await delay(30000)
+      await delay(20000)
       page.removeAllListeners('request');
       const content = await page.evaluate(() => document.body.innerText);
       const htmlOnly = async (page) => {
@@ -435,19 +441,29 @@ const scrapeURL = async (page, request, myloc) => {
 }
 
 const callFetch = async (page, request) => {
-  return await page.evaluate(
-    async (request, url) => {
-      return await fetch(url, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
+  const retries = 5000
+  for (let i = 0; i < retries; i++) {
+    try {
+      const a = await page.evaluate(
+        async (request, url) => {
+          return await fetch(url, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(request),
+          })
+            .then((res) => res.json())
+            .catch((err) => ({ error: err.message }));
         },
-        body: JSON.stringify(request),
-      })
-        .then((res) => res.json())
-        .catch((err) => ({ error: err.message }));
-    },
-    request,
-    WOOLWORTHS_API_ENDPOINT
-  );
+        request,
+        WOOLWORTHS_API_ENDPOINT
+      );
+      return a
+    } catch (err) {
+      console.error(`Attempt ${i + 1} failed: ${err}`);
+      if (i === retries - 1) throw err;
+      await delay(2000);
+    }
+  }
 }
