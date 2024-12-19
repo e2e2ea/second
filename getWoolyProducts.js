@@ -60,9 +60,10 @@ const getData = async () => {
                     let mycat = category
                     mycat = category
                     if (category === 'Deli & Chilled Meats') mycat = 'Deli & Chilled Meals'
-                    if (category === 'Health & Beauty') mycat = 'Health & Wellness'
-                    // if (category === 'Health & Beauty') mycat = 'Beauty & Personal Care'
-
+                    // if (category === 'Health & Beauty') mycat = 'Health & Wellness'
+                    if (category === 'Health & Beauty') mycat = 'Beauty & Personal Care'
+                    if (category === 'Household') mycat = 'Home & Lifestyle'
+                    // console.log('mycat', mycat)
                     // First, check if category matches
                     const hasCategory = parsedFields.productCategories.some(
                         (cat) => cat.toLowerCase() === mycat.toLowerCase()
@@ -72,11 +73,22 @@ const getData = async () => {
                     let mySubCategory
                     mySubCategory = subCategory
                     if (category === 'Poultry, Meat & Seafood' && subCategory === 'BBQ Meat & Seafood') mySubCategory = 'BBQ Meat'
+                    if (category === 'Baby' && subCategory === 'Baby Formula') mySubCategory = 'Baby Formula & Toddler Milk'
+                    if (category === 'Baby' && subCategory === 'Nappies Wipes') mySubCategory = 'Nappies'
+                    if (category === 'Household' && subCategory === 'Clothing Accessories') mySubCategory = 'Clothing & Accessories'
+                    if (category === 'Household' && subCategory === 'Parties & Entertaining') mySubCategory = 'Party Supplies'
+
+                    if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Health & Safety') mySubCategory = 'Health & Safety'
+                    if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Toys & Playtime') mySubCategory = 'Toys & Playtime'
+                    if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bath & Skincare') mySubCategory = 'Bath & Skincare'
+                    if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bottles and Baby Feeding') mySubCategory = 'Bottles & Baby Feeding'
                     // Next, filter by subCategory only for matching categories
+                    // console.log('mySubCategory', mySubCategory)
                     const hasSubCategory = parsedFields.productSubCategories.some(
                         (sub) => sub.toLowerCase() === mySubCategory.toLowerCase()
                     );
-
+                    // return baby here
+                    if (category === 'Baby' && subCategory === 'Baby Accessories') return hasSubCategory
                     // If no matching subCategory, skip this product
                     if (!hasSubCategory) return false;
 
@@ -85,6 +97,8 @@ const getData = async () => {
                     if (category === 'Poultry, Meat & Seafood' && subCategory === 'Seafood' && extensionCategory === 'Fish') mySubCategoryExtension = 'Salmon & Other Fish'
                     if (category === 'Health & Beauty' && subCategory === 'Vitamins' && extensionCategory === 'Brain & Heart Health') mySubCategoryExtension = 'Brain & Heart'
                     if (category === 'Health & Beauty' && subCategory === 'First Aid & Medicinal' && extensionCategory === 'Bandaids & Bandages') mySubCategoryExtension = 'First Aid & Bandages'
+                    if (category === 'Household' && subCategory === 'Clothing Accessories' && extensionCategory === 'Socks') mySubCategoryExtension = 'Boys & Girls Socks'
+                    if (category === 'Household' && subCategory === 'Clothing Accessories' && extensionCategory === 'Underwear') mySubCategoryExtension = 'Boys & Girls Underwear'
                     // Lastly, filter by extensionCategory for matching subCategories
                     const hasExtensionSubCategories = parsedFields.productExtensionSubCategories.some(
                         (ext) => ext.toLowerCase() === mySubCategoryExtension.toLowerCase()
@@ -99,11 +113,14 @@ const getData = async () => {
                 console.log(`Filtered products in ${category} - ${subCategory} - ${extensionCategory}: `, filteredProducts.length)
                 const productsData = filteredProducts.map((product) => {
                     const productObj = product.toObject();
-                    const cleanedPrices = productObj.prices.map((price) => {
+                    console.log('productObj', productObj)
+                    const filteredPrices = productObj.prices.filter((p) => p !== null && p !== undefined);
+                    const cleanedPrices = filteredPrices.map((price) => {
                         if (!price || price === null) return;
                         const { _id, ...rest } = price; // Destructure to exclude _id
                         return rest; // Return the remaining price object without _id
                     });
+
                     const formattedProduct = {
                         source_url: productObj.source_url || null,
                         name: productObj.name || null,

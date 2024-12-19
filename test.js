@@ -9,7 +9,7 @@ import mongoose from 'mongoose';
 puppeteer.use(StealthPlugin());
 
 // const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas', 'act', 'nt']
-const mylocation = ['qld', 'wa', 'sa', 'tas', 'act', 'nt']
+const mylocation = ['vic']
 const dbConnect = async () => {
   try {
     const conn = await mongoose.connect('mongodb://127.0.0.1/wooly4');
@@ -133,10 +133,11 @@ const CATEGORIES = [
 
   // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // done
 
-  // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, //  only in vic
-  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // only in vic
+  // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // done
+  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // done
 
-  // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // 
+  // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // done // but no products in the list of categ
+  { id: '1_2432B58', name: 'Cleaning & Maintenance', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' }, // done in vic
 ];
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
 const SPEED_LIMIT = 20;
@@ -284,8 +285,8 @@ const scrapeCategory = async (page, category, myloc) => {
   const productRes = [];
   let pageReset = 0
   for (let i = 1; i <= numPages; i++) {
-    if (category.name === 'Pet' && i < 41 && myloc === 'nt') {
-      i = 42
+    if (category.name === 'Cleaning & Maintenance' && i < 113 && myloc === 'vic') {
+      i = 114
     }
     // if (category.name === 'Freezer' && myloc === 'act') {
     //   console.log('skipping other page', i)
@@ -367,7 +368,7 @@ const scrapeURL = async (page, request, myloc) => {
     // const location = 'sa'
     // const location = 'tas'
     const location = myloc
-    const inputString = product.CupMeasure;
+    const inputString = product.CupMeasure || '';
 
     // Extract values
     const price = parseFloat(product.InstorePrice || product.Price);

@@ -1,5 +1,158 @@
 const categories = [
     // {
+    //     category: "Household",
+    //     subCategories: [
+    //         /**
+    //          * @commented because its done
+    //          */
+    //         {
+    //             subCategory: "Bathroom",
+    //             childItems: [
+    //                 { extensionCategory: "Toilet Cleaners" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Cleaning Goods",
+    //             childItems: [
+    //                 { extensionCategory: "Air Fresheners" }, // done
+    //                 { extensionCategory: "Bathroom Cleaners" }, // done
+    //                 { extensionCategory: "Disinfectant & Bleach" }, // done
+    //                 { extensionCategory: "Drain Cleaners & Solvents" }, // done
+    //                 { extensionCategory: "Fabric, Metal & Furniture Care" }, // done
+    //                 { extensionCategory: "Floor/Carpet Cleaners" }, // done
+    //                 { extensionCategory: "Gloves" },  // done
+    //                 { extensionCategory: "Kitchen Cleaners" }, // done
+    //                 { extensionCategory: "Mops, Buckets & Brooms" }, // done
+    //                 { extensionCategory: "Mould & Moisture Treatments" }, // done
+    //                 { extensionCategory: "Multipurpose Cleaners" }, // done
+    //                 { extensionCategory: "Sponges, Cloths & Wipes" }, // done
+    //                 { extensionCategory: "Window & Glass Cleaners" },  // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Clothing Accessories",
+    //             childItems: [
+    //                 { extensionCategory: "Hosiery" }, // done
+    //                 { extensionCategory: "Socks" }, // done
+    //                 { extensionCategory: "Underwear" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Garden & Outdoors",
+    //             childItems: [
+    //                 { extensionCategory: "Automotive" }, // done
+    //                 { extensionCategory: "Garden Décor & Accessories" }, // done
+    //                 { extensionCategory: "Gloves, Tools & Watering" }, // done
+    //                 { extensionCategory: "Insecticide & Weed Control" }, // done
+    //                 { extensionCategory: "Lawn Care & Plant Food" }, // done
+    //                 { extensionCategory: "Potting Mix & Fertilisers" }, // done
+    //                 { extensionCategory: "Seeds & Plants" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Hardware",
+    //             childItems: [
+    //                 { extensionCategory: "Adhesives, Glues & Tapes" }, // done
+    //                 { extensionCategory: "Hooks & Fasteners" }, // done
+    //                 { extensionCategory: "Tools & Accessories" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Homewares",
+    //             childItems: [
+    //                 { extensionCategory: "Water Filtration" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Kitchen",
+    //             childItems: [
+    //                 { extensionCategory: "​​Cling Wrap, Foil & Baking Paper:" }, // done
+    //                 { extensionCategory: "Dishwashing" }, // done
+    //                 { extensionCategory: "Garbage Bags" }, // done
+    //                 { extensionCategory: "Gloves" }, // done
+    //                 { extensionCategory: "Lunch Boxes & Drink Bottles" }, // done
+    //                 { extensionCategory: "Sandwich & Freezer Bags" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Laundry",
+    //             childItems: [
+    //                 { extensionCategory: "Fabric Softener" }, // done
+    //                 { extensionCategory: "Ironing & Accessories" }, // done
+    //                 { extensionCategory: "Laundry Liquid" }, // done
+    //                 { extensionCategory: "Laundry Powder" }, // done
+    //                 { extensionCategory: "Pegs, Baskets & Hangers" }, // done
+    //                 { extensionCategory: "Stain Removal" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Parties & Entertaining",
+    //             childItems: [
+    //                 { extensionCategory: "Candles" }, // done
+    //                 { extensionCategory: "Decorations" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Pest Control",
+    //             childItems: [
+    //                 { extensionCategory: "Crawling Insects" }, // done
+    //                 { extensionCategory: "Flying Insects" }, // done
+    //                 { extensionCategory: "Garden Pests" }, // done
+    //                 { extensionCategory: "Insect Repellent" }, // done
+    //                 { extensionCategory: "Mosquitoes" }, // done
+    //                 { extensionCategory: "Rodents" }, // done
+    //             ]
+    //         },
+    //     ]
+    // },
+    // {
+    //     category: "Baby",
+    //     subCategories: [
+    //         {
+    //             subCategory: "Baby Accessories",
+    //             childItems: [
+    //                 { extensionCategory: "Baby Health & Safety" },
+    //                 { extensionCategory: "Baby Toys & Playtime" },
+    //                 { extensionCategory: "Bath & Skincare" },
+    //                 { extensionCategory: "Bottles and Baby Feeding" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Baby Food",
+    //             childItems: [
+    //                 { extensionCategory: "Baby Food 12 Months+" },
+    //                 { extensionCategory: "Baby Food 4 Months+" },
+    //                 { extensionCategory: "Baby Food 6 Months+" },
+    //                 { extensionCategory: "Baby Food 8 Months+" },
+    //                 { extensionCategory: "Baby & Toddler Snacks" },
+    //                 { extensionCategory: "Organic Baby Food" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Baby Formula",
+    //             childItems: [
+    //                 { extensionCategory: "Infant" },
+    //                 { extensionCategory: "Newborn" },
+    //                 { extensionCategory: "Specialty" },
+    //                 { extensionCategory: "Toddler" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Nappies Wipes",
+    //             childItems: [
+    //                 { extensionCategory: "Nappies 12-18 Months (9-12kg)" },
+    //                 { extensionCategory: "Nappies 18 Months+ (10kg+)" },
+    //                 { extensionCategory: "Nappies 3-6 Months (5-7kg)" }, //
+    //                 { extensionCategory: "Nappies 6-12 Months (7-10kg)" },
+    //                 { extensionCategory: "Nappy Pants" },
+    //                 { extensionCategory: "Newborn Nappies (3-5kg)" },
+    //                 { extensionCategory: "Swimming Nappies" },
+    //                 { extensionCategory: "Wipes & Nappy Changing" },
+    //             ]
+    //         },
+    //     ]
+    // },
+    // {
     //     category: "Pantry",
     //     subCategories: [
     //         /**
@@ -582,67 +735,67 @@ const categories = [
     // {
     //     category: "Health & Beauty",
     //     subCategories: [
-    //         // {
-    //         //     subCategory: "Cosmetics",
-    //         //     childItems: [
-    //         //         { extensionCategory: "Cosmetics Other" }, // done
-    //         //         { extensionCategory: "Eyes" }, // done
-    //         //         { extensionCategory: "Face" }, // done
-    //         //         { extensionCategory: "Lips" }, // done
-    //         //         { extensionCategory: "Nails" }, // done
-    //         //     ]
-    //         // },
-    //         // {
-    //         //     subCategory: "Dental Care",
-    //         //     childItems: [
-    //         //         { extensionCategory: "Denture Care" }, // done
-    //         //         { extensionCategory: "Floss & Mouthwash" }, // done
-    //         //         { extensionCategory: "Teeth Whitening" }, // done
-    //         //         { extensionCategory: "Toothbrushes" }, // done
-    //         //         { extensionCategory: "Toothpaste" }, // done
-    //         //     ]
-    //         // },
-    //         // {
-    //         //     subCategory: "Hair Care",
-    //         //     childItems: [
-    //         //         { extensionCategory: "Colouring" }, // done
-    //         //         { extensionCategory: "Hair Accessories & Brushes" }, // done
-    //         //         { extensionCategory: "Mens Hair Care" }, // done
-    //         //         { extensionCategory: "Shampoo & Conditioner" }, // done
-    //         //         { extensionCategory: "Styling Products" }, // done
-    //         //     ]
-    //         // },
-    //         // {
-    //         //     subCategory: "Skin Care",
-    //         //     childItems: [
-    //         //         { extensionCategory: "Body Moisturiser" }, // done
-    //         //         { extensionCategory: "Face Masks & Treatments" }, // done
-    //         //         { extensionCategory: "Face Moisturiser" }, // done
-    //         //         { extensionCategory: "Facial Cleansers, Toners & Scrubs" }, // done
-    //         //         { extensionCategory: "183 Hand Moisturiser" }, // done
-    //         //         { extensionCategory: "Lip Care" }, // done
-    //         //         { extensionCategory: "Self-Tanning" }, // done
-    //         //         { extensionCategory: "Sun Protection" }, // done
-    //         //     ]
-    //         // },
     //         {
-    //             subCategory: "First Aid & Medicinal",
+    //             subCategory: "Cosmetics",
     //             childItems: [
-    //                 { extensionCategory: "Bandaids & Bandages" },
-    //                 { extensionCategory: "Cold, Flu & Allergies" }, // done
-    //                 { extensionCategory: "Cotton Wool & Cotton Buds" }, // done
-    //                 { extensionCategory: "Medicinal Oils & Ointments" }, // done
+    //                 { extensionCategory: "Cosmetics Other" }, // done
+    //                 { extensionCategory: "Eyes" }, // done
+    //                 { extensionCategory: "Face" }, // done
+    //                 { extensionCategory: "Lips" }, // done
+    //                 { extensionCategory: "Nails" }, // done
     //             ]
     //         },
     //         {
-    //             subCategory: "Vitamins",
+    //             subCategory: "Dental Care",
     //             childItems: [
-    //                 { extensionCategory: "Brain & Heart Health" }, // done
-    //                 { extensionCategory: "Detox & Digestion" }, // done
-    //                 { extensionCategory: "Hair, Skin & Nails" }, // done
-    //                 { extensionCategory: "Brain & Heart Health" }, // done
+    //                 { extensionCategory: "Denture Care" }, // done
+    //                 { extensionCategory: "Floss & Mouthwash" }, // done
+    //                 { extensionCategory: "Teeth Whitening" }, // done
+    //                 { extensionCategory: "Toothbrushes" }, // done
+    //                 { extensionCategory: "Toothpaste" }, // done
     //             ]
     //         },
+    //         {
+    //             subCategory: "Hair Care",
+    //             childItems: [
+    //                 { extensionCategory: "Colouring" }, // done
+    //                 { extensionCategory: "Hair Accessories & Brushes" }, // done
+    //                 { extensionCategory: "Mens Hair Care" }, // done
+    //                 { extensionCategory: "Shampoo & Conditioner" }, // done
+    //                 { extensionCategory: "Styling Products" }, // done
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Skin Care",
+    //             childItems: [
+    //                 { extensionCategory: "Body Moisturiser" }, // done
+    //                 { extensionCategory: "Face Masks & Treatments" }, // done
+    //                 { extensionCategory: "Face Moisturiser" }, // done
+    //                 { extensionCategory: "Facial Cleansers, Toners & Scrubs" }, // done
+    //                 { extensionCategory: "183 Hand Moisturiser" }, // done
+    //                 { extensionCategory: "Lip Care" }, // done
+    //                 { extensionCategory: "Self-Tanning" }, // done
+    //                 { extensionCategory: "Sun Protection" }, // done
+    //             ]
+    //         },
+    //         // {
+    //         //     subCategory: "First Aid & Medicinal",
+    //         //     childItems: [
+    //         //         { extensionCategory: "Bandaids & Bandages" },
+    //         //         { extensionCategory: "Cold, Flu & Allergies" }, // done
+    //         //         { extensionCategory: "Cotton Wool & Cotton Buds" }, // done
+    //         //         { extensionCategory: "Medicinal Oils & Ointments" }, // done
+    //         //     ]
+    //         // },
+    //         // {
+    //         //     subCategory: "Vitamins",
+    //         //     childItems: [
+    //         //         { extensionCategory: "Brain & Heart Health" }, // done
+    //         //         { extensionCategory: "Detox & Digestion" }, // done
+    //         //         { extensionCategory: "Hair, Skin & Nails" }, // done
+    //         //         { extensionCategory: "Brain & Heart Health" }, // done
+    //         //     ]
+    //         // },
     //     ]
     // },
 ]

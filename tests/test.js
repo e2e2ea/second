@@ -4,7 +4,8 @@ import fs from 'fs';
 import path from 'path';
 const dbConnect = async () => {
   try {
-    const conn = await mongoose.connect('mongodb://127.0.0.1/coles4');
+    // const conn = await mongoose.connect('mongodb://127.0.0.1/coles4');
+    const conn = await mongoose.connect('mongodb://127.0.0.1/transfer');
     console.log('database connected');
     return conn;
   } catch (error) {
