@@ -5,6 +5,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143679.jpg",
     "source_id": "Woolworths - 143679",
     "barcode": "0266104000005",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -64,47 +65,46 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/774281.jpg",
     "source_id": "Woolworths - 774281",
     "barcode": "9317466311177",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
       {
         "state": "NSW",
-        "price": "1000",
-        "price_per_unit": "167",
+        "price": "167",
+        "price_per_unit": "1000",
         "price_unit": "EA"
       },
       {
         "state": "VIC",
-        "price": "1000",
-        "price_per_unit": "167",
+        "price": "167",
+        "price_per_unit": "1000",
         "price_unit": "EA"
       },
       {
         "state": "QLD",
-        "price": "1000",
-        "price_per_unit": "167",
+        "price": "167",
+        "price_per_unit": "1000",
         "price_unit": "EA"
       },
       {
         "state": "WA",
-        "price": "1000",
-        "price_per_unit": "167",
+        "price": "167",
+        "price_per_unit": "1000",
         "price_unit": "EA"
       },
       {
         "state": "SA",
-        "price": "1200",
-        "price_per_unit": "200",
+        "price": "200",
+        "price_per_unit": "1200",
         "price_unit": "EA"
       },
-      null,
       {
         "state": "ACT",
-        "price": "1000",
-        "price_per_unit": "167",
+        "price": "167",
+        "price_per_unit": "1000",
         "price_unit": "EA"
-      },
-      null
+      }
     ]
   },
   {
@@ -113,6 +113,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/112533.jpg",
     "source_id": "Woolworths - 112533",
     "barcode": "0266962000001",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -172,6 +173,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/139806.jpg",
     "source_id": "Woolworths - 139806",
     "barcode": "0264050000001",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -231,6 +233,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/224301.jpg",
     "source_id": "Woolworths - 224301",
     "barcode": "0266124000009",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -264,7 +267,6 @@
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      null,
       {
         "state": "ACT",
         "price": "350",
@@ -285,6 +287,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/139765.jpg",
     "source_id": "Woolworths - 139765",
     "barcode": "0264034000003",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -344,6 +347,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/113616.jpg",
     "source_id": "Woolworths - 113616",
     "barcode": "0266963000000",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -403,6 +407,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/139428.jpg",
     "source_id": "Woolworths - 139428",
     "barcode": "0265739000008",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -456,6 +461,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306519.jpg",
     "source_id": "Woolworths - 306519",
     "barcode": "0268412000005",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -471,7 +477,6 @@
         "price_per_unit": "450",
         "price_unit": "EA"
       },
-      null,
       {
         "state": "ACT",
         "price": "450",
@@ -486,13 +491,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/132600.jpg",
     "source_id": "Woolworths - 132600",
     "barcode": "0266883000005",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null,
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/184093/mango-pearl",
@@ -500,12 +502,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/184093.jpg",
     "source_id": "Woolworths - 184093",
     "barcode": "0266046000002",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/143168/mango-r2e2",
@@ -513,6 +513,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143168.jpg",
     "source_id": "Woolworths - 143168",
     "barcode": "0266028000006",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -566,11 +567,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/696428.jpg",
     "source_id": "Woolworths - 696428",
     "barcode": "0269939000004",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/66613/melon-melonball",
@@ -578,6 +578,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/066613.jpg",
     "source_id": "Woolworths - 66613",
     "barcode": "0260248000006",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -605,7 +606,6 @@
         "price_per_unit": "490",
         "price_unit": "EA"
       },
-      null,
       {
         "state": "ACT",
         "price": "490",
@@ -626,6 +626,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/139429.jpg",
     "source_id": "Woolworths - 139429",
     "barcode": "0264032000005",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -685,47 +686,46 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/893958.jpg",
     "source_id": "Woolworths - 893958",
     "barcode": "9300633527082",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
       {
         "state": "NSW",
-        "price": "720",
-        "price_per_unit": "180",
+        "price": "180",
+        "price_per_unit": "720",
         "price_unit": "EA"
       },
       {
         "state": "VIC",
-        "price": "720",
-        "price_per_unit": "180",
+        "price": "180",
+        "price_per_unit": "720",
         "price_unit": "EA"
       },
       {
         "state": "QLD",
-        "price": "640",
-        "price_per_unit": "160",
+        "price": "160",
+        "price_per_unit": "640",
         "price_unit": "EA"
       },
       {
         "state": "WA",
-        "price": "640",
-        "price_per_unit": "160",
+        "price": "160",
+        "price_per_unit": "640",
         "price_unit": "EA"
       },
       {
         "state": "SA",
-        "price": "720",
-        "price_per_unit": "180",
+        "price": "180",
+        "price_per_unit": "720",
         "price_unit": "EA"
       },
-      null,
       {
         "state": "ACT",
-        "price": "720",
-        "price_per_unit": "180",
+        "price": "180",
+        "price_per_unit": "720",
         "price_unit": "EA"
-      },
-      null
+      }
     ]
   },
   {
@@ -734,6 +734,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/774572.jpg",
     "source_id": "Woolworths - 774572",
     "barcode": "9300633453794",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": []
@@ -744,6 +745,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/120384.jpg",
     "source_id": "Woolworths - 120384",
     "barcode": "0265930000005",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -803,12 +805,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/924029.jpg",
     "source_id": "Woolworths - 924029",
     "barcode": "0269886000003",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/143737/mango-keitt",
@@ -816,6 +816,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/143737.jpg",
     "source_id": "Woolworths - 143737",
     "barcode": "0265405000004",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": []

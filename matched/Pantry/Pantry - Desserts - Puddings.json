@@ -5,16 +5,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9958237.jpg&w=640&q=90",
     "barcode": "9417986939032",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "190g",
     "prices": {
-      "nsw": "258",
-      "nsw_price_per_unit": "490",
-      "nsw_unit": "g",
-      "vic": "258",
-      "qld": "258",
-      "wa": "258",
-      "sa": "258",
-      "tas": "258"
+      "0": {
+        "state": "VIC",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -23,16 +64,57 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726124.jpg",
     "barcode": "9417986939032",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "100G",
     "prices": {
-      "nsw": "490.00000000000006",
-      "nsw_price_per_unit": "258",
-      "nsw_unit": "G",
-      "vic": "490.00000000000006",
-      "qld": "490.00000000000006",
-      "wa": "490.00000000000006",
-      "sa": "490.00000000000006",
-      "tas": "490.00000000000006"
+      "0": {
+        "state": "NSW",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "WA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "SA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "G"
+      },
+      "7": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -41,16 +123,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9958044.jpg&w=640&q=90",
     "barcode": "9417986939001",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "190g",
     "prices": {
-      "nsw": "258",
-      "nsw_price_per_unit": "490",
-      "nsw_unit": "g",
-      "vic": "258",
-      "qld": "258",
-      "wa": "258",
-      "sa": "258",
-      "tas": "258"
+      "0": {
+        "state": "VIC",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -59,13 +182,51 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726143.jpg",
     "barcode": "9417986939001",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "100G",
     "prices": {
-      "vic": "490.00000000000006",
-      "qld": "490.00000000000006",
-      "wa": "490.00000000000006",
-      "sa": "490.00000000000006",
-      "tas": "490.00000000000006"
+      "0": {
+        "state": "VIC",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -74,16 +235,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1924322.jpg&w=640&q=90",
     "barcode": "9417986942827",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "240g",
     "prices": {
-      "nsw": "104",
-      "nsw_price_per_unit": "250",
-      "nsw_unit": "g",
-      "vic": "150",
-      "qld": "150",
-      "wa": "104",
-      "sa": "104",
-      "tas": "104"
+      "0": {
+        "state": "VIC",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "158",
+        "price_per_unit": "378",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -92,13 +294,51 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/493529.jpg",
     "barcode": "9417986942827",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "100G",
     "prices": {
-      "vic": "250",
-      "qld": "250",
-      "wa": "250",
-      "sa": "250",
-      "tas": "250"
+      "0": {
+        "state": "VIC",
+        "price": "104",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "104",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "104",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "104",
+        "price_per_unit": "250",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "360",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -107,12 +347,45 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3187746.jpg&w=640&q=90",
     "barcode": "9417986943367",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "190g",
     "prices": {
-      "vic": "258",
-      "qld": "258",
-      "sa": "258",
-      "tas": "258"
+      "0": {
+        "state": "VIC",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "SA",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -121,13 +394,51 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/661046.jpg",
     "barcode": "9417986943367",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "100G",
     "prices": {
-      "vic": "490.00000000000006",
-      "qld": "490.00000000000006",
-      "wa": "490.00000000000006",
-      "sa": "490.00000000000006",
-      "tas": "490.00000000000006"
+      "0": {
+        "state": "VIC",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -136,16 +447,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9958113.jpg&w=640&q=90",
     "barcode": "9417986939018",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "190g",
     "prices": {
-      "nsw": "258",
-      "nsw_price_per_unit": "490",
-      "nsw_unit": "g",
-      "vic": "258",
-      "qld": "258",
-      "wa": "258",
-      "sa": "258",
-      "tas": "258"
+      "0": {
+        "state": "VIC",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -154,13 +506,51 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726089.jpg",
     "barcode": "9417986939018",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "100G",
     "prices": {
-      "vic": "490.00000000000006",
-      "qld": "490.00000000000006",
-      "wa": "490.00000000000006",
-      "sa": "490.00000000000006",
-      "tas": "490.00000000000006"
+      "0": {
+        "state": "VIC",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -169,12 +559,45 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9958146.jpg&w=640&q=90",
     "barcode": "9417986939025",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "190g",
     "prices": {
-      "vic": "258",
-      "qld": "258",
-      "sa": "258",
-      "tas": "258"
+      "0": {
+        "state": "VIC",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "SA",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -183,13 +606,51 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/726133.jpg",
     "barcode": "9417986939025",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "100G",
     "prices": {
-      "vic": "490.00000000000006",
-      "qld": "490.00000000000006",
-      "wa": "490.00000000000006",
-      "sa": "490.00000000000006",
-      "tas": "490.00000000000006"
+      "0": {
+        "state": "VIC",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "258",
+        "price_per_unit": "490",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "129",
+        "price_per_unit": "245",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -198,12 +659,45 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6340395.jpg&w=640&q=90",
     "barcode": "9417986946177",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "220g",
     "prices": {
-      "vic": "273",
-      "qld": "273",
-      "sa": "273",
-      "tas": "273"
+      "0": {
+        "state": "VIC",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "SA",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "NT",
+        "price": "286",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -212,46 +706,51 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/189581.jpg",
     "barcode": "9417986946177",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "100G",
     "prices": {
-      "vic": "600",
-      "qld": "600",
-      "wa": "600",
-      "sa": "600",
-      "tas": "600"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/parsons-vanilla-creamed-rice-430g-4264547",
-    "name": "Parsons Vanilla Creamed Rice | 430g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4264547.jpg&w=640&q=90",
-    "barcode": "9310047206909",
-    "shop": "coles",
-    "weight": "430g",
-    "prices": {
-      "nsw": "81",
-      "nsw_price_per_unit": "350",
-      "nsw_unit": "g",
-      "vic": "81",
-      "qld": "81",
-      "wa": "81",
-      "sa": "81",
-      "tas": "81"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/220111/white-wings-parsons-vanilla-creamed-rice-98-fat-free",
-    "name": "White Wings Parsons Vanilla Creamed Rice 98% Fat Free 430g",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/220111.jpg",
-    "barcode": "9310047206909",
-    "shop": "Woolworths",
-    "weight": "100G",
-    "prices": {
-      "vic": "350",
-      "qld": "350",
-      "wa": "350",
-      "sa": "350",
-      "tas": "350"
+      "0": {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -260,13 +759,51 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6340351.jpg&w=640&q=90",
     "barcode": "9417986946160",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "220g",
     "prices": {
-      "vic": "273",
-      "qld": "273",
-      "wa": "273",
-      "sa": "273",
-      "tas": "273"
+      "0": {
+        "state": "VIC",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "WA",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "SA",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "273",
+        "price_per_unit": "600",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "NT",
+        "price": "286",
+        "price_per_unit": "630",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -275,11 +812,145 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/189746.jpg",
     "barcode": "9417986946160",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "100G",
     "prices": {
-      "wa": "600",
-      "sa": "600",
-      "tas": "600"
+      "0": {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "600",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "ACT",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "NT",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "G"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/parsons-vanilla-creamed-rice-430g-4264547",
+    "name": "Parsons Vanilla Creamed Rice | 430g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4264547.jpg&w=640&q=90",
+    "barcode": "9310047206909",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "430g",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "86",
+        "price_per_unit": "368",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/220111/white-wings-parsons-vanilla-creamed-rice-98-fat-free",
+    "name": "White Wings Parsons Vanilla Creamed Rice 98% Fat Free 430g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/220111.jpg",
+    "barcode": "9310047206909",
+    "shop": "Woolworths",
+    "category_id": "10302",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "NT",
+        "price": "81",
+        "price_per_unit": "350",
+        "price_unit": "G"
+      }
     }
   }
 ]

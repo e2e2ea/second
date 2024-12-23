@@ -5,40 +5,40 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/785276.jpg",
     "source_id": "Woolworths - 785276",
     "barcode": "9311008012188",
+    "category_id": "1_ACA2FC2",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "VIC",
-        "price": "200",
-        "price_per_unit": "111",
+        "price": "111",
+        "price_per_unit": "200",
         "price_unit": "G"
       },
       {
         "state": "QLD",
-        "price": "200",
-        "price_per_unit": "111",
+        "price": "111",
+        "price_per_unit": "200",
         "price_unit": "G"
       },
       {
         "state": "WA",
-        "price": "200",
-        "price_per_unit": "111",
+        "price": "111",
+        "price_per_unit": "200",
         "price_unit": "G"
       },
       {
         "state": "SA",
-        "price": "200",
-        "price_per_unit": "111",
+        "price": "111",
+        "price_per_unit": "200",
         "price_unit": "G"
       },
       {
         "state": "ACT",
-        "price": "400",
-        "price_per_unit": "222",
+        "price": "222",
+        "price_per_unit": "400",
         "price_unit": "G"
-      },
-      null
+      }
     ]
   }
 ]

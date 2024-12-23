@@ -5,16 +5,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3147027.jpg&w=640&q=90",
     "barcode": "9349107000089",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "480ml",
     "prices": {
-      "nsw": "167",
-      "nsw_price_per_unit": "800",
-      "nsw_unit": "ml",
-      "vic": "167",
-      "qld": "167",
-      "wa": "167",
-      "sa": "167",
-      "tas": "167"
+      "0": {
+        "state": "VIC",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "WA",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "SA",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      },
+      "7": {
+        "state": "NT",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -23,13 +64,45 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/577912.jpg",
     "barcode": "9349107000089",
     "shop": "Woolworths",
+    "category_id": "85471",
     "weight": "100ML",
     "prices": {
-      "vic": "",
-      "qld": "700",
-      "wa": "700",
-      "sa": "700",
-      "tas": "700"
+      "0": {
+        "state": "VIC",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "WA",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "SA",
+        "price": "146",
+        "price_per_unit": "700",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "167",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "167",
+        "price_per_unit": "800",
+        "price_unit": "ML"
+      }
     }
   }
 ]

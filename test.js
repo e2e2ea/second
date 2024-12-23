@@ -9,7 +9,7 @@ import mongoose from 'mongoose';
 puppeteer.use(StealthPlugin());
 
 // const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas', 'act', 'nt']
-const mylocation = ['vic']
+const mylocation = ['act', 'nt']
 const dbConnect = async () => {
   try {
     const conn = await mongoose.connect('mongodb://127.0.0.1/wooly4');
@@ -267,7 +267,7 @@ const scrapeCategory = async (page, category, myloc) => {
     filters: [],
     token: '',
     gpBoost: 0,
-    isHideUnavailableProducts: false,
+    isHideUnavailableProducts: true,
     isRegisteredRewardCardPromotion: false,
     enableAdReRanking: false,
     groupEdmVariants: true,
@@ -285,9 +285,9 @@ const scrapeCategory = async (page, category, myloc) => {
   const productRes = [];
   let pageReset = 0
   for (let i = 1; i <= numPages; i++) {
-    if (category.name === 'Cleaning & Maintenance' && i < 113 && myloc === 'vic') {
-      i = 114
-    }
+    // if (category.name === 'Cleaning & Maintenance' && i < 113 && myloc === 'vic') {
+    //   i = 114
+    // }
     // if (category.name === 'Freezer' && myloc === 'act') {
     //   console.log('skipping other page', i)
     //   break

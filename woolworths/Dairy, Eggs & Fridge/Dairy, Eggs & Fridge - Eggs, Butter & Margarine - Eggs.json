@@ -5,11 +5,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/886127.jpg",
     "source_id": "Woolworths - 886127",
     "barcode": "9349663000028",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/98234/hilltops-12-free-range-eggs",
@@ -17,13 +16,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/098234.jpg",
     "source_id": "Woolworths - 98234",
     "barcode": "9369999073930",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "ACT",
-        "price": "1395",
-        "price_per_unit": "199",
+        "price": "199",
+        "price_per_unit": "1395",
         "price_unit": "G"
       }
     ]
@@ -34,6 +34,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/101523.jpg",
     "source_id": "Woolworths - 101523",
     "barcode": "80687508075",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -44,6 +45,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/101565.jpg",
     "source_id": "Woolworths - 101565",
     "barcode": "80687508082",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -54,6 +56,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/101878.jpg",
     "source_id": "Woolworths - 101878",
     "barcode": "793618238520",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -64,6 +67,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/101566.jpg",
     "source_id": "Woolworths - 101566",
     "barcode": "793591319957",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -74,11 +78,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/484383.jpg",
     "source_id": "Woolworths - 484383",
     "barcode": "9313715880012",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/663362/liberty-eggs-18-large-cage-free-eggs",
@@ -86,11 +89,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/663362.jpg",
     "source_id": "Woolworths - 663362",
     "barcode": "9313715810002",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/191726/macro-12-large-organic-australian-free-range-eggs",
@@ -98,20 +100,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/191726.jpg",
     "source_id": "Woolworths - 191726",
     "barcode": "9339687285136",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "WA",
-        "price": "1050",
-        "price_per_unit": "175",
+        "price": "175",
+        "price_per_unit": "1050",
         "price_unit": "G"
       },
       {
         "state": "TAS",
-        "price": "1050",
-        "price_per_unit": "175",
+        "price": "175",
+        "price_per_unit": "1050",
         "price_unit": "G"
       }
     ]
@@ -122,11 +124,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/240029.jpg",
     "source_id": "Woolworths - 240029",
     "barcode": "9339687314454",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/313900/manning-valley-12-extra-large-free-range-eggs",
@@ -134,11 +135,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/313900.jpg",
     "source_id": "Woolworths - 313900",
     "barcode": "9318362000608",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/361498/manning-valley-12-free-range-eggs",
@@ -146,6 +146,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/361498.jpg",
     "source_id": "Woolworths - 361498",
     "barcode": "9318362005405",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -156,11 +157,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/363392.jpg",
     "source_id": "Woolworths - 363392",
     "barcode": "9318362000004",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/313898/manning-valley-12-large-free-range-eggs",
@@ -168,13 +168,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/313898.jpg",
     "source_id": "Woolworths - 313898",
     "barcode": "9318362000554",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "NSW",
-        "price": "730",
-        "price_per_unit": "122",
+        "price": "122",
+        "price_per_unit": "730",
         "price_unit": "G"
       }
     ]
@@ -185,11 +186,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/689556.jpg",
     "source_id": "Woolworths - 689556",
     "barcode": "9318362000011",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165830/manning-valley-30-free-range-eggs",
@@ -197,11 +197,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/165830.jpg",
     "source_id": "Woolworths - 165830",
     "barcode": "9318362000189",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/319054/manning-valley-6-large-free-range-eggs-free-range-eggs",
@@ -209,19 +208,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/319054.jpg",
     "source_id": "Woolworths - 319054",
     "barcode": "9318362003302",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "NSW",
-        "price": "440",
-        "price_per_unit": "133",
+        "price": "133",
+        "price_per_unit": "440",
         "price_unit": "G"
       },
       {
         "state": "QLD",
-        "price": "440",
-        "price_per_unit": "133",
+        "price": "133",
+        "price_per_unit": "440",
         "price_unit": "G"
       }
     ]
@@ -232,11 +232,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/117784.jpg",
     "source_id": "Woolworths - 117784",
     "barcode": "9318362000028",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92953/pace-farm-12-extra-large-free-range-eggs",
@@ -244,11 +243,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092953.jpg",
     "source_id": "Woolworths - 92953",
     "barcode": "9313715007082",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92955/pace-farm-12-jumbo-free-range-eggs",
@@ -256,11 +254,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092955.jpg",
     "source_id": "Woolworths - 92955",
     "barcode": "9313715008003",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/655429/pace-farm-18-large-free-range-eggs",
@@ -268,11 +265,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/655429.jpg",
     "source_id": "Woolworths - 655429",
     "barcode": "9313715900178",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/54250/pace-farm-30-cage-free-eggs",
@@ -280,11 +276,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/054250.jpg",
     "source_id": "Woolworths - 54250",
     "barcode": "9313715815014",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33086/pace-farm-6-large-free-range-eggs",
@@ -292,11 +287,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033086.jpg",
     "source_id": "Woolworths - 33086",
     "barcode": "9313715350003",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/212721/pace-farm-6-large-organic-free-range-eggs",
@@ -304,13 +298,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/212721.jpg",
     "source_id": "Woolworths - 212721",
     "barcode": "9313715300008",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "ACT",
-        "price": "680",
-        "price_per_unit": "227",
+        "price": "227",
+        "price_per_unit": "680",
         "price_unit": "G"
       }
     ]
@@ -321,13 +316,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/059790.jpg",
     "source_id": "Woolworths - 59790",
     "barcode": "9313715870013",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "NSW",
-        "price": "770",
-        "price_per_unit": "110",
+        "price": "110",
+        "price_per_unit": "770",
         "price_unit": "G"
       }
     ]
@@ -338,11 +334,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/310736.jpg",
     "source_id": "Woolworths - 310736",
     "barcode": "9313715860014",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59789/pace-farm-liberty-eggs-6-large-cage-free-eggs",
@@ -350,11 +345,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/059789.jpg",
     "source_id": "Woolworths - 59789",
     "barcode": "9313715835012",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/54278/puregg-free-range-liquid-egg-white",
@@ -362,11 +356,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/054278.jpg",
     "source_id": "Woolworths - 54278",
     "barcode": "9345172002324",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/715111/puregg-simply-egg-whites",
@@ -374,11 +367,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/715111.jpg",
     "source_id": "Woolworths - 715111",
     "barcode": "9345172000016",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/118213/simply-eggs-12-extra-large-cage-free-eggs",
@@ -386,14 +378,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/118213.jpg",
     "source_id": "Woolworths - 118213",
     "barcode": "9349663000813",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "TAS",
-        "price": "610",
-        "price_per_unit": "87",
+        "price": "87",
+        "price_per_unit": "610",
         "price_unit": "G"
       }
     ]
@@ -404,31 +396,32 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/202911.jpg",
     "source_id": "Woolworths - 202911",
     "barcode": "9349663002558",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "VIC",
-        "price": "900",
-        "price_per_unit": "180",
+        "price": "180",
+        "price_per_unit": "900",
         "price_unit": "G"
       },
       {
         "state": "WA",
-        "price": "900",
-        "price_per_unit": "180",
+        "price": "180",
+        "price_per_unit": "900",
         "price_unit": "G"
       },
       {
         "state": "SA",
-        "price": "900",
-        "price_per_unit": "180",
+        "price": "180",
+        "price_per_unit": "900",
         "price_unit": "G"
       },
       {
         "state": "NT",
-        "price": "900",
-        "price_per_unit": "180",
+        "price": "180",
+        "price_per_unit": "900",
         "price_unit": "G"
       }
     ]
@@ -439,14 +432,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/077170.jpg",
     "source_id": "Woolworths - 77170",
     "barcode": "9310625012786",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "TAS",
-        "price": "795",
-        "price_per_unit": "114",
+        "price": "114",
+        "price_per_unit": "795",
         "price_unit": "G"
       }
     ]
@@ -457,20 +450,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140770.jpg",
     "source_id": "Woolworths - 140770",
     "barcode": "9349663002282",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "TAS",
-        "price": "1245",
-        "price_per_unit": "178",
+        "price": "178",
+        "price_per_unit": "1245",
         "price_unit": "G"
       },
       {
         "state": "NT",
-        "price": "1245",
-        "price_per_unit": "178",
+        "price": "178",
+        "price_per_unit": "1245",
         "price_unit": "G"
       }
     ]
@@ -481,14 +474,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/771237.jpg",
     "source_id": "Woolworths - 771237",
     "barcode": "9310625013097",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "TAS",
-        "price": "1150",
-        "price_per_unit": "128",
+        "price": "128",
+        "price_per_unit": "1150",
         "price_unit": "G"
       }
     ]
@@ -499,11 +492,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/911496.jpg",
     "source_id": "Woolworths - 911496",
     "barcode": "9349663003340",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165367/woolworths-12-extra-large-cage-free-eggs",
@@ -511,6 +503,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/165367.jpg",
     "source_id": "Woolworths - 165367",
     "barcode": "9339687265794",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -521,6 +514,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/224762.jpg",
     "source_id": "Woolworths - 224762",
     "barcode": "9339687306558",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -531,6 +525,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/224763.jpg",
     "source_id": "Woolworths - 224763",
     "barcode": "9339687306565",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -541,11 +536,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/074593.jpg",
     "source_id": "Woolworths - 74593",
     "barcode": "9339687138920",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/700426/woolworths-6-extra-large-free-range-eggs",
@@ -553,19 +547,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/700426.jpg",
     "source_id": "Woolworths - 700426",
     "barcode": "9300633224332",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "NSW",
-        "price": "455",
-        "price_per_unit": "130",
+        "price": "130",
+        "price_per_unit": "455",
         "price_unit": "G"
       },
       {
         "state": "ACT",
-        "price": "455",
-        "price_per_unit": "130",
+        "price": "130",
+        "price_per_unit": "455",
         "price_unit": "G"
       }
     ]
@@ -576,11 +571,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/203576.jpg",
     "source_id": "Woolworths - 203576",
     "barcode": "9356391000114",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/206063/yallamundi-farm-6-large-organic-free-range-eggs",
@@ -588,14 +582,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/206063.jpg",
     "source_id": "Woolworths - 206063",
     "barcode": "9356391000060",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "TAS",
-        "price": "740",
-        "price_per_unit": "247",
+        "price": "247",
+        "price_per_unit": "740",
         "price_unit": "G"
       }
     ]
@@ -606,14 +600,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140588.jpg",
     "source_id": "Woolworths - 140588",
     "barcode": "9356391000077",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "ACT",
-        "price": "1350",
-        "price_per_unit": "193",
+        "price": "193",
+        "price_per_unit": "1350",
         "price_unit": "G"
       }
     ]
@@ -624,11 +618,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170760.jpg",
     "source_id": "Woolworths - 170760",
     "barcode": "9349663002367",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/756218/gippsland-12-extra-large-free-range-eggs",
@@ -636,13 +629,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/756218.jpg",
     "source_id": "Woolworths - 756218",
     "barcode": "9328985000039",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "VIC",
-        "price": "850",
-        "price_per_unit": "121",
+        "price": "121",
+        "price_per_unit": "850",
         "price_unit": "G"
       }
     ]
@@ -653,6 +647,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/927400.jpg",
     "source_id": "Woolworths - 927400",
     "barcode": "9369999040703",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -663,6 +658,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/169924.jpg",
     "source_id": "Woolworths - 169924",
     "barcode": "9356250000040",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -673,6 +669,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/081973.jpg",
     "source_id": "Woolworths - 81973",
     "barcode": "9369998056811",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -683,6 +680,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140546.jpg",
     "source_id": "Woolworths - 140546",
     "barcode": "9356250000026",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -693,6 +691,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/927429.jpg",
     "source_id": "Woolworths - 927429",
     "barcode": "9369999050139",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -703,11 +702,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/893974.jpg",
     "source_id": "Woolworths - 893974",
     "barcode": "9313715907009",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/63425/moorabool-valley-12-large-free-range-eggs",
@@ -715,13 +713,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/063425.jpg",
     "source_id": "Woolworths - 63425",
     "barcode": "9337716000187",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "ACT",
-        "price": "880",
-        "price_per_unit": "126",
+        "price": "126",
+        "price_per_unit": "880",
         "price_unit": "G"
       }
     ]
@@ -732,11 +731,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/265710.jpg",
     "source_id": "Woolworths - 265710",
     "barcode": "9337716000941",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/962054/moorabool-valley-local-free-range-12-eggs-extra-large",
@@ -744,11 +742,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/962054.jpg",
     "source_id": "Woolworths - 962054",
     "barcode": "9337716000484",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/360067/mornington-peninsula-brewery-12-x-large-cage-free-eggs",
@@ -756,11 +753,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/360067.jpg",
     "source_id": "Woolworths - 360067",
     "barcode": "9354186000226",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/360314/mornington-peninsula-brewery-12-x-large-cage-free-eggs",
@@ -768,13 +764,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/360314.jpg",
     "source_id": "Woolworths - 360314",
     "barcode": "9354186000233",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "ACT",
-        "price": "750",
-        "price_per_unit": "107",
+        "price": "107",
+        "price_per_unit": "750",
         "price_unit": "G"
       }
     ]
@@ -785,11 +782,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/172270.jpg",
     "source_id": "Woolworths - 172270",
     "barcode": "9354186000219",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/54812/mornington-peninsula-brewery-free-range-eggs-12-pack",
@@ -797,11 +793,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/054812.jpg",
     "source_id": "Woolworths - 54812",
     "barcode": "9354186000073",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/54806/mornington-peninsula-brewery-free-range-eggs-12-pack",
@@ -809,11 +804,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/054806.jpg",
     "source_id": "Woolworths - 54806",
     "barcode": "9354186000080",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/54813/mornington-peninsula-brewery-free-range-eggs-6-pack",
@@ -821,6 +815,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/054813.jpg",
     "source_id": "Woolworths - 54813",
     "barcode": "9354186000042",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -831,11 +826,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/139460.jpg",
     "source_id": "Woolworths - 139460",
     "barcode": "9313715700181",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92941/pace-farm-12-jumbo-caged-eggs",
@@ -843,6 +837,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/092941.jpg",
     "source_id": "Woolworths - 92941",
     "barcode": "9313715800935",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -853,6 +848,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033092.jpg",
     "source_id": "Woolworths - 33092",
     "barcode": "9313715600948",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -863,6 +859,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/053156.jpg",
     "source_id": "Woolworths - 53156",
     "barcode": "9313715515006",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -873,11 +870,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103445.jpg",
     "source_id": "Woolworths - 103445",
     "barcode": "9340468000015",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/198672/rohde-s-clare-valley-18-large-free-range-eggs",
@@ -885,11 +881,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198672.jpg",
     "source_id": "Woolworths - 198672",
     "barcode": "9340468000077",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/756249/sth-gippsland-12-large-free-range-eggs",
@@ -897,6 +892,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/756249.jpg",
     "source_id": "Woolworths - 756249",
     "barcode": "9328985000022",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -907,6 +903,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/265064.jpg",
     "source_id": "Woolworths - 265064",
     "barcode": "9313715727003",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -917,14 +914,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/760367.jpg",
     "source_id": "Woolworths - 760367",
     "barcode": "9310625067533",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "TAS",
-        "price": "950",
-        "price_per_unit": "119",
+        "price": "119",
+        "price_per_unit": "950",
         "price_unit": "G"
       }
     ]
@@ -935,11 +932,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/077173.jpg",
     "source_id": "Woolworths - 77173",
     "barcode": "9310625012779",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/102212/sunrise-eggs-12-free-range-eggs",
@@ -947,6 +943,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/102212.jpg",
     "source_id": "Woolworths - 102212",
     "barcode": "9351974041065",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -957,19 +954,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205220.jpg",
     "source_id": "Woolworths - 205220",
     "barcode": "9300633900984",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "QLD",
-        "price": "540",
-        "price_per_unit": "77",
+        "price": "77",
+        "price_per_unit": "540",
         "price_unit": "G"
       },
       {
         "state": "TAS",
-        "price": "540",
-        "price_per_unit": "77",
+        "price": "77",
+        "price_per_unit": "540",
         "price_unit": "G"
       }
     ]
@@ -980,11 +978,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/175902.jpg",
     "source_id": "Woolworths - 175902",
     "barcode": "9300633092726",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/582112/woolworths-12-extra-large-cage-free-eggs",
@@ -992,20 +989,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582112.jpg",
     "source_id": "Woolworths - 582112",
     "barcode": "9300633636999",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "SA",
-        "price": "540",
-        "price_per_unit": "77",
+        "price": "77",
+        "price_per_unit": "540",
         "price_unit": "G"
       },
       {
         "state": "NT",
-        "price": "540",
-        "price_per_unit": "77",
+        "price": "77",
+        "price_per_unit": "540",
         "price_unit": "G"
       }
     ]
@@ -1016,13 +1013,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/175905.jpg",
     "source_id": "Woolworths - 175905",
     "barcode": "9300633013264",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "ACT",
-        "price": "610",
-        "price_per_unit": "87",
+        "price": "87",
+        "price_per_unit": "610",
         "price_unit": "G"
       }
     ]
@@ -1033,20 +1031,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582119.jpg",
     "source_id": "Woolworths - 582119",
     "barcode": "9300633637057",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "SA",
-        "price": "610",
-        "price_per_unit": "87",
+        "price": "87",
+        "price_per_unit": "610",
         "price_unit": "G"
       },
       {
         "state": "NT",
-        "price": "610",
-        "price_per_unit": "87",
+        "price": "87",
+        "price_per_unit": "610",
         "price_unit": "G"
       }
     ]
@@ -1057,13 +1055,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/577959.jpg",
     "source_id": "Woolworths - 577959",
     "barcode": "9300633636333",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "ACT",
-        "price": "570",
-        "price_per_unit": "95",
+        "price": "95",
+        "price_per_unit": "570",
         "price_unit": "G"
       }
     ]
@@ -1074,20 +1073,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582115.jpg",
     "source_id": "Woolworths - 582115",
     "barcode": "9300633637026",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "SA",
-        "price": "570",
-        "price_per_unit": "95",
+        "price": "95",
+        "price_per_unit": "570",
         "price_unit": "G"
       },
       {
         "state": "NT",
-        "price": "570",
-        "price_per_unit": "95",
+        "price": "95",
+        "price_per_unit": "570",
         "price_unit": "G"
       }
     ]
@@ -1098,14 +1097,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/074270.jpg",
     "source_id": "Woolworths - 74270",
     "barcode": "9339687138906",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
-      
       {
         "state": "TAS",
-        "price": "790",
-        "price_per_unit": "88",
+        "price": "88",
+        "price_per_unit": "790",
         "price_unit": "G"
       }
     ]
@@ -1116,6 +1115,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/478167.jpg",
     "source_id": "Woolworths - 478167",
     "barcode": "9310625200121",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1126,6 +1126,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/183096.jpg",
     "source_id": "Woolworths - 183096",
     "barcode": "9131715811702",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1136,6 +1137,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/319049.jpg",
     "source_id": "Woolworths - 319049",
     "barcode": "9310625012342",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1146,6 +1148,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/760447.jpg",
     "source_id": "Woolworths - 760447",
     "barcode": "9310625013295",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1156,11 +1159,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/482856.jpg",
     "source_id": "Woolworths - 482856",
     "barcode": "9310625013080",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/263708/sunny-queen-30-extra-large-cage-free-eggs-cage-free-eggs",
@@ -1168,6 +1170,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263708.jpg",
     "source_id": "Woolworths - 263708",
     "barcode": "9349663002824",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1178,6 +1181,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/365782.jpg",
     "source_id": "Woolworths - 365782",
     "barcode": "9349663002602",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1188,6 +1192,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/935599.jpg",
     "source_id": "Woolworths - 935599",
     "barcode": "9349663000035",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1198,13 +1203,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140262.jpg",
     "source_id": "Woolworths - 140262",
     "barcode": "9310625006754",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "QLD",
-        "price": "470",
-        "price_per_unit": "134",
+        "price": "134",
+        "price_per_unit": "470",
         "price_unit": "G"
       }
     ]
@@ -1215,11 +1221,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205222.jpg",
     "source_id": "Woolworths - 205222",
     "barcode": "9300633900991",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/582822/woolworths-12-large-free-range-eggs",
@@ -1227,6 +1232,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582822.jpg",
     "source_id": "Woolworths - 582822",
     "barcode": "9300633637194",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1237,6 +1243,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/233889.jpg",
     "source_id": "Woolworths - 233889",
     "barcode": "9339687308293",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1247,11 +1254,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/117650.jpg",
     "source_id": "Woolworths - 117650",
     "barcode": "9315748109634",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/49424/golden-eggs-12-extra-large-caged-eggs",
@@ -1259,6 +1265,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/049424.jpg",
     "source_id": "Woolworths - 49424",
     "barcode": "9311394001162",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1269,13 +1276,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/029771.jpg",
     "source_id": "Woolworths - 29771",
     "barcode": "9311394001148",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "740",
-        "price_per_unit": "106",
+        "price": "106",
+        "price_per_unit": "740",
         "price_unit": "G"
       }
     ]
@@ -1286,13 +1294,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/794961.jpg",
     "source_id": "Woolworths - 794961",
     "barcode": "9311394200596",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "770",
-        "price_per_unit": "110",
+        "price": "110",
+        "price_per_unit": "770",
         "price_unit": "G"
       }
     ]
@@ -1303,13 +1312,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/231460.jpg",
     "source_id": "Woolworths - 231460",
     "barcode": "9311394200657",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "1090",
-        "price_per_unit": "121",
+        "price": "121",
+        "price_per_unit": "1090",
         "price_unit": "G"
       }
     ]
@@ -1320,13 +1330,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052403.jpg",
     "source_id": "Woolworths - 52403",
     "barcode": "9311394200091",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "1840",
-        "price_per_unit": "123",
+        "price": "123",
+        "price_per_unit": "1840",
         "price_unit": "G"
       }
     ]
@@ -1337,13 +1348,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/839426.jpg",
     "source_id": "Woolworths - 839426",
     "barcode": "9332888000867",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "850",
-        "price_per_unit": "121",
+        "price": "121",
+        "price_per_unit": "850",
         "price_unit": "G"
       }
     ]
@@ -1354,13 +1366,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/630126.jpg",
     "source_id": "Woolworths - 630126",
     "barcode": "9332888000652",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "890",
-        "price_per_unit": "111",
+        "price": "111",
+        "price_per_unit": "890",
         "price_unit": "G"
       }
     ]
@@ -1371,6 +1384,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/630106.jpg",
     "source_id": "Woolworths - 630106",
     "barcode": "9332888000638",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1381,13 +1395,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/692131.jpg",
     "source_id": "Woolworths - 692131",
     "barcode": "9332888000966",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "1150",
-        "price_per_unit": "115",
+        "price": "115",
+        "price_per_unit": "1150",
         "price_unit": "G"
       }
     ]
@@ -1398,13 +1413,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/630649.jpg",
     "source_id": "Woolworths - 630649",
     "barcode": "9332888000607",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "500",
-        "price_per_unit": "143",
+        "price": "143",
+        "price_per_unit": "500",
         "price_unit": "G"
       }
     ]
@@ -1415,13 +1431,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/630127.jpg",
     "source_id": "Woolworths - 630127",
     "barcode": "9332888000126",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "1050",
-        "price_per_unit": "150",
+        "price": "150",
+        "price_per_unit": "1050",
         "price_unit": "G"
       }
     ]
@@ -1432,13 +1449,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141052.jpg",
     "source_id": "Woolworths - 141052",
     "barcode": "9311394200589",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "820",
-        "price_per_unit": "117",
+        "price": "117",
+        "price_per_unit": "820",
         "price_unit": "G"
       }
     ]
@@ -1449,13 +1467,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/200707.jpg",
     "source_id": "Woolworths - 200707",
     "barcode": "9311394002015",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "1090",
-        "price_per_unit": "109",
+        "price": "109",
+        "price_per_unit": "1090",
         "price_unit": "G"
       }
     ]
@@ -1466,13 +1485,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/659030.jpg",
     "source_id": "Woolworths - 659030",
     "barcode": "9311394002039",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "850",
-        "price_per_unit": "106",
+        "price": "106",
+        "price_per_unit": "850",
         "price_unit": "G"
       }
     ]
@@ -1483,6 +1503,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/749194.jpg",
     "source_id": "Woolworths - 749194",
     "barcode": "9328045000306",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1493,6 +1514,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/749173.jpg",
     "source_id": "Woolworths - 749173",
     "barcode": "9328045000405",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1503,6 +1525,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/749199.jpg",
     "source_id": "Woolworths - 749199",
     "barcode": "9328045000207",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1513,13 +1536,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052370.jpg",
     "source_id": "Woolworths - 52370",
     "barcode": "9311394200510",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "1560",
-        "price_per_unit": "104",
+        "price": "104",
+        "price_per_unit": "1560",
         "price_unit": "G"
       }
     ]
@@ -1530,6 +1554,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052371.jpg",
     "source_id": "Woolworths - 52371",
     "barcode": "9311394200060",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1540,13 +1565,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052402.jpg",
     "source_id": "Woolworths - 52402",
     "barcode": "9311394200077",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "750",
-        "price_per_unit": "94",
+        "price": "94",
+        "price_per_unit": "750",
         "price_unit": "G"
       }
     ]
@@ -1557,13 +1583,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/785234.jpg",
     "source_id": "Woolworths - 785234",
     "barcode": "9311394200503",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "630",
-        "price_per_unit": "90",
+        "price": "90",
+        "price_per_unit": "630",
         "price_unit": "G"
       }
     ]
@@ -1574,13 +1601,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/052369.jpg",
     "source_id": "Woolworths - 52369",
     "barcode": "9311394200084",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "960",
-        "price_per_unit": "107",
+        "price": "107",
+        "price_per_unit": "960",
         "price_unit": "G"
       }
     ]
@@ -1591,13 +1619,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/205199.jpg",
     "source_id": "Woolworths - 205199",
     "barcode": "9300633900892",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "540",
-        "price_per_unit": "77",
+        "price": "77",
+        "price_per_unit": "540",
         "price_unit": "G"
       }
     ]
@@ -1608,13 +1637,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582095.jpg",
     "source_id": "Woolworths - 582095",
     "barcode": "9300633636968",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "610",
-        "price_per_unit": "87",
+        "price": "87",
+        "price_per_unit": "610",
         "price_unit": "G"
       }
     ]
@@ -1625,13 +1655,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/254729.jpg",
     "source_id": "Woolworths - 254729",
     "barcode": "9300633945886",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "570",
-        "price_per_unit": "95",
+        "price": "95",
+        "price_per_unit": "570",
         "price_unit": "G"
       }
     ]
@@ -1642,13 +1673,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/074269.jpg",
     "source_id": "Woolworths - 74269",
     "barcode": "9339687138890",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "790",
-        "price_per_unit": "88",
+        "price": "88",
+        "price_per_unit": "790",
         "price_unit": "G"
       }
     ]
@@ -1659,13 +1691,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582114.jpg",
     "source_id": "Woolworths - 582114",
     "barcode": "9300633637019",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "WA",
-        "price": "455",
-        "price_per_unit": "130",
+        "price": "130",
+        "price_per_unit": "455",
         "price_unit": "G"
       }
     ]
@@ -1676,6 +1709,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/913861.jpg",
     "source_id": "Woolworths - 913861",
     "barcode": "9338295000452",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1686,13 +1720,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/913896.jpg",
     "source_id": "Woolworths - 913896",
     "barcode": "9338295000438",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "NT",
-        "price": "1000",
-        "price_per_unit": "111",
+        "price": "111",
+        "price_per_unit": "1000",
         "price_unit": "G"
       }
     ]
@@ -1703,11 +1738,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/781666.jpg",
     "source_id": "Woolworths - 781666",
     "barcode": "9315748110142",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/800110/adelaide-plains-12-barn-laid-eggs",
@@ -1715,11 +1749,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/800110.jpg",
     "source_id": "Woolworths - 800110",
     "barcode": "9315748110173",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/800107/adelaide-plains-6-barn-laid-eggs",
@@ -1727,6 +1760,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/800107.jpg",
     "source_id": "Woolworths - 800107",
     "barcode": "9315748109788",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1737,11 +1771,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/800118.jpg",
     "source_id": "Woolworths - 800118",
     "barcode": "9315748109795",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/330759/adelaide-plains-cage-free-eggs",
@@ -1749,11 +1782,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/330759.jpg",
     "source_id": "Woolworths - 330759",
     "barcode": "9315748110159",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/198469/adelaide-plains-large-barn-laid-eggs",
@@ -1761,6 +1793,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198469.jpg",
     "source_id": "Woolworths - 198469",
     "barcode": "9315748110166",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1771,6 +1804,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/487962.jpg",
     "source_id": "Woolworths - 487962",
     "barcode": "9338295000209",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1781,6 +1815,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/487952.jpg",
     "source_id": "Woolworths - 487952",
     "barcode": "9338295000186",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1791,6 +1826,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/201951.jpg",
     "source_id": "Woolworths - 201951",
     "barcode": "9338295003736",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1801,11 +1837,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/042919.jpg",
     "source_id": "Woolworths - 42919",
     "barcode": "9315748130614",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/482770/country-fresh-12-jumbo-free-range-eggs",
@@ -1813,11 +1848,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/482770.jpg",
     "source_id": "Woolworths - 482770",
     "barcode": "9315748130621",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/783262/gourmet-breakfast-12-extra-large-cage-free-eggs",
@@ -1825,11 +1859,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/783262.jpg",
     "source_id": "Woolworths - 783262",
     "barcode": "9338295000292",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/783153/gourmet-breakfast-12-extra-large-free-range-eggs",
@@ -1837,6 +1870,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/783153.jpg",
     "source_id": "Woolworths - 783153",
     "barcode": "9338295000018",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1847,6 +1881,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/783158.jpg",
     "source_id": "Woolworths - 783158",
     "barcode": "9338295000049",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1857,11 +1892,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/202625.jpg",
     "source_id": "Woolworths - 202625",
     "barcode": "9338295000360",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/783291/gourmet-breakfast-6-extra-large-free-range-eggs",
@@ -1869,6 +1903,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/783291.jpg",
     "source_id": "Woolworths - 783291",
     "barcode": "9338295000025",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1879,6 +1914,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/321053.jpg",
     "source_id": "Woolworths - 321053",
     "barcode": "9322770000037",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1889,6 +1925,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/330103.jpg",
     "source_id": "Woolworths - 330103",
     "barcode": "9322770000013",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1899,6 +1936,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/299936.jpg",
     "source_id": "Woolworths - 299936",
     "barcode": "9322770000044",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1909,6 +1947,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/080367.jpg",
     "source_id": "Woolworths - 80367",
     "barcode": "9315748110005",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1919,6 +1958,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/715649.jpg",
     "source_id": "Woolworths - 715649",
     "barcode": "9315748109986",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1929,11 +1969,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103444.jpg",
     "source_id": "Woolworths - 103444",
     "barcode": "9340468000008",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/103446/rohde-s-clare-valley-12-free-range-eggs",
@@ -1941,11 +1980,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/103446.jpg",
     "source_id": "Woolworths - 103446",
     "barcode": "9340468000022",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
-    "prices": [
-      
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/198157/southern-flinders-ranges-30-extra-large-free-range-eggs",
@@ -1953,6 +1991,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198157.jpg",
     "source_id": "Woolworths - 198157",
     "barcode": "9315748110876",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1963,6 +2002,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/197771.jpg",
     "source_id": "Woolworths - 197771",
     "barcode": "9315748110838",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1973,6 +2013,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198663.jpg",
     "source_id": "Woolworths - 198663",
     "barcode": "9315748110845",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1983,6 +2024,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/074213.jpg",
     "source_id": "Woolworths - 74213",
     "barcode": "9339687138883",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -1993,19 +2035,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582113.jpg",
     "source_id": "Woolworths - 582113",
     "barcode": "9300633637002",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "SA",
-        "price": "455",
-        "price_per_unit": "130",
+        "price": "130",
+        "price_per_unit": "455",
         "price_unit": "G"
       },
       {
         "state": "NT",
-        "price": "455",
-        "price_per_unit": "130",
+        "price": "130",
+        "price_per_unit": "455",
         "price_unit": "G"
       }
     ]
@@ -2016,6 +2059,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170488.jpg",
     "source_id": "Woolworths - 170488",
     "barcode": "9311293010593",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2026,6 +2070,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/232032.jpg",
     "source_id": "Woolworths - 232032",
     "barcode": "9314204009990",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2036,13 +2081,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/483462.jpg",
     "source_id": "Woolworths - 483462",
     "barcode": "9314204000003",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "945",
-        "price_per_unit": "105",
+        "price": "105",
+        "price_per_unit": "945",
         "price_unit": "G"
       }
     ]
@@ -2053,13 +2099,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/231458.jpg",
     "source_id": "Woolworths - 231458",
     "barcode": "9314204009983",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "1540",
-        "price_per_unit": "103",
+        "price": "103",
+        "price_per_unit": "1540",
         "price_unit": "G"
       }
     ]
@@ -2070,6 +2117,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/170487.jpg",
     "source_id": "Woolworths - 170487",
     "barcode": "9311293011590",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2080,13 +2128,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/159836.jpg",
     "source_id": "Woolworths - 159836",
     "barcode": "9326380000265",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "700",
-        "price_per_unit": "100",
+        "price": "100",
+        "price_per_unit": "700",
         "price_unit": "G"
       }
     ]
@@ -2097,6 +2146,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/882128.jpg",
     "source_id": "Woolworths - 882128",
     "barcode": "9326380000159",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2107,13 +2157,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/111133.jpg",
     "source_id": "Woolworths - 111133",
     "barcode": "9326380000036",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "510",
-        "price_per_unit": "70",
+        "price": "70",
+        "price_per_unit": "510",
         "price_unit": "G"
       }
     ]
@@ -2124,13 +2175,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/111574.jpg",
     "source_id": "Woolworths - 111574",
     "barcode": "9326380000043",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "660",
-        "price_per_unit": "106",
+        "price": "106",
+        "price_per_unit": "660",
         "price_unit": "G"
       }
     ]
@@ -2141,6 +2193,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/111128.jpg",
     "source_id": "Woolworths - 111128",
     "barcode": "9326380000098",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2151,13 +2204,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/111122.jpg",
     "source_id": "Woolworths - 111122",
     "barcode": "9326380000081",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "370",
-        "price_per_unit": "119",
+        "price": "119",
+        "price_per_unit": "370",
         "price_unit": "G"
       }
     ]
@@ -2168,13 +2222,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/759141.jpg",
     "source_id": "Woolworths - 759141",
     "barcode": "9314204019005",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "830",
-        "price_per_unit": "119",
+        "price": "119",
+        "price_per_unit": "830",
         "price_unit": "G"
       }
     ]
@@ -2185,6 +2240,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/072647.jpg",
     "source_id": "Woolworths - 72647",
     "barcode": "9314204000652",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2195,13 +2251,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/630090.jpg",
     "source_id": "Woolworths - 630090",
     "barcode": "9314204000522",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "480",
-        "price_per_unit": "137",
+        "price": "137",
+        "price_per_unit": "480",
         "price_unit": "G"
       }
     ]
@@ -2212,13 +2269,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/159253.jpg",
     "source_id": "Woolworths - 159253",
     "barcode": "9310751002149",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "780",
-        "price_per_unit": "111",
+        "price": "111",
+        "price_per_unit": "780",
         "price_unit": "G"
       }
     ]
@@ -2229,13 +2287,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230625.jpg",
     "source_id": "Woolworths - 230625",
     "barcode": "9314204009952",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "830",
-        "price_per_unit": "104",
+        "price": "104",
+        "price_per_unit": "830",
         "price_unit": "G"
       }
     ]
@@ -2246,13 +2305,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/159265.jpg",
     "source_id": "Woolworths - 159265",
     "barcode": "9310751002132",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "710",
-        "price_per_unit": "118",
+        "price": "118",
+        "price_per_unit": "710",
         "price_unit": "G"
       }
     ]
@@ -2263,13 +2323,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/231306.jpg",
     "source_id": "Woolworths - 231306",
     "barcode": "9314204009969",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "1760",
-        "price_per_unit": "117",
+        "price": "117",
+        "price_per_unit": "1760",
         "price_unit": "G"
       }
     ]
@@ -2280,13 +2341,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/159262.jpg",
     "source_id": "Woolworths - 159262",
     "barcode": "9310751002118",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "435",
-        "price_per_unit": "124",
+        "price": "124",
+        "price_per_unit": "435",
         "price_unit": "G"
       }
     ]
@@ -2297,13 +2359,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582362.jpg",
     "source_id": "Woolworths - 582362",
     "barcode": "9300633637071",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "TAS",
-        "price": "610",
-        "price_per_unit": "87",
+        "price": "87",
+        "price_per_unit": "610",
         "price_unit": "G"
       }
     ]
@@ -2314,6 +2377,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/582117.jpg",
     "source_id": "Woolworths - 582117",
     "barcode": "9300633637040",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2324,6 +2388,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/233997.jpg",
     "source_id": "Woolworths - 233997",
     "barcode": "9339687308330",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2334,6 +2399,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/133245.jpg",
     "source_id": "Woolworths - 133245",
     "barcode": "9339687222193",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2344,6 +2410,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/098235.jpg",
     "source_id": "Woolworths - 98235",
     "barcode": "9369999073923",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2354,13 +2421,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/198572.jpg",
     "source_id": "Woolworths - 198572",
     "barcode": "9369999073947",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "ACT",
-        "price": "1495",
-        "price_per_unit": "187",
+        "price": "187",
+        "price_per_unit": "1495",
         "price_unit": "G"
       }
     ]
@@ -2371,13 +2439,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/869029.jpg",
     "source_id": "Woolworths - 869029",
     "barcode": "9310229800185",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "NT",
-        "price": "530",
-        "price_per_unit": "76",
+        "price": "76",
+        "price_per_unit": "530",
         "price_unit": "G"
       }
     ]
@@ -2388,6 +2457,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/096929.jpg",
     "source_id": "Woolworths - 96929",
     "barcode": "9322187000378",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2398,13 +2468,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/097005.jpg",
     "source_id": "Woolworths - 97005",
     "barcode": "9322187000477",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "NT",
-        "price": "900",
-        "price_per_unit": "129",
+        "price": "129",
+        "price_per_unit": "900",
         "price_unit": "G"
       }
     ]
@@ -2415,6 +2486,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/166475.jpg",
     "source_id": "Woolworths - 166475",
     "barcode": "9322187000514",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2425,6 +2497,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/758566.jpg",
     "source_id": "Woolworths - 758566",
     "barcode": "9322187001023",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2435,13 +2508,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/758594.jpg",
     "source_id": "Woolworths - 758594",
     "barcode": "9322187001054",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "NT",
-        "price": "470",
-        "price_per_unit": "157",
+        "price": "157",
+        "price_per_unit": "470",
         "price_unit": "G"
       }
     ]
@@ -2452,6 +2526,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/096191.jpg",
     "source_id": "Woolworths - 96191",
     "barcode": "9312756004203",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []
@@ -2462,6 +2537,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/096209.jpg",
     "source_id": "Woolworths - 96209",
     "barcode": "9312756004111",
+    "category_id": "1_6E4F4E4",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": []

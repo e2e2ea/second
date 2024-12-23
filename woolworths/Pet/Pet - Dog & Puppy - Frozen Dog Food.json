@@ -5,13 +5,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/276007.jpg",
     "source_id": "Woolworths - 276007",
     "barcode": "9319185007010",
+    "category_id": "1_61D6FEB",
     "shop": "Woolworths",
     "weight": "100G",
     "prices": [
       {
         "state": "VIC",
-        "price": "2500",
-        "price_per_unit": "138",
+        "price": "138",
+        "price_per_unit": "2500",
         "price_unit": "G"
       }
     ]

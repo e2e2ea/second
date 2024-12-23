@@ -390,7 +390,7 @@ const scraper = async () => {
               if (ext.extensionCategory === 'Contraception & Sexual Health') url = `https://www.coles.com.au/browse/health-beauty/personal-care/sexual-health`
               if (ext.extensionCategory === 'Female Deodorants & Body Sprays') url = `https://www.coles.com.au/browse/health-beauty/personal-care/womens-deodorants`
               if (ext.extensionCategory === 'Male Deodorants & Body Sprays') url = `https://www.coles.com.au/browse/health-beauty/personal-care/mens-deodorants`
-              if (ext.extensionCategory === 'Pregnancy Tests') url = `https://www.coles.com.au/browse/health-beauty/personal-care`
+              if (ext.extensionCategory === 'Pregnancy Tests') url = `https://www.coles.com.au/browse/health-beauty/personal-care/pregnancy-tests`
             }
             if (sub.subCategory === 'Shaving & Hair Removal') {
               if (ext.extensionCategory === 'After Shave Care') url = `https://www.coles.com.au/browse/health-beauty/shaving-hair-removal/after-shave-care`

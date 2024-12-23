@@ -5,43 +5,44 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/577912.jpg",
     "source_id": "Woolworths - 577912",
     "barcode": "9349107000089",
+    "category_id": "1_ACA2FC2",
     "shop": "Woolworths",
     "weight": "100ML",
     "prices": [
       {
         "state": "VIC",
-        "price": "700",
-        "price_per_unit": "146",
+        "price": "146",
+        "price_per_unit": "700",
         "price_unit": "ML"
       },
       {
         "state": "QLD",
-        "price": "700",
-        "price_per_unit": "146",
+        "price": "146",
+        "price_per_unit": "700",
         "price_unit": "ML"
       },
       {
         "state": "WA",
-        "price": "700",
-        "price_per_unit": "146",
+        "price": "146",
+        "price_per_unit": "700",
         "price_unit": "ML"
       },
       {
         "state": "SA",
-        "price": "700",
-        "price_per_unit": "146",
+        "price": "146",
+        "price_per_unit": "700",
         "price_unit": "ML"
       },
       {
         "state": "TAS",
-        "price": "800",
-        "price_per_unit": "167",
+        "price": "167",
+        "price_per_unit": "800",
         "price_unit": "ML"
       },
       {
         "state": "ACT",
-        "price": "800",
-        "price_per_unit": "167",
+        "price": "167",
+        "price_per_unit": "800",
         "price_unit": "ML"
       }
     ]

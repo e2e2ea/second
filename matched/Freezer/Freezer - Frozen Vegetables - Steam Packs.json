@@ -5,34 +5,116 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2741011.jpg&w=640&q=90",
     "barcode": "9300462451909",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "750g",
     "prices": {
-      "nsw": "733",
-      "nsw_price_per_unit": "550",
-      "nsw_unit": "g",
-      "vic": "733",
-      "qld": "733",
-      "wa": "733",
-      "sa": "733",
-      "tas": "733"
+      "0": {
+        "state": "VIC",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/322796/birds-eye-steam-fresh-broccoli-carrots-corn",
     "name": "Birds Eye Steam Fresh Broccoli, Carrots & Corn 750g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/322796.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/322796.jpg",
     "barcode": "9300462451909",
-    "shop": "woolworths",
-    "weight": "750g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "1KG",
     "prices": {
-      "nsw": 733,
-      "nsw_price_per_unit": 550,
-      "nsw_unit": "g",
-      "vic": 450,
-      "qld": 550,
-      "act": 550,
-      "sa": 550,
-      "tas": 550
+      "0": {
+        "state": "NSW",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "WA",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "SA",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "7": {
+        "state": "NT",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -41,31 +123,98 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2740085.jpg&w=640&q=90",
     "barcode": "9310081114475",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "750g",
     "prices": {
-      "vic": "733",
-      "qld": "733",
-      "wa": "733",
-      "sa": "733",
-      "tas": "733"
+      "0": {
+        "state": "VIC",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "WA",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "SA",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "NT",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/180752/birds-eye-steam-fresh-carrot-cauliflower-broccoli",
     "name": "Birds Eye Steam Fresh Carrot, Cauliflower & Broccoli 750g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/180752.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/180752.jpg",
     "barcode": "9310081114475",
-    "shop": "woolworths",
-    "weight": "750g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "1KG",
     "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 550,
-      "nsw_unit": "g",
-      "vic": 733,
-      "qld": 550,
-      "act": 550,
-      "sa": 550,
-      "tas": 0
+      "0": {
+        "state": "VIC",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "NT",
+        "price": "733",
+        "price_per_unit": "550",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -74,63 +223,104 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1777228.jpg&w=640&q=90",
     "barcode": "9310081459798",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "400g",
     "prices": {
-      "vic": "1625",
-      "qld": "1625",
-      "wa": "1625",
-      "sa": "1625",
-      "tas": "1625"
+      "0": {
+        "state": "VIC",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "WA",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "SA",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "NT",
+        "price": "1755",
+        "price_per_unit": "702",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/782978/birds-eye-steam-fresh-in-cheese-sauce-broccoli-cauliflower-carrot",
     "name": "Birds Eye Steam Fresh In Cheese Sauce Broccoli, Cauliflower & Carrot 400g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/782978.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/782978.jpg",
     "barcode": "9310081459798",
-    "shop": "woolworths",
-    "weight": "400g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "1KG",
     "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 550,
-      "nsw_unit": "g",
-      "vic": 733,
-      "qld": 650,
-      "act": 650,
-      "sa": 650,
-      "tas": 650
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/birds-eye-steam-fresh-baby-potatoes-broccoli-carrot-peas-and-herbs-2-pack-400g-2257799",
-    "name": "Birds Eye Steam Fresh Baby Potatoes Broccoli Carrot Peas & Her ... 400g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2257799.jpg&w=640&q=90",
-    "barcode": "9310081104582",
-    "shop": "coles",
-    "weight": "400g",
-    "prices": {
-      "vic": "1625",
-      "qld": "1625",
-      "sa": "1625",
-      "tas": "1625"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/839440/birds-eye-steam-fresh-baby-potatoes-with-broccoli-carrots-peas-herbs",
-    "name": "Birds Eye Steam Fresh Baby Potatoes With Broccoli, Carrots, Peas &Herbs 400g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/839440.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9310081104582",
-    "shop": "woolworths",
-    "weight": "400g",
-    "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 550,
-      "nsw_unit": "g",
-      "vic": 733,
-      "qld": 650,
-      "act": 650,
-      "sa": 650,
-      "tas": 650
+      "0": {
+        "state": "VIC",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "6": {
+        "state": "NT",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -139,34 +329,104 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F2912974.jpg&w=640&q=90",
     "barcode": "9310081116301",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "400g",
     "prices": {
-      "nsw": "1625",
-      "nsw_price_per_unit": "650",
-      "nsw_unit": "g",
-      "vic": "1625",
-      "qld": "1625",
-      "wa": "1625",
-      "sa": "1625",
-      "tas": "1625"
+      "0": {
+        "state": "VIC",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "1755",
+        "price_per_unit": "702",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/586851/birds-eye-steam-fresh-potato-mash-with-butter",
     "name": "Birds Eye Steam Fresh Potato Mash With Butter 400g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/586851.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/586851.jpg",
     "barcode": "9310081116301",
-    "shop": "woolworths",
-    "weight": "400g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "1KG",
     "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 650,
-      "nsw_unit": "g",
-      "vic": 0,
-      "qld": 650,
-      "act": 650,
-      "sa": 1625,
-      "tas": 650
+      "0": {
+        "state": "QLD",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "WA",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "SA",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "NT",
+        "price": "1625",
+        "price_per_unit": "650",
+        "price_unit": "KG"
+      }
     }
   }
 ]

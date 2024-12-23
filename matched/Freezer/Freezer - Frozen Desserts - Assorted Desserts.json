@@ -5,136 +5,116 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1909588.jpg&w=640&q=90",
     "barcode": "9310229070847",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "950ml",
     "prices": {
-      "nsw": "116",
-      "nsw_price_per_unit": "1100",
-      "nsw_unit": "ml",
-      "vic": "116",
-      "qld": "116",
-      "wa": "116",
-      "sa": "116",
-      "tas": "116"
+      "0": {
+        "state": "VIC",
+        "price": "116",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "116",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "116",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "WA",
+        "price": "116",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "SA",
+        "price": "116",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "116",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "116",
+        "price_per_unit": "1100",
+        "price_unit": "ml"
+      },
+      "7": {
+        "state": "NT",
+        "price": "125",
+        "price_per_unit": "1188",
+        "price_unit": "ml"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/947804/farm-pride-frozen-egg-whites",
     "name": "Farm Pride Frozen Egg Whites 950ml",
-    "image_url": "https://assets.woolworths.com.au/images/1005/947804.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/947804.jpg",
     "barcode": "9310229070847",
-    "shop": "woolworths",
-    "weight": "950ml",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100ML",
     "prices": {
-      "nsw": 111,
-      "nsw_price_per_unit": 1050,
-      "nsw_unit": "ml",
-      "vic": 500,
-      "qld": 1050,
-      "act": 1050,
-      "sa": 1050,
-      "tas": 1050
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/cadbury-dairy-milk-freddo-party-cake-frozen-dessert-1.5l-9093430",
-    "name": "Cadbury Dairy Milk Freddo Party Cake Frozen Dessert | 1.5L",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9093430.jpg&w=640&q=90",
-    "barcode": "9347043001733",
-    "shop": "coles",
-    "weight": "1.5l",
-    "prices": {
-      "nsw": "113",
-      "nsw_price_per_unit": "1700",
-      "nsw_unit": ".l",
-      "vic": "113",
-      "qld": "113",
-      "wa": "113",
-      "sa": "113",
-      "tas": "113"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/51741/cadbury-freddo-cake",
-    "name": "Cadbury Freddo Cake 1.5l",
-    "image_url": "https://assets.woolworths.com.au/images/1005/51741.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9347043001733",
-    "shop": "woolworths",
-    "weight": "1.5l",
-    "prices": {
-      "nsw": 113,
-      "nsw_price_per_unit": 1700,
-      "nsw_unit": "ea",
-      "vic": 1400,
-      "qld": 1700,
-      "act": 1700,
-      "sa": 1700,
-      "tas": 1700
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/peters-original-party-cake-frozen-dessert-1.5l-5103340",
-    "name": "Peters Original Party Cake Frozen Dessert | 1.5L",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5103340.jpg&w=640&q=90",
-    "barcode": "9310080035085",
-    "shop": "coles",
-    "weight": "1.5l",
-    "prices": {
-      "vic": "93",
-      "qld": "93",
-      "sa": "93"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/40950/peters-ice-cream-cake-party",
-    "name": "Peters Ice Cream Cake Party 1.5l",
-    "image_url": "https://assets.woolworths.com.au/images/1005/40950.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9310080035085",
-    "shop": "woolworths",
-    "weight": "1.5l",
-    "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 1400,
-      "nsw_unit": "ea",
-      "vic": 93,
-      "qld": 1400,
-      "act": 1400,
-      "sa": 1400,
-      "tas": 1400
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/streets-viennetta-classic-vanilla-ice-cream-cake-650ml-3169766",
-    "name": "Streets Viennetta Classic Vanilla Ice Cream Cake | 650mL",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3169766.jpg&w=640&q=90",
-    "barcode": "8714100895252",
-    "shop": "coles",
-    "weight": "650ml",
-    "prices": {
-      "nsw": "123",
-      "nsw_price_per_unit": "800",
-      "nsw_unit": "ml",
-      "qld": "123",
-      "wa": "123",
-      "sa": "123",
-      "tas": "123"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/684415/viennetta-vanilla-frozen-dessert-cake",
-    "name": "Viennetta Vanilla Frozen Dessert Cake 650ml",
-    "image_url": "https://assets.woolworths.com.au/images/1005/684415.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "8714100895252",
-    "shop": "woolworths",
-    "weight": "650ml",
-    "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 1000,
-      "nsw_unit": "ml",
-      "vic": 250,
-      "qld": 600,
-      "act": 600,
-      "sa": 600,
-      "tas": 600
+      "0": {
+        "state": "NSW",
+        "price": "111",
+        "price_per_unit": "1050",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "111",
+        "price_per_unit": "1050",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "111",
+        "price_per_unit": "1050",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "WA",
+        "price": "111",
+        "price_per_unit": "1050",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "SA",
+        "price": "111",
+        "price_per_unit": "1050",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "111",
+        "price_per_unit": "1050",
+        "price_unit": "ML"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "111",
+        "price_per_unit": "1050",
+        "price_unit": "ML"
+      },
+      "7": {
+        "state": "NT",
+        "price": "116",
+        "price_per_unit": "1105",
+        "price_unit": "ML"
+      }
     }
   }
 ]

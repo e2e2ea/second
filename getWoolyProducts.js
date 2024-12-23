@@ -36,13 +36,39 @@ const ProductSchema = new mongoose.Schema(
 );
 
 const Product = mongoose.model('Product', ProductSchema);
+const categoriesId = [
+    { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // done
+    { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // done
+    { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' }, // done
+    { id: '1_3151F6F', name: 'Deli & Chilled Meats', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' }, // done
+    { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' }, // done
+    { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' }, // done
+    { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' }, // done
+    { id: '1_894D0A8', name: 'Health & Beauty', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // done
+    // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // done
+    { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' }, // done
+    { id: '1_2432B58', name: 'Household', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' }, // done in vic
+    { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // done
 
+
+    { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // done
+
+
+    // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // done // but no products in the list of categ
+];
 const getData = async () => {
     await dbConnect();
     const a = await Product.find().exec();
 
     for (const categ of categories) {
         const category = categ.category
+        let categId = ''
+        const matchedCategory = categoriesId.find(cat => cat.name === category);
+        if (matchedCategory) {
+            categId = matchedCategory.id;
+        } else {
+            console.warn(`Category "${category}" not found in categoriesId`);
+        }
         for (const sub of categ.subCategories) {
             const subCategory = sub.subCategory
             for (const ext of sub.childItems) {
@@ -60,9 +86,10 @@ const getData = async () => {
                     let mycat = category
                     mycat = category
                     if (category === 'Deli & Chilled Meats') mycat = 'Deli & Chilled Meals'
-                    // if (category === 'Health & Beauty') mycat = 'Health & Wellness'
-                    if (category === 'Health & Beauty') mycat = 'Beauty & Personal Care'
-                    if (category === 'Household') mycat = 'Home & Lifestyle'
+                    if (category === 'Health & Beauty') mycat = 'Health & Wellness'
+                    // if (category === 'Health & Beauty') mycat = 'Beauty & Personal Care'
+                    // if (category === 'Household') mycat = 'Home & Lifestyle'
+                    if (category === 'Household') mycat = 'Cleaning & Maintenance'
                     // console.log('mycat', mycat)
                     // First, check if category matches
                     const hasCategory = parsedFields.productCategories.some(
@@ -75,8 +102,9 @@ const getData = async () => {
                     if (category === 'Poultry, Meat & Seafood' && subCategory === 'BBQ Meat & Seafood') mySubCategory = 'BBQ Meat'
                     if (category === 'Baby' && subCategory === 'Baby Formula') mySubCategory = 'Baby Formula & Toddler Milk'
                     if (category === 'Baby' && subCategory === 'Nappies Wipes') mySubCategory = 'Nappies'
-                    if (category === 'Household' && subCategory === 'Clothing Accessories') mySubCategory = 'Clothing & Accessories'
-                    if (category === 'Household' && subCategory === 'Parties & Entertaining') mySubCategory = 'Party Supplies'
+                    // if (category === 'Household' && subCategory === 'Clothing Accessories') mySubCategory = 'Clothing & Accessories'
+                    // if (category === 'Household' && subCategory === 'Parties & Entertaining') mySubCategory = 'Party Supplies'
+                    if (category === 'Household' && subCategory === 'Bathroom') mySubCategory = 'Toilet Paper, Tissues & Paper Towels'
 
                     if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Health & Safety') mySubCategory = 'Health & Safety'
                     if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Toys & Playtime') mySubCategory = 'Toys & Playtime'
@@ -97,6 +125,7 @@ const getData = async () => {
                     if (category === 'Poultry, Meat & Seafood' && subCategory === 'Seafood' && extensionCategory === 'Fish') mySubCategoryExtension = 'Salmon & Other Fish'
                     if (category === 'Health & Beauty' && subCategory === 'Vitamins' && extensionCategory === 'Brain & Heart Health') mySubCategoryExtension = 'Brain & Heart'
                     if (category === 'Health & Beauty' && subCategory === 'First Aid & Medicinal' && extensionCategory === 'Bandaids & Bandages') mySubCategoryExtension = 'First Aid & Bandages'
+                    if (category === 'Household' && subCategory === 'Bathroom' && extensionCategory === 'Toilet Cleaners') mySubCategoryExtension = 'Toilet Paper'
                     if (category === 'Household' && subCategory === 'Clothing Accessories' && extensionCategory === 'Socks') mySubCategoryExtension = 'Boys & Girls Socks'
                     if (category === 'Household' && subCategory === 'Clothing Accessories' && extensionCategory === 'Underwear') mySubCategoryExtension = 'Boys & Girls Underwear'
                     // Lastly, filter by extensionCategory for matching subCategories
@@ -113,7 +142,7 @@ const getData = async () => {
                 console.log(`Filtered products in ${category} - ${subCategory} - ${extensionCategory}: `, filteredProducts.length)
                 const productsData = filteredProducts.map((product) => {
                     const productObj = product.toObject();
-                    console.log('productObj', productObj)
+                    // console.log('productObj', productObj)
                     const filteredPrices = productObj.prices.filter((p) => p !== null && p !== undefined);
                     const cleanedPrices = filteredPrices.map((price) => {
                         if (!price || price === null) return;
@@ -127,6 +156,7 @@ const getData = async () => {
                         image_url: productObj.image_url || null,
                         source_id: `Woolworths - ${productObj.retailer_product_id}` || null,
                         barcode: productObj.barcode || null,
+                        category_id: categId || '',
                         shop: productObj.shop || null,
                         weight: productObj.weight || null,
                         prices: cleanedPrices,

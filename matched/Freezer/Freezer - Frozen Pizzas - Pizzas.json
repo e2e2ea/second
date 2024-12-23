@@ -1,38 +1,90 @@
 [
   {
-    "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-ristorante-pepperoni-pizza-310g-8634943",
-    "name": "Dr. Oetker Frozen Ristorante Pepperoni Pizza | 310g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8634943.jpg&w=640&q=90",
-    "barcode": "9344988000074",
+    "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-gluten-free-ristorante-mozzarella-pizza-370g-3217949",
+    "name": "Dr. Oetker Frozen Gluten Free Ristorante Mozzarella Pizza | 370g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3217949.jpg&w=640&q=90",
+    "barcode": "4001724025603",
     "shop": "coles",
-    "weight": "310g",
+    "category_id": "85471",
+    "weight": "370g",
     "prices": {
-      "nsw": "210",
-      "nsw_price_per_unit": "650",
-      "nsw_unit": "g",
-      "vic": "210",
-      "qld": "210",
-      "wa": "210",
-      "sa": "210",
-      "tas": "210"
+      "0": {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "TAS",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "g"
+      }
     }
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/705420/dr-oetker-ristorante-pizza-pepperoni",
-    "name": "Dr. Oetker Ristorante Pizza Pepperoni 310g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/705420.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9344988000074",
-    "shop": "woolworths",
-    "weight": "310g",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/663660/dr-oetker-ristorante-mozzarella-pizza-gluten-free",
+    "name": "Dr. Oetker Ristorante Mozzarella Pizza Gluten Free 370g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/663660.jpg",
+    "barcode": "4001724025603",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 290,
-      "nsw_price_per_unit": 900,
-      "nsw_unit": "g",
-      "vic": 700,
-      "qld": 900,
-      "act": 700,
-      "sa": 900,
-      "tas": 900
+      "0": {
+        "state": "NSW",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "WA",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "SA",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      },
+      "7": {
+        "state": "NT",
+        "price": "270",
+        "price_per_unit": "1000",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -41,34 +93,222 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6545434.jpg&w=640&q=90",
     "barcode": "4001724041023",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "355g",
     "prices": {
-      "nsw": "183",
-      "nsw_price_per_unit": "650",
-      "nsw_unit": "g",
-      "vic": "183",
-      "qld": "183",
-      "wa": "183",
-      "sa": "183",
-      "tas": "183"
+      "0": {
+        "state": "VIC",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/296606/dr-oetker-ristorante-pizza-mozzarella",
     "name": "Dr. Oetker Ristorante Pizza Mozzarella 355g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/296606.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/296606.jpg",
     "barcode": "4001724041023",
-    "shop": "woolworths",
-    "weight": "355g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 254,
-      "nsw_price_per_unit": 900,
-      "nsw_unit": "g",
-      "vic": 900,
-      "qld": 900,
-      "act": 850,
-      "sa": 900,
-      "tas": 900
+      "0": {
+        "state": "NSW",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "WA",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "SA",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-ristorante-pepperoni-pizza-310g-8634943",
+    "name": "Dr. Oetker Frozen Ristorante Pepperoni Pizza | 310g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8634943.jpg&w=640&q=90",
+    "barcode": "9344988000074",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "310g",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "210",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "210",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "210",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "210",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "210",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "210",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "210",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "210",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/705420/dr-oetker-ristorante-pizza-pepperoni",
+    "name": "Dr. Oetker Ristorante Pizza Pepperoni 310g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/705420.jpg",
+    "barcode": "9344988000074",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "NSW",
+        "price": "290",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "290",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "290",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "WA",
+        "price": "290",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "SA",
+        "price": "290",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "290",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "314",
+        "price_per_unit": "972",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -77,34 +317,110 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7308048.jpg&w=640&q=90",
     "barcode": "4001724819400",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "390g",
     "prices": {
-      "nsw": "167",
-      "nsw_price_per_unit": "650",
-      "nsw_unit": "g",
-      "vic": "167",
-      "qld": "167",
-      "wa": "167",
-      "sa": "167",
-      "tas": "167"
+      "0": {
+        "state": "VIC",
+        "price": "167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "167",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/728499/dr-oetker-ristorante-pizza-spinaci",
     "name": "Dr. Oetker Ristorante Pizza Spinaci 390g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/728499.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/728499.jpg",
     "barcode": "4001724819400",
-    "shop": "woolworths",
-    "weight": "390g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 231,
-      "nsw_price_per_unit": 900,
-      "nsw_unit": "g",
-      "vic": 900,
-      "qld": 900,
-      "act": 900,
-      "sa": 900,
-      "tas": 900
+      "0": {
+        "state": "NSW",
+        "price": "231",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "231",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "231",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "WA",
+        "price": "231",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "SA",
+        "price": "231",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "231",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "231",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -113,64 +429,104 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9289160.jpg&w=640&q=90",
     "barcode": "9310174024308",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "500g",
     "prices": {
-      "nsw": "170",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "170",
-      "wa": "170",
-      "sa": "170",
-      "tas": "170"
+      "0": {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "NT",
+        "price": "184",
+        "price_per_unit": "918",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/173140/mccain-pizza-margherita",
     "name": "McCain Pizza Margherita 500g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/173140.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/173140.jpg",
     "barcode": "9310174024308",
-    "shop": "woolworths",
-    "weight": "500g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 170,
-      "nsw_price_per_unit": 850,
-      "nsw_unit": "g",
-      "vic": 900,
-      "qld": 850,
-      "act": 850,
-      "sa": 850,
-      "tas": 850
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-gluten-free-ristorante-mozzarella-pizza-370g-3217949",
-    "name": "Dr. Oetker Frozen Gluten Free Ristorante Mozzarella Pizza | 370g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F3%2F3217949.jpg&w=640&q=90",
-    "barcode": "4001724025603",
-    "shop": "coles",
-    "weight": "370g",
-    "prices": {
-      "vic": "270",
-      "sa": "270",
-      "tas": "270"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/663660/dr-oetker-ristorante-mozzarella-pizza-gluten-free",
-    "name": "Dr. Oetker Ristorante Mozzarella Pizza Gluten Free 370g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/663660.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "4001724025603",
-    "shop": "woolworths",
-    "weight": "370g",
-    "prices": {
-      "nsw": 270,
-      "nsw_price_per_unit": 1000,
-      "nsw_unit": "g",
-      "vic": 1000,
-      "qld": 1000,
-      "act": 1000,
-      "sa": 1000,
-      "tas": 1000
+      "0": {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -179,34 +535,116 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6839515.jpg&w=640&q=90",
     "barcode": "9310174113880",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "370g",
     "prices": {
-      "nsw": "238",
-      "nsw_price_per_unit": "880",
-      "nsw_unit": "g",
-      "vic": "238",
-      "qld": "238",
-      "wa": "238",
-      "sa": "238",
-      "tas": "238"
+      "0": {
+        "state": "VIC",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/315505/mccain-rustica-thin-crispy-australian-angus-beef-pizza",
     "name": "McCain Rustica Thin & Crispy Australian Angus Beef Pizza 370g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/315505.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/315505.jpg",
     "barcode": "9310174113880",
-    "shop": "woolworths",
-    "weight": "370g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 238,
-      "nsw_price_per_unit": 880,
-      "nsw_unit": "g",
-      "vic": 880,
-      "qld": 880,
-      "act": 880,
-      "sa": 880,
-      "tas": 880
+      "0": {
+        "state": "NSW",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "WA",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "SA",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "7": {
+        "state": "NT",
+        "price": "238",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -215,138 +653,110 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6839694.jpg&w=640&q=90",
     "barcode": "9310174113552",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "335g",
     "prices": {
-      "nsw": "263",
-      "nsw_price_per_unit": "880",
-      "nsw_unit": "g",
-      "vic": "263",
-      "qld": "263",
-      "wa": "263",
-      "sa": "263",
-      "tas": "263"
+      "0": {
+        "state": "VIC",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/314045/mccain-rustica-thin-crispy-salami-four-cheese-pizza",
     "name": "McCain Rustica Thin & Crispy Salami & Four Cheese Pizza 335g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/314045.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/314045.jpg",
     "barcode": "9310174113552",
-    "shop": "woolworths",
-    "weight": "335g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 263,
-      "nsw_price_per_unit": 880,
-      "nsw_unit": "g",
-      "vic": 880,
-      "qld": 880,
-      "act": 880,
-      "sa": 880,
-      "tas": 880
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/mccain-frozen-bbq-meatlovers-family-pizza-500g-7010250",
-    "name": "McCain Frozen BBQ Meatlovers Family Pizza | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7010250.jpg&w=640&q=90",
-    "barcode": "9310174024346",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "170",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "170",
-      "qld": "170",
-      "wa": "170",
-      "sa": "170",
-      "tas": "170"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/252640/mccain-pizza-meatlovers-bbq",
-    "name": "McCain Pizza Meatlovers Bbq 500g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/252640.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9310174024346",
-    "shop": "woolworths",
-    "weight": "500g",
-    "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 850,
-      "nsw_unit": "g",
-      "vic": 170,
-      "qld": 850,
-      "act": 850,
-      "sa": 850,
-      "tas": 850
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/mccain-frozen-cheese-and-bacon-family-pizza-500g-181572",
-    "name": "McCain Frozen Cheese & Bacon Family Pizza | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F181572.jpg&w=640&q=90",
-    "barcode": "9310174002535",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "vic": "170",
-      "qld": "170",
-      "sa": "170",
-      "tas": "170"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/93831/mccain-pizza-cheese-bacon",
-    "name": "McCain Pizza Cheese & Bacon 500g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/93831.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9310174002535",
-    "shop": "woolworths",
-    "weight": "500g",
-    "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 850,
-      "nsw_unit": "g",
-      "vic": 170,
-      "qld": 850,
-      "act": 850,
-      "sa": 850,
-      "tas": 850
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/mccain-frozen-supreme-family-pizza-500g-251124",
-    "name": "McCain Frozen Supreme Family Pizza | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F251124.jpg&w=640&q=90",
-    "barcode": "9310174002504",
-    "shop": "coles",
-    "weight": "500g",
-    "prices": {
-      "nsw": "170",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "170",
-      "qld": "170",
-      "wa": "170",
-      "sa": "170",
-      "tas": "170"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/96415/mccain-supreme-pizza",
-    "name": "McCain Supreme Pizza 500g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/96415.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9310174002504",
-    "shop": "woolworths",
-    "weight": "500g",
-    "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 850,
-      "nsw_unit": "g",
-      "vic": 170,
-      "qld": 850,
-      "act": 850,
-      "sa": 850,
-      "tas": 850
+      "0": {
+        "state": "NSW",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "WA",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "SA",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -355,66 +765,356 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7817904.jpg&w=640&q=90",
     "barcode": "4001724818908",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "340g",
     "prices": {
-      "vic": "191",
-      "qld": "191",
-      "sa": "191",
-      "tas": "191"
+      "0": {
+        "state": "VIC",
+        "price": "191",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "191",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "SA",
+        "price": "191",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "191",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/790526/dr-oetker-ristorante-pizza-quattro-formaggi",
     "name": "Dr. Oetker Ristorante Pizza Quattro Formaggi 340g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/790526.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/790526.jpg",
     "barcode": "4001724818908",
-    "shop": "woolworths",
-    "weight": "340g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 900,
-      "nsw_unit": "g",
-      "vic": 265,
-      "qld": 0,
-      "act": 0,
-      "sa": 0,
-      "tas": 0
+      "0": {
+        "state": "VIC",
+        "price": "265",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      }
     }
   },
   {
-    "source_url": "https://www.coles.com.au/product/mccain-frozen-ham-and-pineapple-family-pizza-500g-403765",
-    "name": "McCain Frozen Ham & Pineapple Family Pizza | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F403765.jpg&w=640&q=90",
-    "barcode": "9310174002528",
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-cheese-and-bacon-family-pizza-500g-181572",
+    "name": "McCain Frozen Cheese & Bacon Family Pizza | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F181572.jpg&w=640&q=90",
+    "barcode": "9310174002535",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "500g",
     "prices": {
-      "nsw": "170",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "170",
-      "qld": "170",
-      "wa": "170",
-      "sa": "170",
-      "tas": "170"
+      "0": {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      }
     }
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/96406/mccain-pizza-ham-pineapple",
-    "name": "McCain Pizza Ham & Pineapple 500g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/96406.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9310174002528",
-    "shop": "woolworths",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/93831/mccain-pizza-cheese-bacon",
+    "name": "McCain Pizza Cheese & Bacon 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/093831.jpg",
+    "barcode": "9310174002535",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-bbq-meatlovers-family-pizza-500g-7010250",
+    "name": "McCain Frozen BBQ Meatlovers Family Pizza | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7010250.jpg&w=640&q=90",
+    "barcode": "9310174024346",
+    "shop": "coles",
+    "category_id": "85471",
     "weight": "500g",
     "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 850,
-      "nsw_unit": "g",
-      "vic": 0,
-      "qld": 850,
-      "act": 850,
-      "sa": 170,
-      "tas": 850
+      "0": {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "184",
+        "price_per_unit": "918",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/252640/mccain-pizza-meatlovers-bbq",
+    "name": "McCain Pizza Meatlovers Bbq 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/252640.jpg",
+    "barcode": "9310174024346",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "184",
+        "price_per_unit": "918",
+        "price_unit": "G"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-supreme-family-pizza-500g-251124",
+    "name": "McCain Frozen Supreme Family Pizza | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F251124.jpg&w=640&q=90",
+    "barcode": "9310174002504",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "500g",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "184",
+        "price_per_unit": "918",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96415/mccain-supreme-pizza",
+    "name": "McCain Supreme Pizza 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/096415.jpg",
+    "barcode": "9310174002504",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "184",
+        "price_per_unit": "918",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -423,34 +1123,192 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F8%2F8634954.jpg&w=640&q=90",
     "barcode": "9344988000043",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "355g",
     "prices": {
-      "nsw": "183",
-      "nsw_price_per_unit": "650",
-      "nsw_unit": "g",
-      "vic": "183",
-      "qld": "183",
-      "wa": "183",
-      "sa": "183",
-      "tas": "183"
+      "0": {
+        "state": "VIC",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "183",
+        "price_per_unit": "650",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/705357/dr-oetker-ristorante-pizza-hawaii",
     "name": "Dr. Oetker Ristorante Pizza Hawaii 355g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/705357.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/705357.jpg",
     "barcode": "9344988000043",
-    "shop": "woolworths",
-    "weight": "355g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 900,
-      "nsw_unit": "g",
-      "vic": 0,
-      "qld": 900,
-      "act": 900,
-      "sa": 254,
-      "tas": 0
+      "0": {
+        "state": "QLD",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "WA",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "SA",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "ACT",
+        "price": "254",
+        "price_per_unit": "900",
+        "price_unit": "G"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-frozen-ham-and-pineapple-family-pizza-500g-403765",
+    "name": "McCain Frozen Ham & Pineapple Family Pizza | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F403765.jpg&w=640&q=90",
+    "barcode": "9310174002528",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "500g",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "184",
+        "price_per_unit": "918",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/96406/mccain-pizza-ham-pineapple",
+    "name": "McCain Pizza Ham & Pineapple 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/096406.jpg",
+    "barcode": "9310174002528",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "QLD",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "WA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "SA",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "170",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -459,34 +1317,174 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6839468.jpg&w=640&q=90",
     "barcode": "9310174113866",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "430g",
     "prices": {
-      "nsw": "205",
-      "nsw_price_per_unit": "880",
-      "nsw_unit": "g",
-      "vic": "205",
-      "qld": "205",
-      "wa": "205",
-      "sa": "205",
-      "tas": "205"
+      "0": {
+        "state": "VIC",
+        "price": "205",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "205",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "205",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "205",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "205",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "205",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "205",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "205",
+        "price_per_unit": "880",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/315481/mccain-rustica-sourdough-salami-double-smoked-leg-ham-pizza",
     "name": "McCain Rustica Sourdough Salami & Double Smoked Leg Ham Pizza 430g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/315481.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/315481.jpg",
     "barcode": "9310174113866",
-    "shop": "woolworths",
-    "weight": "430g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 880,
-      "nsw_unit": "g",
-      "vic": 0,
-      "qld": 880,
-      "act": 880,
-      "sa": 263,
-      "tas": 880
+      "0": {
+        "state": "QLD",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "WA",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "SA",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "263",
+        "price_per_unit": "880",
+        "price_unit": "G"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mccain-family-pizza-pepperoni-490g-4655475",
+    "name": "McCain Family Pizza Pepperoni | 490g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4655475.jpg&w=640&q=90",
+    "barcode": "9310174198108",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "490g",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "173",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "173",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "173",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "173",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "173",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "173",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "173",
+        "price_per_unit": "850",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "187",
+        "price_per_unit": "918",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/165354/mccain-family-pizza-pepperoni",
+    "name": "McCain Family Pizza Pepperoni 490g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/165354.jpg",
+    "barcode": "9310174198108",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "NT",
+        "price": "187",
+        "price_per_unit": "918",
+        "price_unit": "G"
+      }
     }
   }
 ]

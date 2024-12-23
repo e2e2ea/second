@@ -5,11 +5,39 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9270570.jpg&w=640&q=90",
     "barcode": "9316203000206",
     "shop": "coles",
+    "category_id": "16427",
     "weight": "2kg",
     "prices": {
-      "vic": "36",
-      "qld": "36",
-      "sa": "36"
+      "0": {
+        "state": "VIC",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "SA",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "ACT",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "NT",
+        "price": "39",
+        "price_per_unit": "788",
+        "price_unit": "kg"
+      }
     }
   },
   {
@@ -18,48 +46,45 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/174486.jpg",
     "barcode": "9316203000206",
     "shop": "Woolworths",
+    "category_id": "16427",
     "weight": "100G",
     "prices": {
-      "nsw": "750",
-      "nsw_price_per_unit": "38",
-      "nsw_unit": "G",
-      "vic": "750",
-      "qld": "750",
-      "wa": "750",
-      "sa": "750",
-      "tas": "750"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/peters-rabbit-and-guinea-pig-lucerne-pellets-2kg-9270456",
-    "name": "Peters Rabbit & Guinea Pig Lucerne Pellets | 2kg",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9270456.jpg&w=640&q=90",
-    "barcode": "9316203000190",
-    "shop": "coles",
-    "weight": "2kg",
-    "prices": {
-      "vic": "35",
-      "qld": "35",
-      "wa": "35",
-      "sa": "35",
-      "tas": "35"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/174485/peters-rabbit-guinea-pig-lucerne-pellets",
-    "name": "Peters Rabbit & Guinea Pig Lucerne Pellets 2kg",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/174485.jpg",
-    "barcode": "9316203000190",
-    "shop": "Woolworths",
-    "weight": "100G",
-    "prices": {
-      "nsw": "700",
-      "nsw_price_per_unit": "35",
-      "nsw_unit": "G",
-      "qld": "700",
-      "wa": "700",
-      "sa": "700",
-      "tas": "700"
+      "0": {
+        "state": "NSW",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "NT",
+        "price": "38",
+        "price_per_unit": "750",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -68,11 +93,27 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4366729.jpg&w=640&q=90",
     "barcode": "9315087401109",
     "shop": "coles",
+    "category_id": "16427",
     "weight": "10l",
     "prices": {
-      "vic": "130",
-      "qld": "130",
-      "sa": "130"
+      "0": {
+        "state": "VIC",
+        "price": "130",
+        "price_per_unit": "1300",
+        "price_unit": "l"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "130",
+        "price_per_unit": "1300",
+        "price_unit": "l"
+      },
+      "2": {
+        "state": "SA",
+        "price": "130",
+        "price_per_unit": "1300",
+        "price_unit": "l"
+      }
     }
   },
   {
@@ -81,13 +122,115 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/133629.jpg",
     "barcode": "9315087401109",
     "shop": "Woolworths",
+    "category_id": "16427",
     "weight": "1L",
     "prices": {
-      "vic": "1300",
-      "qld": "1300",
-      "wa": "1300",
-      "sa": "1300",
-      "tas": "1300"
+      "0": {
+        "state": "VIC",
+        "price": "130",
+        "price_per_unit": "1300",
+        "price_unit": "L"
+      },
+      "1": {
+        "state": "WA",
+        "price": "130",
+        "price_per_unit": "1300",
+        "price_unit": "L"
+      },
+      "2": {
+        "state": "SA",
+        "price": "130",
+        "price_per_unit": "1300",
+        "price_unit": "L"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "130",
+        "price_per_unit": "1300",
+        "price_unit": "L"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "130",
+        "price_per_unit": "1300",
+        "price_unit": "L"
+      },
+      "5": {
+        "state": "NT",
+        "price": "130",
+        "price_per_unit": "1300",
+        "price_unit": "L"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/peters-rabbit-and-guinea-pig-lucerne-pellets-2kg-9270456",
+    "name": "Peters Rabbit & Guinea Pig Lucerne Pellets | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9270456.jpg&w=640&q=90",
+    "barcode": "9316203000190",
+    "shop": "coles",
+    "category_id": "16427",
+    "weight": "2kg",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "35",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "35",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "WA",
+        "price": "35",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "SA",
+        "price": "35",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "35",
+        "price_per_unit": "700",
+        "price_unit": "kg"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/174485/peters-rabbit-guinea-pig-lucerne-pellets",
+    "name": "Peters Rabbit & Guinea Pig Lucerne Pellets 2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/174485.jpg",
+    "barcode": "9316203000190",
+    "shop": "Woolworths",
+    "category_id": "16427",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "SA",
+        "price": "35",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "ACT",
+        "price": "35",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "NT",
+        "price": "35",
+        "price_per_unit": "700",
+        "price_unit": "G"
+      }
     }
   }
 ]

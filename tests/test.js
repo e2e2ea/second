@@ -4,8 +4,8 @@ import fs from 'fs';
 import path from 'path';
 const dbConnect = async () => {
   try {
-    // const conn = await mongoose.connect('mongodb://127.0.0.1/coles4');
-    const conn = await mongoose.connect('mongodb://127.0.0.1/transfer');
+    const conn = await mongoose.connect('mongodb://127.0.0.1/coles4');
+    // const conn = await mongoose.connect('mongodb://127.0.0.1/transfer1');
     console.log('database connected');
     return conn;
   } catch (error) {
@@ -35,11 +35,33 @@ const ProductSchema = new mongoose.Schema(
 );
 
 const Product = mongoose.model('Product', ProductSchema);
+const categoriesId = [
+  { id: '15603', name: 'Baby' },
+  { id: '8892906', name: 'Bakery' },
+  { id: '1300', name: 'Dairy, Eggs & Fridge' },
+  { id: '8892715', name: 'Deli & Chilled Meats' },
+  { id: '11456', name: 'Drinks' },
+  { id: '85471', name: 'Freezer' },
+  { id: '2100', name: 'Fruit & Veg' },
+  { id: '15083', name: 'Health & Beauty' },
+  { id: '14003', name: 'Household' },
+  { id: '10302', name: 'Pantry' },
+  { id: '16427', name: 'Pet' },
+  { id: '7238', name: 'Poultry, Meat & Seafood' },
+  // { id: '17490', name: 'Tobacco' },
 
+]
 const getData = async () => {
   await dbConnect();
   for (const categ of categories) {
     const category = categ.category
+    let categId = ''
+    const matchedCategory = categoriesId.find(cat => cat.name === category);
+    if (matchedCategory) {
+      categId = matchedCategory.id;
+    } else {
+      console.warn(`Category "${category}" not found in categoriesId`);
+    }
     for (const sub of categ.subCategories) {
       const subCategory = sub.subCategory
       for (const ext of sub.childItems) {
@@ -56,9 +78,10 @@ const getData = async () => {
             name: productObj.name || null,
             image_url: productObj.image_url || null,
             source_id: `Coles - ${productObj.coles_product_id}` || null,
-            barcode: productObj.barcode || null,
+            barcode: productObj.barcode || '',
+            category_id: categId || '',
             shop: productObj.shop || null,
-            weight: productObj.weight || null,
+            weight: productObj.weight || '',
             prices: cleanedPrices,
           };
 

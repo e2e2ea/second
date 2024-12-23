@@ -5,6 +5,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/155003.jpg",
     "source_id": "Woolworths - 155003",
     "barcode": "0264173000001",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -64,6 +65,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/625158.jpg",
     "source_id": "Woolworths - 625158",
     "barcode": "0265840000003",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -91,7 +93,6 @@
         "price_per_unit": "131",
         "price_unit": "EA"
       },
-      null,
       {
         "state": "NT",
         "price": "131",
@@ -106,13 +107,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/145182.jpg",
     "source_id": "Woolworths - 145182",
     "barcode": "0264418000001",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null,
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/130935/fresh-granny-smith-apples",
@@ -120,6 +118,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/130935.jpg",
     "source_id": "Woolworths - 130935",
     "barcode": "0264139000007",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -179,6 +178,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/115330.jpg",
     "source_id": "Woolworths - 115330",
     "barcode": "0266062000000",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -238,6 +238,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/105919.jpg",
     "source_id": "Woolworths - 105919",
     "barcode": "0265030000004",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -297,6 +298,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306343.jpg",
     "source_id": "Woolworths - 306343",
     "barcode": "0263293000007",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -356,13 +358,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/785544.jpg",
     "source_id": "Woolworths - 785544",
     "barcode": "9321444555002",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null,
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/381923/kanzi-apple",
@@ -370,13 +369,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/381923.jpg",
     "source_id": "Woolworths - 381923",
     "barcode": "0263605000008",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null,
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/154338/macro-organic-royal-gala-apple-punnet",
@@ -384,13 +380,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/154338.jpg",
     "source_id": "Woolworths - 154338",
     "barcode": "9300633007034",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null,
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/160888/macro-pink-lady-apple-organic",
@@ -398,6 +391,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/160888.jpg",
     "source_id": "Woolworths - 160888",
     "barcode": "9300633007249",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
@@ -406,9 +400,7 @@
         "price": "850",
         "price_per_unit": "850",
         "price_unit": "KG"
-      },
-      null,
-      null
+      }
     ]
   },
   {
@@ -417,12 +409,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/405925.jpg",
     "source_id": "Woolworths - 405925",
     "barcode": "9322288003353",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1L",
-    "prices": [
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/204588/sweetango-apples",
@@ -430,11 +420,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/204588.jpg",
     "source_id": "Woolworths - 204588",
     "barcode": "0261261000004",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/800763/the-odd-bunch-apples-prepacked-punnet",
@@ -442,6 +431,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/800763.jpg",
     "source_id": "Woolworths - 800763",
     "barcode": "9300633768966",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
@@ -501,6 +491,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/800774.jpg",
     "source_id": "Woolworths - 800774",
     "barcode": "9300633768959",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
@@ -528,14 +519,12 @@
         "price_per_unit": "470",
         "price_unit": "KG"
       },
-      null,
       {
         "state": "ACT",
         "price": "470",
         "price_per_unit": "470",
         "price_unit": "KG"
-      },
-      null
+      }
     ]
   },
   {
@@ -544,55 +533,56 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/588064.jpg",
     "source_id": "Woolworths - 588064",
     "barcode": "9300633643904",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
       {
         "state": "NSW",
-        "price": "350",
-        "price_per_unit": "70",
+        "price": "70",
+        "price_per_unit": "350",
         "price_unit": "EA"
       },
       {
         "state": "VIC",
-        "price": "350",
-        "price_per_unit": "70",
+        "price": "70",
+        "price_per_unit": "350",
         "price_unit": "EA"
       },
       {
         "state": "QLD",
-        "price": "350",
-        "price_per_unit": "70",
+        "price": "70",
+        "price_per_unit": "350",
         "price_unit": "EA"
       },
       {
         "state": "WA",
-        "price": "350",
-        "price_per_unit": "70",
+        "price": "70",
+        "price_per_unit": "350",
         "price_unit": "EA"
       },
       {
         "state": "SA",
-        "price": "350",
-        "price_per_unit": "70",
+        "price": "70",
+        "price_per_unit": "350",
         "price_unit": "EA"
       },
       {
         "state": "TAS",
-        "price": "350",
-        "price_per_unit": "70",
+        "price": "70",
+        "price_per_unit": "350",
         "price_unit": "EA"
       },
       {
         "state": "ACT",
-        "price": "350",
-        "price_per_unit": "70",
+        "price": "70",
+        "price_per_unit": "350",
         "price_unit": "EA"
       },
       {
         "state": "NT",
-        "price": "350",
-        "price_per_unit": "70",
+        "price": "70",
+        "price_per_unit": "350",
         "price_unit": "EA"
       }
     ]
@@ -603,13 +593,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/588302.jpg",
     "source_id": "Woolworths - 588302",
     "barcode": "9300633643911",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null,
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/310966/woolworths-fresh-granny-smith-apples-punnet",
@@ -617,6 +604,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/310966.jpg",
     "source_id": "Woolworths - 310966",
     "barcode": "9300633095338",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
@@ -676,13 +664,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/668581.jpg",
     "source_id": "Woolworths - 668581",
     "barcode": "9339687020249",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null,
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/310968/woolworths-fresh-pink-lady-apples-punnet",
@@ -690,6 +675,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/310968.jpg",
     "source_id": "Woolworths - 310968",
     "barcode": "9300633095321",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
@@ -749,11 +735,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/041537.jpg",
     "source_id": "Woolworths - 41537",
     "barcode": "0263832000000",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/120044/apple-fuji",
@@ -761,6 +746,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/120044.jpg",
     "source_id": "Woolworths - 120044",
     "barcode": "0264129000000",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": []
@@ -771,11 +757,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/022095.jpg",
     "source_id": "Woolworths - 22095",
     "barcode": "9348192000424",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/761414/envy-apple",
@@ -783,6 +768,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/761414.jpg",
     "source_id": "Woolworths - 761414",
     "barcode": "0260238000009",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": []
@@ -793,11 +779,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/208679.jpg",
     "source_id": "Woolworths - 208679",
     "barcode": "9300633011031",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/175709/woolworths-apple-fuji",
@@ -805,6 +790,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/175709.jpg",
     "source_id": "Woolworths - 175709",
     "barcode": "9300633767457",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": []
@@ -815,6 +801,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/314012.jpg",
     "source_id": "Woolworths - 314012",
     "barcode": "9300633097622",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
@@ -856,11 +843,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/773340.jpg",
     "source_id": "Woolworths - 773340",
     "barcode": "9300633458690",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/668580/woolworths-corella-pear",
@@ -868,6 +854,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/668580.jpg",
     "source_id": "Woolworths - 668580",
     "barcode": "9339687020232",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": []
@@ -878,13 +865,14 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/130745.jpg",
     "source_id": "Woolworths - 130745",
     "barcode": "9300633603816",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "TAS",
-        "price": "640",
-        "price_per_unit": "427",
+        "price": "427",
+        "price_per_unit": "640",
         "price_unit": "KG"
       }
     ]
@@ -895,6 +883,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/130744.jpg",
     "source_id": "Woolworths - 130744",
     "barcode": "0264021000009",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -912,11 +901,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/609700.jpg",
     "source_id": "Woolworths - 609700",
     "barcode": "0261066000001",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/578168/mi-apple-loose",
@@ -924,6 +912,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/578168.jpg",
     "source_id": "Woolworths - 578168",
     "barcode": "0266488000004",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": []
@@ -934,6 +923,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/576101.jpg",
     "source_id": "Woolworths - 576101",
     "barcode": "9311970997001",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": []
@@ -944,6 +934,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/145193.jpg",
     "source_id": "Woolworths - 145193",
     "barcode": "0263022000001",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": []
@@ -954,6 +945,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/112903.jpg",
     "source_id": "Woolworths - 112903",
     "barcode": "9421903788429",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": []

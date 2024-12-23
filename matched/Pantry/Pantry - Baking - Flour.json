@@ -5,13 +5,51 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5895893.jpg&w=640&q=90",
     "barcode": "9300609218594",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "1kg",
     "prices": {
-      "vic": "320",
-      "qld": "320",
-      "wa": "320",
-      "sa": "320",
-      "tas": "320"
+      "0": {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "6": {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "kg"
+      }
     }
   },
   {
@@ -20,16 +58,57 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/262660.jpg",
     "barcode": "9300609218594",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "nsw": "300",
-      "nsw_price_per_unit": "300",
-      "nsw_unit": "KG",
-      "vic": "300",
-      "qld": "300",
-      "wa": "300",
-      "sa": "300",
-      "tas": "300"
+      "0": {
+        "state": "NSW",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "7": {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -38,16 +117,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F199206.jpg&w=640&q=90",
     "barcode": "9310061142207",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "375g",
     "prices": {
-      "nsw": "453",
-      "nsw_price_per_unit": "170",
-      "nsw_unit": "g",
-      "vic": "453",
-      "qld": "453",
-      "wa": "453",
-      "sa": "453",
-      "tas": "453"
+      "0": {
+        "state": "VIC",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "477",
+        "price_per_unit": "179",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -56,16 +176,57 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/094275.jpg",
     "barcode": "9310061142207",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "nsw": "170",
-      "nsw_price_per_unit": "453",
-      "nsw_unit": "KG",
-      "vic": "170",
-      "qld": "170",
-      "wa": "170",
-      "sa": "170",
-      "tas": "170"
+      "0": {
+        "state": "NSW",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "WA",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "SA",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      },
+      "7": {
+        "state": "NT",
+        "price": "453",
+        "price_per_unit": "170",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -74,16 +235,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5895930.jpg&w=640&q=90",
     "barcode": "9300609218624",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "1kg",
     "prices": {
-      "nsw": "320",
-      "nsw_price_per_unit": "320",
-      "nsw_unit": "kg",
-      "vic": "320",
-      "qld": "320",
-      "wa": "320",
-      "sa": "320",
-      "tas": "320"
+      "0": {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "7": {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "kg"
+      }
     }
   },
   {
@@ -92,13 +294,51 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/262665.jpg",
     "barcode": "9300609218624",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "vic": "300",
-      "qld": "300",
-      "wa": "300",
-      "sa": "300",
-      "tas": "300"
+      "0": {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "6": {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -107,13 +347,51 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5895918.jpg&w=640&q=90",
     "barcode": "9300609218617",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "1kg",
     "prices": {
-      "vic": "320",
-      "qld": "320",
-      "wa": "320",
-      "sa": "320",
-      "tas": "320"
+      "0": {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "6": {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "kg"
+      }
     }
   },
   {
@@ -122,13 +400,45 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/262664.jpg",
     "barcode": "9300609218617",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "vic": "300",
-      "qld": "300",
-      "wa": "300",
-      "sa": "300",
-      "tas": "300"
+      "0": {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -137,13 +447,51 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5895907.jpg&w=640&q=90",
     "barcode": "9300609227671",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "1kg",
     "prices": {
-      "vic": "320",
-      "qld": "320",
-      "wa": "320",
-      "sa": "320",
-      "tas": "320"
+      "0": {
+        "state": "VIC",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "WA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "SA",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "kg"
+      },
+      "6": {
+        "state": "NT",
+        "price": "420",
+        "price_per_unit": "420",
+        "price_unit": "kg"
+      }
     }
   },
   {
@@ -152,191 +500,45 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/762578.jpg",
     "barcode": "9300609227671",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "vic": "300",
-      "wa": "300",
-      "sa": "300"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/mckenzie's-chick-pea-flour-resealable-330g-7488948",
-    "name": "Mckenzie's Chick Pea Flour Resealable | 330g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7488948.jpg&w=640&q=90",
-    "barcode": "9310061125705",
-    "shop": "coles",
-    "weight": "330g",
-    "prices": {
-      "nsw": "1212",
-      "nsw_price_per_unit": "400",
-      "nsw_unit": "g",
-      "vic": "1212",
-      "qld": "1212",
-      "wa": "1212",
-      "sa": "1212",
-      "tas": "1212"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/897407/mckenzie-s-chickpea-flour",
-    "name": "McKenzie's Chickpea Flour 330g",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/897407.jpg",
-    "barcode": "9310061125705",
-    "shop": "Woolworths",
-    "weight": "1KG",
-    "prices": {
-      "vic": "400",
-      "wa": "400",
-      "sa": "400",
-      "tas": "400"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/mckenzie's-tapioca-flour-resealable-300g-7488960",
-    "name": "Mckenzie's Tapioca Flour Resealable | 300g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7488960.jpg&w=640&q=90",
-    "barcode": "9310061125736",
-    "shop": "coles",
-    "weight": "300g",
-    "prices": {
-      "vic": "1333",
-      "qld": "1333",
-      "wa": "1333",
-      "sa": "1333",
-      "tas": "1333"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/820129/mckenzie-s-tapioca-flour",
-    "name": "McKenzie's Tapioca Flour 300g",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/820129.jpg",
-    "barcode": "9310061125736",
-    "shop": "Woolworths",
-    "weight": "1KG",
-    "prices": {
-      "vic": "400",
-      "qld": "400",
-      "wa": "400",
-      "sa": "400",
-      "tas": "400"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/healthy-baker-flour-plain-1kg-6480918",
-    "name": "Healthy Baker Flour Plain | 1kg",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6480918.jpg&w=640&q=90",
-    "barcode": "9310071111828",
-    "shop": "coles",
-    "weight": "1kg",
-    "prices": {
-      "vic": "275",
-      "qld": "275",
-      "wa": "275",
-      "sa": "275"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/230949/the-healthy-baker-plain-flour-easy-store",
-    "name": "The Healthy Baker Plain Flour Easy Store 1kg",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230949.jpg",
-    "barcode": "9310071111828",
-    "shop": "Woolworths",
-    "weight": "1KG",
-    "prices": {
-      "vic": "275",
-      "qld": "275",
-      "wa": "275",
-      "sa": "275",
-      "tas": "275"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/healthy-baker-flour-self-raising-1kg-6481058",
-    "name": "Healthy Baker Flour Self Raising | 1kg",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6481058.jpg&w=640&q=90",
-    "barcode": "9310071111811",
-    "shop": "coles",
-    "weight": "1kg",
-    "prices": {
-      "vic": "275",
-      "qld": "275",
-      "wa": "275",
-      "sa": "275"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/230952/the-healthy-baker-self-raising-flour-easy-store",
-    "name": "The Healthy Baker Self Raising Flour Easy Store 1kg",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230952.jpg",
-    "barcode": "9310071111811",
-    "shop": "Woolworths",
-    "weight": "1KG",
-    "prices": {
-      "vic": "275",
-      "qld": "275",
-      "wa": "275",
-      "sa": "275",
-      "tas": "275"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/white-wings-plain-flour-2kg-119466",
-    "name": "White Wings Plain Flour | 2kg",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119466.jpg&w=640&q=90",
-    "barcode": "9300676510539",
-    "shop": "coles",
-    "weight": "2kg",
-    "prices": {
-      "vic": "248",
-      "qld": "248",
-      "wa": "248",
-      "sa": "248",
-      "tas": "248"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/39900/white-wings-plain-flour",
-    "name": "White Wings Plain Flour 2kg",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039900.jpg",
-    "barcode": "9300676510539",
-    "shop": "Woolworths",
-    "weight": "1KG",
-    "prices": {
-      "vic": "495",
-      "qld": "495",
-      "wa": "495",
-      "sa": "495",
-      "tas": "495"
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/white-wings-self-raising-flour-2kg-119546",
-    "name": "White Wings Self Raising Flour | 2kg",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119546.jpg&w=640&q=90",
-    "barcode": "9300676510294",
-    "shop": "coles",
-    "weight": "2kg",
-    "prices": {
-      "vic": "248",
-      "qld": "248",
-      "wa": "248",
-      "sa": "248",
-      "tas": "248"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/33079/white-wings-self-raising-flour",
-    "name": "White Wings Self Raising Flour 2kg",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033079.jpg",
-    "barcode": "9300676510294",
-    "shop": "Woolworths",
-    "weight": "1KG",
-    "prices": {
-      "vic": "495",
-      "qld": "495",
-      "wa": "495",
-      "sa": "495",
-      "tas": "495"
+      "0": {
+        "state": "VIC",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "300",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "NT",
+        "price": "400",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -345,12 +547,51 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7488970.jpg&w=640&q=90",
     "barcode": "9310061125743",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "300g",
     "prices": {
-      "vic": "1333",
-      "qld": "1333",
-      "wa": "1333",
-      "sa": "1333"
+      "0": {
+        "state": "VIC",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "NT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -359,35 +600,681 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/820201.jpg",
     "barcode": "9310061125743",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "wa": "400",
-      "sa": "400",
-      "tas": "400"
+      "0": {
+        "state": "VIC",
+        "price": "1333",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "1333",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "1333",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "1333",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      "6": {
+        "state": "NT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      }
     }
   },
   {
-    "source_url": "https://www.coles.com.au/product/nurses-cornflour-500g-119433",
-    "name": "Nurses Cornflour | 500g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119433.jpg&w=640&q=90",
-    "barcode": "9331333000018",
+    "source_url": "https://www.coles.com.au/product/mckenzie's-chick-pea-flour-resealable-330g-7488948",
+    "name": "Mckenzie's Chick Pea Flour Resealable | 330g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7488948.jpg&w=640&q=90",
+    "barcode": "9310061125705",
     "shop": "coles",
-    "weight": "500g",
+    "category_id": "10302",
+    "weight": "330g",
     "prices": {
-      "wa": "710",
-      "sa": "710"
+      "0": {
+        "state": "VIC",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
     }
   },
   {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/39127/nurses-cornflour",
-    "name": "Nurses Cornflour 500g",
-    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039127.jpg",
-    "barcode": "9331333000018",
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/897407/mckenzie-s-chickpea-flour",
+    "name": "McKenzie's Chickpea Flour 330g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/897407.jpg",
+    "barcode": "9310061125705",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "wa": "355",
-      "sa": "355"
+      "0": {
+        "state": "VIC",
+        "price": "1212",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "1212",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "1212",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "1212",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      "6": {
+        "state": "NT",
+        "price": "848",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/mckenzie's-tapioca-flour-resealable-300g-7488960",
+    "name": "Mckenzie's Tapioca Flour Resealable | 300g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7488960.jpg&w=640&q=90",
+    "barcode": "9310061125736",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "300g",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "WA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "SA",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "NT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/820129/mckenzie-s-tapioca-flour",
+    "name": "McKenzie's Tapioca Flour 300g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/820129.jpg",
+    "barcode": "9310061125736",
+    "shop": "Woolworths",
+    "category_id": "10302",
+    "weight": "1KG",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "1333",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "1333",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "1333",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "1333",
+        "price_per_unit": "400",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      },
+      "6": {
+        "state": "NT",
+        "price": "933",
+        "price_per_unit": "280",
+        "price_unit": "KG"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/healthy-baker-flour-plain-1kg-6480918",
+    "name": "Healthy Baker Flour Plain | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6480918.jpg&w=640&q=90",
+    "barcode": "9310071111828",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "1kg",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "6": {
+        "state": "NT",
+        "price": "341",
+        "price_per_unit": "341",
+        "price_unit": "kg"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230949/the-healthy-baker-plain-flour-easy-store",
+    "name": "The Healthy Baker Plain Flour Easy Store 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230949.jpg",
+    "barcode": "9310071111828",
+    "shop": "Woolworths",
+    "category_id": "10302",
+    "weight": "1KG",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "NT",
+        "price": "330",
+        "price_per_unit": "330",
+        "price_unit": "KG"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/healthy-baker-flour-self-raising-1kg-6481058",
+    "name": "Healthy Baker Flour Self Raising | 1kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6481058.jpg&w=640&q=90",
+    "barcode": "9310071111811",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "1kg",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "WA",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "SA",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "325",
+        "price_per_unit": "325",
+        "price_unit": "kg"
+      },
+      "6": {
+        "state": "NT",
+        "price": "341",
+        "price_per_unit": "341",
+        "price_unit": "kg"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/230952/the-healthy-baker-self-raising-flour-easy-store",
+    "name": "The Healthy Baker Self Raising Flour Easy Store 1kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/230952.jpg",
+    "barcode": "9310071111811",
+    "shop": "Woolworths",
+    "category_id": "10302",
+    "weight": "1KG",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "SA",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "275",
+        "price_per_unit": "275",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "NT",
+        "price": "330",
+        "price_per_unit": "330",
+        "price_unit": "KG"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-plain-flour-2kg-119466",
+    "name": "White Wings Plain Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119466.jpg&w=640&q=90",
+    "barcode": "9300676510539",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "2kg",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "WA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "SA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "7": {
+        "state": "NT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39900/white-wings-plain-flour",
+    "name": "White Wings Plain Flour 2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039900.jpg",
+    "barcode": "9300676510539",
+    "shop": "Woolworths",
+    "category_id": "10302",
+    "weight": "1KG",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "NT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/white-wings-self-raising-flour-2kg-119546",
+    "name": "White Wings Self Raising Flour | 2kg",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119546.jpg&w=640&q=90",
+    "barcode": "9300676510294",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "2kg",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "3": {
+        "state": "WA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "4": {
+        "state": "SA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      },
+      "7": {
+        "state": "NT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "kg"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/33079/white-wings-self-raising-flour",
+    "name": "White Wings Self Raising Flour 2kg",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/033079.jpg",
+    "barcode": "9300676510294",
+    "shop": "Woolworths",
+    "category_id": "10302",
+    "weight": "1KG",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "2": {
+        "state": "WA",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      },
+      "5": {
+        "state": "NT",
+        "price": "248",
+        "price_per_unit": "495",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -396,10 +1283,27 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7373753.jpg&w=640&q=90",
     "barcode": "9300609222126",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "2kg",
     "prices": {
-      "wa": "250",
-      "sa": "250"
+      "0": {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "NT",
+        "price": "263",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      }
     }
   },
   {
@@ -408,9 +1312,15 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/762579.jpg",
     "barcode": "9300609222126",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "sa": "500"
+      "0": {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -419,10 +1329,27 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F7%2F7373764.jpg&w=640&q=90",
     "barcode": "9300609222133",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "2kg",
     "prices": {
-      "wa": "250",
-      "sa": "250"
+      "0": {
+        "state": "WA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      "1": {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "kg"
+      },
+      "2": {
+        "state": "NT",
+        "price": "263",
+        "price_per_unit": "525",
+        "price_unit": "kg"
+      }
     }
   },
   {
@@ -431,9 +1358,61 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/762616.jpg",
     "barcode": "9300609222133",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "sa": "500"
+      "0": {
+        "state": "SA",
+        "price": "250",
+        "price_per_unit": "500",
+        "price_unit": "KG"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/nurses-cornflour-500g-119433",
+    "name": "Nurses Cornflour | 500g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F119433.jpg&w=640&q=90",
+    "barcode": "9331333000018",
+    "shop": "coles",
+    "category_id": "10302",
+    "weight": "500g",
+    "prices": {
+      "0": {
+        "state": "WA",
+        "price": "710",
+        "price_per_unit": "355",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "SA",
+        "price": "710",
+        "price_per_unit": "355",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "NT",
+        "price": "746",
+        "price_per_unit": "373",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/39127/nurses-cornflour",
+    "name": "Nurses Cornflour 500g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/039127.jpg",
+    "barcode": "9331333000018",
+    "shop": "Woolworths",
+    "category_id": "10302",
+    "weight": "1KG",
+    "prices": {
+      "0": {
+        "state": "SA",
+        "price": "710",
+        "price_per_unit": "355",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -442,9 +1421,15 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F139000.jpg&w=640&q=90",
     "barcode": "9300674000148",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "2kg",
     "prices": {
-      "tas": "150"
+      "0": {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "kg"
+      }
     }
   },
   {
@@ -453,9 +1438,15 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/128420.jpg",
     "barcode": "9300674000148",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "tas": "300"
+      "0": {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      }
     }
   },
   {
@@ -464,9 +1455,15 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F139011.jpg&w=640&q=90",
     "barcode": "9300674000094",
     "shop": "coles",
+    "category_id": "10302",
     "weight": "2kg",
     "prices": {
-      "tas": "150"
+      "0": {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "kg"
+      }
     }
   },
   {
@@ -475,9 +1472,15 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/177577.jpg",
     "barcode": "9300674000094",
     "shop": "Woolworths",
+    "category_id": "10302",
     "weight": "1KG",
     "prices": {
-      "tas": "300"
+      "0": {
+        "state": "TAS",
+        "price": "150",
+        "price_per_unit": "300",
+        "price_unit": "KG"
+      }
     }
   }
 ]

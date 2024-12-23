@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 const dbConnect = async () => {
     try {
-        const conn = await mongoose.connect('mongodb://127.0.0.1/transfer');
+        const conn = await mongoose.connect('mongodb://127.0.0.1/transfer1');
         console.log('database connected');
         return conn;
     } catch (error) {
@@ -40,7 +40,7 @@ const getData = async () => {
         await dbConnect();
 
         // Path to the JSON file
-        const jsonData = JSON.parse(fs.readFileSync(`transferfile.json`, 'utf8'));
+        const jsonData = JSON.parse(fs.readFileSync(`aaaaa.json`, 'utf8'));
 
         // Insert each product into the database
         for (const product of jsonData) {

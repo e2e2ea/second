@@ -5,31 +5,32 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/204225.jpg",
     "source_id": "Woolworths - 204225",
     "barcode": "9316131109422",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "VIC",
-        "price": "690",
-        "price_per_unit": "1725",
+        "price": "1725",
+        "price_per_unit": "690",
         "price_unit": "KG"
       },
       {
         "state": "QLD",
-        "price": "690",
-        "price_per_unit": "1725",
+        "price": "1725",
+        "price_per_unit": "690",
         "price_unit": "KG"
       },
       {
         "state": "WA",
-        "price": "690",
-        "price_per_unit": "1725",
+        "price": "1725",
+        "price_per_unit": "690",
         "price_unit": "KG"
       },
       {
         "state": "ACT",
-        "price": "690",
-        "price_per_unit": "1725",
+        "price": "1725",
+        "price_per_unit": "690",
         "price_unit": "KG"
       }
     ]
@@ -40,19 +41,20 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/426888.jpg",
     "source_id": "Woolworths - 426888",
     "barcode": "9300633579340",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "NSW",
-        "price": "790",
-        "price_per_unit": "1436",
+        "price": "1436",
+        "price_per_unit": "790",
         "price_unit": "KG"
       },
       {
         "state": "ACT",
-        "price": "790",
-        "price_per_unit": "1436",
+        "price": "1436",
+        "price_per_unit": "790",
         "price_unit": "KG"
       }
     ]
@@ -63,6 +65,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306519.jpg",
     "source_id": "Woolworths - 306519",
     "barcode": "0268412000005",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -78,7 +81,6 @@
         "price_per_unit": "450",
         "price_unit": "EA"
       },
-      null,
       {
         "state": "ACT",
         "price": "450",
@@ -93,13 +95,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/135245.jpg",
     "source_id": "Woolworths - 135245",
     "barcode": "9300633007164",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null,
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/792361/macro-organic-avocado",
@@ -107,6 +106,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/792361.jpg",
     "source_id": "Woolworths - 792361",
     "barcode": "0266181000004",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -145,8 +145,7 @@
         "price": "380",
         "price_per_unit": "380",
         "price_unit": "EA"
-      },
-      null
+      }
     ]
   },
   {
@@ -155,6 +154,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/306510.jpg",
     "source_id": "Woolworths - 306510",
     "barcode": "0268095000002",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -214,37 +214,38 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/118526.jpg",
     "source_id": "Woolworths - 118526",
     "barcode": "9339687211906",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "NSW",
-        "price": "550",
-        "price_per_unit": "4400",
+        "price": "4400",
+        "price_per_unit": "550",
         "price_unit": "KG"
       },
       {
         "state": "VIC",
-        "price": "590",
-        "price_per_unit": "4720",
+        "price": "4720",
+        "price_per_unit": "590",
         "price_unit": "KG"
       },
       {
         "state": "QLD",
-        "price": "550",
-        "price_per_unit": "4400",
+        "price": "4400",
+        "price_per_unit": "550",
         "price_unit": "KG"
       },
       {
         "state": "WA",
-        "price": "550",
-        "price_per_unit": "4400",
+        "price": "4400",
+        "price_per_unit": "550",
         "price_unit": "KG"
       },
       {
         "state": "ACT",
-        "price": "590",
-        "price_per_unit": "4720",
+        "price": "4720",
+        "price_per_unit": "590",
         "price_unit": "KG"
       }
     ]
@@ -255,55 +256,56 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/318163.jpg",
     "source_id": "Woolworths - 318163",
     "barcode": "9300633126490",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "NSW",
-        "price": "750",
-        "price_per_unit": "3750",
+        "price": "3750",
+        "price_per_unit": "750",
         "price_unit": "KG"
       },
       {
         "state": "VIC",
-        "price": "750",
-        "price_per_unit": "3750",
+        "price": "3750",
+        "price_per_unit": "750",
         "price_unit": "KG"
       },
       {
         "state": "QLD",
-        "price": "750",
-        "price_per_unit": "3750",
+        "price": "3750",
+        "price_per_unit": "750",
         "price_unit": "KG"
       },
       {
         "state": "WA",
-        "price": "750",
-        "price_per_unit": "3750",
+        "price": "3750",
+        "price_per_unit": "750",
         "price_unit": "KG"
       },
       {
         "state": "SA",
-        "price": "750",
-        "price_per_unit": "3750",
+        "price": "3750",
+        "price_per_unit": "750",
         "price_unit": "KG"
       },
       {
         "state": "TAS",
-        "price": "750",
-        "price_per_unit": "3750",
+        "price": "3750",
+        "price_per_unit": "750",
         "price_unit": "KG"
       },
       {
         "state": "ACT",
-        "price": "750",
-        "price_per_unit": "3750",
+        "price": "3750",
+        "price_per_unit": "750",
         "price_unit": "KG"
       },
       {
         "state": "NT",
-        "price": "750",
-        "price_per_unit": "3750",
+        "price": "3750",
+        "price_per_unit": "750",
         "price_unit": "KG"
       }
     ]
@@ -314,27 +316,26 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/153654.jpg",
     "source_id": "Woolworths - 153654",
     "barcode": "9300633007669",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
       {
         "state": "VIC",
-        "price": "690",
-        "price_per_unit": "115",
+        "price": "115",
+        "price_per_unit": "690",
         "price_unit": "EA"
       },
       {
         "state": "SA",
-        "price": "690",
-        "price_per_unit": "115",
+        "price": "115",
+        "price_per_unit": "690",
         "price_unit": "EA"
       },
-      null,
-      null,
       {
         "state": "NT",
-        "price": "690",
-        "price_per_unit": "115",
+        "price": "115",
+        "price_per_unit": "690",
         "price_unit": "EA"
       }
     ]
@@ -345,16 +346,16 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/063832.jpg",
     "source_id": "Woolworths - 63832",
     "barcode": "9339687135134",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "NSW",
-        "price": "550",
-        "price_per_unit": "1100",
+        "price": "1100",
+        "price_per_unit": "550",
         "price_unit": "KG"
-      },
-      null
+      }
     ]
   },
   {
@@ -363,16 +364,16 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814379.jpg",
     "source_id": "Woolworths - 814379",
     "barcode": "9339687072637",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "NSW",
-        "price": "690",
-        "price_per_unit": "1380",
+        "price": "1380",
+        "price_per_unit": "690",
         "price_unit": "KG"
-      },
-      null
+      }
     ]
   },
   {
@@ -381,13 +382,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/154338.jpg",
     "source_id": "Woolworths - 154338",
     "barcode": "9300633007034",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null,
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141407/macro-organic-valencia-oranges",
@@ -395,37 +393,38 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/141407.jpg",
     "source_id": "Woolworths - 141407",
     "barcode": "9300633007171",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "NSW",
-        "price": "890",
-        "price_per_unit": "593",
+        "price": "593",
+        "price_per_unit": "890",
         "price_unit": "KG"
       },
       {
         "state": "VIC",
-        "price": "890",
-        "price_per_unit": "593",
+        "price": "593",
+        "price_per_unit": "890",
         "price_unit": "KG"
       },
       {
         "state": "QLD",
-        "price": "890",
-        "price_per_unit": "593",
+        "price": "593",
+        "price_per_unit": "890",
         "price_unit": "KG"
       },
       {
         "state": "WA",
-        "price": "890",
-        "price_per_unit": "593",
+        "price": "593",
+        "price_per_unit": "890",
         "price_unit": "KG"
       },
       {
         "state": "ACT",
-        "price": "890",
-        "price_per_unit": "593",
+        "price": "593",
+        "price_per_unit": "890",
         "price_unit": "KG"
       }
     ]
@@ -436,34 +435,34 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/814378.jpg",
     "source_id": "Woolworths - 814378",
     "barcode": "9339687072620",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "NSW",
-        "price": "690",
-        "price_per_unit": "1380",
+        "price": "1380",
+        "price_per_unit": "690",
         "price_unit": "KG"
       },
       {
         "state": "VIC",
-        "price": "690",
-        "price_per_unit": "1380",
+        "price": "1380",
+        "price_per_unit": "690",
         "price_unit": "KG"
       },
       {
         "state": "QLD",
-        "price": "690",
-        "price_per_unit": "1380",
+        "price": "1380",
+        "price_per_unit": "690",
         "price_unit": "KG"
       },
       {
         "state": "WA",
-        "price": "690",
-        "price_per_unit": "1380",
+        "price": "1380",
+        "price_per_unit": "690",
         "price_unit": "KG"
-      },
-      null
+      }
     ]
   },
   {
@@ -472,6 +471,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/160888.jpg",
     "source_id": "Woolworths - 160888",
     "barcode": "9300633007249",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
@@ -480,9 +480,7 @@
         "price": "850",
         "price_per_unit": "850",
         "price_unit": "KG"
-      },
-      null,
-      null
+      }
     ]
   },
   {
@@ -491,11 +489,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/781399.jpg",
     "source_id": "Woolworths - 781399",
     "barcode": "9300633703127",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/751602/macro-sugar-plum-organic",
@@ -503,11 +500,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/751602.jpg",
     "source_id": "Woolworths - 751602",
     "barcode": "9347386000004",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/676206/macro-white-organic-grapes",
@@ -515,11 +511,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/676206.jpg",
     "source_id": "Woolworths - 676206",
     "barcode": "9339687030347",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/238802/organic-in-conversion-apple-jazz",
@@ -527,12 +522,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/238802.jpg",
     "source_id": "Woolworths - 238802",
     "barcode": "9322288005746",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null,
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/79288/organic-mini-watermelon-seedless",
@@ -540,6 +533,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/079288.jpg",
     "source_id": "Woolworths - 79288",
     "barcode": "0261557000008",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": [
@@ -575,6 +569,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/239825.jpg",
     "source_id": "Woolworths - 239825",
     "barcode": "0260995000007",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1EA",
     "prices": []
@@ -585,27 +580,26 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/149820.jpg",
     "source_id": "Woolworths - 149820",
     "barcode": "9300633007201",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "VIC",
-        "price": "750",
-        "price_per_unit": "3000",
+        "price": "3000",
+        "price_per_unit": "750",
         "price_unit": "KG"
       },
       {
         "state": "SA",
-        "price": "750",
-        "price_per_unit": "3000",
+        "price": "3000",
+        "price_per_unit": "750",
         "price_unit": "KG"
       },
-      null,
-      null,
       {
         "state": "NT",
-        "price": "750",
-        "price_per_unit": "3000",
+        "price": "3000",
+        "price_per_unit": "750",
         "price_unit": "KG"
       }
     ]
@@ -616,31 +610,32 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/282515.jpg",
     "source_id": "Woolworths - 282515",
     "barcode": "797776883905",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": [
       {
         "state": "NSW",
-        "price": "690",
-        "price_per_unit": "5520",
+        "price": "5520",
+        "price_per_unit": "690",
         "price_unit": "KG"
       },
       {
         "state": "VIC",
-        "price": "690",
-        "price_per_unit": "5520",
+        "price": "5520",
+        "price_per_unit": "690",
         "price_unit": "KG"
       },
       {
         "state": "QLD",
-        "price": "690",
-        "price_per_unit": "5520",
+        "price": "5520",
+        "price_per_unit": "690",
         "price_unit": "KG"
       },
       {
         "state": "WA",
-        "price": "690",
-        "price_per_unit": "5520",
+        "price": "5520",
+        "price_per_unit": "690",
         "price_unit": "KG"
       }
     ]
@@ -651,11 +646,10 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/379820.jpg",
     "source_id": "Woolworths - 379820",
     "barcode": "9300633541651",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null
-    ]
+    "prices": []
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/940332/macro-prepack-mandarin",
@@ -663,6 +657,7 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/940332.jpg",
     "source_id": "Woolworths - 940332",
     "barcode": "9300633526818",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
     "prices": []
@@ -673,10 +668,9 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/773340.jpg",
     "source_id": "Woolworths - 773340",
     "barcode": "9300633458690",
+    "category_id": "1-E5BEE36E",
     "shop": "Woolworths",
     "weight": "1KG",
-    "prices": [
-      null
-    ]
+    "prices": []
   }
 ]

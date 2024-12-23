@@ -5,16 +5,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4324842.jpg&w=640&q=90",
     "barcode": "9318637044023",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "48g",
     "prices": {
-      "nsw": "2875",
-      "nsw_price_per_unit": "1380",
-      "nsw_unit": "g",
-      "vic": "2875",
-      "qld": "2875",
-      "wa": "2875",
-      "sa": "2875",
-      "tas": "2875"
+      "0": {
+        "state": "VIC",
+        "price": "4792",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "4792",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "4792",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "4792",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "4792",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "4792",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "4792",
+        "price_per_unit": "2300",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "5031",
+        "price_per_unit": "2415",
+        "price_unit": "g"
+      }
     }
   },
   {
@@ -23,11 +64,27 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/140534.jpg",
     "barcode": "9318637044023",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100G",
     "prices": {
-      "nsw": "2300",
-      "nsw_price_per_unit": "4792",
-      "nsw_unit": "G"
+      "0": {
+        "state": "NSW",
+        "price": "3333",
+        "price_per_unit": "1600",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "WA",
+        "price": "3333",
+        "price_per_unit": "1600",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "SA",
+        "price": "3333",
+        "price_per_unit": "1600",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -36,11 +93,33 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F1%2F1955360.jpg&w=640&q=90",
     "barcode": "9421008702016",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "20ml",
     "prices": {
-      "vic": "12000",
-      "wa": "12000",
-      "sa": "12000"
+      "0": {
+        "state": "VIC",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "WA",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "SA",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "NT",
+        "price": "6300",
+        "price_per_unit": "1260",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -49,16 +128,57 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/772384.jpg",
     "barcode": "9421008702016",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100ML",
     "prices": {
-      "nsw": "2400",
-      "nsw_price_per_unit": "12000",
-      "nsw_unit": "ML",
-      "vic": "2400",
-      "qld": "2400",
-      "wa": "2400",
-      "sa": "2400",
-      "tas": "2400"
+      "0": {
+        "state": "NSW",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "WA",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "SA",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      },
+      "7": {
+        "state": "NT",
+        "price": "6000",
+        "price_per_unit": "1200",
+        "price_unit": "ML"
+      }
     }
   },
   {
@@ -67,15 +187,51 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5940331.jpg&w=640&q=90",
     "barcode": "3600542513241",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "30ml",
     "prices": {
-      "nsw": "12334",
-      "nsw_price_per_unit": "3700",
-      "nsw_unit": "ml",
-      "vic": "12334",
-      "qld": "12334",
-      "sa": "12334",
-      "tas": "12334"
+      "0": {
+        "state": "VIC",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "SA",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "NT",
+        "price": "6474",
+        "price_per_unit": "1942",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -84,16 +240,45 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/256989.jpg",
     "barcode": "3600542513241",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100ML",
     "prices": {
-      "nsw": "3700",
-      "nsw_price_per_unit": "12333",
-      "nsw_unit": "ML",
-      "vic": "3700",
-      "qld": "3700",
-      "wa": "3700",
-      "sa": "3700",
-      "tas": "3700"
+      "0": {
+        "state": "NSW",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "WA",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "SA",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      }
     }
   },
   {
@@ -102,15 +287,51 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4329970.jpg&w=640&q=90",
     "barcode": "3600542417723",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "50ml",
     "prices": {
-      "nsw": "3400",
-      "nsw_price_per_unit": "1700",
-      "nsw_unit": "ml",
-      "vic": "3400",
-      "qld": "3400",
-      "wa": "3400",
-      "sa": "3400"
+      "0": {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "NT",
+        "price": "1784",
+        "price_per_unit": "892",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -119,16 +340,57 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/165484.jpg",
     "barcode": "3600542417723",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100ML",
     "prices": {
-      "nsw": "1700",
-      "nsw_price_per_unit": "3400",
-      "nsw_unit": "ML",
-      "vic": "1700",
-      "qld": "1700",
-      "wa": "1700",
-      "sa": "1700",
-      "tas": "1700"
+      "0": {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "WA",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "SA",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "7": {
+        "state": "NT",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      }
     }
   },
   {
@@ -137,16 +399,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4329620.jpg&w=640&q=90",
     "barcode": "3600542422154",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "50ml",
     "prices": {
-      "nsw": "3400",
-      "nsw_price_per_unit": "1700",
-      "nsw_unit": "ml",
-      "vic": "3400",
-      "qld": "3400",
-      "wa": "3400",
-      "sa": "3400",
-      "tas": "3400"
+      "0": {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "7": {
+        "state": "NT",
+        "price": "1784",
+        "price_per_unit": "892",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -155,16 +458,57 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/165487.jpg",
     "barcode": "3600542422154",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100ML",
     "prices": {
-      "nsw": "1700",
-      "nsw_price_per_unit": "3400",
-      "nsw_unit": "ML",
-      "vic": "1700",
-      "qld": "1700",
-      "wa": "1700",
-      "sa": "1700",
-      "tas": "1700"
+      "0": {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "WA",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "SA",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "7": {
+        "state": "NT",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      }
     }
   },
   {
@@ -173,16 +517,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4329722.jpg&w=640&q=90",
     "barcode": "3600542422161",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "50ml",
     "prices": {
-      "nsw": "3400",
-      "nsw_price_per_unit": "1700",
-      "nsw_unit": "ml",
-      "vic": "3400",
-      "qld": "3400",
-      "wa": "3400",
-      "sa": "3400",
-      "tas": "3400"
+      "0": {
+        "state": "VIC",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "WA",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "SA",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "1700",
+        "price_per_unit": "850",
+        "price_unit": "ml"
+      },
+      "7": {
+        "state": "NT",
+        "price": "1784",
+        "price_per_unit": "892",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -191,16 +576,57 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/165489.jpg",
     "barcode": "3600542422161",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100ML",
     "prices": {
-      "nsw": "1700",
-      "nsw_price_per_unit": "3400",
-      "nsw_unit": "ML",
-      "vic": "1700",
-      "qld": "1700",
-      "wa": "1700",
-      "sa": "1700",
-      "tas": "1700"
+      "0": {
+        "state": "NSW",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "WA",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "SA",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      },
+      "7": {
+        "state": "NT",
+        "price": "3400",
+        "price_per_unit": "1700",
+        "price_unit": "ML"
+      }
     }
   },
   {
@@ -209,16 +635,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5940310.jpg&w=640&q=90",
     "barcode": "3600542500449",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "30ml",
     "prices": {
-      "nsw": "12334",
-      "nsw_price_per_unit": "3700",
-      "nsw_unit": "ml",
-      "vic": "12334",
-      "qld": "12334",
-      "wa": "12334",
-      "sa": "12334",
-      "tas": "12334"
+      "0": {
+        "state": "VIC",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "WA",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "SA",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "7": {
+        "state": "NT",
+        "price": "6474",
+        "price_per_unit": "1942",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -227,16 +694,45 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/256986.jpg",
     "barcode": "3600542500449",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100ML",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
-      "nsw_unit": "ML",
-      "vic": "3700",
-      "qld": "3700",
-      "wa": "3700",
-      "sa": "3700",
-      "tas": "3700"
+      "0": {
+        "state": "NSW",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "WA",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "SA",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "TAS",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "ACT",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "NT",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      }
     }
   },
   {
@@ -245,16 +741,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6797460.jpg&w=640&q=90",
     "barcode": "3600542541411",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "30ml",
     "prices": {
-      "nsw": "13334",
-      "nsw_price_per_unit": "4000",
-      "nsw_unit": "ml",
-      "vic": "13334",
-      "qld": "13334",
-      "wa": "13334",
-      "sa": "13334",
-      "tas": "13334"
+      "0": {
+        "state": "VIC",
+        "price": "6667",
+        "price_per_unit": "2000",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "6667",
+        "price_per_unit": "2000",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "6667",
+        "price_per_unit": "2000",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "WA",
+        "price": "6667",
+        "price_per_unit": "2000",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "SA",
+        "price": "6667",
+        "price_per_unit": "2000",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "6667",
+        "price_per_unit": "2000",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "6667",
+        "price_per_unit": "2000",
+        "price_unit": "ml"
+      },
+      "7": {
+        "state": "NT",
+        "price": "7000",
+        "price_per_unit": "2100",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -263,16 +800,51 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/316676.jpg",
     "barcode": "3600542541411",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100ML",
     "prices": {
-      "nsw": "NaN",
-      "nsw_price_per_unit": "NaN",
-      "nsw_unit": "ML",
-      "vic": "4000",
-      "qld": "4000",
-      "wa": "4000",
-      "sa": "4000",
-      "tas": "4000"
+      "0": {
+        "state": "NSW",
+        "price": "13333",
+        "price_per_unit": "4000",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "13333",
+        "price_per_unit": "4000",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "WA",
+        "price": "13333",
+        "price_per_unit": "4000",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "SA",
+        "price": "13333",
+        "price_per_unit": "4000",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "13333",
+        "price_per_unit": "4000",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "13333",
+        "price_per_unit": "4000",
+        "price_unit": "ML"
+      },
+      "6": {
+        "state": "NT",
+        "price": "13333",
+        "price_per_unit": "4000",
+        "price_unit": "ML"
+      }
     }
   },
   {
@@ -281,16 +853,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F4%2F4866619.jpg&w=640&q=90",
     "barcode": "3600542433266",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "30ml",
     "prices": {
-      "nsw": "12334",
-      "nsw_price_per_unit": "3700",
-      "nsw_unit": "ml",
-      "vic": "12334",
-      "qld": "12334",
-      "wa": "12334",
-      "sa": "12334",
-      "tas": "12334"
+      "0": {
+        "state": "VIC",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "WA",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "SA",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "6167",
+        "price_per_unit": "1850",
+        "price_unit": "ml"
+      },
+      "7": {
+        "state": "NT",
+        "price": "6474",
+        "price_per_unit": "1942",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -299,16 +912,57 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/196590.jpg",
     "barcode": "3600542433266",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100ML",
     "prices": {
-      "nsw": "3700",
-      "nsw_price_per_unit": "12333",
-      "nsw_unit": "ML",
-      "vic": "3700",
-      "qld": "3700",
-      "wa": "3700",
-      "sa": "3700",
-      "tas": "3700"
+      "0": {
+        "state": "NSW",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "WA",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "SA",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      },
+      "7": {
+        "state": "NT",
+        "price": "12333",
+        "price_per_unit": "3700",
+        "price_unit": "ML"
+      }
     }
   },
   {
@@ -317,16 +971,57 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5940397.jpg&w=640&q=90",
     "barcode": "3600542537940",
     "shop": "coles",
+    "category_id": "15083",
     "weight": "50ml",
     "prices": {
-      "nsw": "6000",
-      "nsw_price_per_unit": "3000",
-      "nsw_unit": "ml",
-      "vic": "6000",
-      "qld": "6000",
-      "wa": "6000",
-      "sa": "6000",
-      "tas": "6000"
+      "0": {
+        "state": "VIC",
+        "price": "3000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "3000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "3000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      "3": {
+        "state": "WA",
+        "price": "3000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      "4": {
+        "state": "SA",
+        "price": "3000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "3000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "3000",
+        "price_per_unit": "1500",
+        "price_unit": "ml"
+      },
+      "7": {
+        "state": "NT",
+        "price": "3150",
+        "price_per_unit": "1575",
+        "price_unit": "ml"
+      }
     }
   },
   {
@@ -335,16 +1030,57 @@
     "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/267110.jpg",
     "barcode": "3600542537940",
     "shop": "Woolworths",
+    "category_id": "15083",
     "weight": "100ML",
     "prices": {
-      "nsw": "3000",
-      "nsw_price_per_unit": "6000",
-      "nsw_unit": "ML",
-      "vic": "3000",
-      "qld": "3000",
-      "wa": "3000",
-      "sa": "3000",
-      "tas": "3000"
+      "0": {
+        "state": "NSW",
+        "price": "6000",
+        "price_per_unit": "3000",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "6000",
+        "price_per_unit": "3000",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "6000",
+        "price_per_unit": "3000",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "WA",
+        "price": "6000",
+        "price_per_unit": "3000",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "SA",
+        "price": "6000",
+        "price_per_unit": "3000",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "6000",
+        "price_per_unit": "3000",
+        "price_unit": "ML"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "6000",
+        "price_per_unit": "3000",
+        "price_unit": "ML"
+      },
+      "7": {
+        "state": "NT",
+        "price": "6000",
+        "price_per_unit": "3000",
+        "price_unit": "ML"
+      }
     }
   }
 ]

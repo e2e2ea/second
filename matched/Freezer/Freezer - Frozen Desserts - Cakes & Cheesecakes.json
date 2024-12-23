@@ -5,141 +5,116 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F9%2F9131290.jpg&w=640&q=90",
     "barcode": "9310135020387",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "360g",
     "prices": {
-      "nsw": "236",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "236",
-      "qld": "236",
-      "wa": "236",
-      "sa": "236",
-      "tas": "236"
+      "0": {
+        "state": "VIC",
+        "price": "165",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "165",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "165",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "165",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "165",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "165",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "165",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "165",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/263636/sara-lee-french-cream-cheesecake",
     "name": "Sara Lee French Cream Cheesecake 360g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/263636.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263636.jpg",
     "barcode": "9310135020387",
-    "shop": "woolworths",
-    "weight": "360g",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
     "prices": {
-      "nsw": 236,
-      "nsw_price_per_unit": 850,
-      "nsw_unit": "g",
-      "vic": 850,
-      "qld": 850,
-      "act": 850,
-      "sa": 850,
-      "tas": 850
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/sara-lee-frozen-chocolate-buttercake-350g-268900",
-    "name": "Sara Lee Frozen Chocolate Buttercake | 350g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F2%2F268900.jpg&w=640&q=90",
-    "barcode": "9310135026655",
-    "shop": "coles",
-    "weight": "350g",
-    "prices": {
-      "nsw": "243",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "243",
-      "qld": "243",
-      "wa": "243",
-      "sa": "243",
-      "tas": "243"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/96530/sara-lee-butter-chocolate-cake",
-    "name": "Sara Lee Butter Chocolate Cake 350g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/96530.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9310135026655",
-    "shop": "woolworths",
-    "weight": "350g",
-    "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 850,
-      "nsw_unit": "g",
-      "vic": 236,
-      "qld": 680,
-      "act": 680,
-      "sa": 680,
-      "tas": 680
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/sara-lee-frozen-strawberry-cheesecake-410g-6125891",
-    "name": "Sara Lee Frozen  Strawberry Cheesecake | 410g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6125891.jpg&w=640&q=90",
-    "barcode": "9310135020400",
-    "shop": "coles",
-    "weight": "410g",
-    "prices": {
-      "nsw": "207",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "207",
-      "qld": "207",
-      "wa": "207",
-      "sa": "207",
-      "tas": "207"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/263645/sara-lee-strawberry-cheesecake",
-    "name": "Sara Lee Strawberry Cheesecake 410g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/263645.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9310135020400",
-    "shop": "woolworths",
-    "weight": "410g",
-    "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 850,
-      "nsw_unit": "g",
-      "vic": 207,
-      "qld": 850,
-      "act": 680,
-      "sa": 850,
-      "tas": 850
-    }
-  },
-  {
-    "source_url": "https://www.coles.com.au/product/sara-lee-frozen-chocolate-bavarian-cheesecake-375g-6125869",
-    "name": "Sara Lee Frozen Chocolate Bavarian Cheesecake | 375g",
-    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6125869.jpg&w=640&q=90",
-    "barcode": "9310135020424",
-    "shop": "coles",
-    "weight": "375g",
-    "prices": {
-      "nsw": "227",
-      "nsw_price_per_unit": "850",
-      "nsw_unit": "g",
-      "vic": "227",
-      "qld": "227",
-      "wa": "227",
-      "tas": "227"
-    }
-  },
-  {
-    "source_url": "https://www.woolworths.com.au/shop/productdetails/263648/sara-lee-chocolate-swirl-bavarian",
-    "name": "Sara Lee Chocolate Swirl Bavarian 375g",
-    "image_url": "https://assets.woolworths.com.au/images/1005/263648.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
-    "barcode": "9310135020424",
-    "shop": "woolworths",
-    "weight": "375g",
-    "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 425,
-      "nsw_unit": "g",
-      "vic": 113,
-      "qld": 425,
-      "act": 425,
-      "sa": 425,
-      "tas": 425
+      "0": {
+        "state": "NSW",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "VIC",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "WA",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "SA",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "7": {
+        "state": "NT",
+        "price": "236",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
     }
   },
   {
@@ -148,29 +123,310 @@
     "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F5%2F5103340.jpg&w=640&q=90",
     "barcode": "9310080035085",
     "shop": "coles",
+    "category_id": "85471",
     "weight": "1.5l",
     "prices": {
-      "vic": "93",
-      "qld": "93",
-      "sa": "93"
+      "0": {
+        "state": "VIC",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".l"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".l"
+      },
+      "2": {
+        "state": "SA",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".l"
+      },
+      "3": {
+        "state": "ACT",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": ".l"
+      },
+      "4": {
+        "state": "NT",
+        "price": "101",
+        "price_per_unit": "1512",
+        "price_unit": ".l"
+      }
     }
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/40950/peters-ice-cream-cake-party",
     "name": "Peters Ice Cream Cake Party 1.5l",
-    "image_url": "https://assets.woolworths.com.au/images/1005/40950.jpg?impolicy=wowsmkqiema&amp;w=260&amp;h=260",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/040950.jpg",
     "barcode": "9310080035085",
-    "shop": "woolworths",
-    "weight": "1.5l",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100ML",
     "prices": {
-      "nsw": 0,
-      "nsw_price_per_unit": 1400,
-      "nsw_unit": "ea",
-      "vic": 93,
-      "qld": 1400,
-      "act": 1400,
-      "sa": 1400,
-      "tas": 1400
+      "0": {
+        "state": "VIC",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": "ML"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": "ML"
+      },
+      "2": {
+        "state": "WA",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": "ML"
+      },
+      "3": {
+        "state": "SA",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": "ML"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": "ML"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "93",
+        "price_per_unit": "1400",
+        "price_unit": "ML"
+      },
+      "6": {
+        "state": "NT",
+        "price": "98",
+        "price_per_unit": "1470",
+        "price_unit": "ML"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sara-lee-frozen-chocolate-bavarian-cheesecake-375g-6125869",
+    "name": "Sara Lee Frozen Chocolate Bavarian Cheesecake | 375g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6125869.jpg&w=640&q=90",
+    "barcode": "9310135020424",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "375g",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "159",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "159",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "159",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "159",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "159",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "159",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "NT",
+        "price": "159",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263648/sara-lee-chocolate-swirl-bavarian",
+    "name": "Sara Lee Chocolate Swirl Bavarian 375g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263648.jpg",
+    "barcode": "9310135020424",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "113",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "113",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "113",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "113",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "113",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "113",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "113",
+        "price_per_unit": "425",
+        "price_unit": "G"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.coles.com.au/product/sara-lee-frozen-strawberry-cheesecake-410g-6125891",
+    "name": "Sara Lee Frozen  Strawberry Cheesecake | 410g",
+    "image_url": "https://www.coles.com.au/_next/image?url=https%3A%2F%2Fproductimages.coles.com.au%2Fproductimages%2F6%2F6125891.jpg&w=640&q=90",
+    "barcode": "9310135020400",
+    "shop": "coles",
+    "category_id": "85471",
+    "weight": "410g",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "145",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "1": {
+        "state": "NSW",
+        "price": "145",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "2": {
+        "state": "QLD",
+        "price": "145",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "3": {
+        "state": "WA",
+        "price": "145",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "4": {
+        "state": "SA",
+        "price": "145",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "5": {
+        "state": "TAS",
+        "price": "145",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "6": {
+        "state": "ACT",
+        "price": "145",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      },
+      "7": {
+        "state": "NT",
+        "price": "145",
+        "price_per_unit": "595",
+        "price_unit": "g"
+      }
+    }
+  },
+  {
+    "source_url": "https://www.woolworths.com.au/shop/productdetails/263645/sara-lee-strawberry-cheesecake",
+    "name": "Sara Lee Strawberry Cheesecake 410g",
+    "image_url": "https://cdn1.woolworths.media/content/wowproductimages/large/263645.jpg",
+    "barcode": "9310135020400",
+    "shop": "Woolworths",
+    "category_id": "85471",
+    "weight": "100G",
+    "prices": {
+      "0": {
+        "state": "VIC",
+        "price": "207",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "1": {
+        "state": "QLD",
+        "price": "207",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "2": {
+        "state": "WA",
+        "price": "207",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "3": {
+        "state": "SA",
+        "price": "207",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "4": {
+        "state": "TAS",
+        "price": "207",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "5": {
+        "state": "ACT",
+        "price": "207",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      },
+      "6": {
+        "state": "NT",
+        "price": "207",
+        "price_per_unit": "850",
+        "price_unit": "G"
+      }
     }
   }
 ]
