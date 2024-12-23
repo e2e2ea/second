@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 const getData = async () => {
-    console.log('categ', categories.length)
+    // console.log('categ', categories.length)
     let totalProducts = 0
     for (const categ of categories) {
         const category = categ.category

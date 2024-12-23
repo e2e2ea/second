@@ -11,8 +11,17 @@ const categories = [
     //         {
     //             subCategory: "Baby Accessories",
     //             childItems: [
+    //                 { extensionCategory: "Baby Bibs" },
     //                 { extensionCategory: "Baby Health & Safety" },
-    //                 // { extensionCategory: "Bath & Skincare" }, // found but different api https://www.coles.com.au/browse/baby/bath-skincare
+    //                 { extensionCategory: "Baby Teething & Soothers" },
+    //                 { extensionCategory: "Bath & Skincare" },
+    //                 { extensionCategory: "Bottles and Baby Feeding" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Baby Food",
+    //             childItems: [
+    //                 { extensionCategory: "Baby & Toddler Snacks" },
     //             ]
     //         },
     //         /**
@@ -50,15 +59,17 @@ const categories = [
     //             childItems: [
     //                 { extensionCategory: "Bread Rolls" },
     //                 // Note: the extensionCategory must be "Donuts & Cookies"
-    //                 { extensionCategory: "Donuts & Cookies" },
-    //                 // { extensionCategory: "Donuts" },
-    //                 // { extensionCategory: "Cookies" },
+    //                 // { extensionCategory: "Donuts & Cookies" },
+    //                 { extensionCategory: "Donuts" },
+    //                 { extensionCategory: "Cookies" },
     //             ]
     //         },
     //         {
     //             subCategory: "Packaged Bread & Bakery",
     //             childItems: [
+    //                 { extensionCategory: "Gluten Free Bakery" },
     //                 { extensionCategory: "Packaged Bread" },
+    //                 { extensionCategory: "Pizza Bases" },
     //             ]
     //         },
     //     ]
@@ -69,9 +80,6 @@ const categories = [
     // {
     //     category: "Dairy, Eggs & Fridge",
     //     subCategories: [
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "Cheese",
     //             childItems: [
@@ -80,9 +88,6 @@ const categories = [
     //                 { extensionCategory: "Sliced Cheese" },
     //             ]
     //         },
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "Cream, Custard & Desserts",
     //             childItems: [
@@ -90,17 +95,14 @@ const categories = [
     //                 { extensionCategory: "Custard" },
     //             ]
     //         },
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "Dips & Pate",
     //             childItems: [
     //                 { extensionCategory: "Dips" },
     //                 // The extensionCategory should be "Pate, Paste & Caviar"
-    //                 { extensionCategory: "Pate, Paste & Caviar" },
-    //                 // { extensionCategory: "Pate" },
-    //                 // { extensionCategory: "Paste" },
+    //                 // { extensionCategory: "Pate, Paste & Caviar" },
+    //                 { extensionCategory: "Pate" },
+    //                 { extensionCategory: "Paste" },
     //             ]
     //         },
     //         /**
@@ -130,27 +132,25 @@ const categories = [
     //     ]
     // },
     /**
-     * @commented Bakery Done
+     * @commented Deli & Chilled Meats Done
      */
     // {
     //     category: "Deli & Chilled Meats",
     //     subCategories: [
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "Deli Meats",
     //             childItems: [
-    //                 { extensionCategory: "Antipasto" },
     //                 { extensionCategory: "Deli Poultry" },
+    //                 { extensionCategory: "Sliced & Shaved Deli Meat" },
     //             ]
     //         },
     //         /**
     //          * @commented because its done
-    //          */
+    //         */
     //         {
     //             subCategory: "Deli Specialties",
     //             childItems: [
+    //                 { extensionCategory: "Antipasto" },
     //                 { extensionCategory: "Gourmet Cheese" },
     //                 { extensionCategory: "Platters" },
     //             ]
@@ -169,87 +169,87 @@ const categories = [
     /**
      * @commented Bakery Done
      */
-    // {
-    //     category: "Drinks",
-    //     subCategories: [
-    //         {
-    //             subCategory: "Chilled Drinks",
-    //             childItems: [
-    //                 // this 2 will be "Chilled Soft Drinks & Energy Drinks"
-    //                 { extensionCategory: "Chilled Soft Drinks & Energy Drinks" },
-    //                 // { extensionCategory: "Soft Drinks" },
-    //                 // { extensionCategory: "Energy Drinks" },
-    //                 { extensionCategory: "Chilled Water" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Coffee",
-    //             childItems: [
-    //                 { extensionCategory: "Coffee Beans" },
-    //                 { extensionCategory: "Coffee Capsules" },
-    //                 { extensionCategory: "Ground Coffee" }, 
-    //                 { extensionCategory: "Instant & Flavoured Coffee" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Cordials, Juices & Iced Teas",
-    //             childItems: [
-    //                 { extensionCategory: "Chilled Juices" },
-    //                 { extensionCategory: "Cordials" },
-    //                 { extensionCategory: "Iced Teas" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Flavoured Milk",
-    //             childItems: [
-    //                 { extensionCategory: "Drinking Chocolate" },
-    //                 { extensionCategory: "Drinks & Powders" },
-    //                 { extensionCategory: "Kids Milk" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Long Life Milk",
-    //             childItems: [
-    //                 { extensionCategory: "Almond Milk" },
-    //                 { extensionCategory: "Lactose Free Milk" },
-    //                 { extensionCategory: "Oat & Rice Milk" },
-    //                 { extensionCategory: "Powdered Milk" },
-    //                 { extensionCategory: "Soy Milk" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Soft Drinks",
-    //             childItems: [
-    //                 { extensionCategory: "Mixers" },
-    //                 { extensionCategory: "Soft Drink Bottles" },
-    //                 { extensionCategory: "Soft Drink Cans" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Sports & Energy Drinks",
-    //             childItems: [
-    //                 { extensionCategory: "Energy Drinks" },
-    //                 { extensionCategory: "Sports Drinks" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Tea",
-    //             childItems: [
-    //                 { extensionCategory: "Black Tea" },
-    //                 { extensionCategory: "Green Tea" },
-    //                 { extensionCategory: "Herbal & Specialty Tea" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Water",
-    //             childItems: [
-    //                 { extensionCategory: "Flavoured & Coconut Water" },
-    //                 { extensionCategory: "Sparkling Water" },
-    //                 { extensionCategory: "Still Water" },
-    //             ]
-    //         },
-    //     ]
-    // },
+    {
+        category: "Drinks",
+        subCategories: [
+            // {
+            //     subCategory: "Chilled Drinks",
+            //     childItems: [
+            //         // this 2 will be "Chilled Soft Drinks & Energy Drinks"
+            //         // { extensionCategory: "Chilled Soft Drinks & Energy Drinks" },
+            //         { extensionCategory: "Soft Drinks" },
+            //         { extensionCategory: "Energy Drinks" },
+            //         { extensionCategory: "Chilled Water" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Coffee",
+            //     childItems: [
+            //         { extensionCategory: "Coffee Beans" },
+            //         { extensionCategory: "Coffee Capsules" },
+            //         { extensionCategory: "Ground Coffee" }, 
+            //         { extensionCategory: "Instant & Flavoured Coffee" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Cordials, Juices & Iced Teas",
+            //     childItems: [
+            //         { extensionCategory: "Chilled Juices" },
+            //         { extensionCategory: "Cordials" },
+            //         { extensionCategory: "Iced Teas" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Flavoured Milk",
+            //     childItems: [
+            //         { extensionCategory: "Drinking Chocolate" },
+            //         { extensionCategory: "Drinks & Powders" },
+            //         { extensionCategory: "Kids Milk" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Long Life Milk",
+            //     childItems: [
+            //         { extensionCategory: "Almond Milk" },
+            //         { extensionCategory: "Lactose Free Milk" },
+            //         { extensionCategory: "Oat & Rice Milk" },
+            //         { extensionCategory: "Powdered Milk" },
+            //         { extensionCategory: "Soy Milk" },
+            //     ]
+            // },
+            {
+                subCategory: "Soft Drinks",
+                childItems: [
+                    { extensionCategory: "Mixers" },
+                    { extensionCategory: "Soft Drink Bottles" },
+                    { extensionCategory: "Soft Drink Cans" },
+                ]
+            },
+            {
+                subCategory: "Sports & Energy Drinks",
+                childItems: [
+                    { extensionCategory: "Energy Drinks" },
+                    { extensionCategory: "Sports Drinks" },
+                ]
+            },
+            // {
+            //     subCategory: "Tea",
+            //     childItems: [
+            //         { extensionCategory: "Black Tea" },
+            //         { extensionCategory: "Green Tea" },
+            //         { extensionCategory: "Herbal & Specialty Tea" },
+            //     ]
+            // },
+            // {
+            //     subCategory: "Water",
+            //     childItems: [
+            //         { extensionCategory: "Flavoured & Coconut Water" },
+            //         { extensionCategory: "Sparkling Water" },
+            //         { extensionCategory: "Still Water" },
+            //     ]
+            // },
+        ]
+    },
     // {
     //     category: "Freezer",
     //     subCategories: [
