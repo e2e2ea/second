@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "210",
         "price_per_unit": "210",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/192366/pureharvest-organic-malt-free-soy-milk",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-barista-soy-uht-1l-6501290",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "315",
         "price_per_unit": "315",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/83995/sanitarium-so-good-barista-edition-soy-milk",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-long-life-lite-soy-milk-1l-1l-5089883",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/16307/sanitarium-so-good-long-life-lite-soy-milk",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-long-life-regular-soy-milk-1l-403029",
@@ -361,56 +361,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/24318/sanitarium-so-good-long-life-regular-soy-milk",
@@ -420,56 +420,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vitasoy-protein-plus-1l-2807142",
@@ -479,56 +479,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/564472/vitasoy-protein-plus-unsweetened-soy-milk",
@@ -538,49 +538,49 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       }
-    }
+    ]
   }
 ]

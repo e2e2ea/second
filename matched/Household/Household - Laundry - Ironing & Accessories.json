@@ -7,44 +7,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "385g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "2509",
         "price_per_unit": "966",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/746886/crisp-spray-starch-spray",
@@ -54,56 +54,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2390",
         "price_per_unit": "920",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2506",
         "price_per_unit": "965",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fabulon-starch-ironing-aid-500ml-299608",
@@ -113,56 +113,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2206",
         "price_per_unit": "1103",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32224/fabulon-starch-trigger-aid-trigger-spray",
@@ -172,55 +172,55 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "L"
       }
-    }
+    ]
   }
 ]

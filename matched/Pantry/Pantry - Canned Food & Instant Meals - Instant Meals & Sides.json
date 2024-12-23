@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "190g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "221",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/145951/continental-classics-chicken-rice",
@@ -66,38 +66,38 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "221",
         "price_per_unit": "420",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-pasta-and-sauce-family-bacon-carbonara-145g-4727372",
@@ -107,56 +107,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "145g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "275",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/761509/continental-classics-creamy-pasta-sauce-bacon-carbonara-family-pack",
@@ -166,56 +166,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "276",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-oriental-fried-rice-115g-5431510",
@@ -225,56 +225,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "115g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "292",
         "price_per_unit": "336",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/62965/continental-classics-fried-rice-oriental",
@@ -284,56 +284,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "278",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "291",
         "price_per_unit": "335",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-rice-oriental-fried-180g-5748006",
@@ -343,56 +343,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "180g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "233",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/79602/continental-classics-fried-rice-oriental-family-pack",
@@ -402,56 +402,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "222",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "233",
         "price_per_unit": "420",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-alfredo-pasta-and-sauce-serves-3-85g-4725708",
@@ -461,56 +461,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "85g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "371",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/230945/continental-classics-pasta-sauce-alfredo-alfredo-serves-2",
@@ -520,56 +520,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "371",
         "price_per_unit": "315",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-alfredo-family-pasta-and-sauce-145g-4727383",
@@ -579,56 +579,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "145g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "275",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/761526/continental-classics-pasta-sauce-alfredo-family-pack",
@@ -638,56 +638,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "276",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-pasta-and-sauce-creamy-bacon-carbonara-85g-4725694",
@@ -697,56 +697,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "85g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "371",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/230946/continental-classics-pasta-sauce-creamy-bacon-carbonara",
@@ -756,56 +756,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "371",
         "price_per_unit": "315",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-macaroni-cheese-pasta-and-sauce-serves-3-105g-1416296",
@@ -815,56 +815,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "105g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "286",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "286",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "286",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "286",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "286",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "286",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "286",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/230941/continental-classics-pasta-sauce-macaroni-cheese-serves-2",
@@ -874,56 +874,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "261",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "261",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "261",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "261",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "261",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "261",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "261",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "274",
         "price_per_unit": "315",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-chicken-rice-serves-3-120g-8918099",
@@ -933,56 +933,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "120g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "280",
         "price_per_unit": "336",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141917/continental-classics-rice-chicken",
@@ -992,56 +992,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "267",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "279",
         "price_per_unit": "335",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-snack-pot-cheese-and-bacon-pasta-70g-3831255",
@@ -1051,56 +1051,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "429",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "429",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "429",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "429",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "429",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "429",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "429",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "450",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/107521/continental-snack-pot-cheese-bacon-pasta-serves-1",
@@ -1110,56 +1110,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "286",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "286",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "286",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "286",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "286",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "429",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "429",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "450",
         "price_per_unit": "315",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/san-remo-la-pasta-single-snack-carbonara-pasta-and-sauce-80g-5177255",
@@ -1169,38 +1169,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "80g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/200784/san-remo-la-pasta-carbonara-single-snack",
@@ -1210,26 +1210,26 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/san-remo-la-pasta-single-snack-creamy-bacon-pasta-and-sauce-80g-5177299",
@@ -1239,56 +1239,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "80g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/96731/san-remo-la-pasta-creamy-bacon-single-snack",
@@ -1298,56 +1298,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sirena-fried-rice-with-chicken-190g-4448197",
@@ -1357,56 +1357,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "190g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "238",
         "price_per_unit": "452",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/217601/sirena-fried-rice-with-chicken",
@@ -1416,50 +1416,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "174",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "174",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "174",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "174",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "174",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "237",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/well-and-good-traditional-cheddar-flavour-vegan-cheesy-mac-110g-3405144",
@@ -1469,56 +1469,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "110g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/913486/well-good-cheesy-vegan-mac-traditional-cheddar-flavour",
@@ -1528,50 +1528,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-chicken-curry-pasta-and-sauce-serves-3-90g-4725763",
@@ -1581,56 +1581,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "90g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "350",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/230942/continental-classics-pasta-sauce-chicken-curry",
@@ -1640,50 +1640,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "333",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "350",
         "price_per_unit": "315",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-pasta-and-sauce-family-chicken-curry-150g-4727340",
@@ -1693,56 +1693,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "150g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "266",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/761555/continental-classics-pasta-sauce-chicken-curry-family-pack",
@@ -1752,50 +1752,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "253",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "267",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-pasta-and-sauce-family-macaroni-cheese-170g-4727645",
@@ -1805,56 +1805,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "235",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/230975/continental-classics-pasta-sauce-macaroni-cheese-family-pack",
@@ -1864,44 +1864,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-rice-cheesy-125g-4448062",
@@ -1911,38 +1911,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "125g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "269",
         "price_per_unit": "336",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/691507/continental-classics-tasty-cheesy-rice-serves-2",
@@ -1952,50 +1952,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "256",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "268",
         "price_per_unit": "335",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-creamy-tomato-parmesan-and-basil-pasta-serves-2-98g-2263102",
@@ -2005,56 +2005,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "98g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "357",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "357",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "357",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "357",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "357",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "357",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "357",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "376",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/840898/continental-pasta-sensations-creamy-tomato-parmesan-basil-serves-2",
@@ -2064,44 +2064,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "286",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "286",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "286",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "286",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "286",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "357",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hart-and-soul-supergrain-ready-meal-satay-250g-3863670",
@@ -2111,56 +2111,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "231",
         "price_per_unit": "578",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/86692/hart-soul-all-natural-supergrain-satay-chicken",
@@ -2170,44 +2170,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hart-and-soul-rice-supergrain-butter-chicken-250g-3510150",
@@ -2217,56 +2217,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "231",
         "price_per_unit": "578",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/805108/hart-soul-supergrain-butter-chicken",
@@ -2276,50 +2276,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "232",
         "price_per_unit": "580",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-tortellini-three-cheese-pasta-meal-creamy-mushroom-and-bacon-350g-4318497",
@@ -2329,56 +2329,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/159329/heinz-tortellini-three-cheese-pasta-with-creamy-mushroom-bacon",
@@ -2388,50 +2388,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "151",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "151",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "151",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "151",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ainsley-harriott-cous-cous-sundried-tomato-and-garlic-100g-3533031",
@@ -2441,38 +2441,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "100g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "260",
         "price_per_unit": "260",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "260",
         "price_per_unit": "260",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "260",
         "price_per_unit": "260",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "260",
         "price_per_unit": "260",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "273",
         "price_per_unit": "273",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/450544/ainsley-harriott-couscous-sundried-tomato-garlic",
@@ -2482,50 +2482,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "180",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "180",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "180",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "180",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "180",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "260",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "260",
         "price_per_unit": "260",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kraft-mac-and-cheese-original-pasta-macaroni-noodles-205g-307193",
@@ -2535,56 +2535,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "205g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "180",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/693152/kraft-mac-cheese-macaroni-pasta-original-noodles",
@@ -2594,50 +2594,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kraft-mac-and-cheese-three-cheese-pasta-macaroni-noodles-205g-3867730",
@@ -2647,38 +2647,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "205g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "180",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/21128/kraft-mac-cheese-macaroni-pasta-three-cheese-instant-noodles",
@@ -2688,50 +2688,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "171",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kraft-mac-and-cheese-pasta-meal-vegan-150g-4449145",
@@ -2741,38 +2741,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "150g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "315",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/167302/kraft-vegan-mac-cheese-macaroni-pasta-instant-noodles-cheese",
@@ -2782,50 +2782,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/rice-a-riso-chicken-rice-99percent-fat-free-180g-9428947",
@@ -2835,38 +2835,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "180g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "128",
         "price_per_unit": "231",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/183695/rice-a-riso-flavoured-rice-chicken",
@@ -2876,50 +2876,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "122",
         "price_per_unit": "220",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/san-remo-la-pasta-family-alfredo-160g-8536897",
@@ -2929,38 +2929,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "160g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/700692/san-remo-la-pasta-alfredo",
@@ -2970,50 +2970,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/san-remo-la-pasta-family-carbonara-160g-8536875",
@@ -3023,56 +3023,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "160g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/700713/san-remo-la-pasta-carbonara",
@@ -3082,50 +3082,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/san-remo-la-pasta-chicken-curry-flavour-pasta-and-sauce-80g-3221505",
@@ -3135,38 +3135,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "80g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/96607/san-remo-la-pasta-chicken-curry-single-snack",
@@ -3176,50 +3176,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "140",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/san-remo-la-pasta-family-macaroni-cheese-160g-8536886",
@@ -3229,38 +3229,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "160g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/700721/san-remo-la-pasta-macaroni-cheese",
@@ -3270,50 +3270,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "156",
         "price_per_unit": "250",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sirena-brown-rice-and-quinoa-with-chicken-190g-4448186",
@@ -3323,44 +3323,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "190g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "238",
         "price_per_unit": "452",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/219575/sirena-brown-rice-quinoa-with-chicken",
@@ -3370,50 +3370,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "174",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "174",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "174",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "174",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "226",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "237",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/well-and-good-vegan-bolognese-with-macaroni-110g-6751403",
@@ -3423,38 +3423,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "110g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/913592/well-good-vegan-bolognese-with-macaroni",
@@ -3464,44 +3464,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "409",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-rice-family-cheesy-190g-4448051",
@@ -3511,38 +3511,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "190g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "221",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/691513/continental-classics-cheesy-rice-family-pack-serves-4",
@@ -3552,20 +3552,20 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "211",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "221",
         "price_per_unit": "420",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-alfredo-with-garlic-and-herb-family-pasta-and-sauce-145g-1416219",
@@ -3575,38 +3575,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "145g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "275",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/763881/continental-classics-pasta-sauce-alfredo-garlic-herb",
@@ -3616,14 +3616,14 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-alfredo-garlic-and-herb-pasta-and-sauce-serves-3-85g-1414042",
@@ -3633,56 +3633,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "85g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "371",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/763882/continental-classics-pasta-sauce-alfredo-garlic-herb-serves-2",
@@ -3692,20 +3692,20 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "371",
         "price_per_unit": "315",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-pasta-and-sauce-family-four-cheeses-170g-8463760",
@@ -3715,56 +3715,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "235",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/761642/continental-classics-pasta-sauce-four-cheese",
@@ -3774,20 +3774,20 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "224",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "235",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-pasta-and-sauce-family-sour-cream-chives-145g-4727350",
@@ -3797,38 +3797,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "145g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "275",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/761556/continental-classics-pasta-sauce-sour-cream-chives",
@@ -3838,20 +3838,20 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "262",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "276",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-sour-cream-and-chives-pasta-and-sauce-serves-3-85g-4725719",
@@ -3861,56 +3861,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "85g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "371",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/230924/continental-classics-pasta-sauce-sour-cream-chives",
@@ -3920,20 +3920,20 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "371",
         "price_per_unit": "315",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-four-cheeses-pasta-and-sauce-serves-3-100g-4725800",
@@ -3943,38 +3943,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "100g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "315",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/230938/continental-four-cheeses-pasta-sauce",
@@ -3984,20 +3984,20 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "315",
         "price_per_unit": "315",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/continental-creamy-spinach-parmesan-and-bacon-pasta-serves-2-91g-2262981",
@@ -4007,56 +4007,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "91g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "385",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "385",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "385",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "385",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "385",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "385",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "385",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "404",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/840899/continental-pasta-sensations-spinach-parmesan-bacon-serves-2",
@@ -4066,20 +4066,20 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "385",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kraft-mac-and-cheese-original-pasta-macaroni-noodles-410g-3539560",
@@ -4089,56 +4089,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "410g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "141",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "141",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "141",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "141",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "141",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "141",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "141",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "141",
         "price_per_unit": "580",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/693538/kraft-mac-cheese-macaroni-pasta-original-instant-noodles",
@@ -4148,14 +4148,14 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "141",
         "price_per_unit": "580",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tandaco-tomato-lasagne-casserole-sauce-mix-one-pan-dinner-200g-5130706",
@@ -4165,38 +4165,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "280",
         "price_per_unit": "560",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "280",
         "price_per_unit": "560",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "280",
         "price_per_unit": "560",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "280",
         "price_per_unit": "560",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "294",
         "price_per_unit": "588",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/35927/tandaco-one-pan-dinner-tomato-lasagne-tomato-lasagne",
@@ -4206,19 +4206,19 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "280",
         "price_per_unit": "560",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "280",
         "price_per_unit": "560",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

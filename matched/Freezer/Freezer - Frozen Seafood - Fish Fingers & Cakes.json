@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2340",
         "price_per_unit": "702",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/39353/birds-eye-fish-cakes-original-crumb-oven-fry",
@@ -66,50 +66,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2167",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2283",
         "price_per_unit": "685",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/birds-eye-frozen-salmon-cakes-with-vegetables-and-herbs-6-pack-480g-4344963",
@@ -119,44 +119,44 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "480g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1800",
         "price_per_unit": "864",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/224053/birds-eye-fish-cakes-salmon-with-vegetables-herbs",
@@ -166,44 +166,44 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1667",
         "price_per_unit": "800",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/birds-eye-frozen-fish-fingers-40-pieces-1kg-292937",
@@ -213,56 +213,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/96336/birds-eye-fish-fingers-original-crumb",
@@ -272,49 +272,49 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "KG"
       }
-    }
+    ]
   }
 ]

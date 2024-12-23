@@ -7,50 +7,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "140g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "45",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/574876/hoyt-s-italian-herb-mix",
@@ -60,56 +60,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "43",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/masterfoods-garlic-powder-50g-318429",
@@ -119,56 +119,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "50g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "74",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/35389/masterfoods-onion-powder",
@@ -178,56 +178,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "370",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "370",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "370",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "370",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "370",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "370",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/masterfoods-regular-oregano-leaves-5g-163945",
@@ -237,56 +237,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "5g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "568",
         "price_per_unit": "284",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/35398/masterfoods-oregano-leaves",
@@ -296,56 +296,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "520",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "520",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "520",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "520",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "660",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "660",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "520",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "520",
         "price_per_unit": "260",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/masterfoods-pure-saffron-0.25g-4289548",
@@ -355,56 +355,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "0.25g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": ".g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": ".g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": ".g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": ".g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": ".g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": ".g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": ".g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "62600",
         "price_per_unit": "1565",
         "price_unit": ".g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/170748/masterfoods-pure-saffron",
@@ -414,56 +414,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "59600",
         "price_per_unit": "1490",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mckenzie's-whole-black-peppercorns-refills-200g-6694194",
@@ -473,56 +473,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "31",
         "price_per_unit": "625",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/320994/mckenzie-s-pepper-black-whole",
@@ -532,56 +532,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "30",
         "price_per_unit": "595",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hoyts-italian-herb-mix-35g-9495081",
@@ -591,50 +591,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "35g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "96",
         "price_per_unit": "336",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/210354/hoyt-s-italian-herb-mix",
@@ -644,50 +644,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "91",
         "price_per_unit": "320",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hoyts-mixed-herbs-25g-286843",
@@ -697,50 +697,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "25g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "82",
         "price_per_unit": "205",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94640/hoyt-s-mixed-herbs",
@@ -750,50 +750,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "195",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hoyts-mixed-herbs-70g-5270035",
@@ -803,50 +803,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "57",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33287/hoyt-s-mixed-herbs",
@@ -856,50 +856,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "54",
         "price_per_unit": "380",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hoyts-parsley-15g-286934",
@@ -909,50 +909,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "15g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "210",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94616/hoyt-s-parsley",
@@ -962,50 +962,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "133",
         "price_per_unit": "200",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hoyts-thyme-15g-286901",
@@ -1015,50 +1015,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "15g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "112",
         "price_per_unit": "168",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94624/hoyt-s-thyme",
@@ -1068,50 +1068,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "160",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hoyts-turmeric-25g-286912",
@@ -1121,50 +1121,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "25g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "76",
         "price_per_unit": "189",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94625/hoyt-s-turmeric",
@@ -1174,50 +1174,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "72",
         "price_per_unit": "180",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hoyts-vanillin-sugar-25g-287529",
@@ -1227,50 +1227,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "25g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "158",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92804/hoyt-s-vanilla-sugar",
@@ -1280,50 +1280,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "60",
         "price_per_unit": "150",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/masterfoods-garlic-granules-45g-6841561",
@@ -1333,56 +1333,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "45g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "78",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "82",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/260587/masterfoods-garlic-granules",
@@ -1392,50 +1392,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "315",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "315",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "315",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "73",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "73",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "315",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "315",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/masterfoods-mixed-herbs-10g-318509",
@@ -1445,56 +1445,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "10g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "315",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/36349/masterfoods-mixed-herb-blend",
@@ -1504,44 +1504,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mckenzie's-hand-picked-australian-saffron-100mg-3307542",
@@ -1551,44 +1551,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "100mg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "1295",
         "price_unit": "mg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "1295",
         "price_unit": "mg"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "1295",
         "price_unit": "mg"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "1295",
         "price_unit": "mg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "1295",
         "price_unit": "mg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "1295",
         "price_unit": "mg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/827830/mckenzie-s-saffron",
@@ -1598,49 +1598,49 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "10G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "144000",
         "price_per_unit": "1440",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "144000",
         "price_per_unit": "1440",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "144000",
         "price_per_unit": "1440",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "144000",
         "price_per_unit": "1440",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "144000",
         "price_per_unit": "1440",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "129500",
         "price_per_unit": "1295",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "129500",
         "price_per_unit": "1295",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

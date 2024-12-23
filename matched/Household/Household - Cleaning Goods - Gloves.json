@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "100pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "19",
         "price_per_unit": "1943",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/147426/vileda-ansell-handy-clean-latex-multi-purpose-gloves-m-l",
@@ -66,44 +66,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "19",
         "price_per_unit": "1850",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ansell-pink-silverlined-gloves-size-9-1-pair-5531707",
@@ -113,56 +113,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1pair",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "378",
         "price_per_unit": "378",
         "price_unit": "pair"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/57706/vileda-ansell-smooth-silverlined-gloves-large-pair",
@@ -172,44 +172,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ansell-pink-silverlined-gloves-size-8-1-pair-439649",
@@ -219,56 +219,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1pair",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "pair"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "378",
         "price_per_unit": "378",
         "price_unit": "pair"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/20031/vileda-ansell-smooth-silverlined-gloves-medium-pair",
@@ -278,44 +278,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ansell-large-super-rubber-gloves-1-pair-5228709",
@@ -325,56 +325,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1pair",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "410",
         "price_per_unit": "410",
         "price_unit": "pair"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/62582/vileda-ansell-super-protector-gloves-large-pair",
@@ -384,44 +384,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ansell-super-rubber-gloves-medium-1-pack-5228673",
@@ -431,56 +431,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "410",
         "price_per_unit": "410",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/62583/vileda-ansell-super-protector-gloves-medium-pair",
@@ -490,44 +490,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ansell-small-super-rubber-gloves-1-pair-5228695",
@@ -537,56 +537,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1pair",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "390",
         "price_per_unit": "390",
         "price_unit": "pair"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "410",
         "price_per_unit": "410",
         "price_unit": "pair"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/62592/vileda-ansell-super-protector-gloves-small-pair",
@@ -596,43 +596,43 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

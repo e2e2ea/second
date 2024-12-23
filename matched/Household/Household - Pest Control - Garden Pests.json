@@ -7,44 +7,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/12416/brunnings-bug-fungus-kill-rtu",
@@ -54,38 +54,38 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/brunnings-white-oil-400g-1324992",
@@ -95,44 +95,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": null,
         "price_per_unit": "1000",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/799/brunnings-white-oil-aerosol",
@@ -142,37 +142,37 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "250",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "250",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "250",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "250",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "250",
         "price_per_unit": "1000",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

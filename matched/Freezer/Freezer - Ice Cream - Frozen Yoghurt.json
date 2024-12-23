@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "480ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/577912/twisted-minis-frozen-yoghurt-dessert-assorted",
@@ -66,43 +66,43 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "146",
         "price_per_unit": "700",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "167",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "167",
         "price_per_unit": "800",
         "price_unit": "ML"
       }
-    }
+    ]
   }
 ]

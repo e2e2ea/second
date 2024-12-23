@@ -7,38 +7,38 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "504",
         "price_per_unit": "1008",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/210745/oates-mop-tiltamatic-sponge-refill",
@@ -48,50 +48,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sabco-clean-ease-flat-mop-wringer-set-1-each-3913542",
@@ -101,20 +101,20 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "6600",
         "price_per_unit": "6600",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "6600",
         "price_per_unit": "6600",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/55648/sabco-clean-ease-flat-mop-wringer-set",
@@ -124,44 +124,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "6600",
         "price_per_unit": "6600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "6600",
         "price_per_unit": "6600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "6600",
         "price_per_unit": "6600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "6600",
         "price_per_unit": "6600",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "6600",
         "price_per_unit": "6600",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "6600",
         "price_per_unit": "6600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sabco-multi-fit-flat-mop-pad-1-each-6404534",
@@ -171,50 +171,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1313",
         "price_per_unit": "1313",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/278177/sabco-multi-fit-flat-mop-pad-refill",
@@ -224,44 +224,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1250",
         "price_per_unit": "1250",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sabco-superswish-xtra-mop-1-each-3146160",
@@ -271,32 +271,32 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "4200",
         "price_per_unit": "4200",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "4200",
         "price_per_unit": "4200",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "4200",
         "price_per_unit": "4200",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "4410",
         "price_per_unit": "4410",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/210252/sabco-super-swish-xtra-mop",
@@ -306,44 +306,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "4200",
         "price_per_unit": "4200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "4200",
         "price_per_unit": "4200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "4200",
         "price_per_unit": "4200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "4200",
         "price_per_unit": "4200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "4200",
         "price_per_unit": "4200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "4200",
         "price_per_unit": "4200",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vileda-easy-wring-and-clean-refill-1-pack-2594507",
@@ -353,50 +353,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1470",
         "price_per_unit": "1470",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/789872/vileda-easy-wring-clean-spin-mop-2-in-1-refill",
@@ -406,44 +406,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1470",
         "price_per_unit": "1470",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vileda-easy-wring-and-clean-mop-set-1-each-1721314",
@@ -453,56 +453,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "5750",
         "price_per_unit": "5750",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "5750",
         "price_per_unit": "5750",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5750",
         "price_per_unit": "5750",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "5750",
         "price_per_unit": "5750",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "5750",
         "price_per_unit": "5750",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "5750",
         "price_per_unit": "5750",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "5750",
         "price_per_unit": "5750",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "6038",
         "price_per_unit": "6038",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/747426/vileda-easy-wring-clean-turbo-spin-mop-bucket-set",
@@ -512,44 +512,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "4600",
         "price_per_unit": "4600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "4600",
         "price_per_unit": "4600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "4600",
         "price_per_unit": "4600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "4600",
         "price_per_unit": "4600",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "4600",
         "price_per_unit": "4600",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "4600",
         "price_per_unit": "4600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vileda-super-microfibre-plus-mop-refill-1-each-6068572",
@@ -559,56 +559,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1460",
         "price_per_unit": "1460",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/161749/vileda-supermocio-3-action-mop-refill",
@@ -618,44 +618,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1390",
         "price_per_unit": "1390",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vileda-super-microfibre-with-telescopic-handle-mop-1-each-9805510",
@@ -665,50 +665,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1207",
         "price_per_unit": "1207",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/212293/vileda-supermocio-3-action-mop-with-telescopic-handle",
@@ -718,44 +718,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vileda-super-mop-wringer-bucket-1-each-9534660",
@@ -765,56 +765,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1207",
         "price_per_unit": "1207",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/192695/vileda-supermocio-bucket-wringer-wringer",
@@ -824,44 +824,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "2300",
         "price_per_unit": "2300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sabco-bucket-12.5l-1-each-3879670",
@@ -871,50 +871,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1785",
         "price_per_unit": "1785",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/790716/sabco-all-purpose-mop-bucket-12-5l-mop-bucket",
@@ -924,32 +924,32 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "TAS",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sabco-lightning-mop-1-each-6362536",
@@ -959,32 +959,32 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "2100",
         "price_per_unit": "2100",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "2100",
         "price_per_unit": "2100",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "2100",
         "price_per_unit": "2100",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "2205",
         "price_per_unit": "2205",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/300883/sabco-lightning-sponge-mop-with-extendable-handle",
@@ -994,26 +994,26 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "2100",
         "price_per_unit": "2100",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "TAS",
         "price": "2100",
         "price_per_unit": "2100",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "2100",
         "price_per_unit": "2100",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sabco-tile-and-grout-brush-1-each-3913564",
@@ -1023,56 +1023,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "500",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "500",
         "price_per_unit": "500",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "500",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "500",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "500",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "500",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "500",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "525",
         "price_per_unit": "525",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/237922/sabco-tile-grout-brush",
@@ -1082,31 +1082,31 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "TAS",
         "price": "525",
         "price_per_unit": "525",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "535",
         "price_per_unit": "535",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

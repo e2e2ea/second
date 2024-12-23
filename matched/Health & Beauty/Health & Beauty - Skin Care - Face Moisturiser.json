@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "48g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "4792",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "4792",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4792",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "4792",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "4792",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "4792",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "4792",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "5031",
         "price_per_unit": "2415",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/140534/cetaphil-rich-night-cream-normal-to-very-dry-skin",
@@ -66,26 +66,26 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3333",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "3333",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "3333",
         "price_per_unit": "1600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/essano-hydrating-rosehip-oil-20ml-1955360",
@@ -95,32 +95,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "20ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "6300",
         "price_per_unit": "1260",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/772384/essano-rosehip-oil-certified-organic",
@@ -130,56 +130,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "6000",
         "price_per_unit": "1200",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-pure-active-charcoal-serum-30ml-5940331",
@@ -189,50 +189,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "30ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "6474",
         "price_per_unit": "1942",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/256989/garnier-skin-active-anti-blemish-charcoal-serum",
@@ -242,44 +242,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-bb-cream-spf-50-even-tone-medium-50ml-4329970",
@@ -289,50 +289,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "50ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1784",
         "price_per_unit": "892",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165484/garnier-skin-active-bb-cream-all-in-1-spf50-medium",
@@ -342,56 +342,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-bb-cream-anti-age-light-50ml-4329620",
@@ -401,56 +401,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "50ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1784",
         "price_per_unit": "892",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165487/garnier-skin-active-bb-cream-anti-age-light",
@@ -460,56 +460,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-bb-cream-anti-age-medium-50ml-4329722",
@@ -519,56 +519,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "50ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "850",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1784",
         "price_per_unit": "892",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165489/garnier-skin-active-bb-cream-anti-age-medium",
@@ -578,56 +578,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3400",
         "price_per_unit": "1700",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-hyaluronic-aloe-hydrating-serum-30ml-5940310",
@@ -637,56 +637,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "30ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "6474",
         "price_per_unit": "1942",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/256986/garnier-skin-active-hyaluronic-aloe-replumping-serum",
@@ -696,44 +696,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-vitamin-c-night-serum-30ml-6797460",
@@ -743,56 +743,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "30ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "6667",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "6667",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6667",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "6667",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "6667",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "6667",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "6667",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "7000",
         "price_per_unit": "2100",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/316676/garnier-skin-active-vitamin-c-brightening-night-serum",
@@ -802,50 +802,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "13333",
         "price_per_unit": "4000",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "13333",
         "price_per_unit": "4000",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "13333",
         "price_per_unit": "4000",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "13333",
         "price_per_unit": "4000",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "13333",
         "price_per_unit": "4000",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "13333",
         "price_per_unit": "4000",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "13333",
         "price_per_unit": "4000",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-vitamin-c-serum-30ml-4866619",
@@ -855,56 +855,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "30ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "6167",
         "price_per_unit": "1850",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "6474",
         "price_per_unit": "1942",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/196590/garnier-skin-active-vitamin-c-brightening-serum",
@@ -914,56 +914,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "12333",
         "price_per_unit": "3700",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-vitamin-c-glow-jelly-cream-50ml-5940397",
@@ -973,56 +973,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "50ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "1500",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "1500",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "1500",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "1500",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "1500",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "1500",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "1500",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3150",
         "price_per_unit": "1575",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/267110/garnier-vitamin-c-day-cream",
@@ -1032,55 +1032,55 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "6000",
         "price_per_unit": "3000",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "6000",
         "price_per_unit": "3000",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6000",
         "price_per_unit": "3000",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "6000",
         "price_per_unit": "3000",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "6000",
         "price_per_unit": "3000",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "6000",
         "price_per_unit": "3000",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "6000",
         "price_per_unit": "3000",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "6000",
         "price_per_unit": "3000",
         "price_unit": "ML"
       }
-    }
+    ]
   }
 ]

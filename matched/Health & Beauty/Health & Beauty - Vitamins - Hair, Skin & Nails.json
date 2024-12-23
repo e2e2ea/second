@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "50pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2600",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2600",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2600",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2600",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2600",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2600",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2600",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2600",
         "price_per_unit": "1300",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/149994/haircarebear-collagen-gummies-strawberry",
@@ -66,44 +66,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "867",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "867",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "867",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "867",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "867",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "867",
         "price_per_unit": "1300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/haircarebear-gummies-hair-skin-nails-60-pack-7449640",
@@ -113,56 +113,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "60pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2167",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2167",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2167",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2167",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2167",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2167",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2167",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2167",
         "price_per_unit": "1300",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/905514/haircarebear-hair-skin-nails-gummies-peach",
@@ -172,44 +172,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "22",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "22",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "22",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "22",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "22",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "22",
         "price_per_unit": "1300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nature's-way-vita-gummies-hair-skin-and-nails-60-pack-2564415",
@@ -219,56 +219,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "60pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "4200",
         "price_per_unit": "2520",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/942010/nature-s-way-adult-vita-gummies-hair-skin-nails",
@@ -278,50 +278,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "4000",
         "price_per_unit": "2400",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nature's-way-beauty-collagen-mature-skin-120-pack-5821671",
@@ -331,56 +331,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "120pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "4833",
         "price_per_unit": "5800",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "4833",
         "price_per_unit": "5800",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4833",
         "price_per_unit": "5800",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "4833",
         "price_per_unit": "5800",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "4833",
         "price_per_unit": "5800",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "4833",
         "price_per_unit": "5800",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "4833",
         "price_per_unit": "5800",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "5075",
         "price_per_unit": "6090",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/506578/nature-s-way-beauty-collagen-mature-skin-film-coated-tablets",
@@ -390,50 +390,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "4833",
         "price_per_unit": "5799",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "4833",
         "price_per_unit": "5799",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4833",
         "price_per_unit": "5799",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "4833",
         "price_per_unit": "5799",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "4833",
         "price_per_unit": "5799",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "4833",
         "price_per_unit": "5799",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "4833",
         "price_per_unit": "5799",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/natures-way-beauty-collagen-120-pack-5353358",
@@ -443,56 +443,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "120pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "4375",
         "price_per_unit": "5250",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/243654/nature-s-way-beauty-collagen-tablets",
@@ -502,50 +502,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "4167",
         "price_per_unit": "5000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nature's-way-beauty-collagen-tablets-60-pack-2564357",
@@ -555,56 +555,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "60pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "5250",
         "price_per_unit": "3150",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/642324/nature-s-way-beauty-collagen-tablets",
@@ -614,50 +614,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "5000",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "5250",
         "price_per_unit": "3150",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nature's-way-beauty-collagen-mature-skin-verisol-collagen-+-vitamin-a-60-pack-3616999",
@@ -667,50 +667,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "60pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "6300",
         "price_per_unit": "3780",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/57286/nature-s-way-beauty-collagn-mature-skin-tablets",
@@ -720,50 +720,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "6000",
         "price_per_unit": "3600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/natures-way-adult-vita-gummies-hair-skin-nails-150-pack-7482475",
@@ -773,56 +773,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "150pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2667",
         "price_per_unit": "4000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2667",
         "price_per_unit": "4000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2667",
         "price_per_unit": "4000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2667",
         "price_per_unit": "4000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2667",
         "price_per_unit": "4000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2667",
         "price_per_unit": "4000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2667",
         "price_per_unit": "4000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2800",
         "price_per_unit": "4200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/898456/nature-s-way-hair-skin-nails-adult-vita-gummies-berry",
@@ -832,50 +832,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "27",
         "price_per_unit": "4000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "27",
         "price_per_unit": "4000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "27",
         "price_per_unit": "4000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "27",
         "price_per_unit": "4000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "27",
         "price_per_unit": "4000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "27",
         "price_per_unit": "4000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "27",
         "price_per_unit": "4000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/natures-way-high-strength-gummies-sugar-free-collagen-50-pack-5351090",
@@ -885,56 +885,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "50pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "5250",
         "price_per_unit": "2625",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/236318/nature-s-way-high-strength-collagen-beauty-complex-adult-gummies",
@@ -944,50 +944,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "5000",
         "price_per_unit": "2500",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sup-melts-hair-+-libido-+-skin-30-pack-7482442",
@@ -997,14 +997,14 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "30pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1667",
         "price_per_unit": "500",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/903655/sup-hair-libido-skin-melts-blackcurrant",
@@ -1014,44 +1014,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "67",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "67",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "2000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/swisse-beauty-collagen-+-hyaluronic-acid-booster-supports-glowing-skin-80-tablets-80-pack-4806480",
@@ -1061,50 +1061,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "80pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2813",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2813",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2813",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2813",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2813",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2813",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2953",
         "price_per_unit": "2362",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/207264/swisse-beauty-collagen-hyaluronic-acid-booster-tablets",
@@ -1114,50 +1114,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "4500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "4500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "4500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "4500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "4500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "4500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/swisse-beauty-collagen-glow-supports-skin-elasticity-and-firmness-120-tablets-120-pack-5814870",
@@ -1167,50 +1167,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "120pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2479",
         "price_per_unit": "2975",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2479",
         "price_per_unit": "2975",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2479",
         "price_per_unit": "2975",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2479",
         "price_per_unit": "2975",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2479",
         "price_per_unit": "2975",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2479",
         "price_per_unit": "2975",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2603",
         "price_per_unit": "3124",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/903705/swisse-beauty-collagen-glow-with-collagen-peptides-tablets",
@@ -1220,44 +1220,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "5950",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "50",
         "price_per_unit": "5950",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "5950",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "50",
         "price_per_unit": "5950",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "5950",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "5950",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/swisse-beauty-hair-skin-nails+-for-beauty-from-within-100-pack-8097119",
@@ -1267,56 +1267,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "100pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1975",
         "price_per_unit": "1975",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1975",
         "price_per_unit": "1975",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1975",
         "price_per_unit": "1975",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1975",
         "price_per_unit": "1975",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1975",
         "price_per_unit": "1975",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1975",
         "price_per_unit": "1975",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1975",
         "price_per_unit": "1975",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2074",
         "price_per_unit": "2074",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/725183/swisse-beauty-hair-skin-nails-tablets",
@@ -1326,50 +1326,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3950",
         "price_per_unit": "3950",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3950",
         "price_per_unit": "3950",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3950",
         "price_per_unit": "3950",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3950",
         "price_per_unit": "3950",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3950",
         "price_per_unit": "3950",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3950",
         "price_per_unit": "3950",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3950",
         "price_per_unit": "3950",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/swisse-beauty-hair-skin-nails+-for-beauty-from-within-60-pack-7109303",
@@ -1379,56 +1379,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "60pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "5163",
         "price_per_unit": "3098",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/324905/swisse-beauty-hair-skin-nails-tablets",
@@ -1438,50 +1438,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "4917",
         "price_per_unit": "2950",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/swisse-beauty-high-strength-marine-collagen-with-vitamin-c-to-support-skin-health-60-pack-5352796",
@@ -1491,50 +1491,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "60pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3750",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3750",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3750",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3750",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3750",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3750",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3937",
         "price_per_unit": "2362",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/243924/swisse-beauty-high-strength-marine-collagen-tablets",
@@ -1544,49 +1544,49 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "7500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "7500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "7500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "7500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "7500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "7500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "7500",
         "price_per_unit": "4500",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

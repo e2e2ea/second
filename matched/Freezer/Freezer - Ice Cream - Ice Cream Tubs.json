@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/40568/blue-ribbon-frozen-dessert-classic-vanilla-classic-vanilla-dessert-tub",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/streets-blue-ribbon-light-vanilla-ice-cream-tub-2l-5171270",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/684/blue-ribbon-frozen-dessert-light-vanilla-fat-ice-cream-dessert-tub",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/streets-blue-ribbon-neapolitan-ice-cream-tub-2l-3252804",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/739602/blue-ribbon-neapolitan-reduced-fat-ice-cream-dessert-tub",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bulla-creamy-classics-mint-choc-chip-ice-cream-tub-2l-5049084",
@@ -361,56 +361,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/259612/bulla-creamy-classics-ice-cream-mint-choc-chip",
@@ -420,50 +420,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "55",
         "price_per_unit": "1100",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "55",
         "price_per_unit": "1100",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "1100",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "1100",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "1100",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "55",
         "price_per_unit": "1100",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "28",
         "price_per_unit": "550",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/connoisseur-belgian-chocolate-ice-cream-1l-8591487",
@@ -473,56 +473,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/384044/connoisseur-ice-cream-belgian-chocolate",
@@ -532,50 +532,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/connoisseur-chocolate-brownie-custard-ice-cream-1l-2750395",
@@ -585,56 +585,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/508517/connoisseur-ice-cream-chocolate-brownie",
@@ -644,50 +644,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/connoisseur-vanilla-caramel-brownie-ice-cream-1l-3251233",
@@ -697,56 +697,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/699140/connoisseur-ice-cream-vanilla-caramel-brownie",
@@ -756,56 +756,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/haagen-dazs-belgian-chocolate-ice-cream-tub-457ml-2752674",
@@ -815,56 +815,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "457ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/505061/haagen-dazs-ice-cream-belgian-chocolate",
@@ -874,56 +874,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/haagen-dazs-salted-caramel-ice-cream-tubs-457ml-2752700",
@@ -933,56 +933,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "457ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/505069/haagen-dazs-ice-cream-salted-caramel",
@@ -992,56 +992,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/haagen-dazs-strawberries-and-cream-ice-cream-457ml-2983837",
@@ -1051,56 +1051,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "457ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/505074/haagen-dazs-ice-cream-strawberries-cream",
@@ -1110,50 +1110,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/haagen-dazs-vanilla-ice-cream-tubs-457ml-2752685",
@@ -1163,56 +1163,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "457ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/503673/haagen-dazs-ice-cream-vanilla-ice-cream",
@@ -1222,56 +1222,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nestle-milo-ice-cream-1.2l-4469255",
@@ -1281,38 +1281,38 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1.2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/178818/milo-frozen-dessert-tub",
@@ -1322,56 +1322,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pana-organic-vanilla-bean-frz-dessert-950ml-7078607",
@@ -1381,56 +1381,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "950ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/246028/pana-organic-vanilla-bean-frozen-dessert-tub",
@@ -1440,50 +1440,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "174",
         "price_per_unit": "1650",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/peters-no-sugar-added-vanilla-ice-cream-1.2l-3880487",
@@ -1493,56 +1493,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1.2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/120079/peters-no-sugar-added-vanilla-tub",
@@ -1552,50 +1552,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "800",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/so-good-frozen-dessert-vanilla-bliss-1l-8264200",
@@ -1605,56 +1605,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94996/sanitarium-so-good-vanilla-bliss-frozen-dessert",
@@ -1664,50 +1664,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/streets-blue-ribbon-classic-chocolate-ice-cream-tub-2l-2976172",
@@ -1717,50 +1717,50 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/636654/blue-ribbon-classic-chocolate-reduced-fat-ice-cream-dessert-tub",
@@ -1770,50 +1770,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/connoisseur-derwent-valley-raspberry-and-white-chocolate-ice-cream-1l-2442735",
@@ -1823,56 +1823,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/881471/connoisseur-ice-cream-raspberry-white-chocolate-tub",
@@ -1882,44 +1882,44 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/connoisseur-mint-and-cookies-ice-cream-1l-2982357",
@@ -1929,56 +1929,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/633610/connoisseur-mint-with-cookies-ice-cream-tub",
@@ -1988,50 +1988,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "90",
         "price_per_unit": "900",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/haagen-dazs-caramel-biscuit-and-cream-ice-cream-tub-457ml-5019458",
@@ -2041,56 +2041,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "457ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/674016/haagen-dazs-ice-cream-caramel-biscuit-cream",
@@ -2100,50 +2100,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/haagen-dazs-ice-cream-cookie-dough-tub-457ml-3422675",
@@ -2153,56 +2153,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "457ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/816259/haagen-dazs-ice-cream-cookie-dough-chip",
@@ -2212,38 +2212,38 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "1350",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hersheys-milk-chocolate-ice-cream-1l-4455115",
@@ -2253,56 +2253,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/180088/hershey-s-chocolate-ripple-tub",
@@ -2312,50 +2312,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "85",
         "price_per_unit": "850",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "85",
         "price_per_unit": "850",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "85",
         "price_per_unit": "850",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "85",
         "price_per_unit": "850",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/magnum-ice-cream-classic-tub-440ml-2976140",
@@ -2365,56 +2365,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "440ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "191",
         "price_per_unit": "840",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "191",
         "price_per_unit": "840",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "191",
         "price_per_unit": "840",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "191",
         "price_per_unit": "840",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "191",
         "price_per_unit": "840",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "191",
         "price_per_unit": "840",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "191",
         "price_per_unit": "840",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "191",
         "price_per_unit": "840",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/636655/magnum-ice-cream-tub-classic",
@@ -2424,44 +2424,44 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "1200",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "191",
         "price_per_unit": "840",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/norco-farmer-owned-ice-cream-caramel-choc-honeycomb-2l-7087095",
@@ -2471,26 +2471,26 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "30",
         "price_per_unit": "600",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "30",
         "price_per_unit": "600",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "30",
         "price_per_unit": "600",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/387454/norco-caramel-choc-honeycomb-frozen-dessert",
@@ -2500,50 +2500,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "30",
         "price_per_unit": "600",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "30",
         "price_per_unit": "600",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "30",
         "price_per_unit": "600",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "30",
         "price_per_unit": "600",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "30",
         "price_per_unit": "600",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "30",
         "price_per_unit": "600",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "32",
         "price_per_unit": "630",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/peters-oreo-ice-cream-tub-1.2l-3626370",
@@ -2553,50 +2553,50 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1.2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "54",
         "price_per_unit": "650",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/53739/oreo-tub",
@@ -2606,50 +2606,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/peters-lactose-free-vanilla-ice-cream-1.2l-3880512",
@@ -2659,56 +2659,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1.2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/121116/peters-lactose-free-vanilla-tub",
@@ -2718,44 +2718,44 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/peters-light-and-creamy-choc-caramel-and-vanilla-swirl-ice-cream-1.8l-7207051",
@@ -2765,56 +2765,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1.8l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/330844/peters-light-creamy-choc-caramel-vanilla-swirl-ice-cream",
@@ -2824,50 +2824,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/peters-light-and-creamy-classic-vanlla-ice-cream-1.8l-7206977",
@@ -2877,56 +2877,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1.8l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/330841/peters-light-creamy-classic-vanilla-ice-cream",
@@ -2936,38 +2936,38 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/peters-light-and-creamy-vanilla-slices-ice-cream-12-pack-1.2l-4811832",
@@ -2977,50 +2977,50 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1.2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/231981/peters-light-creamy-classic-vanilla-ice-cream-slices",
@@ -3030,44 +3030,44 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "900",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/peters-light-and-creamy-french-vanilla-ice-cream-1.8l-7207018",
@@ -3077,56 +3077,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1.8l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/330839/peters-light-creamy-french-vanilla-ice-cream",
@@ -3136,50 +3136,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/peters-light-and-creamy-raspberry-ripple-ice-cream-1.8l-7207030",
@@ -3189,56 +3189,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1.8l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/330915/peters-light-creamy-raspberry-ripple-ice-cream",
@@ -3248,38 +3248,38 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "36",
         "price_per_unit": "650",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/so-good-frozen-dessert-chocolate-bliss-1l-8264174",
@@ -3289,50 +3289,50 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "76",
         "price_per_unit": "760",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/69811/sanitarium-so-good-choc-bliss-frozen-dessert",
@@ -3342,50 +3342,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "95",
         "price_per_unit": "950",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/streets-golden-gaytime-frozen-dessert-1l-7745483",
@@ -3395,50 +3395,50 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "108",
         "price_per_unit": "1080",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/499741/streets-golden-gaytime-frozen-dessert",
@@ -3448,44 +3448,44 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "500",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/streets-frozen-dessert-paddlepop-rainbow-1l-7748492",
@@ -3495,44 +3495,44 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "108",
         "price_per_unit": "1080",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/498711/streets-paddle-pop-rainbow-frozen-dessert",
@@ -3542,44 +3542,44 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "1000",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "50",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "500",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/golden-north-boysenberry-2l-5132825",
@@ -3589,20 +3589,20 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "40",
         "price_per_unit": "790",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "40",
         "price_per_unit": "790",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/4296/golden-north-boysenberry-ice-cream-tub",
@@ -3612,20 +3612,20 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "40",
         "price_per_unit": "790",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "1000",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/golden-north-country-style-vanilla-5l-6584119",
@@ -3635,20 +3635,20 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "5l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "26",
         "price_per_unit": "1290",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "26",
         "price_per_unit": "1290",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/767738/golden-north-ice-cream-country-style-vanilla-tub",
@@ -3658,20 +3658,20 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "28",
         "price_per_unit": "1390",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "26",
         "price_per_unit": "1290",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/golden-north-vanilla-2l-452126",
@@ -3681,20 +3681,20 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "40",
         "price_per_unit": "790",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "40",
         "price_per_unit": "790",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/97419/golden-north-ice-cream-vanilla-tub",
@@ -3704,19 +3704,19 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "40",
         "price_per_unit": "790",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "1000",
         "price_unit": "ML"
       }
-    }
+    ]
   }
 ]

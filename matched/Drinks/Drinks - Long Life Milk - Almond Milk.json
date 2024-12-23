@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "473",
         "price_per_unit": "473",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/64810/australia-s-own-barista-almond",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/australias-own-barista-macadamia-milk-1l-3793510",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "473",
         "price_per_unit": "473",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/106509/australia-s-own-barista-macadamia-milk",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/australia's-own-unsweetened-organic-almond-milk-1l-2412370",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "326",
         "price_per_unit": "326",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/924245/australia-s-own-unsweetened-almond-milk",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bonsoy-almond-milk-1l-3740660",
@@ -361,56 +361,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "473",
         "price_per_unit": "473",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/85169/bonsoy-almond-milk",
@@ -420,56 +420,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "450",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "475",
         "price_per_unit": "475",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/milklab-almond-milk-1l-7497814",
@@ -479,56 +479,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "578",
         "price_per_unit": "578",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/895609/milklab-almond-milk-home-barista-edition",
@@ -538,50 +538,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/milklab-macadamia-milk-1l-7497836",
@@ -591,44 +591,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "578",
         "price_per_unit": "578",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "VIC",
         "price": "495",
         "price_per_unit": "495",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/897963/milklab-macadamia-milk-home-barista-edition",
@@ -638,56 +638,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pureharvest-unsweetened-almond-milk-1l-2807109",
@@ -697,56 +697,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "357",
         "price_per_unit": "357",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/858008/pureharvest-almond-milk-unsweetened",
@@ -756,56 +756,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pureharvest-dairy-free-almond-long-life-milk-1l-5717137",
@@ -815,56 +815,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "378",
         "price_per_unit": "378",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/260099/pureharvest-organic-almond-milk",
@@ -874,50 +874,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "360",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-almond-barista-uht-milk-1l-5318969",
@@ -927,56 +927,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "420",
         "price_per_unit": "420",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/83836/sanitarium-so-good-barista-edition-almond-milk",
@@ -986,56 +986,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-long-life-original-almond-milk-1l-9089036",
@@ -1045,56 +1045,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/710014/sanitarium-so-good-long-life-original-almond-milk",
@@ -1104,56 +1104,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-long-life-unsweetened-almond-and-coconut-milk-1l-1987118",
@@ -1163,56 +1163,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/793384/sanitarium-so-good-long-life-unsweetened-almond-coconut-milk",
@@ -1222,56 +1222,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-long-life-unsweetened-almond-milk-1l-1260754",
@@ -1281,56 +1281,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/744490/sanitarium-so-good-long-life-unsweetened-almond-milk",
@@ -1340,56 +1340,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "290",
         "price_per_unit": "290",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-almond-vanilla-long-life-milk-1l-1760101",
@@ -1399,56 +1399,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/781141/so-good-almond-vanilla-milk",
@@ -1458,56 +1458,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-almond-milk-chocolate-uht-1l-3019140",
@@ -1517,50 +1517,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "220",
         "price_per_unit": "220",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/276856/so-good-chocolate-almond-milk",
@@ -1570,56 +1570,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sanitarium-so-good-high-protein-almond-milk-1l-3782932",
@@ -1629,56 +1629,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "230",
         "price_per_unit": "230",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/171712/so-good-high-protein-almond",
@@ -1688,56 +1688,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "340",
         "price_per_unit": "340",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vitasoy-unsweetened-almond-uht-milk-1l-1l-2412734",
@@ -1747,56 +1747,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/926885/vitasoy-almond-milk-unsweetened",
@@ -1806,56 +1806,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vitasoy-almond-milky-1l-3019027",
@@ -1865,56 +1865,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "315",
         "price_per_unit": "315",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/660390/vitasoy-almond-milky",
@@ -1924,55 +1924,55 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "150",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "150",
         "price_per_unit": "150",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "150",
         "price_per_unit": "150",
         "price_unit": "L"
       }
-    }
+    ]
   }
 ]

@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/251928/fancy-feast-adult-beef-salmon-cheese-flavour-dry-cat-food",
@@ -66,50 +66,50 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fancy-feast-dry-cat-food-tuna-prawn-mackerel-and-crab-flavour-1.4kg-3598955",
@@ -119,44 +119,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1.4kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "105",
         "price_per_unit": "1470",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "105",
         "price_per_unit": "1470",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "105",
         "price_per_unit": "1470",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "105",
         "price_per_unit": "1470",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "105",
         "price_per_unit": "1470",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "105",
         "price_per_unit": "1470",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/694878/fancy-feast-adult-tuna-prawn-mackerel-crab-flavour-dry-cat-food",
@@ -166,50 +166,50 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "150",
         "price_per_unit": "2100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "150",
         "price_per_unit": "2100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "150",
         "price_per_unit": "2100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "150",
         "price_per_unit": "2100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "2100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "150",
         "price_per_unit": "2100",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "150",
         "price_per_unit": "2100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fancy-feast-dry-cat-food-tuna-prawn-mackerel-crab-450g-5097087",
@@ -219,56 +219,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/251942/fancy-feast-adult-tuna-prawn-mackerel-crab-flavour-dry-cat-food",
@@ -278,50 +278,50 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "480",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/friskies-delight-indoor-adult-dry-cat-food-1kg-2740449",
@@ -331,56 +331,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "84",
         "price_per_unit": "840",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/847696/friskies-adult-indoor-delights-dry-cat-food",
@@ -390,50 +390,50 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/friskies-dry-cat-food-adult-indoor-delight-2.5kg-3864480",
@@ -443,38 +443,38 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2.5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/118647/friskies-adult-indoor-delights-dry-cat-food",
@@ -484,50 +484,50 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-adult-dry-cat-food-chicken-and-turkey-with-cranberry-2.5-kg-2739950",
@@ -537,38 +537,38 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2.5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/478381/fussy-cat-grain-free-adult-dry-cat-food-chicken-turkey-cranberries",
@@ -578,38 +578,38 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-adult-dry-cat-food-salmon-and-oceanfish-with-olive-oil-2.5kg-2739960",
@@ -619,56 +619,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2.5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "62",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/478375/fussy-cat-grain-free-adult-dry-cat-food-salmon-whitefish-olive-oil",
@@ -678,50 +678,50 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "106",
         "price_per_unit": "2650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/optimum-adult-furball-dry-cat-food-with-chicken-2kg-3250864",
@@ -731,56 +731,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/694888/optimum-adult-1-furball-dry-cat-food-with-chicken",
@@ -790,50 +790,50 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/optimum-adult-1+-years-dry-cat-food-with-ocean-fish-2kg-3872241",
@@ -843,44 +843,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/119322/optimum-adult-dry-cat-food-with-ocean-fish",
@@ -890,50 +890,50 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/purina-one-adult-dry-cat-food-indoor-with-chicken-2.8kg-5023433",
@@ -943,44 +943,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2.8kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/204715/purina-one-cat-food-indoor-advantage-immune-defence-1-years",
@@ -990,38 +990,38 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "114",
         "price_per_unit": "3200",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/purina-one-adult-dry-cat-food-urinary-tract-health-chicken-1.4kg-5027401",
@@ -1031,56 +1031,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1.4kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/198570/purina-one-urinary-care-with-chicken-1-years-dry-cat-food",
@@ -1090,44 +1090,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whiskas-adult-1+-years-dry-cat-food-beef-and-lamb-flavours-1.8kg-3871850",
@@ -1137,44 +1137,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1.8kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141132/whiskas-adult-1-years-dry-cat-food-beef-lamb-flavours",
@@ -1184,44 +1184,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whiskas-adult-1+-years-dry-cat-food-chicken-and-rabbit-flavour-800g-3871930",
@@ -1231,56 +1231,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "92",
         "price_per_unit": "735",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/118657/whiskas-adult-1-years-dry-cat-food-chicken-rabbit-flavours",
@@ -1290,44 +1290,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whiskas-adult-1+-years-dry-cat-food-chicken-and-turkey-flavour-1.8kg-3871840",
@@ -1337,50 +1337,50 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1.8kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/119332/whiskas-adult-1-years-dry-cat-food-chicken-turkey-flavour",
@@ -1390,44 +1390,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whiskas-adult-1+-years-dry-cat-food-sardine-and-prawn-flavour-1.8kg-3871839",
@@ -1437,32 +1437,32 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1.8kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/118726/whiskas-adult-1-years-dry-cat-food-sardine-prawn-flavour",
@@ -1472,44 +1472,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whiskas-kitten-dry-cat-food-chicken-and-tuna-flavours-800g-3871908",
@@ -1519,44 +1519,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "92",
         "price_per_unit": "735",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/140867/whiskas-kitten-2-12-months-dry-cat-food-chicken-tuna-flavours",
@@ -1566,44 +1566,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whiskas-adult-7+-dry-cat-food-with-tuna-and-sardine-1.8kg-4245972",
@@ -1613,38 +1613,38 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1.8kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141055/whiskas-senior-7-years-dry-cat-food-tuna-sardine-flavours",
@@ -1654,44 +1654,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "61",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/friskies-dry-adult-seven-cat-food-2.5kg-3251426",
@@ -1701,38 +1701,38 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2.5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/807518/friskies-adult-7-dry-cat-food-adult-cat-food",
@@ -1742,44 +1742,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/friskies-meaty-grills-2.5kg-2917504",
@@ -1789,44 +1789,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2.5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/867016/friskies-adult-meaty-grills-dry-cat-food",
@@ -1836,44 +1836,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/friskies-seafood-sensations-adult-cat-food-1kg-2740664",
@@ -1883,38 +1883,38 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/847710/friskies-adult-seafood-sensations-dry-cat-food",
@@ -1924,44 +1924,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/friskies-seafood-sensations-cat-food-2.5kg-2288409",
@@ -1971,56 +1971,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2.5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/847745/friskies-adult-seafood-sensations-dry-cat-food",
@@ -2030,44 +2030,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "62",
         "price_per_unit": "1550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/friskies-kitten-discoveries-cat-food-1kg-2740675",
@@ -2077,44 +2077,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "84",
         "price_per_unit": "840",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/847787/friskies-kitten-kitten-discoveries-dry-cat-food",
@@ -2124,44 +2124,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-adult-dry-cat-food-beef-and-kangaroo-with-sweet-potato-500g-9112896",
@@ -2171,44 +2171,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/726144/fussy-cat-grain-free-adult-dry-cat-food-beef-kangaroo-sweet-potato",
@@ -2218,44 +2218,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fussy-cat-grainfree-indoor-cat-food-500g-4496098",
@@ -2265,56 +2265,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/137920/fussy-cat-grain-free-adult-dry-cat-food-chicken-oceanfish-indoor-cat",
@@ -2324,44 +2324,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-adult-dry-cat-food-chicken-and-turkey-with-cranberry-500g-9112910",
@@ -2371,56 +2371,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/382206/fussy-cat-grain-free-adult-dry-cat-food-chicken-turkey-with-cranberry",
@@ -2430,44 +2430,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fussy-cat-grain-free-salmon-and-oceanfish-with-olive-oil-dry-cat-food-500g-9112900",
@@ -2477,44 +2477,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "390",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/382205/fussy-cat-grain-free-adult-dry-cat-food-salmon-whitefish-olive-oil",
@@ -2524,44 +2524,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/optimum-dry-cat-food-furball-with-chicken-800g-3250795",
@@ -2571,56 +2571,56 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "164",
         "price_per_unit": "1313",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/694885/optimum-adult-1-furball-dry-cat-food-with-chicken",
@@ -2630,44 +2630,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/optimum-adult-cat-oral-care-with-chicken-dry-cat-food-2kg-6804918",
@@ -2677,50 +2677,50 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/239743/optimum-cat-food-oral-care-dry",
@@ -2730,44 +2730,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/optimum-kitten-dry-cat-food-with-chicken-800g-3250810",
@@ -2777,50 +2777,50 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "164",
         "price_per_unit": "1313",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/694873/optimum-kitten-2-12-months-dry-cat-food-with-chicken",
@@ -2830,44 +2830,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "156",
         "price_per_unit": "1250",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/purina-one-adult-dry-cat-food-hairball-chicken-1.4kg-5027376",
@@ -2877,38 +2877,38 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1.4kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/199047/purina-one-coat-hairball-with-chicken-1-years",
@@ -2918,32 +2918,32 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/purina-one-adult-dry-cat-food-healthy-salmon-and-tuna-1.5kg-5027423",
@@ -2953,50 +2953,50 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1.5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/198811/purina-one-healthy-adult-with-salmon-tuna-1-years-dry-cat-food",
@@ -3006,38 +3006,38 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "1600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/purina-one-adult-healthy-with-salmon-and-tuna-dry-cat-food-3kg-5023411",
@@ -3047,44 +3047,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "3kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/205072/purina-one-healthy-adult-with-salmon-tuna-1-years-dry-cat-food",
@@ -3094,32 +3094,32 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "107",
         "price_per_unit": "3200",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/purina-one-senior-7+-dry-cat-food-chicken-1.4kg-5027398",
@@ -3129,38 +3129,38 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "1.4kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/198741/purina-one-mature-adult-with-chicken-7-years-dry-cat-food",
@@ -3170,38 +3170,38 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "114",
         "price_per_unit": "1600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whiskas-furball-sardine-and-prawn-adult-dry-cat-food-800g-3871919",
@@ -3211,44 +3211,44 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "92",
         "price_per_unit": "735",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/391749/whiskas-furball-sardine-prawn-cat-food",
@@ -3258,37 +3258,37 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "88",
         "price_per_unit": "700",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

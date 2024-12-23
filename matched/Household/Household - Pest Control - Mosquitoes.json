@@ -7,44 +7,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "30pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/54082/mortein-outdoor-coil-burner-mosquito-repellent",
@@ -54,49 +54,49 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "23",
         "price_per_unit": "700",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "30pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "7334",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "7334",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "7334",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "7334",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "7334",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "7334",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "7334",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "7700",
         "price_per_unit": "2310",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/134174/blackmores-vitamin-e-1000iu-cholesterol-health-capsules",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "7333",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "7333",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "7333",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "7333",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "7333",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "7333",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3667",
         "price_per_unit": "1100",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3667",
         "price_per_unit": "1100",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/natures-way-gummies-coq10-30-pack-5804548",
@@ -125,50 +125,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "30pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "10000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "10000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "10000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "10000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "10000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "10000",
         "price_per_unit": "3000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "10500",
         "price_per_unit": "3150",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/899814/nature-s-way-high-strength-adult-vita-gummies-coq10-150mg",
@@ -178,50 +178,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "3000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "3000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/swisse-ultiboost-memory-and-focus-supports-brain-function-and-stress-response-50-tablets-50-pack-7109289",
@@ -231,56 +231,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "50pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3500",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3500",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3500",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3500",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3500",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3500",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3500",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3674",
         "price_per_unit": "1837",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/324904/swisse-ultiboost-memory-focus-tablets",
@@ -290,49 +290,49 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "7000",
         "price_per_unit": "3500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "7000",
         "price_per_unit": "3500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "7000",
         "price_per_unit": "3500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "7000",
         "price_per_unit": "3500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "7000",
         "price_per_unit": "3500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "7000",
         "price_per_unit": "3500",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "7000",
         "price_per_unit": "3500",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

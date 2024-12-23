@@ -7,14 +7,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/337576/bolands-fig-rolls",
@@ -24,50 +24,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "218",
         "price_per_unit": "435",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "218",
         "price_per_unit": "435",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "218",
         "price_per_unit": "435",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "218",
         "price_per_unit": "435",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cadbury-double-decker-chocolate-bar-54.5g-1498155",
@@ -77,44 +77,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "54.5g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": ".g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": ".g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": ".g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": ".g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": ".g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": ".g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/764104/cadbury-double-decker-chocolate",
@@ -124,56 +124,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "404",
         "price_per_unit": "220",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "440",
         "price_per_unit": "240",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/galaxy-chocolate-bar-42g-2040414",
@@ -183,50 +183,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "42g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "548",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "548",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "548",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "548",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "548",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "548",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "548",
         "price_per_unit": "230",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/777287/galaxy-chocolate",
@@ -236,56 +236,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/rowntrees-jelly-tots-150g-2783521",
@@ -295,14 +295,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "150g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/521595/rowntree-s-jelly-tots",
@@ -312,20 +312,20 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tunnock's-caramel-milk-chocolate-wafers-biscuits-8-pack-240g-8946210",
@@ -335,50 +335,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "240g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "229",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "229",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "229",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "229",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "229",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "229",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "229",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/49486/tunnock-s-snacks-caramel-wafer",
@@ -388,56 +388,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "279",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "279",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "279",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "279",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "279",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "208",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "208",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "208",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bisto-beef-gravy-granules-170g-9287550",
@@ -447,56 +447,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "587",
         "price_per_unit": "998",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/362258/bisto-beef-gravy-granules-original-beef-gravy",
@@ -506,50 +506,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "353",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "353",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "353",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "559",
         "price_per_unit": "950",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/club-orange-soft-drink-can-330ml-1655399",
@@ -559,50 +559,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "330ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "909",
         "price_per_unit": "300",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "909",
         "price_per_unit": "300",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "909",
         "price_per_unit": "300",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "909",
         "price_per_unit": "300",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "909",
         "price_per_unit": "300",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "909",
         "price_per_unit": "300",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "909",
         "price_per_unit": "300",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/325944/club-orange",
@@ -612,50 +612,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "91",
         "price_per_unit": "300",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "91",
         "price_per_unit": "300",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "91",
         "price_per_unit": "300",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "91",
         "price_per_unit": "300",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "91",
         "price_per_unit": "300",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "91",
         "price_per_unit": "300",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "91",
         "price_per_unit": "300",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/colman's-old-english-mustard-100g-6921434",
@@ -665,50 +665,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "100g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88972/colman-s-ingredients-english-mustard",
@@ -718,50 +718,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "460",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/galaxy-minstrels-chocolate-bag-80g-2783510",
@@ -771,50 +771,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "80g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/578373/galaxy-minstrels-treat-bag",
@@ -824,50 +824,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "600",
         "price_per_unit": "480",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/jacob's-original-twiglets-45g-8693625",
@@ -877,14 +877,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "45g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "667",
         "price_per_unit": "300",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/362224/jacobs-snacks-original-twiglets",
@@ -894,50 +894,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "756",
         "price_per_unit": "340",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "756",
         "price_per_unit": "340",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "756",
         "price_per_unit": "340",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "756",
         "price_per_unit": "340",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "756",
         "price_per_unit": "340",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "756",
         "price_per_unit": "340",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "756",
         "price_per_unit": "340",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mc-donnells-curry-sauce-200g-3724368",
@@ -947,50 +947,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "398",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "398",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "398",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "398",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "398",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "398",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "398",
         "price_per_unit": "795",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/425314/mcdonnells-the-original-curry-sauce",
@@ -1000,50 +1000,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pot-noodle-chicken-and-mushroom-flavour-noodles-94g-7259703",
@@ -1053,38 +1053,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "94g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "470",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "500",
         "price_per_unit": "470",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "470",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "470",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "470",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/337238/pot-noodle-chicken-mushroom",
@@ -1094,50 +1094,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "522",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "522",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "522",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "522",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "522",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "522",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "522",
         "price_per_unit": "470",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/rowntrees-fruit-gums-150g-2783532",
@@ -1147,50 +1147,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "150g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/242153/rowntree-s-fruit-gums-bag",
@@ -1200,50 +1200,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "367",
         "price_per_unit": "550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ambrosia-creamed-rice-400g-8856435",
@@ -1253,14 +1253,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "145",
         "price_per_unit": "580",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/711114/ambrosia-dessert-rice-pudding",
@@ -1270,14 +1270,14 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "145",
         "price_per_unit": "580",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bartons-original-piccalilli-270g-1229379",
@@ -1287,44 +1287,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "270g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "130",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "130",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "130",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "130",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/751306/bartons-pickles-piccalilli",
@@ -1334,14 +1334,14 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "148",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/colman's-mint-sauce-165g-2931946",
@@ -1351,20 +1351,20 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "165g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "261",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "261",
         "price_per_unit": "430",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/661839/colman-s-mint-sauce",
@@ -1374,14 +1374,14 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "182",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/golden-fry-yorkshire-pudding-mix-and-pancakes-142g-5879140",
@@ -1391,50 +1391,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "142g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "194",
         "price_per_unit": "275",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "194",
         "price_per_unit": "275",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "194",
         "price_per_unit": "275",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "194",
         "price_per_unit": "275",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "194",
         "price_per_unit": "275",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "194",
         "price_per_unit": "275",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "194",
         "price_per_unit": "275",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/243623/goldenfry-yorkshire-pudding-mix",
@@ -1444,14 +1444,14 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "250",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/u.k.-whole-wheat-biscuits-430g-6949091",
@@ -1461,14 +1461,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "430g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "198",
         "price_per_unit": "850",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/304207/harbour-foods-whole-wheat-biscuits",
@@ -1478,14 +1478,14 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "198",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/odlums-farmhouse-quick-bread-mix-450g-1655242",
@@ -1495,14 +1495,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "122",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/56984/odlums-irish-farmhouse-brown-bread-mix",
@@ -1512,13 +1512,13 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "122",
         "price_per_unit": "550",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

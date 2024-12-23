@@ -7,44 +7,44 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "WA",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/823695/chris-heritage-dips-blue-cheese-fig-pistachio",
@@ -54,56 +54,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/chris'-heritage-vintage-cheddar-and-caramelised-onion-savoury-dip-170g-2582100",
@@ -113,56 +113,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "572",
         "price_per_unit": "972",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/823696/chris-heritage-dips-vintage-cheddar-caramelised-onion-cheese",
@@ -172,56 +172,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/chris'-heritage-gluten-free-goat-cheese-and-black-truffle-savoury-dip-170g-2882578",
@@ -231,50 +231,50 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "WA",
         "price": "529",
         "price_per_unit": "900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/432784/chris-heritage-goat-cheese-black-truffle-dip",
@@ -284,56 +284,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "382",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fifya-heavenly-dip-nachos-250g-3914126",
@@ -343,14 +343,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "240",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/117923/fifya-3-layer-nacho-dip",
@@ -360,44 +360,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/obela-caramelised-onion-hommus-220g-2599260",
@@ -407,56 +407,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "270",
         "price_per_unit": "594",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/923890/obela-caramelised-onion-garnished-hommus",
@@ -466,44 +466,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/obela-classic-guacamole-dip-220g-2580342",
@@ -513,56 +513,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "285",
         "price_per_unit": "626",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/856823/obela-classic-guacamole",
@@ -572,50 +572,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "264",
         "price_per_unit": "580",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/obela-hommus-roasted-pine-nut-dip-220g-1389615",
@@ -625,56 +625,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "270",
         "price_per_unit": "594",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/787662/obela-hommus-garnished-with-roasted-pinenut",
@@ -684,56 +684,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/obela-hommus-garnished-zesty-jalapeno-220g-1652460",
@@ -743,56 +743,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "270",
         "price_per_unit": "594",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/787650/obela-hommus-garnished-with-zesty-jalapenos",
@@ -802,56 +802,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/obela-hommus-pistachio-lemon-dukkah-220g-3986783",
@@ -861,44 +861,44 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "WA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/111127/obela-hommus-pistachio-lemon-dukkah",
@@ -908,50 +908,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/obela-classic-smooth-hommus-220g-2008750",
@@ -961,56 +961,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "245",
         "price_per_unit": "540",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/765218/obela-hommus-smooth-classic",
@@ -1020,56 +1020,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "159",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "159",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "159",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "159",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "159",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "159",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "159",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "159",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/obela-dip-hommus-to-go-singles-3x60g-180g-3049039",
@@ -1079,56 +1079,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "180g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "228",
         "price_per_unit": "410",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/925093/obela-smooth-classic-hommus-to-go-singles",
@@ -1138,56 +1138,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "211",
         "price_per_unit": "380",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/obela-classic-tzatziki-220g-2882851",
@@ -1197,56 +1197,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "270",
         "price_per_unit": "594",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "250",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/923883/obela-tzatziki-dip-classic",
@@ -1256,50 +1256,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "375",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/philadelphia-sweet-chilli-pourover-dip-250g-9834926",
@@ -1309,56 +1309,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/213014/philadelphia-sweet-chilli-cream-cheese-pourover-tub",
@@ -1368,56 +1368,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-avocado-and-sea-salt-dip-200g-2007474",
@@ -1427,56 +1427,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/531709/yumi-s-avocado-dip",
@@ -1486,56 +1486,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-smokey-chipotle-hommus-dip-200g-3039400",
@@ -1545,56 +1545,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/531850/yumi-s-chipotle-hommus-dip",
@@ -1604,50 +1604,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-spinach-dip-200g-8670925",
@@ -1657,50 +1657,50 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/139812/yumi-s-creamed-spinach-dip",
@@ -1710,50 +1710,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-mediterranean-eggplant-dip-200g-8670878",
@@ -1763,56 +1763,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/139881/yumi-s-eggplant-mediterranean-dip",
@@ -1822,56 +1822,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-green-olive-dip-200g-8670903",
@@ -1881,56 +1881,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/120737/yumi-s-italian-olive-dip",
@@ -1940,50 +1940,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-kalamata-olive-dip-200g-7117447",
@@ -1993,56 +1993,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/326264/yumi-s-kalamata-olive-dip",
@@ -2052,50 +2052,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-mini-middle-eastern-hommus-3x65g-195g-3039410",
@@ -2105,56 +2105,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "195g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "179",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "179",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "179",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "179",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "179",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "179",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "194",
         "price_per_unit": "378",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "179",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/81500/yumi-s-mini-hommus",
@@ -2164,56 +2164,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "195",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "195",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "195",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "195",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "195",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "195",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "195",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "195",
         "price_per_unit": "380",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-roasted-beetroot-hommus-dip-200g-6008640",
@@ -2223,56 +2223,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/531732/yumi-s-roasted-beetroot-hommus-dip",
@@ -2282,56 +2282,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-spicy-capsicum-with-cashews-dip-200g-8563390",
@@ -2341,56 +2341,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/626243/yumi-s-roasted-capsicum-cashew-dip",
@@ -2400,56 +2400,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-sweet-potato-and-roasted-cashews-dip-200g-6008650",
@@ -2459,56 +2459,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/258854/yumi-s-sweet-potato-cashews-dip",
@@ -2518,56 +2518,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumis-traditional-hommus-500g-6733423",
@@ -2577,56 +2577,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "702",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/182017/yumi-s-traditional-middle-eastern-hommus",
@@ -2636,56 +2636,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-dip-hommus-traditional-1kg-7106189",
@@ -2695,56 +2695,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/339939/yumi-s-traditional-middle-eastern-hommus-dip",
@@ -2754,56 +2754,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-middle-eastern-hommus-dip-200g-8670914",
@@ -2813,56 +2813,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "243",
         "price_per_unit": "486",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/323081/yumi-s-traditional-middle-eastern-hommus-dip",
@@ -2872,56 +2872,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yumi's-mousse-smoked-trout-200g-5649059",
@@ -2931,14 +2931,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/20015/yumi-s-smoked-trout-mousse-dip",
@@ -2948,13 +2948,13 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

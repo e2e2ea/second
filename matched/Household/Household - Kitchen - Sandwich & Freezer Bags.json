@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "30pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "12",
         "price_per_unit": "368",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/361803/glad-snap-lock-resealable-large-sandwich-bags",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "12",
         "price_per_unit": "350",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/glad-to-be-green-snack-snaplock-plant-based-bags-50-pack-3974944",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "50pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "7",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "7",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "7",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "7",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "7",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "7",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "7",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "7",
         "price_per_unit": "350",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/107213/glad-to-be-green-50-plant-based-resealable-snack-bags",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "8",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "8",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "8",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "8",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "8",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "8",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "8",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "8",
         "price_per_unit": "400",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/glad-to-be-green-sandwich-snaplock-plant-based-bags-40-pack-3974886",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "40pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "9",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "9",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "9",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "9",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "9",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "9",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "9",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "9",
         "price_per_unit": "350",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/100752/glad-to-be-green-50-plant-based-sandwich-bags",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "10",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "10",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "10",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "10",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "10",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "10",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "10",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "10",
         "price_per_unit": "400",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hercules-twinzip-sandwich-bags-large-22cm-x-22cm-25-pack-5185843",
@@ -361,56 +361,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "25pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "12",
         "price_per_unit": "299",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/252072/hercules-click-zip-large-resealable-twinzip-sandwich-bags",
@@ -420,56 +420,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "11",
         "price_per_unit": "285",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hercules-twinzip-storage-bags-large-27cm-x-33cm-15-pack-4582032",
@@ -479,56 +479,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "15pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "25",
         "price_per_unit": "368",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/147840/hercules-resealable-large-storage-bags",
@@ -538,56 +538,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "23",
         "price_per_unit": "350",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "21",
         "price_per_unit": "315",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hercules-twinzip-resealable-medium-storage-bags-15-pack-3364794",
@@ -597,56 +597,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "15pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "20",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "20",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "20",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "20",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "20",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "20",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "20",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "20",
         "price_per_unit": "300",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/485613/hercules-resealable-twin-zip-medium-storage-bag",
@@ -656,56 +656,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "22",
         "price_per_unit": "330",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "22",
         "price_per_unit": "330",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "22",
         "price_per_unit": "330",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "22",
         "price_per_unit": "330",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "22",
         "price_per_unit": "330",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "22",
         "price_per_unit": "330",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "22",
         "price_per_unit": "330",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "20",
         "price_per_unit": "300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/multix-large-freezer-bags-45cm-x-30cm-40-pack-397775",
@@ -715,56 +715,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "40pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/31018/multix-easy-tear-off-freezer-bags-large",
@@ -774,50 +774,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "8",
         "price_per_unit": "300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/multix-medium-freezer-bags-80-pack-397786",
@@ -827,56 +827,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "80pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/35460/multix-easy-tear-off-freezer-bags-medium",
@@ -886,44 +886,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "4",
         "price_per_unit": "300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/multix-small-freezer-bags-120-pack-429306",
@@ -933,56 +933,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "120pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/38155/multix-easy-tear-off-freezer-bags-small",
@@ -992,49 +992,49 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3",
         "price_per_unit": "300",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

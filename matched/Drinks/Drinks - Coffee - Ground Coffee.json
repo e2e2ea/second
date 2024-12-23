@@ -7,50 +7,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "314",
         "price_per_unit": "785",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "314",
         "price_per_unit": "785",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "314",
         "price_per_unit": "785",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "314",
         "price_per_unit": "785",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "314",
         "price_per_unit": "785",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "314",
         "price_per_unit": "785",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/313808/bean-ground-drunk-ground-coffee-organic-fairtrade-classic-roast",
@@ -60,50 +60,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "420",
         "price_per_unit": "1050",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "420",
         "price_per_unit": "1050",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "420",
         "price_per_unit": "1050",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "420",
         "price_per_unit": "1050",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "420",
         "price_per_unit": "1050",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "420",
         "price_per_unit": "1050",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "330",
         "price_per_unit": "825",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bean-ground-and-drunk-organic-decaffeinated-medium-roast-fairtrade-coffee-250g-2007099",
@@ -113,50 +113,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "330",
         "price_per_unit": "825",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "330",
         "price_per_unit": "825",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "330",
         "price_per_unit": "825",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "330",
         "price_per_unit": "825",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "330",
         "price_per_unit": "825",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "330",
         "price_per_unit": "825",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "330",
         "price_per_unit": "825",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/313811/bean-ground-drunk-ground-coffee-organic-fairtrade-decaff",
@@ -166,56 +166,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "440",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "440",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "440",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "440",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "440",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "440",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "350",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "350",
         "price_per_unit": "875",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/illy-classico-ground-coffee-250g-8097061",
@@ -225,56 +225,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "540",
         "price_per_unit": "1350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "540",
         "price_per_unit": "1350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "540",
         "price_per_unit": "1350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "540",
         "price_per_unit": "1350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "540",
         "price_per_unit": "1350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "540",
         "price_per_unit": "1350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "540",
         "price_per_unit": "1350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "540",
         "price_per_unit": "1350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/188087/illy-ground-coffee-espresso",
@@ -284,56 +284,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "560",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "560",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "560",
         "price_per_unit": "1400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/lavazza-qualita-oro-ground-coffee-250g-3790635",
@@ -343,50 +343,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "546",
         "price_per_unit": "1365",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/95682/lavazza-qualita-oro-ground-coffee",
@@ -396,56 +396,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "520",
         "price_per_unit": "1300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "364",
         "price_per_unit": "910",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/oasis-greek-style-coffee-200g-204328",
@@ -455,50 +455,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "599",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/29734/oasis-ground-coffee-greek-style",
@@ -508,56 +508,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "285",
         "price_per_unit": "570",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-espresso-decaffeinated-ground-coffee-200g-91549",
@@ -567,50 +567,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "575",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "575",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "575",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "575",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "575",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "575",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "575",
         "price_per_unit": "1150",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/16485/vittoria-decaffeinated-ground-coffee-espresso",
@@ -620,56 +620,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "675",
         "price_per_unit": "1350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "675",
         "price_per_unit": "1350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "675",
         "price_per_unit": "1350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "675",
         "price_per_unit": "1350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "675",
         "price_per_unit": "1350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "675",
         "price_per_unit": "1350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "675",
         "price_per_unit": "1350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "675",
         "price_per_unit": "1350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-espresso-ground-coffee-200g-397447",
@@ -679,56 +679,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/37831/vittoria-espresso-ground-coffee",
@@ -738,50 +738,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-coffee-ground-special-italian-blend-1kg-91538",
@@ -791,38 +791,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "252",
         "price_per_unit": "2520",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/2108/vittoria-ground-coffee-italian-blend",
@@ -832,50 +832,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "VIC",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "QLD",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "WA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "SA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-italian-ground-coffee-200g-3511378",
@@ -885,38 +885,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32179/vittoria-italian-ground",
@@ -926,56 +926,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "325",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-oro-ground-1kg-5698510",
@@ -985,38 +985,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/254695/vittoria-oro-ground-coffee-oro",
@@ -1026,50 +1026,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "440",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "440",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "440",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "440",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "440",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "440",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "SA",
         "price": "440",
         "price_per_unit": "4400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/caffe-aurora-italian-blend-ground-coffee-1kg-4824404",
@@ -1079,56 +1079,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "326",
         "price_per_unit": "3255",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/158982/caffe-aurora-ground-coffee-italian-blend",
@@ -1138,32 +1138,32 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "310",
         "price_per_unit": "3100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/chicco-d'oro-premium-blend-delta-ground-coffee-200g-7397638",
@@ -1173,44 +1173,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/35051/delta-chicco-d-oro-ground-coffee",
@@ -1220,50 +1220,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "230",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "230",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "230",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "230",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "230",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "230",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "230",
         "price_per_unit": "460",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/harris-strong-coffee-ground-1kg-3755383",
@@ -1273,50 +1273,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "336",
         "price_per_unit": "3360",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/91149/harris-coffee-ground-strong",
@@ -1326,50 +1326,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "320",
         "price_per_unit": "3200",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/caffe-aurora-italian-style-ground-coffee-500g-4875835",
@@ -1379,44 +1379,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "220",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "220",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "220",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "220",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "220",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/159898/caffe-aurora-ground-coffee-italian-blend",
@@ -1426,20 +1426,20 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "220",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "220",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/lavazza-tales-of-italy-alluring-napoli-ground-coffee-250g-6277776",
@@ -1449,50 +1449,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "672",
         "price_per_unit": "1680",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/309492/lavazza-tales-of-italy-alluring-napoli-ground-coffee",
@@ -1502,50 +1502,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "384",
         "price_per_unit": "960",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "384",
         "price_per_unit": "960",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "384",
         "price_per_unit": "960",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/lavazza-tales-of-italy-eternal-roma-ground-coffee-250g-6277812",
@@ -1555,50 +1555,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "672",
         "price_per_unit": "1680",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/309564/lavazza-tales-of-italy-eternal-roma-ground-coffee",
@@ -1608,50 +1608,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "640",
         "price_per_unit": "1600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "384",
         "price_per_unit": "960",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "384",
         "price_per_unit": "960",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "384",
         "price_per_unit": "960",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-espresso-ground-coffee-1kg-5098986",
@@ -1661,50 +1661,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94131/vittoria-espresso-ground-coffee",
@@ -1714,50 +1714,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "4000",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "4000",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "4000",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "SA",
         "price": "280",
         "price_per_unit": "2800",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-espresso-ground-coffee-500g-8830566",
@@ -1767,50 +1767,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "462",
         "price_per_unit": "2310",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/147701/vittoria-espresso-ground-coffee",
@@ -1820,50 +1820,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "SA",
         "price": "440",
         "price_per_unit": "2200",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-italian-blend-ground-coffee-500g-3208347",
@@ -1873,50 +1873,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "305",
         "price_per_unit": "1523",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/692561/vittoria-italian-ground",
@@ -1926,50 +1926,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "SA",
         "price": "290",
         "price_per_unit": "1450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-mountain-grown-ground-coffee-200g-3208336",
@@ -1979,38 +1979,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94686/vittoria-mountain-grown-ground-coffee",
@@ -2020,44 +2020,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "550",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/oxfam-fair-ethiopia-blend-ground-coffee-250g-4824540",
@@ -2067,50 +2067,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "434",
         "price_per_unit": "1085",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "434",
         "price_per_unit": "1085",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "434",
         "price_per_unit": "1085",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "434",
         "price_per_unit": "1085",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "434",
         "price_per_unit": "1085",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "434",
         "price_per_unit": "1085",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "456",
         "price_per_unit": "1139",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/363085/oxfam-ethiopia-blend-ground-coffee",
@@ -2120,32 +2120,32 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "320",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "370",
         "price_per_unit": "925",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "370",
         "price_per_unit": "925",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "370",
         "price_per_unit": "925",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/st-ali-italo-disco-ground-espresso-250g-3984427",
@@ -2155,32 +2155,32 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "1900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "760",
         "price_per_unit": "1900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "1900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "1900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/162468/st-ali-italo-disco-coffee-ground-beans",
@@ -2190,13 +2190,13 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "1900",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

@@ -7,50 +7,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385982/aerogard-home-crawling-insect-spray",
@@ -60,50 +60,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "490",
         "price_per_unit": "1470",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aerogard-home-multi-insect-killer-300ml-6846995",
@@ -113,50 +113,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/386033/aerogard-home-multi-insect-killer-spray",
@@ -166,50 +166,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "343",
         "price_per_unit": "1029",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-fast-knockdown-crawling-insect-killer-odourless-350g-3024901",
@@ -219,50 +219,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "280",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "280",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "280",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "280",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "280",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "280",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "280",
         "price_per_unit": "980",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34227/mortein-fast-knockdown-odourless-crawling-insect-spray",
@@ -272,50 +272,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "420",
         "price_per_unit": "1470",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-kill-and-protect-cockroach-baits-12-pack-6162650",
@@ -325,50 +325,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/29165/mortein-kill-protect-cockroach-baits",
@@ -378,50 +378,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "1200",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-kill-and-protect-crawling-insect-control-bomb-3x125g-3-pack-6987341",
@@ -431,56 +431,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "3pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "480",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "480",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "480",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "480",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "480",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "480",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "480",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "504",
         "price_per_unit": "1890",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/36972/mortein-kill-protect-diy-crawling-insect-control-bomb",
@@ -490,50 +490,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1890",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-naturgard-easy-reach-crawling-insect-killer-320g-5396736",
@@ -543,50 +543,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "320g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "574",
         "price_per_unit": "1838",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/242082/mortein-naturgard-easy-reach-crawling-insect-spray",
@@ -596,44 +596,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "383",
         "price_per_unit": "1225",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "383",
         "price_per_unit": "1225",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "383",
         "price_per_unit": "1225",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "383",
         "price_per_unit": "1225",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "383",
         "price_per_unit": "1225",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "396",
         "price_per_unit": "1267",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-naturgard-crawling-insect-control-bomb-eucalyptus-scent-270g-5400028",
@@ -643,56 +643,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "270g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "875",
         "price_per_unit": "2363",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/242052/mortein-naturgard-eucalyptus-crawling-insect-control-bomb",
@@ -702,44 +702,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "833",
         "price_per_unit": "2250",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "874",
         "price_per_unit": "2360",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-naturgard-mik-automatic-spray-fragrance-free-refill-304g-6874334",
@@ -749,44 +749,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "304g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1123",
         "price_per_unit": "3413",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/174475/mortein-naturgard-fragrance-free-multi-insect-automatic-spray-refill",
@@ -796,44 +796,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1069",
         "price_per_unit": "3250",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1122",
         "price_per_unit": "3410",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-powergard-all-in-one-multi-insect-killer-eucalyptus-300g-3849115",
@@ -843,50 +843,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "613",
         "price_per_unit": "1838",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/108828/mortein-powergard-all-in-one-multi-insect-killer-eucalyptus",
@@ -896,50 +896,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "292",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "292",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "292",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "292",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "292",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "292",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "307",
         "price_per_unit": "920",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-powergard-cockroach-baits-12-pack-3014147",
@@ -949,56 +949,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "146",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "146",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "146",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "146",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "146",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "146",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "146",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "153",
         "price_per_unit": "1838",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/645169/mortein-powergard-cockroach-baits",
@@ -1008,50 +1008,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "102",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "102",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "102",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "102",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "102",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "102",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "1285",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-powergard-crawling-insect-killer-easy-reach-with-germ-kill-320g-6847070",
@@ -1061,50 +1061,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "320g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "438",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "438",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "438",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "438",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "438",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "438",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "438",
         "price_per_unit": "1400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385231/mortein-powergard-crawling-insect-spray-easy-reach-w-germ-kill",
@@ -1114,44 +1114,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "547",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "575",
         "price_per_unit": "1840",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-powergard-crawling-insect-surface-spray-350g-3573375",
@@ -1161,50 +1161,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "525",
         "price_per_unit": "1838",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59124/mortein-powergard-crawling-insect-surface-spray",
@@ -1214,50 +1214,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "263",
         "price_per_unit": "920",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-powergard-diy-indoor-and-outdoor-insect-surface-spray-2l-9563997",
@@ -1267,56 +1267,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "105",
         "price_per_unit": "2100",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/196774/mortein-powergard-diy-indoor-outdoor-insect-surface-spray",
@@ -1326,50 +1326,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2000",
         "price_per_unit": "4000",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2000",
         "price_per_unit": "4000",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2000",
         "price_per_unit": "4000",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2000",
         "price_per_unit": "4000",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2000",
         "price_per_unit": "4000",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2000",
         "price_per_unit": "4000",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2100",
         "price_per_unit": "4200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-powergard-easy-reach-crawling-insect-surface-spray-350g-4448448",
@@ -1379,56 +1379,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "350",
         "price_per_unit": "1225",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "350",
         "price_per_unit": "1225",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "350",
         "price_per_unit": "1225",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "350",
         "price_per_unit": "1225",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "350",
         "price_per_unit": "1225",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "350",
         "price_per_unit": "1225",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "350",
         "price_per_unit": "1225",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "350",
         "price_per_unit": "1225",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/174178/mortein-powergard-easy-reach-crawling-insect-surface-spray",
@@ -1438,50 +1438,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "526",
         "price_per_unit": "1840",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-powergard-crawling-insect-surface-spray-barrier-outdoor-350g-4448460",
@@ -1491,50 +1491,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "1750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "525",
         "price_per_unit": "1838",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/175404/mortein-powergard-outdoor-crawling-insect-surface-barrier-spray",
@@ -1544,44 +1544,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "250",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "263",
         "price_per_unit": "920",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-max-cik-antibacterial-350g-5400040",
@@ -1591,44 +1591,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "429",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "429",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "429",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "429",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "429",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "450",
         "price_per_unit": "1575",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/239779/raid-max-antibacterial-fast-kill-crawling-insect-killer-spray",
@@ -1638,44 +1638,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "314",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "314",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "314",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "314",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "314",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "314",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-max-pest-multi-insect-killer-spring-meadow-300g-4448550",
@@ -1685,50 +1685,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "433",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "433",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "433",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "433",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "433",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "433",
         "price_per_unit": "1300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "455",
         "price_per_unit": "1365",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/642423/raid-max-multi-insect-killer-double-nozzle-spray",
@@ -1738,44 +1738,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-one-shot-pest-surface-crawling-insects-spray-target-kill-300g-2768619",
@@ -1785,56 +1785,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "323",
         "price_per_unit": "970",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "323",
         "price_per_unit": "970",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "323",
         "price_per_unit": "970",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "323",
         "price_per_unit": "970",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "323",
         "price_per_unit": "970",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "323",
         "price_per_unit": "970",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "323",
         "price_per_unit": "970",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "970",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/508100/raid-one-shot-crawling-insects-surface-spray-target-kill",
@@ -1844,44 +1844,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "420",
         "price_per_unit": "1260",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/david-gray-outdoor-citronella-fogger-400g-5981000",
@@ -1891,14 +1891,14 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "238",
         "price_per_unit": "950",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/78307/david-gray-s-outdoor-fogger-with-citronella-spray",
@@ -1908,19 +1908,19 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "240",
         "price_per_unit": "960",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "240",
         "price_per_unit": "960",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

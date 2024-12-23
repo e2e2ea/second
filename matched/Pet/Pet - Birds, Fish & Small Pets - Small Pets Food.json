@@ -7,38 +7,38 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "39",
         "price_per_unit": "788",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/174486/peters-alfalfa-fruit-rabbit-guinea-pig-food",
@@ -48,44 +48,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "38",
         "price_per_unit": "750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/back-to-nature-small-animal-bedding-and-litter-10l-4366729",
@@ -95,26 +95,26 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "10l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "1300",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "130",
         "price_per_unit": "1300",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "1300",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/133629/fibre-cycle-back-2-nature-small-animal-bedding",
@@ -124,44 +124,44 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "1300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "130",
         "price_per_unit": "1300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "1300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "130",
         "price_per_unit": "1300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "130",
         "price_per_unit": "1300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "130",
         "price_per_unit": "1300",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/peters-rabbit-and-guinea-pig-lucerne-pellets-2kg-9270456",
@@ -171,38 +171,38 @@
     "shop": "coles",
     "category_id": "16427",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "35",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "35",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "35",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "35",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "35",
         "price_per_unit": "700",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/174485/peters-rabbit-guinea-pig-lucerne-pellets",
@@ -212,25 +212,25 @@
     "shop": "Woolworths",
     "category_id": "16427",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "35",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "35",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "35",
         "price_per_unit": "700",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "250ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "399",
         "price_per_unit": "998",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/248445/dove-summer-glow-body-lotion-fair-to-medium-gradual-tan",
@@ -66,44 +66,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dove-summer-glow-medium-dark-body-lotion-250ml-4919760",
@@ -113,56 +113,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "250ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "380",
         "price_per_unit": "950",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "399",
         "price_per_unit": "998",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/248430/dove-summer-glow-gradual-self-tanner-body-lotion-medium",
@@ -172,49 +172,49 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "228",
         "price_per_unit": "570",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "236",
         "price_per_unit": "590",
         "price_unit": "ML"
       }
-    }
+    ]
   }
 ]

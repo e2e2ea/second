@@ -7,50 +7,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "100g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "9",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "9",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "9",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "9",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "9",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "9",
         "price_per_unit": "473",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "9",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/5306/dilmah-ceylon-tea-bags",
@@ -60,50 +60,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "7",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "7",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "7",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "7",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "7",
         "price_per_unit": "360",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "9",
         "price_per_unit": "450",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "9",
         "price_per_unit": "450",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dilmah-extra-strength-pure-ceylon-bags-200-pack-480g-5059237",
@@ -113,56 +113,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "480g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "8",
         "price_per_unit": "1575",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/250036/dilmah-extra-strength-tea-bags",
@@ -172,50 +172,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "8",
         "price_per_unit": "1500",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dilmah-pure-ceylon-premium-tea-bags-100-pack-200g-490012",
@@ -225,56 +225,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/38288/dilmah-premium-quality-tea-bags",
@@ -284,56 +284,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "7",
         "price_per_unit": "720",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "7",
         "price_per_unit": "720",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "7",
         "price_per_unit": "720",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "7",
         "price_per_unit": "720",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "7",
         "price_per_unit": "720",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "7",
         "price_per_unit": "720",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "5",
         "price_per_unit": "500",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nerada-leaf-tea-250g-145127",
@@ -343,50 +343,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "151",
         "price_per_unit": "378",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33072/nerada-loose-leaf-tea",
@@ -396,56 +396,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "360",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nerada-english-breakfast-tea-bags-teacup-100-pack-496507",
@@ -455,50 +455,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "100pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "6",
         "price_per_unit": "588",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/76493/nerada-tea-bags",
@@ -508,56 +508,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "6",
         "price_per_unit": "560",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "5",
         "price_per_unit": "460",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "5",
         "price_per_unit": "460",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "5",
         "price_per_unit": "460",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nerada-cup-or-pot-tea-bags-200-pack-400g-24304",
@@ -567,50 +567,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "3",
         "price_per_unit": "662",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/75979/nerada-tea-bags",
@@ -620,56 +620,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3",
         "price_per_unit": "630",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nerada-english-breakfast-tea-bags-teacup-50-pack-362781",
@@ -679,56 +679,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "50pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/91963/nerada-tea-bags",
@@ -738,56 +738,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "5",
         "price_per_unit": "235",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "6",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "6",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "6",
         "price_per_unit": "300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tetley-decaffeinated-black-tea-bags-100-pack-185g-8959948",
@@ -797,56 +797,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "185g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/156690/tetley-decaffeinated-tea-bags",
@@ -856,56 +856,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "6",
         "price_per_unit": "550",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "6",
         "price_per_unit": "550",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "6",
         "price_per_unit": "550",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "6",
         "price_per_unit": "550",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "6",
         "price_per_unit": "550",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "ACT",
         "price": "7",
         "price_per_unit": "690",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tetley-extra-strong-black-tea-bags-100-pack-7752194",
@@ -915,56 +915,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "100pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "5",
         "price_per_unit": "546",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/574823/tetley-extra-strong-tea-bags",
@@ -974,56 +974,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "ACT",
         "price": "5",
         "price_per_unit": "520",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dilmah-earl-grey-tea-bags-50-pack-100-g-5190945",
@@ -1033,38 +1033,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "100g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "15",
         "price_per_unit": "735",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "VIC",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/200148/dilmah-earl-grey-tea-bags",
@@ -1074,44 +1074,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "14",
         "price_per_unit": "700",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/lipton-intense-extra-strong-black-tea-bags-100-pack-4678029",
@@ -1121,50 +1121,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "100pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "8",
         "price_per_unit": "819",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/228523/lipton-quality-black-leaf-tea-intense",
@@ -1174,50 +1174,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "8",
         "price_per_unit": "780",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/t2-french-earl-grey-flavoured-black-tea-bags-25-pack-50g-3079200",
@@ -1227,56 +1227,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "50g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "1680",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/727013/t2-tea-french-earl-grey-black-tea-bags",
@@ -1286,50 +1286,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/t2-melbourne-breakfast-flavoured-black-tea-bags-25-pack-50g-3079186",
@@ -1339,56 +1339,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "50g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "1680",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/726937/t2-tea-melbourne-breakfast-black-tea-bags",
@@ -1398,50 +1398,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "64",
         "price_per_unit": "1600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tetley-all-rounder-pure-black-tea-bags-200-pack-400g-7752060",
@@ -1451,50 +1451,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/574822/tetley-tagless-tea-bags",
@@ -1504,49 +1504,49 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3",
         "price_per_unit": "690",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

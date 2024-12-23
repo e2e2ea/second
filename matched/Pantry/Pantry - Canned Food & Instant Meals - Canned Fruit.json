@@ -7,44 +7,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1103",
         "price_per_unit": "441",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32993/ardmona-pie-fruit-apples-sliced-sliced",
@@ -54,50 +54,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "420",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ardmona-apple-pie-slices-canned-800g-267973",
@@ -107,56 +107,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "723",
         "price_per_unit": "578",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/44973/ardmona-pie-fruit-apples-sliced-sliced",
@@ -166,50 +166,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "688",
         "price_per_unit": "550",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dole-fruit-in-juice-432g-3862930",
@@ -219,56 +219,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "432g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/354718/dole-fruit-mix-in-juice",
@@ -278,50 +278,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "579",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "718",
         "price_per_unit": "310",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "718",
         "price_per_unit": "310",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "718",
         "price_per_unit": "310",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/goulburn-valley-apricots-in-juice-700g-1857484",
@@ -331,56 +331,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "750",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/784136/goulburn-valley-apricot-halves-in-juice",
@@ -390,50 +390,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/goulburn-valley-fruit-salad-in-juice-700g-1857495",
@@ -443,56 +443,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "750",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/784112/goulburn-valley-fruit-salad-in-juice",
@@ -502,50 +502,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/goulburn-valley-mangoes-slices-in-natural-juice-685g-1860140",
@@ -555,50 +555,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "685g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1012",
         "price_per_unit": "693",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/784246/goulburn-valley-mango-in-juice",
@@ -608,50 +608,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "964",
         "price_per_unit": "660",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "774",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "774",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "774",
         "price_per_unit": "530",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/goulburn-valley-peaches-slices-in-natural-juice-700g-1857451",
@@ -661,56 +661,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "750",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/784123/goulburn-valley-peaches-in-juice-sliced-in-juice",
@@ -720,50 +720,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/goulburn-valley-peaches-in-mango-nectar-700g-1857462",
@@ -773,56 +773,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "750",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/784116/goulburn-valley-peaches-in-mango-nectar-sliced-in-mango-nectar",
@@ -832,50 +832,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/goulburn-valley-pears-in-juice-700g-1857473",
@@ -885,50 +885,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "750",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/784143/goulburn-valley-pears-in-juice-sliced-in-juice",
@@ -938,50 +938,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/goulburn-valley-two-fruits-in-juice-700g-1857509",
@@ -991,56 +991,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "750",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/784113/goulburn-valley-two-fruits-in-juice",
@@ -1050,50 +1050,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "714",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "571",
         "price_per_unit": "400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-canned-fruit-apricot-halves-in-juice-825g-2395205",
@@ -1103,50 +1103,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "825g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93526/spc-apricots-halved-in-juice-juice-no-sugar-canned-fruit",
@@ -1156,50 +1156,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-peach-slices-in-juice-canned-825g-314723",
@@ -1209,50 +1209,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "825g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32321/spc-peaches-sliced-in-juice-canned-fruit",
@@ -1262,50 +1262,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-pears-sliced-fruit-in-juice-825g-3465033",
@@ -1315,50 +1315,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "825g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/76291/spc-pears-sliced-in-natural-juice-no-added-sugar",
@@ -1368,50 +1368,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-diced-two-fruits-in-natural-juice-canned-825g-313709",
@@ -1421,50 +1421,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "825g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32428/spc-two-fruits-diced-in-juice-canned-fruit",
@@ -1474,50 +1474,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "642",
         "price_per_unit": "530",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "521",
         "price_per_unit": "430",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-canned-prunes-in-natural-juice-425g-2360619",
@@ -1527,50 +1527,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/847211/spc-whole-prunes-in-juice-canned-fruit",
@@ -1580,49 +1580,49 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "824",
         "price_per_unit": "350",
         "price_unit": "KG"
       }
-    }
+    ]
   }
 ]

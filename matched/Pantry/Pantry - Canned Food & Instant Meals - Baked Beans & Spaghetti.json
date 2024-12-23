@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "294",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/624765/heinz-beanz-canned-baked-beans-in-ham-sauce",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "295",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-baked-beans-in-ham-sauce-beans-555g-3026135",
@@ -125,44 +125,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "555g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/657432/heinz-beanz-canned-baked-beans-in-ham-sauce",
@@ -172,56 +172,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "370",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-canned-baked-beans-tomato-sauce-300g-2954941",
@@ -231,56 +231,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "294",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/625156/heinz-beanz-canned-baked-beans-in-tomato-sauce",
@@ -290,56 +290,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "295",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-baked-beans-in-tomato-sauce-beans-3-pack-300g-2996872",
@@ -349,56 +349,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/629507/heinz-beanz-canned-baked-beans-in-tomato-sauce",
@@ -408,56 +408,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-baked-beans-in-tomato-sauce-beans-555g-3026113",
@@ -467,56 +467,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "555g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/657421/heinz-beanz-canned-baked-beans-in-tomato-sauce",
@@ -526,56 +526,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "370",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-canned-baked-beans-english-recipe-300g-2954952",
@@ -585,56 +585,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "294",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/625154/heinz-beanz-canned-baked-breakfast-beans-english-recipe",
@@ -644,56 +644,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "295",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-spaghetti-in-tomato-sauce-spaghetti-pasta-300g-2954920",
@@ -703,56 +703,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "294",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/624768/heinz-canned-spaghetti-pasta-in-tomato-sauce",
@@ -762,56 +762,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "295",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-canned-regular-4-pack-880g-5240090",
@@ -821,56 +821,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "880g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "683",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/49314/spc-baked-beans-rich-tomato-sauce",
@@ -880,56 +880,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "685",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-canned-rich-tomato-4-pack-880g-4457100",
@@ -939,56 +939,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "880g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "683",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/247302/spc-spaghetti-rich-tomato-rich-tomato-sauce",
@@ -998,56 +998,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "685",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-spaghetti-in-rich-tomato-420g-4276342",
@@ -1057,56 +1057,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "263",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/187769/spc-spaghetti-rich-tomato-rich-tomato-sauce",
@@ -1116,56 +1116,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "42",
         "price_per_unit": "175",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "42",
         "price_per_unit": "175",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "175",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "175",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "175",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "265",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/wattie's-spaghetti-regular-420g-5183145",
@@ -1175,44 +1175,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "260",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "62",
         "price_per_unit": "260",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "260",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "260",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "260",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "65",
         "price_per_unit": "273",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/4485/wattie-s-spaghetti-regular",
@@ -1222,14 +1222,14 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "50",
         "price_per_unit": "210",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whitlocks-baked-beans-fuego-chilli-sauce-420g-4348534",
@@ -1239,50 +1239,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "95",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/157600/f-whitlock-sons-canned-killer-baked-beans-fuego-chilli",
@@ -1292,50 +1292,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "95",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whitlocks-baked-beans-smoky-campfire-bbq-sauce-420g-4348523",
@@ -1345,50 +1345,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "95",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/157847/f-whitlock-sons-canned-killer-baked-beans-smokey-campfire-bbq",
@@ -1398,50 +1398,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "90",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "95",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-baked-beans-and-sausages-meal-beans-420g-9990546",
@@ -1451,56 +1451,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/742286/heinz-beanz-canned-baked-beans-and-sausages",
@@ -1510,44 +1510,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-baked-beans-in-bbq-sauce-beans-555g-3026124",
@@ -1557,56 +1557,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "555g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/657431/heinz-beanz-canned-baked-beans-in-bbq-sauce",
@@ -1616,38 +1616,38 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "370",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-baked-beans-in-tomato-sauce-beans-4-pack-130g-6025525",
@@ -1657,56 +1657,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "130g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/188059/heinz-beanz-canned-baked-beans-in-tomato-sauce",
@@ -1716,50 +1716,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-baked-beans-in-tomato-sauce-beans-3-pack-220g-9095844",
@@ -1769,56 +1769,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/158435/heinz-beanz-canned-baked-beans-in-tomato-sauce-multipack",
@@ -1828,50 +1828,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-mexican-chilli-beans-medium-baked-beans-420g-3840788",
@@ -1881,56 +1881,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "88",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/158948/heinz-beanz-canned-baked-beans-medium-mexican-chilli",
@@ -1940,50 +1940,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "88",
         "price_per_unit": "370",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-baked-beans-salt-reduced-beans-555g-3026146",
@@ -1993,26 +1993,26 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "555g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/657425/heinz-beanz-canned-baked-beans-salt-reduced",
@@ -2022,50 +2022,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "370",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-baked-beans-english-recipe-beans-555g-3026157",
@@ -2075,56 +2075,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "555g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "280",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/657423/heinz-beanz-canned-baked-breakfast-beans-english-recipe",
@@ -2134,50 +2134,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "370",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-spaghetti-in-tomato-sauce-pasta-3-pack-220g-9095833",
@@ -2187,56 +2187,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/158436/heinz-canned-spaghetti-pasta-pasta-tinned-spaghetti",
@@ -2246,50 +2246,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "74",
         "price_per_unit": "490",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-spaghetti-in-tomato-sauce-pasta-535g-3265715",
@@ -2299,56 +2299,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "535g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "52",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "52",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "52",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "52",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "52",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "52",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "52",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "52",
         "price_per_unit": "280",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/698733/heinz-canned-spaghetti-pasta-the-one-for-all-cheese",
@@ -2358,50 +2358,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "65",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "65",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "65",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "65",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "65",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "65",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "69",
         "price_per_unit": "370",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-spaghetti-extra-cheesy-spaghetti-pasta-300g-2954919",
@@ -2411,56 +2411,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "294",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/625155/heinz-extra-cheesy-canned-spaghetti-pasta",
@@ -2470,50 +2470,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "280",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "295",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-spaghetti-in-tomato-sauce-pasta-4-pack-130g-6025489",
@@ -2523,56 +2523,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "130g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/188056/heinz-spaghetti-the-lil-one-multipack",
@@ -2582,50 +2582,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "110",
         "price_per_unit": "570",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/heinz-spaghetti-tomato-and-cheese-pasta-3-pack-300g-2996941",
@@ -2635,56 +2635,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/629506/heinz-spaghetti-tomato-cheese-pasta-tin-spaghetti-multipack",
@@ -2694,50 +2694,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-canned-baked-beans-salt-reduced-4-pack-880g-4639130",
@@ -2747,56 +2747,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "880g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "683",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/758809/spc-baked-beans-rich-tomato-salt-reduced",
@@ -2806,50 +2806,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "685",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-spag-a-saurus-spaghetti-420g-4276229",
@@ -2859,56 +2859,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "263",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/13170/spc-spag-a-saurus-tomato-cheese-spagasaurus-shapes",
@@ -2918,50 +2918,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "42",
         "price_per_unit": "175",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "175",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "175",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "175",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "60",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "265",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-canned-with-cheese-4-pack-880g-5240103",
@@ -2971,56 +2971,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "880g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "683",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/49315/spc-spaghetti-tomato-cheese-sauce",
@@ -3030,50 +3030,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "685",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spc-spagasaurus-4-pack-880g-6261663",
@@ -3083,56 +3083,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "880g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "683",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/290932/spc-tomato-cheese-spag-a-saurus",
@@ -3142,43 +3142,43 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "520",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "685",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

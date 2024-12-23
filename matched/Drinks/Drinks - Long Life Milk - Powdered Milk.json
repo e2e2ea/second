@@ -7,50 +7,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "190",
         "price_per_unit": "1900",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "190",
         "price_per_unit": "1900",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "190",
         "price_per_unit": "1900",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "190",
         "price_per_unit": "1900",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "190",
         "price_per_unit": "1900",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "1995",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "190",
         "price_per_unit": "1900",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/855562/a2-milk-full-cream-powder",
@@ -60,20 +60,20 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1900",
         "price_per_unit": "1900",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1900",
         "price_per_unit": "1900",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/devondale-instant-full-cream-milk-powder-1kg-2067115",
@@ -83,56 +83,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "145",
         "price_per_unit": "1450",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "145",
         "price_per_unit": "1450",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "145",
         "price_per_unit": "1450",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "145",
         "price_per_unit": "1450",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "145",
         "price_per_unit": "1450",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "145",
         "price_per_unit": "1450",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "145",
         "price_per_unit": "1450",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "145",
         "price_per_unit": "1450",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/750005/devondale-full-cream-milk-powder-long-life-uht",
@@ -142,25 +142,25 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "1300",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "1300",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "1300",
         "price_unit": "KG"
       }
-    }
+    ]
   }
 ]

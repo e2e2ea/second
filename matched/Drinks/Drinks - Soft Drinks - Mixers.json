@@ -7,50 +7,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "750ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "453",
         "price_per_unit": "340",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "525",
         "price_per_unit": "394",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "473",
         "price_per_unit": "355",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/240850/bundaberg-diet-ginger-beer",
@@ -60,56 +60,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "473",
         "price_per_unit": "355",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "453",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bundaberg-brewed-ginger-beer-750ml-5037234",
@@ -119,50 +119,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "750ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "453",
         "price_per_unit": "340",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "525",
         "price_per_unit": "394",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "473",
         "price_per_unit": "355",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/26506/bundaberg-ginger-beer",
@@ -172,56 +172,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "473",
         "price_per_unit": "355",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "453",
         "price_per_unit": "340",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "375",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bundaberg-brewed-ginger-beer-6x200ml-6-pack-3532797",
@@ -231,56 +231,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "6pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "454",
         "price_per_unit": "545",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/53114/bundaberg-ginger-beer-mini-can",
@@ -290,56 +290,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "454",
         "price_per_unit": "545",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "496",
         "price_per_unit": "595",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fever-tree-premium-mixers-mediterranean-tonic-water-4x200ml-4-pack-3048794",
@@ -349,56 +349,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "744",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "831",
         "price_per_unit": "665",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/979808/fever-tree-mediterranean-tonic-water-bottles",
@@ -408,56 +408,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1063",
         "price_per_unit": "850",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fever-tree-premium-mixers-tonic-water-medi-500ml-3536812",
@@ -467,56 +467,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "670",
         "price_per_unit": "335",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/609505/fever-tree-mediterranean-tonic-water-bottles",
@@ -526,50 +526,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fever-tree-premium-mixers-indian-tonic-water-4x200ml-4-pack-3048772",
@@ -579,56 +579,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "744",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "831",
         "price_per_unit": "665",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/352019/fever-tree-premium-indian-tonic-water-bottles",
@@ -638,56 +638,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "753",
         "price_per_unit": "602",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fever-tree-premium-mixer-indian-tonic-water-500ml-3536801",
@@ -697,32 +697,32 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "VIC",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/841115/fever-tree-premium-indian-tonic-water",
@@ -732,56 +732,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-dry-ginger-ale-soft-drink-bottle-mixers-multipack-300ml-x-4-pack-4-pack-7364650",
@@ -791,56 +791,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "345",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "388",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/253811/schweppes-dry-ginger-ale-soft-drink-bottle-mixers-multipack",
@@ -850,56 +850,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-dry-ginger-ale-soft-drink-classic-mixers-bottle-1.1l-3014817",
@@ -909,56 +909,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/634266/schweppes-dry-ginger-ale-soft-drink-classic-mixers-bottle",
@@ -968,56 +968,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-indian-tonic-water-classic-mixers-bottle-1.1l-3014806",
@@ -1027,56 +1027,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/634277/schweppes-indian-tonic-water-classic-mixers-bottle",
@@ -1086,56 +1086,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-indian-tonic-water-classic-mixers-glass-bottle-multipack-300ml-x-4-pack-4-pack-7351976",
@@ -1145,56 +1145,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "345",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "388",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/253808/schweppes-indian-tonic-water-classic-mixers-glass-bottle-multipack",
@@ -1204,56 +1204,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-lemon-lime-bitters-soft-drink-classic-mixers-bottle-1.1l-3014839",
@@ -1263,50 +1263,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/634290/schweppes-lemon-lime-bitters-soft-drink-classic-mixers-bottle",
@@ -1316,56 +1316,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-lemon-lime-bitters-soft-drink-classic-mixers-multipack-bottles-300ml-x-4-pack-4-pack-7351932",
@@ -1375,56 +1375,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "345",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "388",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/253766/schweppes-lemon-lime-bitters-soft-drink-mixers-glass-bottle-multipack",
@@ -1434,56 +1434,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-lemonade-soft-drink-bottle-glass-multipack-300ml-x-4-pack-4-pack-7351954",
@@ -1493,56 +1493,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "345",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "388",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/253828/schweppes-lemonade-soft-drink-bottle-glass-multipack",
@@ -1552,56 +1552,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-lime-soda-water-with-lime-juice-bottle-1.1l-3014840",
@@ -1611,56 +1611,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/634281/schweppes-lime-soda-water-with-lime-juice-bottle",
@@ -1670,56 +1670,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-soda-water-bottle-classic-mixers-1.1l-3014770",
@@ -1729,56 +1729,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/635960/schweppes-soda-water-bottle-classic-mixers",
@@ -1788,56 +1788,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-soda-water-bottle-classic-mixers-glass-multipack-300ml-x-4-pack-4-pack-7351965",
@@ -1847,56 +1847,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "345",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "388",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/253770/schweppes-soda-water-bottle-classic-mixers-glass-multipack",
@@ -1906,56 +1906,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-zero-sugar-classic-mixers-dry-ginger-ale-soft-drink-bottle-1.1l-3014792",
@@ -1965,56 +1965,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/634268/schweppes-zero-sugar-classic-mixers-dry-ginger-ale-soft-drink-bottle",
@@ -2024,56 +2024,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-zero-sugar-classic-mixers-indian-tonic-water-bottle-1.1l-3014828",
@@ -2083,56 +2083,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/634274/schweppes-zero-sugar-classic-mixers-indian-tonic-water-bottle",
@@ -2142,56 +2142,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-zero-sugar-mixers-indian-tonic-water-bottles-multipack-300ml-x-4-pack-4-pack-7364661",
@@ -2201,56 +2201,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "345",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "388",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/253760/schweppes-zero-sugar-mixers-indian-tonic-water-bottles-multipack",
@@ -2260,56 +2260,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bundaberg-diet-ginger-beer-multipack-10x375ml-10-pack-2480632",
@@ -2319,50 +2319,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "452",
         "price_per_unit": "1695",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "452",
         "price_per_unit": "1695",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "452",
         "price_per_unit": "1695",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "408",
         "price_per_unit": "1530",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "452",
         "price_per_unit": "1695",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "475",
         "price_per_unit": "1780",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "448",
         "price_per_unit": "1680",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/886838/bundaberg-diet-ginger-beer",
@@ -2372,50 +2372,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "307",
         "price_per_unit": "1150",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "307",
         "price_per_unit": "1150",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "307",
         "price_per_unit": "1150",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "307",
         "price_per_unit": "1150",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "307",
         "price_per_unit": "1150",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "307",
         "price_per_unit": "1150",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "307",
         "price_per_unit": "1150",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/saxby's-soft-drink-diet-ginger-beer-multi-pack-4x375ml-4-pack-9622156",
@@ -2425,20 +2425,20 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/225304/saxbys-diet-ginger-beer",
@@ -2448,50 +2448,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/saxby's-ginger-beer-multi-pack-4x375ml-4-pack-9622145",
@@ -2501,20 +2501,20 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/225298/saxbys-ginger-beer",
@@ -2524,50 +2524,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "360",
         "price_per_unit": "540",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-agrum-blood-orange-soft-drink-bottle-1.1l-3014850",
@@ -2577,50 +2577,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/662713/schweppes-agrum-blood-orange-soft-drink-bottle",
@@ -2630,50 +2630,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-bitter-lemon-soft-drink-classic-mixers-multipack-300ml-x-4-pack-4-pack-7351885",
@@ -2683,50 +2683,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "345",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "388",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/253771/schweppes-bitter-lemon-soft-drink-classic-mixers-multipack",
@@ -2736,50 +2736,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-zero-sugar-agrum-citrus-blend-soft-drink-bottle-1.1l-3014781",
@@ -2789,50 +2789,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/634291/schweppes-zero-sugar-agrum-citrus-blend-soft-drink-bottle",
@@ -2842,50 +2842,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-zero-sugar-dry-ginger-ale-soft-drink-mixers-multipack-300ml-x-4-pack-4-pack-7364672",
@@ -2895,56 +2895,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "345",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "388",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/253773/schweppes-zero-sugar-dry-ginger-ale-soft-drink-mixers-multipack",
@@ -2954,50 +2954,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-zero-sugar-mixers-lemon-lime-and-bitters-soft-drink-1.1l-3752738",
@@ -3007,56 +3007,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/89801/schweppes-zero-sugar-mixers-lemon-lime-bitters-soft-drink",
@@ -3066,50 +3066,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/strangelove-lo-cal-double-ginger-4-pack-3290790",
@@ -3119,14 +3119,14 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3182",
         "price_per_unit": "1050",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/992200/strangelove-double-ginger-beer-bottles",
@@ -3136,26 +3136,26 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "729",
         "price_per_unit": "875",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "729",
         "price_per_unit": "875",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "729",
         "price_per_unit": "875",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fever-tree-premium-mixers-elderflower-tonic-water-4x200ml-4-pack-3536674",
@@ -3165,50 +3165,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "744",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "831",
         "price_per_unit": "665",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/995405/fever-tree-elderflower-tonic-water-bottles",
@@ -3218,44 +3218,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1063",
         "price_per_unit": "850",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1125",
         "price_per_unit": "900",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fever-tree-premium-mixers-light-meditteranean-tonic-4x200ml-4-pack-5582388",
@@ -3265,50 +3265,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "744",
         "price_per_unit": "595",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "831",
         "price_per_unit": "665",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/255679/fever-tree-mediterranean-light-tonic-water",
@@ -3318,38 +3318,38 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "753",
         "price_per_unit": "602",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "788",
         "price_per_unit": "630",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fever-tree-premium-mixers-mediterranean-light-tonic-500ml-4819368",
@@ -3359,50 +3359,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "670",
         "price_per_unit": "335",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/155824/fever-tree-refreshingly-light-premium-mediterranean-tonic-water",
@@ -3412,38 +3412,38 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fever-tree-premium-mixer-light-indian-tonic-water-500ml-3536798",
@@ -3453,32 +3453,32 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "VIC",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/686285/fever-tree-refreshingly-light-tonic-water",
@@ -3488,44 +3488,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-zero-sugar-lemon-lime-bitters-soft-drink-classic-mixers-multipack-bottles-300ml-x-4-pack-4-pack-3752782",
@@ -3535,50 +3535,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "345",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "323",
         "price_per_unit": "388",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/121164/schweppes-zero-sugar-classic-mixers-lemon-lime-bitters-soft-drink",
@@ -3588,44 +3588,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "370",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/strangelove-coastal-tonic-4pack-3935567",
@@ -3635,14 +3635,14 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "5834",
         "price_per_unit": "1050",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/991520/strangelove-coastal-tonic",
@@ -3652,20 +3652,20 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "903",
         "price_per_unit": "650",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "903",
         "price_per_unit": "650",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/strangelove-lo-cal-very-mandarin-4-pack-3290825",
@@ -3675,14 +3675,14 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3182",
         "price_per_unit": "1050",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/991813/strangelove-very-mandarin",
@@ -3692,19 +3692,19 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "729",
         "price_per_unit": "875",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "729",
         "price_per_unit": "875",
         "price_unit": "L"
       }
-    }
+    ]
   }
 ]

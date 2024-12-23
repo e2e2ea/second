@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1365",
         "price_per_unit": "2730",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/595410/biozet-attack-laundry-powder-with-softener",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1360",
         "price_per_unit": "2720",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/biozet-attack-powder-plus-eliminator-2kg-3788000",
@@ -125,32 +125,32 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/802923/biozet-attack-plus-eliminator",
@@ -160,56 +160,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1360",
         "price_per_unit": "2720",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bosisto's-sensitive-laundry-powder-1kg-3196690",
@@ -219,44 +219,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "960",
         "price_per_unit": "960",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "960",
         "price_per_unit": "960",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "960",
         "price_per_unit": "960",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "960",
         "price_per_unit": "960",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "960",
         "price_per_unit": "960",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1008",
         "price_per_unit": "1008",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/702103/bosisto-s-sensitive-laundry-powder",
@@ -266,56 +266,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "950",
         "price_per_unit": "950",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "950",
         "price_per_unit": "950",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "950",
         "price_per_unit": "950",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "950",
         "price_per_unit": "950",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "950",
         "price_per_unit": "950",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "950",
         "price_per_unit": "950",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "950",
         "price_per_unit": "950",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-laundry-powder-advanced-clean-2kg-3774923",
@@ -325,56 +325,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88522/cold-power-advanced-clean-laundry-washing-powder-detergent",
@@ -384,56 +384,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-laundry-powder-sensitive-2kg-3774934",
@@ -443,50 +443,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/86941/cold-power-sensitive-laundry-washing-powder-detergent",
@@ -496,50 +496,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/earth-choice-laundry-powder-2kg-6310893",
@@ -549,50 +549,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "840",
         "price_per_unit": "1680",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/780318/earth-choice-front-loader-laundry-powder",
@@ -602,56 +602,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "840",
         "price_per_unit": "1680",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fab-ultra-laundry-powder-sunshine-fresh-top-and-front-2kg-2464498",
@@ -661,56 +661,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/657424/fab-laundry-washing-powder-fresh-blossoms",
@@ -720,56 +720,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fab-laundry-powder-frangipani-top-and-front-1kg-7780189",
@@ -779,56 +779,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/880018/fab-laundry-washing-powder-fresh-frangipani",
@@ -838,56 +838,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "650",
         "price_per_unit": "650",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "680",
         "price_per_unit": "680",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-laundry-powder-active-clean-front-and-top-2kg-2731561",
@@ -897,56 +897,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1470",
         "price_per_unit": "2940",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/430650/omo-active-clean-washing-powder-front-top-loader",
@@ -956,56 +956,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-laundry-powder-sensitive-front-and-top-1kg-2731528",
@@ -1015,56 +1015,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1628",
         "price_per_unit": "1628",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/462700/omo-sensitive-washing-powder",
@@ -1074,50 +1074,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1550",
         "price_per_unit": "1550",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1620",
         "price_per_unit": "1620",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-laundry-powder-sensitive-front-and-top-2kg-2731776",
@@ -1127,56 +1127,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1470",
         "price_per_unit": "2940",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/471182/omo-sensitive-washing-powder-front-top-loader",
@@ -1186,56 +1186,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-ultimate-laundry-detergent-washing-powder-40-washes-2-kg-5005420",
@@ -1245,56 +1245,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1680",
         "price_per_unit": "3360",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208058/omo-ultimate-washing-powder",
@@ -1304,56 +1304,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-ultimate-laundry-powder-5kg-2731211",
@@ -1363,50 +1363,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/430629/omo-ultimate-washing-powder-front-top-loader",
@@ -1416,56 +1416,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "800",
         "price_per_unit": "4000",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-advanced-clean-laundry-powder-4kg-3774967",
@@ -1475,50 +1475,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "4kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "525",
         "price_per_unit": "2100",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "525",
         "price_per_unit": "2100",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "525",
         "price_per_unit": "2100",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "525",
         "price_per_unit": "2100",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "525",
         "price_per_unit": "2100",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "525",
         "price_per_unit": "2100",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "525",
         "price_per_unit": "2100",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88205/cold-power-advanced-clean-laundry-washing-powder-detergent",
@@ -1528,50 +1528,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "700",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "700",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "700",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "700",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "700",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "700",
         "price_per_unit": "2800",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "700",
         "price_per_unit": "2800",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fab-intense-fresh-laundry-powder-1.8kg-4357546",
@@ -1581,32 +1581,32 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1.8kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88388/fab-laundry-washing-powder-intense-fresh-odour-control",
@@ -1616,50 +1616,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fab-sublime-velvet-front-and-top-loader-laundry-powder-1.8kg-2463371",
@@ -1669,50 +1669,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1.8kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/657981/fab-laundry-washing-powder-sublime-velvet",
@@ -1722,50 +1722,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/radiant-laundry-powder-mixed-colours-2kg-3997972",
@@ -1775,56 +1775,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/142359/radiant-mixed-colours-laundry-detergent-washing-powder",
@@ -1834,44 +1834,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/radiant-laundry-powder-brightens-whites-or-colours-2kg-3997940",
@@ -1881,56 +1881,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141938/radiant-whites-or-colours-laundry-detergent-washing-powder",
@@ -1940,44 +1940,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/radiant-laundry-powder-whites-and-colours-4kg-3997928",
@@ -1987,50 +1987,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "4kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "575",
         "price_per_unit": "2300",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "575",
         "price_per_unit": "2300",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "575",
         "price_per_unit": "2300",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "575",
         "price_per_unit": "2300",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "575",
         "price_per_unit": "2300",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "575",
         "price_per_unit": "2300",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "575",
         "price_per_unit": "2300",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/143356/radiant-whites-or-colours-laundry-detergent-washing-powder",
@@ -2040,43 +2040,43 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "2000",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "525",
         "price_per_unit": "2100",
         "price_unit": "KG"
       }
-    }
+    ]
   }
 ]

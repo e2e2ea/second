@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "152",
         "price_per_unit": "190",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "161",
         "price_per_unit": "201",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32731/coca-cola-classic-soft-drink-bottle",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "187",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-soft-drink-coke-2l-191736",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/38121/coca-cola-classic-soft-drink-bottle-bottle",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "193",
         "price_per_unit": "385",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-mini-bottles-12x300ml-12-pack-7910342",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "257",
         "price_per_unit": "925",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "277",
         "price_per_unit": "997",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/313019/coca-cola-classic-soft-drink-mini-bottles",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "257",
         "price_per_unit": "925",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "276",
         "price_per_unit": "995",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-glass-bottles-4x330ml-4-pack-3448271",
@@ -361,44 +361,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "504",
         "price_per_unit": "665",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "VIC",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/290133/coca-cola-classic-soft-drink-multipack-glass-bottles",
@@ -408,56 +408,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "458",
         "price_per_unit": "605",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "504",
         "price_per_unit": "665",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-bottle-1.25l-2993706",
@@ -467,56 +467,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "152",
         "price_per_unit": "190",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "161",
         "price_per_unit": "201",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/623034/coca-cola-zero-sugar-soft-drink-bottle",
@@ -526,56 +526,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "187",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-bottle-2l-3029790",
@@ -585,56 +585,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/672966/coca-cola-zero-sugar-soft-drink-bottle",
@@ -644,56 +644,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "193",
         "price_per_unit": "385",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "195",
         "price_per_unit": "390",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-bottles-12x300ml-12-pack-1492374",
@@ -703,56 +703,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "257",
         "price_per_unit": "925",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "277",
         "price_per_unit": "997",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/679122/coca-cola-zero-sugar-soft-drink-mini-bottles",
@@ -762,56 +762,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "257",
         "price_per_unit": "925",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "276",
         "price_per_unit": "995",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mountain-dew-citrus-soft-drink-bottle-1.25l-9855562",
@@ -821,56 +821,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/727383/mountain-dew-energised-soft-drink-bottle",
@@ -880,50 +880,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pepsi-cola-soft-drink-bottle-1.25l-148205",
@@ -933,56 +933,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/35808/pepsi-cola-soft-drink-bottle",
@@ -992,56 +992,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pepsi-max-no-sugar-cola-soft-drink-bottle-1.25l-5441863",
@@ -1051,56 +1051,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/7985/pepsi-max-no-sugar-cola-soft-drink-bottle",
@@ -1110,56 +1110,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-traditional-raspberry-soft-drink-bottle-1.1l-3270216",
@@ -1169,56 +1169,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/703402/schweppes-traditional-raspberry-soft-drink-bottle",
@@ -1228,56 +1228,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-bottle-1.25l-3585567",
@@ -1287,56 +1287,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "152",
         "price_per_unit": "190",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "161",
         "price_per_unit": "201",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/62170/sprite-zero-sugar-lemonade-soft-drink-bottle",
@@ -1346,56 +1346,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-caffeine-free-soft-drink-bottle-1.25l-3989555",
@@ -1405,50 +1405,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "161",
         "price_per_unit": "201",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/137848/coca-cola-caffeine-free-zero-sugar-soft-drink-bottle",
@@ -1458,50 +1458,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "187",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-diet-coke-soft-drink-bottle-1.25l-419211",
@@ -1511,56 +1511,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "152",
         "price_per_unit": "190",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "161",
         "price_per_unit": "201",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94493/coca-cola-diet-soft-drink-bottle",
@@ -1570,44 +1570,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "187",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-vanilla-soft-drink-1.25l-9391600",
@@ -1617,56 +1617,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "152",
         "price_per_unit": "190",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "161",
         "price_per_unit": "201",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/180941/coca-cola-vanilla-soft-drink-bottle-bottle",
@@ -1676,50 +1676,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "187",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-vanilla-soft-drink-bottle-1.25l-3271060",
@@ -1729,50 +1729,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "161",
         "price_per_unit": "201",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/803078/coca-cola-vanilla-zero-sugar-soft-drink-bottle",
@@ -1782,50 +1782,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "187",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-glass-bottle-4x330ml-4-pack-3448282",
@@ -1835,32 +1835,32 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "VIC",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/290344/coca-cola-zero-sugar-glass-bottle",
@@ -1870,38 +1870,38 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "485",
         "price_per_unit": "640",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "458",
         "price_per_unit": "605",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "504",
         "price_per_unit": "665",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fanta-orange-soft-drink-1.25l-123022",
@@ -1911,56 +1911,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "152",
         "price_per_unit": "190",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "161",
         "price_per_unit": "201",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32812/fanta-orange-soft-drink-bottle",
@@ -1970,50 +1970,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "187",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "192",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fanta-orange-zero-sugar-soft-drink-12x300ml-12-pack-5192827",
@@ -2023,56 +2023,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "257",
         "price_per_unit": "925",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "277",
         "price_per_unit": "997",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/221011/fanta-orange-zero-sugar-soft-drink-bottles",
@@ -2082,32 +2082,32 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "276",
         "price_per_unit": "995",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fanta-raspberry-flavoured-soft-drink-bottle12x300ml-12-pack-5545701",
@@ -2117,50 +2117,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "277",
         "price_per_unit": "997",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/614006/fanta-raspberry-bottles",
@@ -2170,38 +2170,38 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "276",
         "price_per_unit": "995",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kirks-ginger-beer-soft-drink-1.25l-5399188",
@@ -2211,56 +2211,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "124",
         "price_per_unit": "155",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "132",
         "price_per_unit": "165",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/52547/kirks-ginger-beer-soft-drink-bottle",
@@ -2270,50 +2270,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "124",
         "price_per_unit": "155",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kirks-lemonade-soft-drink-1.25l-5399166",
@@ -2323,56 +2323,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "124",
         "price_per_unit": "155",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "132",
         "price_per_unit": "165",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/52558/kirks-lemonade-soft-drink-bottle",
@@ -2382,50 +2382,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "124",
         "price_per_unit": "155",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kirks-sugar-free-orange-soft-drink-bottle-1.25l-6421362",
@@ -2435,56 +2435,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "124",
         "price_per_unit": "155",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "132",
         "price_per_unit": "165",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/610458/kirks-orange-sugar-free",
@@ -2494,50 +2494,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "124",
         "price_per_unit": "155",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kirks-lemonade-sugar-free-soft-drink-1.25l-6111376",
@@ -2547,56 +2547,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "124",
         "price_per_unit": "155",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "132",
         "price_per_unit": "165",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/260368/kirks-sugar-free-lemonade-soft-drink-bottle",
@@ -2606,44 +2606,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "124",
         "price_per_unit": "155",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kirks-sugar-free-pasito-soft-drink-1.25l-4397904",
@@ -2653,56 +2653,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "96",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "96",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "96",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "96",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "155",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "96",
         "price_per_unit": "160",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "99",
         "price_per_unit": "165",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "96",
         "price_per_unit": "160",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/178822/kirks-sugar-free-pasito-soft-drink-bottle",
@@ -2712,44 +2712,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/la-ice-no-sugar-cola-soft-drink-2l-3813639",
@@ -2759,50 +2759,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/177982/la-ice-cola-no-sugar",
@@ -2812,32 +2812,32 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pepsi-cola-soft-drink-bottle-2l-337310",
@@ -2847,56 +2847,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "173",
         "price_per_unit": "345",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/38433/pepsi-cola-soft-drink-bottle",
@@ -2906,44 +2906,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pepsi-max-no-sugar-cola-soft-drink-bottle-2l-5441783",
@@ -2953,56 +2953,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "173",
         "price_per_unit": "345",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/7984/pepsi-max-no-sugar-cola-soft-drink-bottle",
@@ -3012,50 +3012,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "180",
         "price_per_unit": "360",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pepsi-max-no-sugar-cola-vanilla-soft-drink-bottle-1.25l-2765494",
@@ -3065,56 +3065,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/580911/pepsi-max-no-sugar-cola-vanilla-soft-drink-bottle",
@@ -3124,44 +3124,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/schweppes-traditional-brown-creaming-soda-soft-drink-bottle-1.1l-3270180",
@@ -3171,56 +3171,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "259",
         "price_per_unit": "285",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/707972/schweppes-traditional-brown-creaming-soda-soft-drink-bottle",
@@ -3230,44 +3230,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "286",
         "price_per_unit": "315",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/solo-zero-sugar-original-lemon-soft-drink-1.25l-1167362",
@@ -3277,56 +3277,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "136",
         "price_per_unit": "170",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/676277/solo-zero-sugar-original-lemon-soft-drink",
@@ -3336,50 +3336,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "180",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sprite-lemonade-flavoured-soft-drink-12x300ml-12-pack-6670050",
@@ -3389,50 +3389,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "277",
         "price_per_unit": "997",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/399589/sprite-lemonade",
@@ -3442,44 +3442,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "276",
         "price_per_unit": "995",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-multipack-bottles-12x300ml-12-pack-5192838",
@@ -3489,56 +3489,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "257",
         "price_per_unit": "925",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "277",
         "price_per_unit": "997",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/221822/sprite-zero-sugar-lemonade-soft-drink-mini-bottles",
@@ -3548,44 +3548,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "264",
         "price_per_unit": "950",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "276",
         "price_per_unit": "995",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kirks-dry-drinking-ginger-ale-soft-drink-1.25l-9641220",
@@ -3595,14 +3595,14 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/315221/kirks-dry-drinking-ginger-ale-soft-drink-bottle",
@@ -3612,14 +3612,14 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/wimmers-soft-drink-ginger-beer-bottle-1.25l-2873114",
@@ -3629,14 +3629,14 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "220",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/652026/wimmers-ginger-beer",
@@ -3646,14 +3646,14 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "220",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/kirks-kole-beer-bottle-soft-drink-1.25l-9136307",
@@ -3663,14 +3663,14 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1.25l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/162961/kirks-kole-beer-bottle",
@@ -3680,13 +3680,13 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "128",
         "price_per_unit": "160",
         "price_unit": "L"
       }
-    }
+    ]
   }
 ]

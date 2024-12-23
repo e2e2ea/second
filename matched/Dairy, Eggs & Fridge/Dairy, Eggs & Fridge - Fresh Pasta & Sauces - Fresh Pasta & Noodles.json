@@ -7,50 +7,50 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "WA",
         "price": "130",
         "price_per_unit": "650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/23782/grand-italian-fresh-potato-gnocchi",
@@ -60,56 +60,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "120",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "120",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-gluten-free-lasagne-sheets-280g-3758676",
@@ -119,32 +119,32 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "280g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/83431/latina-fresh-gluten-free-lasagne-sheets",
@@ -154,44 +154,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-gluten-free-tagliatelle-280g-5153202",
@@ -201,44 +201,44 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "280g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "338",
         "price_per_unit": "945",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "WA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/214982/latina-fresh-gluten-free-tagliatelle-pasta",
@@ -248,38 +248,38 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-lasagne-sheets-8-pack-375g-5165427",
@@ -289,56 +289,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "173",
         "price_per_unit": "648",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/5033/latina-fresh-lasagne-sheets-sheets",
@@ -348,56 +348,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/25-degrees-south-baby-spinach-and-fetta-ravioli-pasta-325g-5152833",
@@ -407,50 +407,50 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "325g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "299",
         "price_per_unit": "972",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "WA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/214829/25-degree-south-baby-spinach-fetta-ravioli-pasta",
@@ -460,26 +460,26 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/25-degrees-south-native-pumpkin-ricotta-ravioli-pasta-325g-4274733",
@@ -489,56 +489,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "325g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "299",
         "price_per_unit": "972",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/214783/25-degree-south-native-pumpkin-ricotta-ravioli-pasta",
@@ -548,26 +548,26 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/25-degrees-south-victorian-three-cheese-ravioli-pasta-325g-4274744",
@@ -577,38 +577,38 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "325g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "299",
         "price_per_unit": "972",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/213120/25-degree-south-victorian-three-cheese-ravioli-pasta",
@@ -618,26 +618,26 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ipastai-linguine-350g-5459440",
@@ -647,20 +647,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "157",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "157",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/153019/i-pastai-fresh-pasta-linguine-pasta",
@@ -670,38 +670,38 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "143",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "143",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "143",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "143",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "171",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fantastic-hokkien-noodles-450g-8679624",
@@ -711,56 +711,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "83",
         "price_per_unit": "373",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/145566/fantastic-fresh-noodles-hokkien",
@@ -770,56 +770,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "77",
         "price_per_unit": "345",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-beef-ravioli-pasta-4-serve-625g-5404110",
@@ -829,56 +829,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "625g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "190",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/54267/latina-fresh-beef-ravioli-pasta-ravioli",
@@ -888,56 +888,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-gluten-free-ricotta-and-spinach-agnolotti-pasta-280g-2271520",
@@ -947,44 +947,44 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "280g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "338",
         "price_per_unit": "945",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "WA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/845773/latina-fresh-gluten-free-ricotta-spinach-ravioli-pasta",
@@ -994,44 +994,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-kids-mini-ravioli-pasta-beef-and-vegetable-200g-6393915",
@@ -1041,56 +1041,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/304116/latina-fresh-kids-mini-ravioli-pasta-beef-vegetable",
@@ -1100,56 +1100,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-kids-mini-ravioli-pasta-cheese-and-vegetable-200g-6393926",
@@ -1159,32 +1159,32 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "255",
         "price_per_unit": "510",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/304103/latina-fresh-kids-mini-ravioli-pasta-cheese-vegetable",
@@ -1194,56 +1194,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-ricotta-and-spinach-agnolotti-pasta-4-serve-625g-5469181",
@@ -1253,56 +1253,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "625g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "190",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/44977/latina-fresh-ricotta-spinach-agnolotti-pasta",
@@ -1312,56 +1312,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-roast-chicken-and-garlic-ravioli-pasta-4-serve-625g-7294409",
@@ -1371,50 +1371,50 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "625g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "190",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/335534/latina-fresh-roast-chicken-garlic-ravioli-pasta",
@@ -1424,38 +1424,38 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-spinach-and-ricotta-agnolotti-pasta-375g-5280232",
@@ -1465,50 +1465,50 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "173",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "173",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "173",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "173",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "173",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "173",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "WA",
         "price": "173",
         "price_per_unit": "650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/42092/latina-fresh-spinach-ricotta-agnolotti",
@@ -1518,26 +1518,26 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "213",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "TAS",
         "price": "213",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "213",
         "price_per_unit": "800",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-veal-tortellini-pasta-4-serve-625g-5404131",
@@ -1547,56 +1547,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "625g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "190",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/54264/latina-fresh-veal-tortellini-pasta",
@@ -1606,44 +1606,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "176",
         "price_per_unit": "1100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/rana-filled-tortellini-basil-and-pine-nuts-325g-3752716",
@@ -1653,38 +1653,38 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "325g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "266",
         "price_per_unit": "864",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "WA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/28325/rana-basil-pine-nuts-tortellini-pasta",
@@ -1694,44 +1694,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/rana-porcini-mushroom-ravioli-325g-3296071",
@@ -1741,44 +1741,44 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "325g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "266",
         "price_per_unit": "864",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "WA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/810868/rana-porcini-mushroom-ravioli-pasta",
@@ -1788,44 +1788,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/rana-pumpkin-and-caramelised-onion-ravioli-325g-3091148",
@@ -1835,56 +1835,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "325g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "266",
         "price_per_unit": "864",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/810775/rana-pumpkin-onion-ravioli-pasta",
@@ -1894,50 +1894,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/rana-spinach-and-ricotta-tortellini-325g-3091046",
@@ -1947,56 +1947,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "325g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "266",
         "price_per_unit": "864",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/810774/rana-ricotta-spinach-tortellini-pasta",
@@ -2006,50 +2006,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "246",
         "price_per_unit": "800",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/25-degrees-south-prosciutto-and-ricotta-ravioli-325g-6399591",
@@ -2059,26 +2059,26 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "325g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/852147/25-degree-south-prosciutto-ricotta-ravioli",
@@ -2088,20 +2088,20 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "277",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-gluten-free-beef-ravioli-pasta-280g-2271450",
@@ -2111,44 +2111,44 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "280g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "338",
         "price_per_unit": "945",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "WA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/845631/latina-fresh-gluten-free-beef-ravioli-pasta",
@@ -2158,32 +2158,32 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "313",
         "price_per_unit": "875",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/rana-burrata-and-arrabbiata-ravioli-300g-7162259",
@@ -2193,20 +2193,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "267",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "267",
         "price_per_unit": "800",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/355169/rana-burrata-cheese-arrabbiata-ravioli",
@@ -2216,14 +2216,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "267",
         "price_per_unit": "800",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/rana-pecorino-pdo-and-pepper-tortellini-300g-7161868",
@@ -2233,26 +2233,26 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "267",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "267",
         "price_per_unit": "800",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "267",
         "price_per_unit": "800",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/349217/rana-pecorino-romano-black-pepper-tortellini",
@@ -2262,13 +2262,13 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "267",
         "price_per_unit": "800",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

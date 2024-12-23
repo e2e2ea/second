@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "210",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/326802/beerenberg-raspberry-jam",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/beerenberg-australian-strawberry-jam-300g-6993720",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "210",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/321571/beerenberg-strawberry-jam",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bonne-maman-apricot-jam-370g-5034203",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "370g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "190",
         "price_per_unit": "704",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/63083/bonne-maman-apricot-jam",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "191",
         "price_per_unit": "705",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bonne-maman-raspberry-jam-370g-8558164",
@@ -361,38 +361,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "370g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/49905/bonne-maman-raspberry-jam",
@@ -402,56 +402,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "191",
         "price_per_unit": "705",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bonne-maman-strawberry-jam-370g-5935149",
@@ -461,50 +461,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "370g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "190",
         "price_per_unit": "704",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/63040/bonne-maman-strawberry-conserve",
@@ -514,56 +514,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "191",
         "price_per_unit": "705",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/buderim-ginger-original-ginger-marmalade-365g-5103441",
@@ -573,56 +573,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "365g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/249361/buderim-ginger-ginger-marmalade",
@@ -632,56 +632,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "137",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "123",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "123",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "123",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cottees-apricot-jam-375g-6397665",
@@ -691,56 +691,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/292599/cottee-s-apricot-jam",
@@ -750,56 +750,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cottees-breakfast-marmalade-jam-375g-6397676",
@@ -809,56 +809,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/291866/cottee-s-breakfast-marmalade",
@@ -868,56 +868,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cottees-plum-jam-375g-6397654",
@@ -927,56 +927,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/291867/cottee-s-plum-jam",
@@ -986,56 +986,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cottees-raspberry-jam-375g-6397632",
@@ -1045,56 +1045,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/292592/cottee-s-raspberry-jam",
@@ -1104,56 +1104,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cottees-strawberry-jam-375g-6397596",
@@ -1163,56 +1163,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/292796/cottee-s-strawberry-jam",
@@ -1222,56 +1222,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/roses-english-breakfast-marmalade-jam-375g-6397687",
@@ -1281,56 +1281,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/296178/rose-s-english-breakfast-marmalade",
@@ -1340,56 +1340,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/roses-marmalade-jam-375g-6397712",
@@ -1399,56 +1399,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/300202/rose-s-sweet-orange-marmalade",
@@ -1458,56 +1458,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "115",
         "price_per_unit": "430",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yackandandah-lemon-curd-spread-350g-5102416",
@@ -1517,56 +1517,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "504",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/249189/yackandandah-lemon-curd",
@@ -1576,32 +1576,32 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "505",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bonne-maman-caramel-spread-380g-3213245",
@@ -1611,44 +1611,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "380g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "185",
         "price_per_unit": "704",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/769172/bonne-maman-caramel-spread",
@@ -1658,50 +1658,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "186",
         "price_per_unit": "705",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bonne-maman-cherry-jam-370g-8558200",
@@ -1711,56 +1711,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "370g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "190",
         "price_per_unit": "704",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/55874/bonne-maman-cherry-conserve",
@@ -1770,50 +1770,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "181",
         "price_per_unit": "670",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "191",
         "price_per_unit": "705",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cottees-blackberry-jam-375g-6397610",
@@ -1823,56 +1823,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/291935/cottee-s-blackberry-jam",
@@ -1882,44 +1882,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "93",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/st-dalfour-strawberry-spread-284g-5704372",
@@ -1929,56 +1929,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "284g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "211",
         "price_per_unit": "599",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/97724/st-dalfour-strawberry-rhubarb-284g",
@@ -1988,43 +1988,43 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "201",
         "price_per_unit": "570",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "211",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

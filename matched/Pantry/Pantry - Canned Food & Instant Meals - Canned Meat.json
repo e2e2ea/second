@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "340g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2532",
         "price_per_unit": "861",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33976/hamper-corned-beef-original-canned-meat",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2412",
         "price_per_unit": "820",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2529",
         "price_per_unit": "860",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/plumrose-canned-spiced-ham-340g-2737626",
@@ -125,44 +125,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "340g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/800494/plumrose-ham-spiced",
@@ -172,56 +172,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "956",
         "price_per_unit": "325",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/podravka-beef-goulash-300g-6331496",
@@ -231,56 +231,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "167",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "167",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "167",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "167",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "167",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "167",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "167",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/46607/podravka-beef-goulash",
@@ -290,56 +290,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1667",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1667",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1667",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1667",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1667",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1667",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1667",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1750",
         "price_per_unit": "525",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/spam-classic-ham-340g-118521",
@@ -349,56 +349,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "340g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2100",
         "price_per_unit": "714",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33964/spam-ham-classic",
@@ -408,56 +408,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2000",
         "price_per_unit": "680",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/harvest-braised-steak-and-onions-425g-5227820",
@@ -467,56 +467,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "124",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/8229/harvest-beef-braised-steak-onion",
@@ -526,50 +526,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "124",
         "price_per_unit": "525",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/harvest-hearty-irish-stew-425g-125323",
@@ -579,44 +579,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "124",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33996/harvest-beef-irish-stew",
@@ -626,50 +626,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "124",
         "price_per_unit": "525",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/harvest-vegetables-and-steak-425g-125301",
@@ -679,44 +679,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "124",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34017/harvest-beef-steak-vegetables",
@@ -726,50 +726,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "124",
         "price_per_unit": "525",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/harvest-vegetables-and-sausages-425g-125334",
@@ -779,56 +779,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "124",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34021/harvest-sausages-vegetables",
@@ -838,50 +838,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "118",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "124",
         "price_per_unit": "525",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tom-piper-braised-steak-onion-400g-5750165",
@@ -891,56 +891,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "105",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/28286/tom-piper-braised-steak-onions-canned-meal",
@@ -950,50 +950,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tom-piper-vegetables-savoury-mince-400g-277944",
@@ -1003,44 +1003,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "105",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/28229/tom-piper-savoury-mince-vegetables-canned-meal",
@@ -1050,37 +1050,37 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

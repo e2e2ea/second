@@ -7,50 +7,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "15pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/95185/higher-living-peppermint-licorice-tea",
@@ -60,56 +60,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/madura-organics-black-tea-leaf-150g-2236041",
@@ -119,50 +119,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "150g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "539",
         "price_per_unit": "809",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/427884/madura-black-leaf-tea-organic",
@@ -172,56 +172,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "513",
         "price_per_unit": "770",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nerada-camomile-herbal-infusion-tea-bags-40-pack-60g-6384980",
@@ -231,56 +231,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "60g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "16",
         "price_per_unit": "630",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/262165/nerada-organic-camomile-tea-bags",
@@ -290,56 +290,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nerada-organic-lemon-and-ginger-tea-bags-40-pack-60g-1412954",
@@ -349,50 +349,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "60g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "16",
         "price_per_unit": "630",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/326720/nerada-organic-lemon-ginger-tea-bags",
@@ -402,56 +402,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nerada-organics-peppermint-tea-bags-40-pack-60g-6384969",
@@ -461,56 +461,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "60g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "16",
         "price_per_unit": "630",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/262170/nerada-organic-peppermint-tea-bags",
@@ -520,56 +520,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "12",
         "price_per_unit": "480",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "15",
         "price_per_unit": "600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pukka-night-time-tea-sachets-20-pack-20g-3248771",
@@ -579,56 +579,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "20g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "45",
         "price_per_unit": "893",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/797820/pukka-night-time-tea-bags",
@@ -638,56 +638,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pukka-herbal-collection-tea-bags-20-pack-34.4g-3452508",
@@ -697,56 +697,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "34.4g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": ".g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": ".g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": ".g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": ".g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": ".g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": ".g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "45",
         "price_per_unit": "893",
         "price_unit": ".g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": ".g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/762923/pukka-organic-herbal-tea-collection",
@@ -756,56 +756,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pukka-lemon-ginger-and-manuka-honey-tea-sachets-20-pack-40g-3248793",
@@ -815,56 +815,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "40g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "45",
         "price_per_unit": "893",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/797819/pukka-tea-bags-lemon-ginger-manuka-honey",
@@ -874,50 +874,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bonvit-tea-bags-dandelion-32-pack-7032628",
@@ -927,50 +927,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "32pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "30",
         "price_per_unit": "945",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59823/bonvit-roasted-dandelion-tea-bags",
@@ -980,50 +980,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "28",
         "price_per_unit": "900",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/higher-living-daily-detox-tea-15-pack-3984890",
@@ -1033,56 +1033,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "15pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/742383/higher-living-organic-daily-detox-tea-bags",
@@ -1092,50 +1092,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "26",
         "price_per_unit": "395",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/madame-flavour-caffeine-free-lemongrass-lime-and-ginger-tisane-tea-bags-18-pack-36g-1758030",
@@ -1145,50 +1145,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "36g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "44",
         "price_per_unit": "788",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/791769/madame-flavour-lemongrass-lime-ginger-tea-pods",
@@ -1198,50 +1198,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "42",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pukka-tea-peppermint-and-licorice-20-pack-3988508",
@@ -1251,56 +1251,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "20pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "45",
         "price_per_unit": "893",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/188903/pukka-peppermint-licorice-organic-herbal-tea-sachets",
@@ -1310,50 +1310,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pukka-tea-three-ginger-20-pack-3248760",
@@ -1363,56 +1363,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "20pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "45",
         "price_per_unit": "893",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/375881/pukka-tea-bags-three-ginger",
@@ -1422,44 +1422,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "43",
         "price_per_unit": "850",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/t2-peppermint-tea-bags-25-pack-3081268",
@@ -1469,50 +1469,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "25pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "55",
         "price_per_unit": "1365",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "VIC",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/726962/t2-tea-just-peppermint-herbal-tisane-bags",
@@ -1522,50 +1522,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "52",
         "price_per_unit": "1300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/t2-relax-tea-10-pack-4995418",
@@ -1575,44 +1575,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/159230/t2-tea-relax-tea-bags",
@@ -1622,44 +1622,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/t2-sleep-tight-tea-10-pack-3986728",
@@ -1669,56 +1669,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/134420/t2-tea-sleep-tight-tea-bags",
@@ -1728,44 +1728,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/t2-tummy-tea-10-pack-3987618",
@@ -1775,38 +1775,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/134424/t2-tea-tummy-tea-bags",
@@ -1816,44 +1816,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/t2-lemongrass-and-ginger-herbal-tea-bags-25-pack-50g-3081280",
@@ -1863,56 +1863,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "50g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "56",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "56",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "56",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "56",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "56",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "56",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "1470",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "56",
         "price_per_unit": "1400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/726698/t2-tea-lemongrass-ginger-teabag",
@@ -1922,13 +1922,13 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "56",
         "price_per_unit": "1400",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

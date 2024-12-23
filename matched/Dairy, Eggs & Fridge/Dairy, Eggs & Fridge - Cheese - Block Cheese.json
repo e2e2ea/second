@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3240",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/41516/bega-cheese-block-strong-bitey-vintage",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-strong-and-bitey-dairy-cheese-vintage-block-500g-5369052",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2268",
         "price_per_unit": "1134",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/48443/bega-cheese-block-strong-bitey-vintage",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-tasty-cheese-block-250g-296712",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3240",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/40709/bega-tasty-cheese-block-cheese",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-tasty-cheese-block-1kg-192411",
@@ -361,56 +361,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/166625/cheer-cheese-tasty-cheese-block",
@@ -420,56 +420,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1495",
         "price_per_unit": "1495",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mainland-vintage-cheese-block-200g-3274308",
@@ -479,56 +479,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/23778/mainland-block-vintage-cheese-block-block",
@@ -538,56 +538,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3500",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3500",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3500",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3500",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3500",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3500",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3500",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3500",
         "price_per_unit": "700",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mainland-extra-tasty-cheese-block-250g-3274148",
@@ -597,50 +597,50 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2400",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2400",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2400",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2400",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2400",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2400",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2400",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/66072/mainland-extra-tasty-cheese-block",
@@ -650,56 +650,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mainland-extra-tasty-cheddar-cheese-block-500g-3308421",
@@ -709,56 +709,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2376",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/807870/mainland-extra-tasty-cheese-block",
@@ -768,56 +768,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mainland-tasty-cheese-block-500g-472994",
@@ -827,56 +827,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2376",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/32198/mainland-tasty-cheese-block-cheese",
@@ -886,56 +886,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mainland-vintage-cheese-block-400g-3274283",
@@ -945,56 +945,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2970",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/807871/mainland-vintage-cheese-block",
@@ -1004,56 +1004,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2750",
         "price_per_unit": "1100",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-easy-melt-colby-block-500g-1446242",
@@ -1063,56 +1063,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2268",
         "price_per_unit": "1134",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/57304/bega-colby-cheese-block-block",
@@ -1122,38 +1122,38 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2100",
         "price_per_unit": "1050",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-cheese-block-tasty-750g-166568",
@@ -1163,26 +1163,26 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "750g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1800",
         "price_per_unit": "1350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1800",
         "price_per_unit": "1350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "1800",
         "price_per_unit": "1350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/381313/bega-tasty-cheese-block-tasty",
@@ -1192,44 +1192,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1800",
         "price_per_unit": "1350",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1800",
         "price_per_unit": "1350",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1800",
         "price_per_unit": "1350",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1800",
         "price_per_unit": "1350",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1800",
         "price_per_unit": "1350",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1800",
         "price_per_unit": "1350",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/liddells-lactose-free-cheese-block-250g-1418291",
@@ -1239,56 +1239,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/741022/liddells-lactose-free-cheese-block",
@@ -1298,50 +1298,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mainland-epicure-cheese-block-200g-6577430",
@@ -1351,32 +1351,32 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/295891/mainland-epicure-cheese-block-cheese",
@@ -1386,43 +1386,43 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "3000",
         "price_per_unit": "600",
         "price_unit": "KG"
       }
-    }
+    ]
   }
 ]

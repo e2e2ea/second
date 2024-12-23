@@ -7,20 +7,20 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "2each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "263",
         "price_per_unit": "525",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "263",
         "price_per_unit": "525",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/147734/dollar-sweets-edible-gold-leaf",
@@ -30,56 +30,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "235",
         "price_per_unit": "470",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "235",
         "price_per_unit": "470",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "235",
         "price_per_unit": "470",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "235",
         "price_per_unit": "470",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "235",
         "price_per_unit": "470",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "235",
         "price_per_unit": "470",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "235",
         "price_per_unit": "470",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "235",
         "price_per_unit": "470",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dollar-sweets-edible-glitter-gold-spray-4g-3591286",
@@ -89,56 +89,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "4g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "15000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "15000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "15000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "15000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "15000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "15000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "15000",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "15750",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/83593/dollar-sweets-gold-lustre-shimmer-spray",
@@ -148,50 +148,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "13250",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "13250",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "13250",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "13250",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "13250",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "13250",
         "price_per_unit": "530",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "13250",
         "price_per_unit": "530",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dollar-sweets-sprinkles-5-in-1-pack-125g-120352",
@@ -201,56 +201,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "125g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "210",
         "price_per_unit": "263",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33364/dollar-sweets-sprinkles-fives",
@@ -260,56 +260,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "250",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dollar-sweets-topping-bright-cake-160g-5107170",
@@ -319,56 +319,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "160g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "151",
         "price_per_unit": "242",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/29077/dollar-sweets-bright",
@@ -378,50 +378,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "230",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dollar-sweets-sweetheart-sprinkles-145g-1933389",
@@ -431,56 +431,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "145g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "434",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/773763/dollar-sweets-cake-decoration-fairy-toppings",
@@ -490,44 +490,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dollar-sweets-colours-of-the-rainbow-6-comp-159g-5629470",
@@ -537,50 +537,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "159g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "430",
         "price_per_unit": "683",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/210532/dollar-sweets-colours-of-the-rainbow-sprinkles",
@@ -590,50 +590,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "409",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dollar-sweets-treasure-toppings-145g-1933378",
@@ -643,56 +643,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "145g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/773761/dollar-sweets-sprinkles-pirate-toppings",
@@ -702,38 +702,38 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mckenzies-cream-stabiliser-60g-7668961",
@@ -743,50 +743,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "60g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/927499/mckenzie-s-cream-stabiliser",
@@ -796,50 +796,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "492",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "492",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "492",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "492",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "392",
         "price_per_unit": "235",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mckenzie's-egg-replacer-70g-4357998",
@@ -849,50 +849,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "329",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "329",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "329",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "329",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "329",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "329",
         "price_per_unit": "230",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "329",
         "price_per_unit": "230",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/143255/mckenzie-s-vegan-egg-replacer",
@@ -902,50 +902,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "464",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "464",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "464",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "464",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "464",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "464",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "464",
         "price_per_unit": "325",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/queen-metallic-icing-writing-gel-5-pack-105g-3590884",
@@ -955,56 +955,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "105g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "525",
         "price_per_unit": "551",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/68712/queen-metallic-icing-writing-gel",
@@ -1014,50 +1014,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "525",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dollar-sweets-gold-delight-sprinkles-145g-2777802",
@@ -1067,56 +1067,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "145g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "434",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/828689/the-creative-kitchen-gold-delight-4-compartment-jar",
@@ -1126,37 +1126,37 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

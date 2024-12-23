@@ -7,20 +7,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "199",
         "price_per_unit": "1395",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "199",
         "price_per_unit": "1395",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/98234/hilltops-12-free-range-eggs",
@@ -30,14 +30,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "199",
         "price_per_unit": "1395",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pace-farm-barn-cage-free-large-eggs-18-pack-1kg-3434540",
@@ -47,14 +47,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NT",
         "price": "106",
         "price_per_unit": "1060",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/663362/liberty-eggs-18-large-cage-free-eggs",
@@ -64,7 +64,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/manning-valley-free-range-extra-large-eggs-12-pack-700g-5585502",
@@ -74,26 +74,26 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "111",
         "price_per_unit": "780",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "111",
         "price_per_unit": "780",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "111",
         "price_per_unit": "780",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/313900/manning-valley-12-extra-large-free-range-eggs",
@@ -103,7 +103,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/manning-valley-free-range-eggs-12-pack-800g-8796694",
@@ -113,20 +113,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "113",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "113",
         "price_per_unit": "900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/363392/manning-valley-12-jumbo-free-range-eggs",
@@ -136,7 +136,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/manning-valley-free-range-large-eggs-12-pack-600g-5584984",
@@ -146,20 +146,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "600g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "122",
         "price_per_unit": "730",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "122",
         "price_per_unit": "730",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/313898/manning-valley-12-large-free-range-eggs",
@@ -169,14 +169,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "122",
         "price_per_unit": "730",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/manning-valley-free-range-eggs-18-pack-900g-3428525",
@@ -186,20 +186,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "117",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "117",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/689556/manning-valley-18-large-free-range-eggs",
@@ -209,7 +209,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/manning-valley-free-range-eggs-6-pack-330g-6004015",
@@ -219,26 +219,26 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "330g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "133",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "133",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "133",
         "price_per_unit": "440",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/319054/manning-valley-6-large-free-range-eggs-free-range-eggs",
@@ -248,20 +248,20 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "133",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "133",
         "price_per_unit": "440",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pace-farm-liberty-cage-free-eggs-12-pack-700g-6949783",
@@ -271,26 +271,26 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "110",
         "price_per_unit": "770",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "110",
         "price_per_unit": "770",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "111",
         "price_per_unit": "780",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59790/pace-farm-liberty-12-extra-large-cage-free-eggs",
@@ -300,14 +300,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "110",
         "price_per_unit": "770",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pace-farm-liberty-cage-free-eggs-12-pack-600g-7007096",
@@ -317,32 +317,32 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "600g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "117",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "117",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "117",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "120",
         "price_per_unit": "720",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/310736/pace-farm-liberty-eggs-12-large-barn-laid-eggs",
@@ -352,7 +352,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/puregg-egg-white-free-range-500g-3923058",
@@ -362,32 +362,32 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "224",
         "price_per_unit": "1120",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "224",
         "price_per_unit": "1120",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "224",
         "price_per_unit": "1120",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "224",
         "price_per_unit": "1120",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/54278/puregg-free-range-liquid-egg-white",
@@ -397,7 +397,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/puregg-simply-egg-white-500g-500gram-1642218",
@@ -407,20 +407,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500gram",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "180",
         "price_per_unit": "900",
         "price_unit": "gram"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "180",
         "price_per_unit": "900",
         "price_unit": "gram"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/715111/puregg-simply-egg-whites",
@@ -430,7 +430,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/sunny-queen-liquid-egg-white-500g-7714413",
@@ -440,14 +440,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "180",
         "price_per_unit": "900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/202911/sunny-queen-100-egg-whites",
@@ -457,32 +457,32 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "180",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "180",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "180",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "180",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunny-queen-free-range-extra-large-eggs-12-pack-700g-5417789",
@@ -492,38 +492,38 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "114",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "114",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "114",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "114",
         "price_per_unit": "795",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "114",
         "price_per_unit": "795",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/77170/sunny-queen-12-extra-large-free-range-eggs",
@@ -533,14 +533,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "114",
         "price_per_unit": "795",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunny-queen-organic-eggs-12-pack-700g-4228838",
@@ -550,50 +550,50 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "178",
         "price_per_unit": "1245",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "178",
         "price_per_unit": "1245",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "178",
         "price_per_unit": "1245",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "178",
         "price_per_unit": "1245",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "178",
         "price_per_unit": "1245",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "178",
         "price_per_unit": "1245",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "WA",
         "price": "178",
         "price_per_unit": "1245",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/140770/sunny-queen-12-extra-large-organic-free-range-eggs",
@@ -603,20 +603,20 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "178",
         "price_per_unit": "1245",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "NT",
         "price": "178",
         "price_per_unit": "1245",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunny-queen-free-range-large-eggs-18-pack-900g-8953577",
@@ -626,38 +626,38 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "128",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "128",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "128",
         "price_per_unit": "1150",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/771237/sunny-queen-18-large-free-range-eggs",
@@ -667,14 +667,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "128",
         "price_per_unit": "1150",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/yallamundi-farm-organic-free-range-eggs-12-pack-700g-5337624",
@@ -684,26 +684,26 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "192",
         "price_per_unit": "1345",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "192",
         "price_per_unit": "1345",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "192",
         "price_per_unit": "1345",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/140588/yallamundi-farm-organic-12-extra-large-free",
@@ -713,14 +713,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "193",
         "price_per_unit": "1350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/josh's-rainbow-free-range-eggs-12-pack-700g-2364450",
@@ -730,14 +730,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "133",
         "price_per_unit": "930",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/927400/josh-s-rainbow-12-extra-large-free-range-eggs",
@@ -747,7 +747,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/josh's-rainbow-free-range-eggs-12pack-800g-7065751",
@@ -757,14 +757,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "131",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/169924/josh-s-rainbow-12-jumbo-free-range-eggs",
@@ -774,7 +774,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/josh's-rainbow-free-range-eggs-18-pack-900g-5346590",
@@ -784,14 +784,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "132",
         "price_per_unit": "1190",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/81973/josh-s-rainbow-18-large-free-range-eggs",
@@ -801,7 +801,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/josh's-rainbow-free-range-eggs-regular-6-pack-350g-2364471",
@@ -811,14 +811,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "149",
         "price_per_unit": "520",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/927429/josh-s-rainbow-6-extra-large-free-range-eggs",
@@ -828,7 +828,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/sunny-queen-free-range-large-eggs-12-pack-600g-5417778",
@@ -838,20 +838,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "600g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "128",
         "price_per_unit": "765",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "128",
         "price_per_unit": "765",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/77173/sunny-queen-12-large-free-range-eggs",
@@ -861,7 +861,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrise-free-range-eggs-12-pack-600g-6344512",
@@ -871,14 +871,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "600g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "125",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/102212/sunrise-eggs-12-free-range-eggs",
@@ -888,7 +888,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/sunny-queen-cage-free-extra-large-eggs-12-pack-700g-6793775",
@@ -898,20 +898,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "99",
         "price_per_unit": "695",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "99",
         "price_per_unit": "695",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/319049/sunny-queen-12-extra-large-cage-free-eggs",
@@ -921,7 +921,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/sunny-queen-jumbo-cage-free-eggs-12-pack-800g-5214384",
@@ -931,14 +931,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "102",
         "price_per_unit": "815",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/760447/sunny-queen-12-jumbo-cage-free-eggs",
@@ -948,7 +948,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/sunny-queen-cage-free-large-eggs-18-pack-900g-8946775",
@@ -958,32 +958,32 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "111",
         "price_per_unit": "995",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "111",
         "price_per_unit": "995",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "111",
         "price_per_unit": "995",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "111",
         "price_per_unit": "995",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/482856/sunny-queen-18-large-cage-free-eggs",
@@ -993,7 +993,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/sunny-queen-free-range-x-large-eggs-6-pack-350g-5484210",
@@ -1003,20 +1003,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "134",
         "price_per_unit": "470",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "134",
         "price_per_unit": "470",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/140262/sunny-queen-6-extra-large-free-range-eggs",
@@ -1026,14 +1026,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "134",
         "price_per_unit": "470",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/golden-eggs-free-range-eggs-12-pack-700g-3208711",
@@ -1043,20 +1043,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "110",
         "price_per_unit": "770",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "110",
         "price_per_unit": "770",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/794961/golden-eggs-12-free-range-eggs",
@@ -1066,14 +1066,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "110",
         "price_per_unit": "770",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/the-good-farmer-gingin-free-range-eggs-12-pack-700g-2793900",
@@ -1083,20 +1083,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/839426/good-farmer-12-extra-large-free-range-eggs",
@@ -1106,14 +1106,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/the-good-farmer-gingin-free-range-eggs-12-pack-800g-3123572",
@@ -1123,20 +1123,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "111",
         "price_per_unit": "890",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "111",
         "price_per_unit": "890",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/630126/good-farmer-12-jumbo-free-range-eggs",
@@ -1146,14 +1146,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "111",
         "price_per_unit": "890",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/the-good-farmer-gingin-free-range-eggs-18-pack-1kg-3123583",
@@ -1163,20 +1163,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "115",
         "price_per_unit": "1150",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "115",
         "price_per_unit": "1150",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/692131/good-farmer-18-extra-large-free-range-eggs",
@@ -1186,14 +1186,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "115",
         "price_per_unit": "1150",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hens-of-the-earth-pasture-free-range-eggs-12-pack-700g-3123608",
@@ -1203,20 +1203,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "150",
         "price_per_unit": "1050",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "150",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/630127/hens-of-the-earth-12-extra-large-free-range-eggs",
@@ -1226,14 +1226,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "150",
         "price_per_unit": "1050",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hill-river-free-range-eggs-12pack-700g-7072280",
@@ -1243,20 +1243,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "117",
         "price_per_unit": "820",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "117",
         "price_per_unit": "820",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141052/hill-river-12-free-range-eggs",
@@ -1266,14 +1266,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "117",
         "price_per_unit": "820",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hill-river-free-range-eggs-18pack-1kg-7072316",
@@ -1283,20 +1283,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "109",
         "price_per_unit": "1090",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "109",
         "price_per_unit": "1090",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/200707/hill-river-18-large-free-range-eggs",
@@ -1306,14 +1306,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "109",
         "price_per_unit": "1090",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/margaret-river-free-rangeeggs-12-pack-700g-8696612",
@@ -1323,20 +1323,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "124",
         "price_per_unit": "870",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "124",
         "price_per_unit": "870",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/749194/margaret-river-12-extra-large-free-range-eggs",
@@ -1346,7 +1346,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/margaret-river-free-range-eggs-12-pack-800g-8696601",
@@ -1356,20 +1356,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "116",
         "price_per_unit": "930",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "116",
         "price_per_unit": "930",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/749173/margaret-river-12-jumbo-free-range-eggs",
@@ -1379,7 +1379,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/willow-springs-barn-laid-eggs-30-pack-1.5kg-3434743",
@@ -1389,20 +1389,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "1.5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "104",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "104",
         "price_per_unit": "1560",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/52370/willow-30-cage-free-barn-laid-eggs",
@@ -1412,14 +1412,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "104",
         "price_per_unit": "1560",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/willow-springs-barn-laid-eggs-12-pack-700g-3434732",
@@ -1429,20 +1429,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "90",
         "price_per_unit": "630",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/785234/willow-springs-12-cage-free-barn-laid-eggs",
@@ -1452,14 +1452,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "90",
         "price_per_unit": "630",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/adelaide-plains-barn-laid-eggs-6-pack-330g-3428490",
@@ -1469,14 +1469,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "330g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "95",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/800107/adelaide-plains-6-barn-laid-eggs",
@@ -1486,7 +1486,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/barossa-free-range-eggs-12-pack-700g-3455608",
@@ -1496,14 +1496,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "149",
         "price_per_unit": "1040",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/487962/barossa-fine-foods-12-extra-large-free-range-eggs",
@@ -1513,7 +1513,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/barossa-free-range-eggs-12-pack-800g-3455619",
@@ -1523,14 +1523,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "135",
         "price_per_unit": "1080",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/487952/barossa-fine-foods-12-jumbo-free-range-eggs",
@@ -1540,7 +1540,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/barossa-free-range-eggs-18-pack-900g-7038282",
@@ -1550,14 +1550,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "166",
         "price_per_unit": "1490",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/201951/barossa-fine-foods-18-large-free-range-eggs",
@@ -1567,7 +1567,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/mclaren-vale-free-range-eggs-12-pack-700g-7009310",
@@ -1577,14 +1577,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "107",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/80367/mclaren-vale-12-extra-large-free-range-eggs",
@@ -1594,7 +1594,7 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   },
   {
     "source_url": "https://www.coles.com.au/product/aberfeldy-cage-free-eggs-18-pack-900g-2592115",
@@ -1604,14 +1604,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "105",
         "price_per_unit": "945",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/483462/aberfeldy-18-cage-free-eggs",
@@ -1621,14 +1621,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "105",
         "price_per_unit": "945",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pure-foods-devil-appeal-free-range-x-large-eggs-12-pack-700g-1337134",
@@ -1638,14 +1638,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "119",
         "price_per_unit": "830",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/759141/tassie-devil-12-extra-large-free-range-eggs",
@@ -1655,14 +1655,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "119",
         "price_per_unit": "830",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tassie-devil-free-range-eggs-6pack-350g-6820175",
@@ -1672,14 +1672,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/630090/tassie-devil-6-extra-large-free-range-eggs",
@@ -1689,14 +1689,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "137",
         "price_per_unit": "480",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/valley-brook-free-range-x-large-eggs-12-pack-700g-9106907",
@@ -1706,14 +1706,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "111",
         "price_per_unit": "780",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/159253/valley-brook-12-extra-large-free-range-eggs",
@@ -1723,14 +1723,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "111",
         "price_per_unit": "780",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/valley-brook-free-range-large-eggs-12-pack-600g-9106871",
@@ -1740,14 +1740,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "600g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "118",
         "price_per_unit": "710",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/159265/valley-brook-12-large-free-range-eggs",
@@ -1757,14 +1757,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "TAS",
         "price": "118",
         "price_per_unit": "710",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hilltops-pastured-free-range-eggs-12-pack-800g-5335550",
@@ -1774,20 +1774,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "187",
         "price_per_unit": "1495",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "187",
         "price_per_unit": "1495",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/198572/hilltops-pasture-raised-12-jumbo-free-range-eggs",
@@ -1797,14 +1797,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "187",
         "price_per_unit": "1495",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ironwood-free-range-large-eggs-12-pack-700g-6621587",
@@ -1814,14 +1814,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NT",
         "price": "134",
         "price_per_unit": "940",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/97005/flanno-s-eggs-free-range-large-eggs-large",
@@ -1831,14 +1831,14 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NT",
         "price": "129",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ironwood-free-range-large-eggs-6-pack-350g-7013918",
@@ -1848,14 +1848,14 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NT",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/166475/flanno-s-eggs-free-range-large-eggs-large",
@@ -1865,6 +1865,6 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {}
+    "prices": []
   }
 ]

@@ -65,16 +65,16 @@ const getData = async () => {
                         console.log(`Products matched in ${category} - ${subCategory} - ${extensionCategory}`, productsMatched.length)
                         totalProducts = totalProducts + productsMatched.length
                         console.log('totalProducts', totalProducts)
-                        // const baseFolder = './matched';
-                        // const folderPath = path.join(baseFolder, `${category}`);
-                        // const fileName = `${category} - ${subCategory} - ${extensionCategory}.json`;
-                        // const filePath = path.join(folderPath, fileName);
-                        // if (!fs.existsSync(folderPath)) {
-                        //     fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist
-                        //     console.log(`Created folder: ${folderPath}`);
-                        // }
-                        // fs.writeFileSync(filePath, JSON.stringify(productsMatched, null, 2)); // Pretty print with 2 spaces
-                        // console.log(`Data saved to ${filePath}`);
+                        const baseFolder = './matched';
+                        const folderPath = path.join(baseFolder, `${category}`);
+                        const fileName = `${category} - ${subCategory} - ${extensionCategory}.json`;
+                        const filePath = path.join(folderPath, fileName);
+                        if (!fs.existsSync(folderPath)) {
+                            fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist
+                            console.log(`Created folder: ${folderPath}`);
+                        }
+                        fs.writeFileSync(filePath, JSON.stringify(productsMatched, null, 2)); // Pretty print with 2 spaces
+                        console.log(`Data saved to ${filePath}`);
                     }
                 } catch (error) {
                     console.error('Error writing data to file:', error);

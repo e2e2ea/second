@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/727257/ben-s-original-brown-mexican-style-microwave-rice-pouch",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-brown-rice-pouch-microwave-250g-8150787",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/364093/ben-s-original-brown-microwave-rice-pouch",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-brown-red-and-wild-medley-rice-pouch-250g-2236303",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/792456/ben-s-original-brown-red-wild-rice-medley-microwave-rice-pouch",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-coconut-chilli-and-lemongrass-rice-pouch-250g-3230947",
@@ -361,56 +361,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/176829/ben-s-original-coconut-chilli-lemongrass-microwave-rice-pouch",
@@ -420,56 +420,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-golden-vegetable-rice-pouch-250g-6545977",
@@ -479,56 +479,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/37211/ben-s-original-golden-vegetable-microwave-rice-pouch",
@@ -538,56 +538,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-light-flavour-coconut-basmati-rice-pouch-250g-3230958",
@@ -597,56 +597,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/177521/ben-s-original-lightly-flavour-coconut-microwave-rice-pouch",
@@ -656,56 +656,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-light-flavour-garlic-rice-pouch-250g-3925654",
@@ -715,56 +715,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/79980/ben-s-original-lightly-flavour-garlic-microwave-rice-pouch",
@@ -774,56 +774,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-mexican-style-rice-pouch-250g-7132928",
@@ -833,56 +833,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/270829/ben-s-original-mexican-style-microwave-rice-pouch",
@@ -892,56 +892,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-rice-protein-lentils-turmeric-and-brown-rice-pouch-180g-4989379",
@@ -951,50 +951,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "180g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "194",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "194",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "194",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "194",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "194",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "194",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "194",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/199836/ben-s-original-protein-lentils-turmeric-brown-rice",
@@ -1004,56 +1004,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "167",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "167",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "167",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "167",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "167",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "167",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "167",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "194",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-savoury-chicken-flavour-rice-pouch-250g-5860185",
@@ -1063,56 +1063,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/261735/ben-s-original-savoury-chicken-flavour-microwave-rice-pouch",
@@ -1122,56 +1122,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/ben's-original-tomato-and-basil-rice-pouch-250g-5860221",
@@ -1181,56 +1181,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/261734/ben-s-original-tomato-basil-microwave-rice-pouch",
@@ -1240,56 +1240,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/riviana-arborio-rice-1kg-5988586",
@@ -1299,56 +1299,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/90660/riviana-arborio-rice",
@@ -1358,56 +1358,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/riviana-basmati-long-grain-rice-1kg-145590",
@@ -1417,56 +1417,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34294/riviana-basmati-rice-extra-long-grain",
@@ -1476,56 +1476,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/riviana-brown-basmati-rice-1kg-2018222",
@@ -1535,14 +1535,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/792257/riviana-brown-basmati-rice-extra-long-grain",
@@ -1552,56 +1552,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "700",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-australian-medium-grain-brown-rice-2kg-295414",
@@ -1611,56 +1611,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/8254/sunrice-australian-brown-rice-medium-grain",
@@ -1670,50 +1670,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-australian-medium-grain-brown-rice-5kg-1751530",
@@ -1723,56 +1723,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "19",
         "price_per_unit": "950",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "19",
         "price_per_unit": "950",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "19",
         "price_per_unit": "950",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "19",
         "price_per_unit": "950",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "19",
         "price_per_unit": "950",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "19",
         "price_per_unit": "950",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "19",
         "price_per_unit": "950",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "19",
         "price_per_unit": "950",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/750029/sunrice-australian-brown-rice-medium-grain",
@@ -1782,50 +1782,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "38",
         "price_per_unit": "1900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "38",
         "price_per_unit": "1900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "38",
         "price_per_unit": "1900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "38",
         "price_per_unit": "1900",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "38",
         "price_per_unit": "1900",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "38",
         "price_per_unit": "1900",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "38",
         "price_per_unit": "1900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-australian-medium-grain-white-1kg-122460",
@@ -1835,56 +1835,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "47",
         "price_per_unit": "473",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33183/sunrice-australian-white-rice-medium-grain",
@@ -1894,50 +1894,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-australian-medium-grain-white-rice-2kg-343470",
@@ -1947,56 +1947,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33181/sunrice-australian-white-rice-medium-grain",
@@ -2006,44 +2006,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-basmati-rice-1kg-4518124",
@@ -2053,44 +2053,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/231636/sunrice-basmati-rice",
@@ -2100,50 +2100,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "68",
         "price_per_unit": "680",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-low-gi-white-rice-1kg-4956223",
@@ -2153,56 +2153,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "48",
         "price_per_unit": "483",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/198918/sunrice-clever-rice-low-gi-white",
@@ -2212,50 +2212,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "49",
         "price_per_unit": "485",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hinata-short-grain-rice-5kg-3947533",
@@ -2265,26 +2265,26 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "30",
         "price_per_unit": "1500",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "30",
         "price_per_unit": "1500",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "30",
         "price_per_unit": "1500",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/117602/sunrice-hinata-short-grain-rice",
@@ -2294,50 +2294,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "60",
         "price_per_unit": "3000",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "60",
         "price_per_unit": "3000",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "60",
         "price_per_unit": "3000",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "60",
         "price_per_unit": "3000",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "60",
         "price_per_unit": "3000",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "3000",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "60",
         "price_per_unit": "3000",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-classic-indian-basmati-rice-5kg-7563409",
@@ -2347,32 +2347,32 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "74",
         "price_per_unit": "3675",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/333258/sunrice-indian-grown-basmati-rice-classic",
@@ -2382,50 +2382,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "3500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-naturally-sushi-rice-1kg-5860957",
@@ -2435,56 +2435,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "49",
         "price_per_unit": "494",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/251758/sunrice-japanese-style-sushi-rice",
@@ -2494,50 +2494,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "47",
         "price_per_unit": "470",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-jasmine-rice-2kg-7423217",
@@ -2547,50 +2547,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/109277/sunrice-jasmine",
@@ -2600,50 +2600,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "33",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-jasmine-white-rice-5kg-4363786",
@@ -2653,56 +2653,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "5kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "48",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "48",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "48",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "2400",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "2520",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/803520/sunrice-jasmine-fragrant-rice",
@@ -2712,44 +2712,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "24",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "24",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "24",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "24",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "24",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "48",
         "price_per_unit": "2400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-basmati-rice-pouch-250g-5874860",
@@ -2759,56 +2759,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/267561/sunrice-microwave-basmati-rice-indian-basmati-rice",
@@ -2818,50 +2818,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-basmati-rice-cup-2x120g-240g-8479884",
@@ -2871,56 +2871,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "240g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "153",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/371049/sunrice-microwave-basmati-rice-cup-2-quick-cups",
@@ -2930,50 +2930,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "146",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-basmati-rice-pouch-450g-6545762",
@@ -2983,56 +2983,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "105",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/311469/sunrice-microwave-basmati-rice-pouch-indian-aromatic-basmati-rice",
@@ -3042,50 +3042,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-brown-rice-and-quinoa-pouch-250g-1382525",
@@ -3095,32 +3095,32 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/765491/sunrice-microwave-brown-rice-quinoa-pouch",
@@ -3130,50 +3130,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-brown-rice-and-quinoa-rice-cup-2x125g-250g-2017795",
@@ -3183,56 +3183,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/792122/sunrice-microwave-brown-rice-quinoa-rice-cup",
@@ -3242,50 +3242,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-brown-rice-cup-250g-7779805",
@@ -3295,56 +3295,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/352043/sunrice-microwave-brown-rice-cup-fragrant-brown-rice",
@@ -3354,50 +3354,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-brown-rice-pouch-250g-4854370",
@@ -3407,56 +3407,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/244756/sunrice-microwave-brown-rice-pouch-medium-grain-brown-rice-in-90",
@@ -3466,50 +3466,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-brown-rice-pouch-450g-6545773",
@@ -3519,56 +3519,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "105",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/311461/sunrice-microwave-brown-rice-pouch-fragrant-brown-rice-family-sz",
@@ -3578,44 +3578,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-chicken-style-flavoured-rice-cups-2-x-125g-250g-7563420",
@@ -3625,56 +3625,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/390985/sunrice-microwave-chicken-style-flavoured-rice-cups-2x125g",
@@ -3684,50 +3684,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-jasmine-rice-cup-2x125g-250g-8478509",
@@ -3737,56 +3737,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/371052/sunrice-microwave-jasmine-rice-cup-fragrant-jasmine-rice",
@@ -3796,50 +3796,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-jasmine-rice-pouch-250g-4854380",
@@ -3849,56 +3849,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/244754/sunrice-microwave-jasmine-rice-pouch-jasmine-rice-in-90-seconds",
@@ -3908,50 +3908,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-jasmine-rice-pouch-450g-7746704",
@@ -3961,56 +3961,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "105",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/352039/sunrice-microwave-jasmine-rice-pouch-fragrant-jasmine-rice-family",
@@ -4020,50 +4020,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-long-grain-rice-pouch-450g-6545784",
@@ -4073,56 +4073,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "105",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/311466/sunrice-microwave-long-grain-white-rice-pouch",
@@ -4132,50 +4132,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-mexican-style-flavoured-rice-cups-2-x-125g-250g-7563442",
@@ -4185,56 +4185,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/391744/sunrice-microwave-mexican-flavoured-rice-cups-2x125g",
@@ -4244,50 +4244,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-organic-brown-rice-pouch-250g-1382536",
@@ -4297,50 +4297,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/765407/sunrice-microwave-organic-brown-rice-pouch",
@@ -4350,50 +4350,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-special-fried-rice-flavoured-rice-cups-2-x-125g-250g-7563453",
@@ -4403,56 +4403,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/391604/sunrice-microwave-special-fried-rice-flavoured-rice-cups-2x125g",
@@ -4462,50 +4462,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-long-grain-white-rice-cup-2x125g-250g-7779816",
@@ -4515,56 +4515,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/352041/sunrice-microwave-white-long-grain-rice-cup",
@@ -4574,44 +4574,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-microwave-long-grain-rice-pouch-250g-4854391",
@@ -4621,56 +4621,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/244755/sunrice-microwave-white-long-grain-rice-pouch",
@@ -4680,50 +4680,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "140",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-jasmine-rice-1kg-5963814",
@@ -4733,44 +4733,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "47",
         "price_per_unit": "473",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/267557/sunrice-rice-jasmine",
@@ -4780,50 +4780,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "45",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-risotto-style-rice-750g-6329494",
@@ -4833,44 +4833,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "750g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/290298/sunrice-risotto-style-rice",
@@ -4880,50 +4880,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "40",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-premium-long-grain-rice-1kg-122518",
@@ -4933,56 +4933,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "32",
         "price_per_unit": "315",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/36493/sunrice-white-rice-premium-long-grain",
@@ -4992,50 +4992,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "30",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sunrice-premium-long-grain-rice-2kg-296960",
@@ -5045,56 +5045,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/36502/sunrice-white-rice-premium-long-grain",
@@ -5104,50 +5104,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tilda-steamed-coconut-chilli-and-lemongrass-rice-250g-5903255",
@@ -5157,56 +5157,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/271569/tilda-microwave-coco-chilli-lemongrass-rice",
@@ -5216,56 +5216,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tilda-coconut-steamed-basmati-rice-250g-1440337",
@@ -5275,56 +5275,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/728232/tilda-microwave-coconut-basmati-rice",
@@ -5334,56 +5334,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tilda-steamed-basmati-brown-rice-250g-5208086",
@@ -5393,56 +5393,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/271568/tilda-microwave-steamed-brown-basmati-rice",
@@ -5452,56 +5452,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/tilda-steamed-pure-basmati-rice-250g-9530557",
@@ -5511,56 +5511,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "136",
         "price_per_unit": "340",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/272188/tilda-microwave-steamed-pure-basmati-rice",
@@ -5570,55 +5570,55 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "152",
         "price_per_unit": "380",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "120",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

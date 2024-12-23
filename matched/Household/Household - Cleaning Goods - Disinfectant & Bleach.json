@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2.5l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "202",
         "price_per_unit": "504",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/37801/white-king-premium-bleach-lemon",
@@ -66,44 +66,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/white-king-bleach-regular-2.5l-170339",
@@ -113,56 +113,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2.5l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "202",
         "price_per_unit": "504",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/44100/white-king-premium-bleach-regular",
@@ -172,43 +172,43 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "192",
         "price_per_unit": "480",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "L"
       }
-    }
+    ]
   }
 ]

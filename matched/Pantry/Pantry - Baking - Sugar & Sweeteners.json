@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/38022/csr-caster-sugar",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "31",
         "price_per_unit": "310",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-raw-sugar-2kg-174894",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/37391/csr-raw-sugar",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "25",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-coffee-sugar-crystals-500g-6043287",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "72",
         "price_per_unit": "360",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33155/csr-brown-sugar-coffee-crystals",
@@ -302,50 +302,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "69",
         "price_per_unit": "345",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-dark-brown-sugar-1kg-447829",
@@ -355,56 +355,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/37736/csr-brown-sugar-dark",
@@ -414,50 +414,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "46",
         "price_per_unit": "460",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-raw-caster-sugar-750g-7497450",
@@ -467,56 +467,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "750g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "49",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/364085/csr-caster-sugar-raw",
@@ -526,50 +526,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "47",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-muscovado-sugar-250g-3249796",
@@ -579,50 +579,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/659256/csr-dark-muscovado-sugar",
@@ -632,50 +632,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-demerara-sugar-375g-6040970",
@@ -685,50 +685,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "84",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/86973/csr-demerara-sugar",
@@ -738,50 +738,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "80",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-raw-sugar-sticks-50-pack-2911701",
@@ -791,50 +791,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "50pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/498331/csr-raw-sugar-sticks",
@@ -844,50 +844,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "207",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "207",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "207",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "207",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "207",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "207",
         "price_per_unit": "310",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "207",
         "price_per_unit": "310",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-coconut-sugar-250g-2223301",
@@ -897,56 +897,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/659255/csr-unrefined-coconut-sugar",
@@ -956,50 +956,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "420",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-white-sugar-2kg-384740",
@@ -1009,50 +1009,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "2kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/33157/csr-white-sugar",
@@ -1062,50 +1062,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "20",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/csr-premium-white-sugar-sticks-50-pack-4694230",
@@ -1115,50 +1115,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "50pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/335935/csr-white-sugar-sticks",
@@ -1168,50 +1168,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/equal-spoonful-sweetener-jar-113g-2297046",
@@ -1221,56 +1221,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "113g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/202982/equal-spoonful-spoon-for-spoon-sugar-replacement",
@@ -1280,50 +1280,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "531",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "531",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "531",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "531",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "442",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/equal-sweetener-sachets-100-pack-5139256",
@@ -1333,56 +1333,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "100pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "693",
         "price_per_unit": "693",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/36387/equal-sweetener-sachets",
@@ -1392,50 +1392,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/equal-sweetener-sachets-50-pack-384004",
@@ -1445,50 +1445,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "50pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "570",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "570",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "570",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "570",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "570",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "570",
         "price_per_unit": "285",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "570",
         "price_per_unit": "285",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94563/equal-sweetener-sachets",
@@ -1498,50 +1498,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "840",
         "price_per_unit": "420",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "840",
         "price_per_unit": "420",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "840",
         "price_per_unit": "420",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "840",
         "price_per_unit": "420",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "840",
         "price_per_unit": "420",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "840",
         "price_per_unit": "420",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "840",
         "price_per_unit": "420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/equal-sweetener-tablets-100-pack-383828",
@@ -1551,50 +1551,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "100pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "310",
         "price_per_unit": "310",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/94843/equal-sweetener-tablets",
@@ -1604,50 +1604,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "320",
         "price_per_unit": "320",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "420",
         "price_per_unit": "420",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "420",
         "price_per_unit": "420",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "420",
         "price_per_unit": "420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/equal-sweetener-tablets-300-pack-5088326",
@@ -1657,56 +1657,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/24488/equal-sweetener-tablets",
@@ -1716,50 +1716,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "293",
         "price_per_unit": "880",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "233",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "233",
         "price_per_unit": "700",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "233",
         "price_per_unit": "700",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hermesetas-mini-sweetener-tablets-800-pack-4692449",
@@ -1769,50 +1769,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "800pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "98",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "98",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "98",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "98",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "98",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "98",
         "price_per_unit": "780",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "102",
         "price_per_unit": "819",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/182028/hermesetas-mini-sweetener-tablets",
@@ -1822,50 +1822,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "620",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "620",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "620",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "620",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "620",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "98",
         "price_per_unit": "780",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "98",
         "price_per_unit": "780",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/natvia-sweetener-granular-350g-7497483",
@@ -1875,56 +1875,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "221",
         "price_per_unit": "775",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "221",
         "price_per_unit": "775",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "221",
         "price_per_unit": "775",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "221",
         "price_per_unit": "775",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "221",
         "price_per_unit": "775",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "221",
         "price_per_unit": "775",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "221",
         "price_per_unit": "775",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "233",
         "price_per_unit": "815",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/534207/natvia-100-natural-sweetener",
@@ -1934,50 +1934,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "221",
         "price_per_unit": "775",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "221",
         "price_per_unit": "775",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/natvia-gold-sweetener-250g-4827617",
@@ -1987,56 +1987,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "357",
         "price_per_unit": "893",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/104327/natvia-gold-sweetener",
@@ -2046,44 +2046,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "340",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/natvia-sweetener-sticks-40-pack-7497461",
@@ -2093,56 +2093,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "40pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1183",
         "price_per_unit": "473",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/741011/natvia-sweetener-sticks",
@@ -2152,50 +2152,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1125",
         "price_per_unit": "450",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/stevia-sweet-granulated-sweetener-jar-75g-9933189",
@@ -2205,56 +2205,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "75g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1232",
         "price_per_unit": "924",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/329037/stevia-sweet-sweet-granulated-jar",
@@ -2264,44 +2264,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1173",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "933",
         "price_per_unit": "700",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "933",
         "price_per_unit": "700",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/stevia-sweet-tablets-220-pack-9933178",
@@ -2311,56 +2311,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "220pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "391",
         "price_per_unit": "860",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "391",
         "price_per_unit": "860",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "391",
         "price_per_unit": "860",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "391",
         "price_per_unit": "860",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "391",
         "price_per_unit": "860",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "391",
         "price_per_unit": "860",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "391",
         "price_per_unit": "860",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "410",
         "price_per_unit": "903",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/650297/stevia-sweet-sweet-tablets",
@@ -2370,44 +2370,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "311",
         "price_per_unit": "685",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "311",
         "price_per_unit": "685",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "311",
         "price_per_unit": "685",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "311",
         "price_per_unit": "685",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "391",
         "price_per_unit": "860",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "391",
         "price_per_unit": "860",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sugarine-sweetener-tablets-600-pack-2997933",
@@ -2417,44 +2417,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "600pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/612562/sugarine-sweetener-tablets",
@@ -2464,50 +2464,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "95",
         "price_per_unit": "570",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/sugarless-low-calorie-sweetener-132-pack-6811607",
@@ -2517,50 +2517,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "132pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "477",
         "price_per_unit": "630",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/665785/sugarless-low-calorie-sweetener-sachets",
@@ -2570,50 +2570,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "455",
         "price_per_unit": "600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whole-earth-monk-fruit-100percent-natural-sweetener-200g-3771878",
@@ -2623,56 +2623,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "447",
         "price_per_unit": "893",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/108123/whole-earth-monk-fruit-sweetener-granules",
@@ -2682,44 +2682,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "425",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "340",
         "price_per_unit": "680",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whole-earth-sugar-raw-replacement-200g-4827581",
@@ -2729,56 +2729,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "468",
         "price_per_unit": "935",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141705/whole-earth-raw-sugar-replacement",
@@ -2788,44 +2788,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "445",
         "price_per_unit": "890",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "468",
         "price_per_unit": "935",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/whole-earth-stevia-sugar-replacement-super-valuepack-350g-4827606",
@@ -2835,56 +2835,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "156",
         "price_per_unit": "545",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "156",
         "price_per_unit": "545",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "156",
         "price_per_unit": "545",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "156",
         "price_per_unit": "545",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "156",
         "price_per_unit": "545",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "156",
         "price_per_unit": "545",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "156",
         "price_per_unit": "545",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "156",
         "price_per_unit": "545",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/163996/whole-earth-stevia-sugar-replacement-super-valuepack",
@@ -2894,43 +2894,43 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "197",
         "price_per_unit": "690",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "197",
         "price_per_unit": "690",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "197",
         "price_per_unit": "690",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "197",
         "price_per_unit": "690",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "197",
         "price_per_unit": "690",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "207",
         "price_per_unit": "725",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

@@ -7,32 +7,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "75ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "735",
         "price_per_unit": "735",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/443920/brite-organix-semi-permanent-hair-colour-turquoise",
@@ -42,26 +42,26 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/brite-semi-permanent-colour-blue-75ml-5272085",
@@ -71,32 +71,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "75ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "735",
         "price_per_unit": "735",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/755309/brite-semi-permanent-hair-colour-colour-blue",
@@ -106,20 +106,20 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/brite-semi-permanent-colour-pink-75ml-5271967",
@@ -129,56 +129,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "75ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "735",
         "price_per_unit": "735",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/755334/brite-semi-permanent-hair-colour-colour-pink",
@@ -188,44 +188,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/brite-semi-permanent-colour-purple-75ml-5271978",
@@ -235,56 +235,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "75ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "735",
         "price_per_unit": "735",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/755341/brite-semi-permanent-hair-colour-colour-purple",
@@ -294,44 +294,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-8a-natural-medium-ash-blonde-permanent-hair-colour-1-pack-5271730",
@@ -341,56 +341,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208434/clairol-nice-easy-permanent-8a-medium-ash-blonde-hair-colour",
@@ -400,56 +400,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-9.5a-natural-baby-blonde-permanent-hair-colour-1-pack-5266355",
@@ -459,56 +459,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/206748/clairol-nice-easy-permanent-9-5a-babybaby-blonde-hair-colour",
@@ -518,26 +518,26 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-9b-natural-light-beige-blonde-permanent-hair-colour-1-pack-5266366",
@@ -547,32 +547,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208362/clairol-nice-easy-permanent-9b-light-beige-blonde-hair-colour",
@@ -582,38 +582,38 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-2-natural-black-permanent-hair-colour-1-pack-5266399",
@@ -623,56 +623,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208333/clairol-nice-n-easy-permanent-2-black-hair-colour",
@@ -682,56 +682,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-4-natural-dark-brown-permanent-hair-colour-1-pack-5271661",
@@ -741,56 +741,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208199/clairol-nice-n-easy-permanent-4-dark-brown-hair-colour",
@@ -800,56 +800,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-5-natural-medium-brown-permanent-hair-colour-1-pack-5271640",
@@ -859,56 +859,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/207979/clairol-nice-n-easy-permanent-5-medium-brown-hair-colour",
@@ -918,56 +918,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-5g-natural-medium-golden-brown-permanent-hair-colour-1-pack-5266413",
@@ -977,26 +977,26 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208874/clairol-nice-n-easy-permanent-5g-med-gold-brown-hair-colour",
@@ -1006,38 +1006,38 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-5rb-natural-medium-chestnut-brown-permanent-hair-colour-1-pack-5271694",
@@ -1047,26 +1047,26 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/227253/clairol-nice-n-easy-permanent-5rb-chestnut-brown-hair-colour",
@@ -1076,56 +1076,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-6-natural-light-brown-permanent-hair-colour-1-pack-5271526",
@@ -1135,56 +1135,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/207944/clairol-nice-n-easy-permanent-6-light-brown-hair-colour",
@@ -1194,50 +1194,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-6a-natural-light-ash-brown-permanent-hair-colour-1-pack-5271865",
@@ -1247,26 +1247,26 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/207901/clairol-nice-n-easy-permanent-6a-light-ash-brown-hair-colour",
@@ -1276,50 +1276,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-6r-natural-light-auburn-permanent-hair-colour-1-pack-5271504",
@@ -1329,44 +1329,44 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208027/clairol-nice-n-easy-permanent-6r-light-auburn-hair-colour",
@@ -1376,56 +1376,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-7-natural-dark-blonde-permanent-hair-colour-1-pack-5271832",
@@ -1435,26 +1435,26 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/207757/clairol-nice-n-easy-permanent-7-dark-blonde-hair-colour",
@@ -1464,38 +1464,38 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-8wr-natural-golden-auburn-permanent-hair-colour-1-pack-5271945",
@@ -1505,26 +1505,26 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/227610/clairol-nice-n-easy-permanent-8wr-golden-auburn-hair-colour",
@@ -1534,38 +1534,38 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-9a-natural-light-ash-blonde-permanent-hair-colour-1-pack-5271923",
@@ -1575,56 +1575,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/207775/clairol-nice-n-easy-permanent-9a-lght-ash-blonde-hair-colour",
@@ -1634,56 +1634,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-root-touch-up-permanent-hair-colour-4-dark-brown-1-pack-4681839",
@@ -1693,38 +1693,38 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1650",
         "price_per_unit": "1650",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1650",
         "price_per_unit": "1650",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1650",
         "price_per_unit": "1650",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1650",
         "price_per_unit": "1650",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "1733",
         "price_per_unit": "1733",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232632/clairol-root-touch-up-permanent-4-dark-brown-hair-colour",
@@ -1734,44 +1734,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-root-touch-up-permanent-hair-colour-5-medium-brown-1-pack-4681828",
@@ -1781,38 +1781,38 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1650",
         "price_per_unit": "1650",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1650",
         "price_per_unit": "1650",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1650",
         "price_per_unit": "1650",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1650",
         "price_per_unit": "1650",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "1733",
         "price_per_unit": "1733",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232635/clairol-root-touch-up-permanent-5-medium-brown-hair-colour",
@@ -1822,44 +1822,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "990",
         "price_per_unit": "990",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-nutrisse1-liquorice-permanent-hair-colour-1-pack-8289696",
@@ -1869,56 +1869,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/107477/garnier-nutrisse-hair-colour-1-liquorice-black",
@@ -1928,44 +1928,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1785",
         "price_per_unit": "1785",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-nutrisse-3-espresso-permanent-hair-colour-1-pack-9687118",
@@ -1975,56 +1975,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/260476/garnier-nutrisse-hair-colour-3-espresso-darkest-brown",
@@ -2034,56 +2034,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1785",
         "price_per_unit": "1785",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-nutrisse-4-tamarind-permanent-hair-colour-1-pack-8289583",
@@ -2093,56 +2093,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/107466/garnier-nutrisse-hair-colour-4-tamarind-dark-brown",
@@ -2152,56 +2152,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1785",
         "price_per_unit": "1785",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-nutrisse-5-chocolate-brown-permanent-hair-colour-1-pack-4443513",
@@ -2211,56 +2211,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/226712/garnier-nutrisse-hair-colour-5-chocolate-brown",
@@ -2270,56 +2270,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1785",
         "price_per_unit": "1785",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-5.0-brown-1-each-5500554",
@@ -2329,56 +2329,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232292/garnier-olia-permanent-hair-colour-brown",
@@ -2388,56 +2388,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-7.0-dark-blonde-1-each-5500598",
@@ -2447,56 +2447,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232297/garnier-olia-permanent-hair-colour-dark-blonde",
@@ -2506,44 +2506,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-4.0-dark-brown-1-each-5500361",
@@ -2553,56 +2553,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232293/garnier-olia-permanent-hair-colour-dark-brown",
@@ -2612,50 +2612,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-1.0-night-black-1-each-5500339",
@@ -2665,56 +2665,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232291/garnier-olia-permanent-hair-colour-deep-black",
@@ -2724,50 +2724,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-10.1-very-very-light-blonde-1-each-5500656",
@@ -2777,32 +2777,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232290/garnier-olia-permanent-hair-colour-light-ash-blonde",
@@ -2812,38 +2812,38 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-6.0-light-brown-1-each-5500576",
@@ -2853,56 +2853,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232287/garnier-olia-permanent-hair-colour-light-brown",
@@ -2912,56 +2912,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/brite-semi-permanent-rose-hair-colour-75ml-5272074",
@@ -2971,44 +2971,44 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "75ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "700",
         "price_per_unit": "700",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "735",
         "price_per_unit": "735",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/578510/brite-semi-permanent-rose-hair-colour",
@@ -3018,38 +3018,38 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "667",
         "price_per_unit": "500",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/brite-white-toner-1-pack-5288540",
@@ -3059,56 +3059,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1120",
         "price_per_unit": "1120",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1120",
         "price_per_unit": "1120",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1120",
         "price_per_unit": "1120",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1120",
         "price_per_unit": "1120",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1120",
         "price_per_unit": "1120",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1120",
         "price_per_unit": "1120",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1120",
         "price_per_unit": "1120",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1176",
         "price_per_unit": "1176",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/161873/brite-white-toner",
@@ -3118,20 +3118,20 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "960",
         "price_per_unit": "960",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "960",
         "price_per_unit": "960",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-3.5-natural-darkest-brown-permanent-hair-colour-1-pack-5266457",
@@ -3141,56 +3141,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208044/clairol-nice-n-easy-permanent-3-5-darkest-brown-hair-colour",
@@ -3200,38 +3200,38 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-7cb-natural-dark-champagne-blonde-permanent-hair-colour-1-pack-5271854",
@@ -3241,32 +3241,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/227278/clairol-nice-n-easy-permanent-7cb-dark-champagne-blonde",
@@ -3276,44 +3276,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/colourless-hair-colour-remover-max-effect-1-pack-1301567",
@@ -3323,56 +3323,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2950",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2950",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2950",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2950",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2950",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2950",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2950",
         "price_per_unit": "2950",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3098",
         "price_per_unit": "3098",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/618386/colourless-hair-colour-remover-max-strength",
@@ -3382,44 +3382,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1639",
         "price_per_unit": "2950",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1639",
         "price_per_unit": "2950",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1639",
         "price_per_unit": "2950",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1639",
         "price_per_unit": "2950",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1639",
         "price_per_unit": "2950",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1803",
         "price_per_unit": "3245",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-nutrisse-9.13-light-ash-beige-blonde-permanent-hair-colour-1-pack-2292450",
@@ -3429,56 +3429,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/840404/garnier-nutrisse-hair-colour-9-13-natural-light-blonde",
@@ -3488,50 +3488,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1785",
         "price_per_unit": "1785",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-5.3-golden-brown-1-each-5500565",
@@ -3541,56 +3541,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232294/garnier-olia-permanent-hair-colour-golden-brown",
@@ -3600,50 +3600,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-blonde-it-up-platinum-blonde-1-pack-5259611",
@@ -3653,44 +3653,44 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1600",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1600",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1680",
         "price_per_unit": "1680",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/227736/clairol-blonde-it-up-permanent-platinum-blonde-hair-colour",
@@ -3700,32 +3700,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "1600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1760",
         "price_per_unit": "1760",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-9.5-natural-extra-light-blonde-permanent-hair-colour-1-pack-5266388",
@@ -3735,32 +3735,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/226851/clairol-nice-easy-permanent-9-5-extra-light-blonde-hair-colour",
@@ -3770,32 +3770,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-5w-natural-medium-caramel-brown-permanent-hair-coluor-1-pack-5266435",
@@ -3805,32 +3805,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208273/clairol-nice-n-easy-permanent-5w-caramel-brown-hair-colour",
@@ -3840,32 +3840,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-8-medium-blonde-permanent-hair-colour-1-pack-5266333",
@@ -3875,26 +3875,26 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208104/clairol-nice-n-easy-permanent-8-medium-blonde-hair-colour",
@@ -3904,32 +3904,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-nutrisse-naturals-hair-1-pack-2901435",
@@ -3939,44 +3939,44 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/626241/garnier-nutrisse-hair-colour-6n-nude-light-brown",
@@ -3986,32 +3986,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1785",
         "price_per_unit": "1785",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-2p-platinum-black-1-each-5500634",
@@ -4021,44 +4021,44 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/248862/garnier-olia-permanent-hair-colour-dark-black-platinum",
@@ -4068,32 +4068,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-3.0-soft-black-1-each-5500667",
@@ -4103,56 +4103,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/240459/garnier-olia-permanent-hair-colour-darkest-brown",
@@ -4162,32 +4162,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-6.66-very-light-intense-red-1-each-5500645",
@@ -4197,32 +4197,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232298/garnier-olia-permanent-hair-colour-very-intense-red",
@@ -4232,32 +4232,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "2420",
         "price_per_unit": "2420",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/clairol-nice-'n-easy-3.5bg-natural-dark-burgundy-permanent-hair-colour-1-pack-5271934",
@@ -4267,26 +4267,26 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/207997/clairol-nice-n-easy-permanent-3-5bg-burgundy-hair-colour",
@@ -4296,20 +4296,20 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-nutrisse-4.15-mahogany-ash-brown-permanent-hair-colour-1-pack-2292483",
@@ -4319,32 +4319,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/840354/garnier-nutrisse-hair-colour-4-15-iced-chestnut",
@@ -4354,14 +4354,14 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-nutrisse-hair-colour-6.6-fiery-red-1-pack-8656855",
@@ -4371,32 +4371,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/721294/garnier-nutrisse-hair-colour-6-60-fiery-red",
@@ -4406,14 +4406,14 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "1700",
         "price_per_unit": "1700",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-hair-colour-8.0-blonde-1-each-5500601",
@@ -4423,44 +4423,44 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/232295/garnier-olia-permanent-hair-colour-blonde",
@@ -4470,14 +4470,14 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/garnier-olia-b+++-max-bleach-1-pack-5259600",
@@ -4487,32 +4487,32 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1540",
         "price_per_unit": "1540",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1615",
         "price_per_unit": "1615",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/229418/garnier-olia-permanent-max-bleach-no-ammonia",
@@ -4522,13 +4522,13 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "2200",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

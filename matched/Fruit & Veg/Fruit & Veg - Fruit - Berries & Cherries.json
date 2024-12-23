@@ -7,20 +7,20 @@
     "shop": "coles",
     "category_id": "2100",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2353",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "2353",
         "price_per_unit": "400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/80815/berry-blackberries",
@@ -30,38 +30,38 @@
     "shop": "Woolworths",
     "category_id": "2100",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2941",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2941",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2941",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2941",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2941",
         "price_per_unit": "500",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coles-finest-blackberries-125g-3468665",
@@ -71,50 +71,50 @@
     "shop": "coles",
     "category_id": "2100",
     "weight": "125g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3600",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "4000",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "4000",
         "price_per_unit": "500",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/827719/driscoll-s-premium-blackberries-punnet",
@@ -124,38 +124,38 @@
     "shop": "Woolworths",
     "category_id": "2100",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3600",
         "price_per_unit": "450",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3600",
         "price_per_unit": "450",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3600",
         "price_per_unit": "450",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3600",
         "price_per_unit": "450",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "4400",
         "price_per_unit": "550",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/coles-raspberries-170g-7509673",
@@ -165,20 +165,20 @@
     "shop": "coles",
     "category_id": "2100",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2647",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "2647",
         "price_per_unit": "450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/453364/raspberries-punnet",
@@ -188,37 +188,37 @@
     "shop": "Woolworths",
     "category_id": "2100",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2765",
         "price_per_unit": "470",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2765",
         "price_per_unit": "470",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2765",
         "price_per_unit": "470",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2765",
         "price_per_unit": "470",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2647",
         "price_per_unit": "450",
         "price_unit": "KG"
       }
-    }
+    ]
   }
 ]

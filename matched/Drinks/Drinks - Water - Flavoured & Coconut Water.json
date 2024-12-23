@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "578",
         "price_per_unit": "578",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/500999/cocobella-coconut-water-chocolate-chocolate",
@@ -66,50 +66,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cocobella-coconut-water-straight-up-1l-1251527",
@@ -119,56 +119,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "275",
         "price_per_unit": "275",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "275",
         "price_per_unit": "275",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "275",
         "price_per_unit": "275",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "275",
         "price_per_unit": "275",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "275",
         "price_per_unit": "275",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "275",
         "price_per_unit": "275",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "288",
         "price_per_unit": "288",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "275",
         "price_per_unit": "275",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/724514/cocobella-coconut-water-straight-up",
@@ -178,56 +178,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/gatorade-g-active-sports-drinks-berry-water-electrolytes-and-vitamins-600ml-2925830",
@@ -237,56 +237,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "600ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "642",
         "price_per_unit": "385",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "700",
         "price_per_unit": "420",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/594960/gatorade-g-active-sports-drinks-berry-water-electrolytes-vitamins",
@@ -296,56 +296,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "642",
         "price_per_unit": "385",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "667",
         "price_per_unit": "400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/h2-coco-100percent-natural-coconut-water-1l-2048358",
@@ -355,56 +355,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "420",
         "price_per_unit": "420",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/786195/h2coco-100-natural-pure-coconut-water",
@@ -414,56 +414,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "400",
         "price_per_unit": "400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/h2-coco-100percent-natural-coconut-water-2l-3058313",
@@ -473,56 +473,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/172439/h2coco-pure-coconut-water",
@@ -532,56 +532,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "600",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/pump-flavoured-water-lime-750ml-2099880",
@@ -591,38 +591,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "750ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "453",
         "price_per_unit": "340",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "453",
         "price_per_unit": "340",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "453",
         "price_per_unit": "340",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "453",
         "price_per_unit": "340",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "467",
         "price_per_unit": "350",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/325530/pump-lime-rush-water-bottle-lime-rush-bottle",
@@ -632,56 +632,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "533",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "533",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "533",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "533",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "533",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "533",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "533",
         "price_per_unit": "400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "560",
         "price_per_unit": "420",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raw-c-straight-up-coconut-water-2l-3422518",
@@ -691,56 +691,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/630643/raw-c-coconut-water",
@@ -750,56 +750,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "330",
         "price_per_unit": "660",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raw-c-pure-natural-coconut-water-1l-3517705",
@@ -809,56 +809,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "578",
         "price_per_unit": "578",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "550",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/785627/raw-c-coconut-water-pure-natural",
@@ -868,55 +868,55 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "330",
         "price_per_unit": "330",
         "price_unit": "L"
       }
-    }
+    ]
   }
 ]

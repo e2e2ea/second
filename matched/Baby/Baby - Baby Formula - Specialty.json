@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "850g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "353",
         "price_per_unit": "3000",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "353",
         "price_per_unit": "3000",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "353",
         "price_per_unit": "3000",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "353",
         "price_per_unit": "3000",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "353",
         "price_per_unit": "3000",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "353",
         "price_per_unit": "3000",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "371",
         "price_per_unit": "3150",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "353",
         "price_per_unit": "3000",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/654787/alula-gold-delicateeze-0-12-months-infant-formula",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "306",
         "price_per_unit": "2600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "306",
         "price_per_unit": "2600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "306",
         "price_per_unit": "2600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "306",
         "price_per_unit": "2600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "306",
         "price_per_unit": "2600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "306",
         "price_per_unit": "2600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "306",
         "price_per_unit": "2600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "306",
         "price_per_unit": "2600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/alula-gold-lactose-intolerance-0-12-months-infant-formula-900g-3025846",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "338",
         "price_per_unit": "3045",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/654788/alula-gold-lactose-intolerance-0-12-mth-infant-formula",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "338",
         "price_per_unit": "3045",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/alula-gold-reflux-0-12-months-infant-formula-900g-8760904",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "338",
         "price_per_unit": "3045",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/655077/alula-gold-reflux-0-12-months-infant-formula",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "322",
         "price_per_unit": "2900",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "338",
         "price_per_unit": "3045",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aptamil-allerpro-syneo-baby-formula-stage-1-900g-6187265",
@@ -361,56 +361,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "513",
         "price_per_unit": "4620",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/122332/aptamil-allerpro-syneo-1-baby-formula-allergy-from-birth-to-6-months",
@@ -420,38 +420,38 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "513",
         "price_per_unit": "4620",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aptamil-allerpro-syneo-baby-formula-stage-2-900g-6187301",
@@ -461,56 +461,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "513",
         "price_per_unit": "4620",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/122313/aptamil-allerpro-syneo-2-follow-on-formula-allergy-6-12-months",
@@ -520,38 +520,38 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "489",
         "price_per_unit": "4400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "513",
         "price_per_unit": "4620",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aptamil-gold+-colic-and-constipation-baby-infant-formula-from-birth-to-12-months-900g-3292649",
@@ -561,56 +561,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "397",
         "price_per_unit": "3570",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/807364/aptamil-gold-colic-constipation-baby-formula-from-0-12-months",
@@ -620,56 +620,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "397",
         "price_per_unit": "3570",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aptamil-gold+-lactose-intolerance-baby-infant-formula-from-birth-to-12-months-900g-1315878",
@@ -679,56 +679,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/757965/aptamil-gold-lactose-intolerance-baby-formula-from-0-12-months",
@@ -738,56 +738,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aptamil-gold+-reflux-baby-infant-formula-regurgitation-or-mild-reflux-from-birth-to-12-months-900g-3773498",
@@ -797,56 +797,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "397",
         "price_per_unit": "3570",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/91791/aptamil-gold-reflux-baby-infant-formula-from-0-12-months",
@@ -856,50 +856,50 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "397",
         "price_per_unit": "3570",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aptamil-prosyneo-sensitive-baby-infant-formula-formulated-for-tolerance-from-birth-to-12-months-900g-3672945",
@@ -909,56 +909,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "397",
         "price_per_unit": "3570",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/68714/aptamil-prosyneo-sensitive-baby-infant-formula-from-0-12-months",
@@ -968,56 +968,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "378",
         "price_per_unit": "3400",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "397",
         "price_per_unit": "3570",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aptamil-sensitive-toddler-from-1-year-900g-1-each-6248053",
@@ -1027,56 +1027,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "362",
         "price_per_unit": "3255",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/296167/aptamil-sensitive-premium-toddler-formula-from-12-months",
@@ -1086,50 +1086,50 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "344",
         "price_per_unit": "3100",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "379",
         "price_per_unit": "3410",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/karicare+-soy-milk-for-all-ages-900g-5578664",
@@ -1139,32 +1139,32 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "900g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/87983/karicare-soy-baby-infant-formula-from-0-to-12-months",
@@ -1174,56 +1174,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "222",
         "price_per_unit": "2000",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "233",
         "price_per_unit": "2100",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nestle-nan-a.r.-baby-infant-formula-for-regurgitation-from-birth-to-12-months-800g-4163346",
@@ -1233,56 +1233,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "800g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "348",
         "price_per_unit": "2783",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/89602/nestle-nan-a-r-baby-formula-for-babies-with-regurgitation",
@@ -1292,56 +1292,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "331",
         "price_per_unit": "2650",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "348",
         "price_per_unit": "2785",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nan-expertpro-formula-lactose-intolerence-400g-6179551",
@@ -1351,56 +1351,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "381",
         "price_per_unit": "1523",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/898447/nestle-nan-expert-pro-lactose-intolerance-formula",
@@ -1410,55 +1410,55 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "363",
         "price_per_unit": "1450",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

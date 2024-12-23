@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/224641/ajax-spray-wipe-glass-cleaner-trigger-spray",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/earth-choice-window-cleaner-trigger-pack-600ml-9189347",
@@ -125,44 +125,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "600ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "52",
         "price_per_unit": "310",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "54",
         "price_per_unit": "325",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/712668/earth-choice-window-cleaner-window",
@@ -172,56 +172,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "53",
         "price_per_unit": "315",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/windex-glass-cleaner-trigger-spray-crystal-rain-500ml-6294764",
@@ -231,56 +231,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "500",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "105",
         "price_per_unit": "525",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/297323/windex-glass-cleaner-trigger-crystal-rain",
@@ -290,37 +290,37 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "350",
         "price_unit": "ML"
       }
-    }
+    ]
   }
 ]

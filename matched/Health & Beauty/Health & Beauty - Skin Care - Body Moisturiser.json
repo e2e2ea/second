@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "3000",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "315",
         "price_per_unit": "3150",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/688099/aveeno-daily-moisturising-body-lotion-fragrance-free-sensitive-skin",
@@ -66,50 +66,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "180",
         "price_per_unit": "1800",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "180",
         "price_per_unit": "1800",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "180",
         "price_per_unit": "1800",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "180",
         "price_per_unit": "1800",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "180",
         "price_per_unit": "1800",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "180",
         "price_per_unit": "1800",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "180",
         "price_per_unit": "1800",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aveeno-daily-moisturising-non-greasy-fragrance-free-body-lotion-48-hour-hydration-soothe-normal-dry-sensitive-skin-354ml-7465319",
@@ -119,56 +119,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "354ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "350",
         "price_per_unit": "1240",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "350",
         "price_per_unit": "1240",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "350",
         "price_per_unit": "1240",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "350",
         "price_per_unit": "1240",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "350",
         "price_per_unit": "1240",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "350",
         "price_per_unit": "1240",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "350",
         "price_per_unit": "1240",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "368",
         "price_per_unit": "1302",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/276040/aveeno-daily-moisturising-body-lotion-fragrance-free-sensitive-skin",
@@ -178,56 +178,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "263",
         "price_per_unit": "930",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "263",
         "price_per_unit": "930",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "263",
         "price_per_unit": "930",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "263",
         "price_per_unit": "930",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "263",
         "price_per_unit": "930",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "263",
         "price_per_unit": "930",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "263",
         "price_per_unit": "930",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "263",
         "price_per_unit": "930",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/aveeno-skin-relief-fragrance-free-body-lotion-shea-butter-72-hour-intense-hydration-protect-extra-dry-itchy-sensitive-skin-1l-3883099",
@@ -237,38 +237,38 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "360",
         "price_per_unit": "3600",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "360",
         "price_per_unit": "3600",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "360",
         "price_per_unit": "3600",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "360",
         "price_per_unit": "3600",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "378",
         "price_per_unit": "3780",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/688220/aveeno-skin-relief-fragrance-free-body-lotion-dry-sensitive-skin",
@@ -278,44 +278,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "216",
         "price_per_unit": "2160",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "216",
         "price_per_unit": "2160",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "216",
         "price_per_unit": "2160",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "216",
         "price_per_unit": "2160",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "216",
         "price_per_unit": "2160",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "216",
         "price_per_unit": "2160",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bio-specialist-skincare-oil-125ml-6575865",
@@ -325,38 +325,38 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "125ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1664",
         "price_per_unit": "2080",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1664",
         "price_per_unit": "2080",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1664",
         "price_per_unit": "2080",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1664",
         "price_per_unit": "2080",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "1747",
         "price_per_unit": "2184",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/272701/bio-oil-bio-oil",
@@ -366,44 +366,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2080",
         "price_per_unit": "2600",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2080",
         "price_per_unit": "2600",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2080",
         "price_per_unit": "2600",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "2080",
         "price_per_unit": "2600",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2080",
         "price_per_unit": "2600",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "2184",
         "price_per_unit": "2730",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bio-skincare-oil-60ml-6575741",
@@ -413,56 +413,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "60ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2000",
         "price_per_unit": "1200",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2100",
         "price_per_unit": "1260",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/272700/bio-oil-body-oil",
@@ -472,56 +472,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2250",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2250",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2250",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2250",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2250",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2250",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2250",
         "price_per_unit": "1350",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2250",
         "price_per_unit": "1350",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cetaphil-moisturising-lotion-500ml-1481742",
@@ -531,56 +531,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "276",
         "price_per_unit": "1380",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "276",
         "price_per_unit": "1380",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "276",
         "price_per_unit": "1380",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "276",
         "price_per_unit": "1380",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "276",
         "price_per_unit": "1380",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "276",
         "price_per_unit": "1380",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "276",
         "price_per_unit": "1380",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "289",
         "price_per_unit": "1445",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/770207/cetaphil-body-moisturising-lotion-daily-face-body",
@@ -590,56 +590,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cetaphil-daily-advance-ultra-hydrating-lotion-226g-1481141",
@@ -649,44 +649,44 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "226g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "841",
         "price_per_unit": "1900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "841",
         "price_per_unit": "1900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "841",
         "price_per_unit": "1900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "841",
         "price_per_unit": "1900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "841",
         "price_per_unit": "1900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "883",
         "price_per_unit": "1995",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/793109/cetaphil-daily-advance-lotion",
@@ -696,44 +696,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "588",
         "price_per_unit": "1330",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "588",
         "price_per_unit": "1330",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "588",
         "price_per_unit": "1330",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "588",
         "price_per_unit": "1330",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "588",
         "price_per_unit": "1330",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "588",
         "price_per_unit": "1330",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cetaphil-daily-advance-lotion-473ml-3732650",
@@ -743,50 +743,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "473ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "539",
         "price_per_unit": "2550",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "539",
         "price_per_unit": "2550",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "539",
         "price_per_unit": "2550",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "539",
         "price_per_unit": "2550",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "539",
         "price_per_unit": "2550",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "539",
         "price_per_unit": "2550",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "566",
         "price_per_unit": "2678",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/770190/cetaphil-daily-advance-ultra-hydrating-lotion",
@@ -796,44 +796,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "376",
         "price_per_unit": "1780",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "376",
         "price_per_unit": "1780",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "376",
         "price_per_unit": "1780",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "376",
         "price_per_unit": "1780",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "376",
         "price_per_unit": "1780",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "376",
         "price_per_unit": "1780",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cetaphil-face-moisturiser-118ml-3732672",
@@ -843,56 +843,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "118ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1949",
         "price_per_unit": "2300",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1949",
         "price_per_unit": "2300",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1949",
         "price_per_unit": "2300",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1949",
         "price_per_unit": "2300",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1949",
         "price_per_unit": "2300",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1949",
         "price_per_unit": "2300",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1949",
         "price_per_unit": "2300",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2047",
         "price_per_unit": "2415",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/771735/cetaphil-daily-facial-moisturiser-all-skin-types",
@@ -902,56 +902,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1356",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1356",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1356",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1356",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1356",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1356",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1356",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1356",
         "price_per_unit": "1600",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cetaphil-moisturising-cream-100g-3732639",
@@ -961,56 +961,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "100g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1150",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1208",
         "price_per_unit": "1208",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/477585/cetaphil-moisturising-cream-for-face-body",
@@ -1020,44 +1020,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "800",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "800",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "800",
         "price_per_unit": "800",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "800",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cetaphil-moisturising-cream-550g-5527936",
@@ -1067,50 +1067,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "550g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "509",
         "price_per_unit": "2800",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "509",
         "price_per_unit": "2800",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "509",
         "price_per_unit": "2800",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "509",
         "price_per_unit": "2800",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "509",
         "price_per_unit": "2800",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "509",
         "price_per_unit": "2800",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "535",
         "price_per_unit": "2940",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/110783/cetaphil-moisturising-cream-for-face-body",
@@ -1120,50 +1120,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "356",
         "price_per_unit": "1960",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "356",
         "price_per_unit": "1960",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "356",
         "price_per_unit": "1960",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "356",
         "price_per_unit": "1960",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "356",
         "price_per_unit": "1960",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "356",
         "price_per_unit": "1960",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "356",
         "price_per_unit": "1960",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cetaphil-moisturising-lotion-237ml-7061499",
@@ -1173,56 +1173,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "237ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "717",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "717",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "717",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "717",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "717",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "717",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "717",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "753",
         "price_per_unit": "1785",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385113/cetaphil-moisturising-lotion",
@@ -1232,56 +1232,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "502",
         "price_per_unit": "1190",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "502",
         "price_per_unit": "1190",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "502",
         "price_per_unit": "1190",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "502",
         "price_per_unit": "1190",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "502",
         "price_per_unit": "1190",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "502",
         "price_per_unit": "1190",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "502",
         "price_per_unit": "1190",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "502",
         "price_per_unit": "1190",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cetaphil-moisturising-lotion-1l-5527903",
@@ -1291,56 +1291,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "330",
         "price_per_unit": "3300",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "330",
         "price_per_unit": "3300",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "330",
         "price_per_unit": "3300",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "330",
         "price_per_unit": "3300",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "330",
         "price_per_unit": "3300",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "330",
         "price_per_unit": "3300",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "330",
         "price_per_unit": "3300",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "347",
         "price_per_unit": "3465",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/801239/cetaphil-moisturising-lotion-dry-to-normal-sensitive-skin",
@@ -1350,50 +1350,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "230",
         "price_per_unit": "2300",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "230",
         "price_per_unit": "2300",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "230",
         "price_per_unit": "2300",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "230",
         "price_per_unit": "2300",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "230",
         "price_per_unit": "2300",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "230",
         "price_per_unit": "2300",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "230",
         "price_per_unit": "2300",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dermaveen-everyday-moisturising-lotion-500ml-1960246",
@@ -1403,14 +1403,14 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "340",
         "price_per_unit": "1700",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/771317/dermaveen-body-moisturiser-lotion",
@@ -1420,44 +1420,44 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dermaveen-everyday-soap-free-wash-500ml-1960279",
@@ -1467,56 +1467,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "340",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "340",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "340",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "340",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "340",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "340",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "340",
         "price_per_unit": "1700",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "357",
         "price_per_unit": "1785",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/771315/dermaveen-body-wash-soap-free",
@@ -1526,56 +1526,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "272",
         "price_per_unit": "1360",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dermaveen-extra-hydration-gentle-colloidal-oatmeal-soap-free-wash-1l-4348512",
@@ -1585,56 +1585,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "252",
         "price_per_unit": "2520",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141385/dermaveen-extra-hydration-gentle-soap-free-wash",
@@ -1644,56 +1644,56 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dermaveen-intensive-moisturising-cream-450g-3961057",
@@ -1703,50 +1703,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "511",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "511",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "511",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "511",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "511",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "511",
         "price_per_unit": "2300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "537",
         "price_per_unit": "2415",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141155/dermaveen-extra-hydration-intensive-moisturising-cream",
@@ -1756,32 +1756,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "409",
         "price_per_unit": "1840",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "409",
         "price_per_unit": "1840",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "409",
         "price_per_unit": "1840",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "409",
         "price_per_unit": "1840",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dermaveen-extra-gentle-colloidal-oatmeal-intensive-moisturise-cream-500ml-3540161",
@@ -1791,50 +1791,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "420",
         "price_per_unit": "2100",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141892/dermaveen-extra-hydration-intensive-moisturising-lotion",
@@ -1844,32 +1844,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dermaveen-extra-hydration-intensive-moisturising-lotion-colloidal-oatmeal-1l-4348465",
@@ -1879,56 +1879,56 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "252",
         "price_per_unit": "2520",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141357/dermaveen-intensive-moisturising-lotion",
@@ -1938,50 +1938,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "240",
         "price_per_unit": "2400",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dermaveen-daily-nourish-moisturising-lotion-1l-4348487",
@@ -1991,50 +1991,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "235",
         "price_per_unit": "2352",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141070/dermaveen-moisturising-lotion",
@@ -2044,32 +2044,32 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dermaveen-daily-nourish-soap-free-wash-1l-4348476",
@@ -2079,50 +2079,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "235",
         "price_per_unit": "2352",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141159/dermaveen-soap-free-wash",
@@ -2132,50 +2132,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "224",
         "price_per_unit": "2240",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dermaveen-soap-free-wash-500ml-2859430",
@@ -2185,38 +2185,38 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "400",
         "price_per_unit": "2000",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "420",
         "price_per_unit": "2100",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/601365/dermaveen-soap-free-body-wash-oatmeal",
@@ -2226,50 +2226,50 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "320",
         "price_per_unit": "1600",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dr-pickles-original-formula-tattoo-balm-75g-7048242",
@@ -2279,50 +2279,50 @@
     "shop": "coles",
     "category_id": "15083",
     "weight": "75g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/440479/dr-pickles-tattoo-balm-tube",
@@ -2332,49 +2332,49 @@
     "shop": "Woolworths",
     "category_id": "15083",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2067",
         "price_per_unit": "1550",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

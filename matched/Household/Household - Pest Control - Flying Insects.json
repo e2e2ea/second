@@ -7,50 +7,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "403",
         "price_per_unit": "1208",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/970990/aerogard-home-flying-insect-killer-spray",
@@ -60,50 +60,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "ML"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "400",
         "price_per_unit": "1200",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/hovex-camphor-2-each-5569062",
@@ -113,56 +113,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "each"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "each"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "158",
         "price_per_unit": "315",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/48278/hovex-insect-control-camphor",
@@ -172,56 +172,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "150",
         "price_per_unit": "300",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-fast-knockdown-fly-and-mosquito-killer-low-allergenic-350g-3024898",
@@ -231,44 +231,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/353657/mortein-fast-knockdown-low-allergenic-fly-mosquito-spray",
@@ -278,50 +278,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-fast-knockdown-multi-insect-spray-300g-5435077",
@@ -331,56 +331,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "333",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "333",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "333",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "333",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "333",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "333",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "333",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "350",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/79118/mortein-fast-knockdown-multi-insect-spray",
@@ -390,50 +390,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-naturgard-multi-insect-killer-spray-300g-5398243",
@@ -443,56 +443,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/240591/mortein-naturgard-multi-insect-spray",
@@ -502,44 +502,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-odourless-fly-and-mosquito-killer-spray-350g-5817142",
@@ -549,56 +549,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "170",
         "price_per_unit": "595",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92338/mortein-odourless-flying-insect-spray",
@@ -608,50 +608,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "214",
         "price_per_unit": "750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-peaceful-nights-automatic-plug-in-fly-and-mosquito-repellent-2.57ml-2445314",
@@ -661,56 +661,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2.57ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2800",
         "price_per_unit": "2800",
         "price_unit": ".ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2800",
         "price_per_unit": "2800",
         "price_unit": ".ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2800",
         "price_per_unit": "2800",
         "price_unit": ".ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2800",
         "price_per_unit": "2800",
         "price_unit": ".ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2800",
         "price_per_unit": "2800",
         "price_unit": ".ml"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2800",
         "price_per_unit": "2800",
         "price_unit": ".ml"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2800",
         "price_per_unit": "2800",
         "price_unit": ".ml"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2940",
         "price_per_unit": "2940",
         "price_unit": ".ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/900304/mortein-peaceful-nights-automatic-plug-in-fly-mosquito-repellent",
@@ -720,50 +720,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1470",
         "price_per_unit": "1470",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-peaceful-nights-plug-in-fly-and-mosquito-repeller-refill-2.57ml-2445427",
@@ -773,50 +773,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2.57ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1750",
         "price_per_unit": "1750",
         "price_unit": ".ml"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1750",
         "price_per_unit": "1750",
         "price_unit": ".ml"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1750",
         "price_per_unit": "1750",
         "price_unit": ".ml"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1750",
         "price_per_unit": "1750",
         "price_unit": ".ml"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1750",
         "price_per_unit": "1750",
         "price_unit": ".ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1750",
         "price_per_unit": "1750",
         "price_unit": ".ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1838",
         "price_per_unit": "1838",
         "price_unit": ".ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/900305/mortein-peaceful-nights-plug-in-fly-mosquito-repellent-refill",
@@ -826,50 +826,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1225",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1225",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1225",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1225",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1225",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1225",
         "price_per_unit": "1225",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1288",
         "price_per_unit": "1288",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-powergard-flying-insect-killer-spray-300g-3014169",
@@ -879,44 +879,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "383",
         "price_per_unit": "1150",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "403",
         "price_per_unit": "1208",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/644444/mortein-powergard-flying-insect-spray",
@@ -926,50 +926,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "268",
         "price_per_unit": "805",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "268",
         "price_per_unit": "805",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "268",
         "price_per_unit": "805",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "268",
         "price_per_unit": "805",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "268",
         "price_per_unit": "805",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "268",
         "price_per_unit": "805",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "282",
         "price_per_unit": "847",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mortein-powergard-multi-insect-killer-spray-300g-3260620",
@@ -979,56 +979,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "327",
         "price_per_unit": "980",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/760362/mortein-powergard-multi-insect-spray",
@@ -1038,50 +1038,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "467",
         "price_per_unit": "1400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "490",
         "price_per_unit": "1470",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-pest-odourless-flying-insect-spray-killer-350g-9374531",
@@ -1091,50 +1091,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/177675/raid-flying-insect-killer-spray-odourless",
@@ -1144,44 +1144,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "166",
         "price_per_unit": "580",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-automatic-light-trap-starter-1-each-6855599",
@@ -1191,44 +1191,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/386882/raid-flying-insect-light-trap-plug-in-starter-pack",
@@ -1238,44 +1238,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100ML",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "ML"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "ML"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "ML"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "ML"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "2500",
         "price_per_unit": "2500",
         "price_unit": "ML"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "2630",
         "price_per_unit": "2630",
         "price_unit": "ML"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-automatic-light-trap-refills-3-pack-6858167",
@@ -1285,44 +1285,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "3pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/386445/raid-flying-insect-light-trap-refills",
@@ -1332,44 +1332,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "583",
         "price_per_unit": "1750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "613",
         "price_per_unit": "1840",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-day-and-night-plug-in-primary-1-each-2769881",
@@ -1379,44 +1379,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "each"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "each"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "each"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/311072/raid-max-fly-mosquito-protection-electric-plug-in",
@@ -1426,44 +1426,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1500",
         "price_per_unit": "1500",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-night-and-day-fly-and-mosquito-protection-refill-2-pack-7796236",
@@ -1473,44 +1473,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "875",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "875",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "875",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "875",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "875",
         "price_per_unit": "1750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "875",
         "price_per_unit": "1750",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/336353/raid-max-fly-mosquito-protection-plug-in-refill",
@@ -1520,44 +1520,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "41667",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "41667",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "41667",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "41667",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "41667",
         "price_per_unit": "1750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "41667",
         "price_per_unit": "1750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-one-shot-pest-odourless-flying-insect-spray-killer-with-double-nozzle-320g-3852131",
@@ -1567,50 +1567,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "320g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "945",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/115441/raid-one-shot-flying-insect-killer-spray-odourless",
@@ -1620,38 +1620,38 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "297",
         "price_per_unit": "950",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/raid-one-shot-pest-multipurpose-insect-killer-odourless-320g-3852095",
@@ -1661,56 +1661,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "320g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "295",
         "price_per_unit": "945",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/114579/raid-one-shot-multipurpose-insect-killer-spray-odourless",
@@ -1720,43 +1720,43 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "281",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "297",
         "price_per_unit": "950",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

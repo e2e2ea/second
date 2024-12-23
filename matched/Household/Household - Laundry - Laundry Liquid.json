@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1260",
         "price_per_unit": "2520",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/425288/biozet-attack-front-top-loader-regular-laundry-liquid",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/biozet-attack-liquid-plus-softener-2l-3196430",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1365",
         "price_per_unit": "2730",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/682037/biozet-attack-liquid-with-softener",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1360",
         "price_per_unit": "2720",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/biozet-attack-liquid-plus-eliminator-2l-3465157",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1365",
         "price_per_unit": "2730",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/803466/biozet-attack-plus-eliminator",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1360",
         "price_per_unit": "2720",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/biozet-attack-plus-stain-power-2l-5095627",
@@ -361,44 +361,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1365",
         "price_per_unit": "2730",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/141377/biozet-attack-plus-stain-power",
@@ -408,56 +408,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1360",
         "price_per_unit": "2720",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bosistos-power-+-laundry-liquid-1.2l-4353793",
@@ -467,44 +467,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1.2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "733",
         "price_per_unit": "880",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/197587/bosisto-s-laundry-liquid-power-with-australian-eucalyptus-oil",
@@ -514,50 +514,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "700",
         "price_per_unit": "840",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "725",
         "price_per_unit": "870",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bosisto's-sensitive-laundry-liquid-1.2l-3455459",
@@ -567,56 +567,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1.2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "679",
         "price_per_unit": "815",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/864345/bosisto-s-sensitive-laundry-liquid",
@@ -626,50 +626,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "650",
         "price_per_unit": "780",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "675",
         "price_per_unit": "810",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-with-a-touch-of-fabric-softene-2l-7035353",
@@ -679,44 +679,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385221/cold-power-advanced-clean-fabric-softener-laundry-liquid-detergent",
@@ -726,56 +726,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-advanced-clean-laundry-liquid-4l-3774639",
@@ -785,50 +785,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "4l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "473",
         "price_per_unit": "1890",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88207/cold-power-advanced-clean-laundry-liquid-washing-detergent",
@@ -838,56 +838,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-odour-fighter-2l-7035218",
@@ -897,50 +897,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/386082/cold-power-advanced-clean-odour-fighter-laundry-liquid-detergent",
@@ -950,56 +950,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-odour-fighter-4l-7035386",
@@ -1009,32 +1009,32 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "4l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385929/cold-power-advanced-clean-odour-fighter-laundry-liquid-detergent",
@@ -1044,56 +1044,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "900",
         "price_per_unit": "3600",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-extreme-clean-2l-7035375",
@@ -1103,56 +1103,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385987/cold-power-extreme-clean-laundry-liquid-washing-detergent",
@@ -1162,56 +1162,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-sensitive-2l-3774606",
@@ -1221,56 +1221,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88334/cold-power-sensitive-laundry-liquid-washing-detergent",
@@ -1280,56 +1280,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dynamo-professional-laundry-7-in-1-liquid-2l-7035604",
@@ -1339,56 +1339,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1523",
         "price_per_unit": "3045",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385222/dynamo-professional-laundry-liquid-7-in-1-action",
@@ -1398,56 +1398,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1520",
         "price_per_unit": "3040",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dynamo-professional-7-in-1-laundry-liquid-4l-7035681",
@@ -1457,32 +1457,32 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "4l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "625",
         "price_per_unit": "2500",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "625",
         "price_per_unit": "2500",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "625",
         "price_per_unit": "2500",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "625",
         "price_per_unit": "2500",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385232/dynamo-professional-laundry-liquid-7-in-1-action",
@@ -1492,56 +1492,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1025",
         "price_per_unit": "4100",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1025",
         "price_per_unit": "4100",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1025",
         "price_per_unit": "4100",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1025",
         "price_per_unit": "4100",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1025",
         "price_per_unit": "4100",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1025",
         "price_per_unit": "4100",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1025",
         "price_per_unit": "4100",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1025",
         "price_per_unit": "4100",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dynamo-professional-odour-eliminating-laundry-liquid-2l-7035626",
@@ -1551,50 +1551,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1523",
         "price_per_unit": "3045",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385187/dynamo-professional-laundry-liquid-odour-eliminator",
@@ -1604,56 +1604,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1520",
         "price_per_unit": "3040",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dynamo-professional-oxi-plus-laundry-liquid-2l-7035648",
@@ -1663,56 +1663,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1523",
         "price_per_unit": "3045",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385305/dynamo-professional-laundry-liquid-oxi-plus",
@@ -1722,56 +1722,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1520",
         "price_per_unit": "3040",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/earth-choice-ultra-concentrate-front-and-top-loader-laundry-liquid-1l-1726668",
@@ -1781,56 +1781,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "809",
         "price_per_unit": "809",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/780324/earth-choice-front-loader-liquid",
@@ -1840,56 +1840,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "770",
         "price_per_unit": "770",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/earth-choice-laundry-liquid-1l-5417381",
@@ -1899,56 +1899,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/65008/earth-choice-top-front-loader",
@@ -1958,56 +1958,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/earth-choice-concentrate-laundry-liquid-4l-1751111",
@@ -2017,50 +2017,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "4l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/783347/earth-choice-top-front-loader-liquid",
@@ -2070,56 +2070,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "463",
         "price_per_unit": "1850",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fab-frangipani-front-and-top-loader-laundry-liquid-2l-2899785",
@@ -2129,44 +2129,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/598746/fab-laundry-liquid-fresh-frangipani",
@@ -2176,56 +2176,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "450",
         "price_per_unit": "900",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fab-perfume-indulgence-laundry-liquid-gold-absolute-1.8l-3774694",
@@ -2235,56 +2235,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1.8l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88165/fab-laundry-liquid-gold-absolute",
@@ -2294,56 +2294,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-active-clean-front-and-top-2l-2731007",
@@ -2353,56 +2353,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1470",
         "price_per_unit": "2940",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/468551/omo-active-clean-laundry-liquid-front-top-loader-40-washes",
@@ -2412,56 +2412,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-active-clean-front-and-top-4l-2731142",
@@ -2471,50 +2471,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "4l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1181",
         "price_per_unit": "4725",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/430627/omo-active-clean-laundry-liquid-washing-detergent-40-washes",
@@ -2524,56 +2524,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1180",
         "price_per_unit": "4720",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-expert-laundry-liquid-odour-eliminator-2l-5091660",
@@ -2583,50 +2583,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1680",
         "price_per_unit": "3360",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208437/omo-expert-laundry-liquid-odour-eliminator",
@@ -2636,56 +2636,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-sensitive-front-and-top-2l-2731030",
@@ -2695,56 +2695,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1470",
         "price_per_unit": "2940",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/468552/omo-sensitive-laundry-liquid-front-top-loader",
@@ -2754,56 +2754,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-laundry-liquid-sensitive-front-and-top-4l-2731186",
@@ -2813,50 +2813,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "4l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1181",
         "price_per_unit": "4725",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/430625/omo-sensitive-laundry-liquid-front-top-loader",
@@ -2866,56 +2866,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1125",
         "price_per_unit": "4500",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1180",
         "price_per_unit": "4720",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-touch-of-comfort-laundry-liquid-detergent-40-washes-2l-2900534",
@@ -2925,50 +2925,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1470",
         "price_per_unit": "2940",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/659939/omo-touch-of-comfort-laundry-liquid",
@@ -2978,56 +2978,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1400",
         "price_per_unit": "2800",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-ultimate-laundry-liquid-detergent-40-washes-2l-5004891",
@@ -3037,56 +3037,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1680",
         "price_per_unit": "3360",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208873/omo-ultimate-laundry-liquid-front-top-loader-40-washes",
@@ -3096,56 +3096,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/omo-ultimate-laundry-liquid-detergent-sensitive-40-washes-2l-5091637",
@@ -3155,56 +3155,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1680",
         "price_per_unit": "3360",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/205508/omo-ultimate-sensitive-laundry-liquid",
@@ -3214,56 +3214,56 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1600",
         "price_per_unit": "3200",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/biozet-attack-liquid-plus-sensitive-2l-6272375",
@@ -3273,56 +3273,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1365",
         "price_per_unit": "2730",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/270638/biozet-attack-sensitive-laundry-liquid",
@@ -3332,50 +3332,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1300",
         "price_per_unit": "2600",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1360",
         "price_per_unit": "2720",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-advanced-clean-laundry-liquid-1l-3774402",
@@ -3385,56 +3385,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88675/cold-power-advanced-clean-laundry-liquid-washing-detergent",
@@ -3444,50 +3444,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "1000",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-advanced-clean-2l-3774581",
@@ -3497,56 +3497,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88163/cold-power-advanced-clean-laundry-liquid-washing-detergent",
@@ -3556,50 +3556,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-laundry-liquid-lemon-fresh-2l-3774592",
@@ -3609,50 +3609,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "1200",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/87848/cold-power-advanced-clean-lemon-laundry-liquid-washing-detergent",
@@ -3662,50 +3662,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1200",
         "price_per_unit": "2400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dynamo-professional-clean-and-fresh-machine-laundry-liquid-2l-7035670",
@@ -3715,44 +3715,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1523",
         "price_per_unit": "3045",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/385322/dynamo-professional-laundry-liquid-clean-fresh-machine",
@@ -3762,50 +3762,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1450",
         "price_per_unit": "2900",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1520",
         "price_per_unit": "3040",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fab-gold-absolute-laundry-liquid-3.6l-3921664",
@@ -3815,44 +3815,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "3.6l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": ".l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": ".l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/112684/fab-laundry-liquid-gold-absolute",
@@ -3862,50 +3862,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "458",
         "price_per_unit": "1650",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/fab-intense-fresh-laundry-liquid-1.8l-4357557",
@@ -3915,32 +3915,32 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1.8l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/87866/fab-laundry-liquid-intense-fresh-odour-control",
@@ -3950,50 +3950,50 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "900",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/purity-concentrate-laundry-liquid-2l-3787969",
@@ -4003,56 +4003,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "368",
         "price_per_unit": "735",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88870/purity-sensitive-laundry-liquid",
@@ -4062,44 +4062,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "350",
         "price_per_unit": "700",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/radiant-blacks-and-darks-laundry-liquid-black-wash-detergent-1l-3196667",
@@ -4109,56 +4109,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1155",
         "price_per_unit": "1155",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/660226/radiant-blacks-darks-laundry-liquid-detergent-black-wash",
@@ -4168,44 +4168,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/radiant-laundry-liquid-all-in-one-mixed-colours-2l-4144250",
@@ -4215,56 +4215,56 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/143227/radiant-mixed-colours-laundry-liquid-detergent",
@@ -4274,44 +4274,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/radiant-laundry-liquid-brightens-whites-or-colours-2l-4144352",
@@ -4321,50 +4321,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/143353/radiant-whites-or-colours-laundry-liquid-detergent",
@@ -4374,44 +4374,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "2000",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/surf-laundry-liquid-detergent-tropical-80-washes-4l-2899719",
@@ -4421,50 +4421,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "4l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/475333/surf-liquid-washing-detergent-tropical-80-washes",
@@ -4474,44 +4474,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "450",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "473",
         "price_per_unit": "1890",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/surf-laundry-liquid-detergent-coastal-luxury-40-washes-2l-3199010",
@@ -4521,44 +4521,44 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/681576/surf-washing-liquid-coastal-luxury-40-washes",
@@ -4568,44 +4568,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "520",
         "price_per_unit": "1040",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/surf-laundry-liquid-detergent-tropical-40-washes-2l-3524358",
@@ -4615,50 +4615,50 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "2l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/841319/surf-washing-liquid-tropical-lily-40-washes",
@@ -4668,44 +4668,44 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "500",
         "price_per_unit": "1000",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "520",
         "price_per_unit": "1040",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dr-beckmann-magic-leaves-universal-1-each-6276241",
@@ -4715,20 +4715,20 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1400",
         "price_per_unit": "1400",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/897214/dr-beckmann-laundry-detergent-sheets-universal",
@@ -4738,32 +4738,32 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "60",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "60",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "1500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "1570",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cold-power-advaned-clean-laundry-liquid-5.4l-7035422",
@@ -4773,20 +4773,20 @@
     "shop": "coles",
     "category_id": "14003",
     "weight": "5.4l",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "476",
         "price_per_unit": "2570",
         "price_unit": ".l"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "476",
         "price_per_unit": "2570",
         "price_unit": ".l"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/388242/cold-power-advanced-clean-laundry-liquid-washing-detergent",
@@ -4796,13 +4796,13 @@
     "shop": "Woolworths",
     "category_id": "14003",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NT",
         "price": "463",
         "price_per_unit": "2500",
         "price_unit": "L"
       }
-    }
+    ]
   }
 ]

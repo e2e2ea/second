@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3240",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/206426/bega-cheese-slices-strong-bitey-vintage",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-strong-and-bitey-natural-vintage-slices-500g-4413658",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2376",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/769525/bega-cheese-slices-strong-bitey-vintage",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-easy-melt-colby-slices-250g-1446286",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3240",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/223934/bega-colby-cheese-slices-slices",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-cheese-slices-colby-500g-6796660",
@@ -361,56 +361,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2376",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/296324/bega-colby-cheese-slices-slices",
@@ -420,56 +420,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-light-and-tasty-natural-cheese-slices-12x250g-250g-9400960",
@@ -479,56 +479,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3240",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/206424/bega-reduced-fat-cheese-slices-light-vintage-25-",
@@ -538,56 +538,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-tasty-natural-cheese-slices-15-pack-250g-6704323",
@@ -597,56 +597,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3240",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/69369/bega-tasty-cheese-slices-slices",
@@ -656,56 +656,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-dairy-natural-tasty-cheese-slices-30-pack-500g-6704811",
@@ -715,56 +715,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2376",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/769558/bega-tasty-cheese-slices-slices",
@@ -774,56 +774,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-cheese-slices-tasty-750g-4405810",
@@ -833,20 +833,20 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "750g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "TAS",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/574619/bega-tasty-cheese-slices",
@@ -856,56 +856,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-cheese-slices-aussie-jack-refill-250g-7648556",
@@ -915,38 +915,38 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/423707/cheer-cheese-aussie-jack-burger-cheese-slices",
@@ -956,50 +956,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-colby-cheese-slices-500g-2781978",
@@ -1009,56 +1009,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2376",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165808/cheer-cheese-colby-cheese-slices",
@@ -1068,50 +1068,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-light-and-tasty-cheese-slices-500g-5292118",
@@ -1121,56 +1121,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2376",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/166392/cheer-cheese-light-tasty-cheese-slices",
@@ -1180,50 +1180,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-light-and-tasty-cheese-slices-750g-5420590",
@@ -1233,26 +1233,26 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "750g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165785/cheer-cheese-light-tasty-cheese-slices",
@@ -1262,44 +1262,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-cheese-slices-tasty-refill-250g-7648603",
@@ -1309,56 +1309,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/420750/cheer-cheese-tasty-cheese-slices-refill",
@@ -1368,56 +1368,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-tasty-cheese-slices-500g-8578",
@@ -1427,56 +1427,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2376",
         "price_per_unit": "1188",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165787/cheer-cheese-tasty-cheese-slices",
@@ -1486,56 +1486,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2200",
         "price_per_unit": "1100",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-tasty-cheese-slices-750g-3274750",
@@ -1545,56 +1545,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "750g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165838/cheer-cheese-tasty-cheese-slices",
@@ -1604,56 +1604,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1867",
         "price_per_unit": "1400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/jarlsberg-dairy-swiss-lite-cheese-slices-150g-8389680",
@@ -1663,44 +1663,44 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "150g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "6120",
         "price_per_unit": "918",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/930995/jarlsberg-lite-cheese-slices-sliced-cheese",
@@ -1710,44 +1710,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/jarlsberg-dairy-original-swiss-cheese-slices-150g-5498703",
@@ -1757,56 +1757,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "150g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "6120",
         "price_per_unit": "918",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/930997/jarlsberg-original-cheese-slices-sliced-cheese",
@@ -1816,56 +1816,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "5667",
         "price_per_unit": "850",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/liddells-lactose-free-tasty-cheese-slices-250g-3843298",
@@ -1875,56 +1875,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/97557/liddells-lactose-free-tasty",
@@ -1934,56 +1934,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mainland-cheese-slices-extra-tasty-210g-6576788",
@@ -1993,38 +1993,38 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "210g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "WA",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/302598/mainland-extra-tasty-cheese-slices",
@@ -2034,50 +2034,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "3333",
         "price_per_unit": "700",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/bega-lactose-free-natural-cheese-slices-250g-4385756",
@@ -2087,56 +2087,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3240",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/175485/bega-lactose-free-cheese-slices-slices",
@@ -2146,50 +2146,50 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "3000",
         "price_per_unit": "750",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/cheer-mozzarella-cheese-slices-250g-7648589",
@@ -2199,56 +2199,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "2200",
         "price_per_unit": "550",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/421310/cheer-cheese-mozzarella-cheese-slices",
@@ -2258,26 +2258,26 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "2800",
         "price_per_unit": "700",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/liddells-lactose-free-colby-cheese-slices-250g-3241626",
@@ -2287,32 +2287,32 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/776469/liddells-lactose-free-colby-cheese-slices",
@@ -2322,44 +2322,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2700",
         "price_per_unit": "675",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mainland-cheese-slices-swiss-180g-5415375",
@@ -2369,44 +2369,44 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "180g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "4200",
         "price_per_unit": "756",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/256248/mainland-swiss-cheese-slices",
@@ -2416,43 +2416,43 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "3889",
         "price_per_unit": "700",
         "price_unit": "KG"
       }
-    }
+    ]
   }
 ]

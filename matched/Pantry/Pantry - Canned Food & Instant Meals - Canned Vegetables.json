@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "810g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "506",
         "price_per_unit": "410",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/77884/ardmona-crushed-vine-ripened-tomatoes",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "481",
         "price_per_unit": "390",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "506",
         "price_per_unit": "410",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/deb-instant-mashed-plain-potato-350g-132635",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34118/continental-deb-instant-mashed-potato",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1714",
         "price_per_unit": "600",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-australian-grown-diced-capsicum-125g-132464",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "125g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1344",
         "price_per_unit": "168",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/36791/edgell-australian-diced-capsicum-canned-vegetables",
@@ -302,56 +302,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1280",
         "price_per_unit": "160",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-australian-grown-chick-peas-400g-9701489",
@@ -361,56 +361,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "578",
         "price_per_unit": "231",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/227107/edgell-australian-grown-chickpeas",
@@ -420,56 +420,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "55000",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "55000",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "55000",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "55000",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "55000",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "55000",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "55000",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "55000",
         "price_per_unit": "220",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-australian-grown-sliced-beetroot-425g-131563",
@@ -479,56 +479,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "692",
         "price_per_unit": "294",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34093/edgell-australian-sliced-beetroot",
@@ -538,56 +538,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "694",
         "price_per_unit": "295",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-butter-beans-400g-5071414",
@@ -597,50 +597,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "578",
         "price_per_unit": "231",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/732217/edgell-canned-butter-beans-picked-and-soaked-legumes",
@@ -650,56 +650,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-corn-kernels-125g-4-pack-9402262",
@@ -709,56 +709,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "798",
         "price_per_unit": "399",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/192816/edgell-corn-kernels-snack-packs-ready-to-eat",
@@ -768,56 +768,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-edamame-beans-ready-to-eat-125g-4-pack-3884014",
@@ -827,50 +827,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "525",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/863919/edgell-edamame-beans-snack-packs-ready-to-eat",
@@ -880,56 +880,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "500",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "525",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/golden-circle-whole-baby-beetroot-450g-5562733",
@@ -939,38 +939,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "678",
         "price_per_unit": "305",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/96235/golden-circle-canned-vegetables-baby-beetroot-cans",
@@ -980,56 +980,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "644",
         "price_per_unit": "290",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "678",
         "price_per_unit": "305",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/golden-circle-sliced-beetroot-450g-131541",
@@ -1039,56 +1039,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "444",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "444",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "444",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "444",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "444",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "444",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "444",
         "price_per_unit": "200",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "444",
         "price_per_unit": "200",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34142/golden-circle-canned-vegetables-sliced-beetroot-cans",
@@ -1098,56 +1098,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "600",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "422",
         "price_per_unit": "190",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "422",
         "price_per_unit": "190",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/three-threes-sliced-beetroot-415g-3348084",
@@ -1157,38 +1157,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "415g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "887",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/678605/three-threes-sweet-sliced-beetroot",
@@ -1198,56 +1198,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "880",
         "price_per_unit": "365",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/always-fresh-asparagus-springwater-340g-4692314",
@@ -1257,38 +1257,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "340g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "1729",
         "price_per_unit": "588",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/192826/always-fresh-asparagus-in-springwater",
@@ -1298,50 +1298,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1647",
         "price_per_unit": "560",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1721",
         "price_per_unit": "585",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-australian-grown-diced-beetroot-425g-3185660",
@@ -1351,50 +1351,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "668",
         "price_per_unit": "284",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/658775/edgell-australian-diced-beetroot",
@@ -1404,50 +1404,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "635",
         "price_per_unit": "270",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "671",
         "price_per_unit": "285",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-australian-grown-chickpeas-snack-packs-4x125g-500g-6691050",
@@ -1457,56 +1457,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "798",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/301304/edgell-australian-grown-chickpeas-snack-packs-ready-to-eat",
@@ -1516,50 +1516,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "798",
         "price_per_unit": "399",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-australian-grown-sliced-beetroot-825g-131574",
@@ -1569,50 +1569,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "825g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "484",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34333/edgell-australian-sliced-beetroot",
@@ -1622,50 +1622,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "461",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "485",
         "price_per_unit": "400",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-super-sweet-corn-kernels-4-pack-500g-9402284",
@@ -1675,56 +1675,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "798",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/179361/edgell-australian-super-sweet-corn-kernels",
@@ -1734,50 +1734,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-australian-grown-sweet-sliced-beetroot-425g-5828706",
@@ -1787,38 +1787,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "692",
         "price_per_unit": "294",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/96231/edgell-australian-sweet-sliced-beetroot",
@@ -1828,50 +1828,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "659",
         "price_per_unit": "280",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "694",
         "price_per_unit": "295",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-baby-peas-and-sweet-corn-420g-6835809",
@@ -1881,56 +1881,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "626",
         "price_per_unit": "263",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/43701/edgell-baby-peas-corn-baby-peas-super-sweet-corn",
@@ -1940,50 +1940,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-cannellini-beans-400g-1227500",
@@ -1993,50 +1993,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "578",
         "price_per_unit": "231",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/732240/edgell-beans-cannellini",
@@ -2046,44 +2046,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-seed-beans-black-beans-4x125g-500g-3216390",
@@ -2093,50 +2093,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "798",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/679071/edgell-black-beans",
@@ -2146,50 +2146,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "798",
         "price_per_unit": "399",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-black-beans-400g-2612766",
@@ -2199,56 +2199,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "578",
         "price_per_unit": "231",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/930176/edgell-black-beans-plant-protein",
@@ -2258,50 +2258,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-brown-lentils-400g-1227497",
@@ -2311,50 +2311,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "578",
         "price_per_unit": "231",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/732195/edgell-brown-lentils",
@@ -2364,50 +2364,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "550",
         "price_per_unit": "220",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-corn-kernels-300g-3185740",
@@ -2417,50 +2417,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "597",
         "price_per_unit": "179",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/966533/edgell-corn-kernels",
@@ -2470,50 +2470,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "567",
         "price_per_unit": "170",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "600",
         "price_per_unit": "180",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-seed-beans-four-bean-mix-4-pack-500g-6691072",
@@ -2523,56 +2523,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "798",
         "price_per_unit": "399",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/301303/edgell-four-bean-mix-snack-packs-ready-to-eat",
@@ -2582,50 +2582,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "380",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "798",
         "price_per_unit": "399",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-peas-garden-220g-131632",
@@ -2635,56 +2635,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "859",
         "price_per_unit": "189",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34113/edgell-green-peas-green",
@@ -2694,50 +2694,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "818",
         "price_per_unit": "180",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "864",
         "price_per_unit": "190",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-peas-corn-and-carrots-420g-8565647",
@@ -2747,56 +2747,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "626",
         "price_per_unit": "263",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/345414/edgell-peas-corn-carrots-corn-carrots",
@@ -2806,50 +2806,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-sliced-mushrooms-in-butter-sauce-220g-131905",
@@ -2859,56 +2859,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1145",
         "price_per_unit": "252",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/34107/edgell-sliced-mushrooms-in-butter-sauce",
@@ -2918,50 +2918,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1091",
         "price_per_unit": "240",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1136",
         "price_per_unit": "250",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-snack-time-black-beans-capsicum-and-charred-corn-with-zesty-salsa-70g-5071447",
@@ -2971,56 +2971,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2400",
         "price_per_unit": "168",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/220157/edgell-snack-time-black-beans-charred-capsicum-with-zesty-salsa",
@@ -3030,50 +3030,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-snack-time-chargrilled-corn-black-beans-with-lime-and-herbs-70g-3884058",
@@ -3083,50 +3083,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2400",
         "price_per_unit": "168",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/153220/edgell-snack-time-black-beans-charred-corn-with-lime-herbs",
@@ -3136,50 +3136,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-snack-time-chick-peas-olive-oil-garlic-and-rosemary-70g-3592573",
@@ -3189,38 +3189,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "2400",
         "price_per_unit": "168",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/65617/edgell-snack-time-chickpea-olive-oil-garlic-rosemary",
@@ -3230,50 +3230,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-snack-time-chick-peas-with-zesty-vinaigrette-70g-3592835",
@@ -3283,56 +3283,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2400",
         "price_per_unit": "168",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/65618/edgell-snack-time-chickpeas-salad-topper-with-zesty-vinaigrette",
@@ -3342,50 +3342,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-snack-time-chick-peas-with-olive-oil-and-seasalt-70g-3592824",
@@ -3395,56 +3395,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "2400",
         "price_per_unit": "168",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/65619/edgell-snack-time-chickpeas-with-olive-oil-sea-salt",
@@ -3454,50 +3454,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-snack-time-red-kidney-beans-with-chilli-and-olive-oil-70g-3592879",
@@ -3507,38 +3507,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "2400",
         "price_per_unit": "168",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/65646/edgell-snack-time-red-kidney-beans-salad-topper-with-chilli",
@@ -3548,50 +3548,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-snack-time-sweet-corn-with-charred-capsicum-and-lime-70g-6310907",
@@ -3601,38 +3601,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "70g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "2400",
         "price_per_unit": "168",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/288168/edgell-snack-time-sweet-corn-salad-topper-with-capsicum-lime",
@@ -3642,44 +3642,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "2286",
         "price_per_unit": "160",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/edgell-super-sweet-corn-kernels-420g-6836889",
@@ -3689,56 +3689,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "420g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "626",
         "price_per_unit": "263",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/44079/edgell-super-sweet-corn-kernels-super-sweet",
@@ -3748,50 +3748,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "595",
         "price_per_unit": "250",
         "price_unit": "KG"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "619",
         "price_per_unit": "260",
         "price_unit": "KG"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/three-threes-whole-baby-beetroot-415g-3348051",
@@ -3801,56 +3801,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "415g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "887",
         "price_per_unit": "368",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/678622/three-threes-sweet-whole-baby-beetroot",
@@ -3860,43 +3860,43 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "1KG",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "843",
         "price_per_unit": "350",
         "price_unit": "KG"
       }
-    }
+    ]
   }
 ]

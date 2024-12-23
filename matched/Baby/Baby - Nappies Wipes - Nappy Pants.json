@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "28pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "2100",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/740127/babylove-nappy-pants-size-4-9-14kg-",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "71",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "2100",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/babylove-nappy-pants-size-4-(9-14kg)-56-pack-9860438",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "56pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "58",
         "price_per_unit": "3255",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/711371/babylove-nappy-pants-size-4-9-14kg-",
@@ -184,50 +184,50 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "58",
         "price_per_unit": "3255",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/babylove-nappy-pants-size-5-(12-17kg)-25-pack-1007071",
@@ -237,56 +237,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "25pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "84",
         "price_per_unit": "2100",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/740039/babylove-nappy-pants-size-5-12-17kg-",
@@ -296,56 +296,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "84",
         "price_per_unit": "2100",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/babylove-nappy-pants-size-5-(12-17kg)-50-pack-9860427",
@@ -355,56 +355,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "50pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "65",
         "price_per_unit": "3255",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/380521/babylove-nappy-pants-size-5-12-17kg-",
@@ -414,50 +414,50 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "62",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "65",
         "price_per_unit": "3255",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/babylove-nappy-pants-size-6-(15-25kg)-22-pack-7268680",
@@ -467,56 +467,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "22pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "95",
         "price_per_unit": "2100",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/740040/babylove-nappy-pants-size-6-15-25kg-",
@@ -526,56 +526,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "91",
         "price_per_unit": "2000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "95",
         "price_per_unit": "2100",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/babylove-nappy-pants-size-6-(15-25kg)-42-pack-9860416",
@@ -585,56 +585,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "42pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "3255",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/711380/babylove-nappy-pants-size-6-15-25kg-",
@@ -644,50 +644,50 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "74",
         "price_per_unit": "3100",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "3255",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/huggies-ultra-dry-nappy-pants-boys-size-4-(9-14kg)-29-pack-2848230",
@@ -697,56 +697,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "29pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "80",
         "price_per_unit": "2310",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/568616/huggies-ultra-dry-nappy-pants-boys-size-4-9-14kg-",
@@ -756,44 +756,44 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "80",
         "price_per_unit": "2310",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/huggies-ultra-dry-nappy-pants-boys-size-5-(12-17kg)-26-pack-2848252",
@@ -803,56 +803,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "26pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "89",
         "price_per_unit": "2310",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/568730/huggies-ultra-dry-nappy-pants-boys-size-5-12-17kg-",
@@ -862,56 +862,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "89",
         "price_per_unit": "2310",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/huggies-ultra-dry-nappy-pants-boys-size-6-(15kg+)-24-pack-2848274",
@@ -921,56 +921,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "24pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "96",
         "price_per_unit": "2310",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/568656/huggies-ultra-dry-nappy-pants-boys-size-6-15kg-",
@@ -980,56 +980,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "96",
         "price_per_unit": "2310",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/huggies-ultra-dry-nappy-pants-girls-size-4-(9-14kg)-29-pack-2848241",
@@ -1039,56 +1039,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "29pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "80",
         "price_per_unit": "2310",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/568619/huggies-ultra-dry-nappy-pants-girls-size-4-9-14kg-",
@@ -1098,50 +1098,50 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "76",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "80",
         "price_per_unit": "2310",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/huggies-ultra-dry-nappy-pants-girls-size-5-(12-17kg)-26-pack-2848263",
@@ -1151,56 +1151,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "26pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "89",
         "price_per_unit": "2310",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/568731/huggies-ultra-dry-nappy-pants-girls-size-5-12-17kg-",
@@ -1210,56 +1210,56 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "85",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "89",
         "price_per_unit": "2310",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/huggies-ultra-dry-nappy-pants-girls-size-6-(15kg+)-24-pack-2848300",
@@ -1269,56 +1269,56 @@
     "shop": "coles",
     "category_id": "15603",
     "weight": "24pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "96",
         "price_per_unit": "2310",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/568657/huggies-ultra-dry-nappy-pants-girls-size-6-15kg-",
@@ -1328,55 +1328,55 @@
     "shop": "Woolworths",
     "category_id": "15603",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "92",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "96",
         "price_per_unit": "2310",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]

@@ -7,14 +7,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "100g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "300",
         "price_per_unit": "300",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/208720/the-dutch-company-confectionary-coin-licorice",
@@ -24,44 +24,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "410",
         "price_per_unit": "410",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "410",
         "price_per_unit": "410",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "410",
         "price_per_unit": "410",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "410",
         "price_per_unit": "410",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "410",
         "price_per_unit": "410",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "410",
         "price_per_unit": "410",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/drava-chicken-pate-95g-7402920",
@@ -71,14 +71,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "95g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2579",
         "price_per_unit": "245",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59018/drava-chicken-halal",
@@ -88,44 +88,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/drava-liver-paste-95g-8227928",
@@ -135,14 +135,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "95g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "2579",
         "price_per_unit": "245",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/675945/drava-chicken-liver-pate-spread",
@@ -152,44 +152,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "258",
         "price_per_unit": "245",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/marco-polo-pelagonia-borlotti-beans-375g-9178770",
@@ -199,14 +199,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "787",
         "price_per_unit": "295",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/155243/marco-polo-european-foods-borlotti-beans",
@@ -216,50 +216,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/marco-polo-polenta-750g-8605027",
@@ -269,14 +269,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "750g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "433",
         "price_per_unit": "325",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/24883/marco-polo-european-foods-polenta",
@@ -286,50 +286,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "43",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "43",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "43",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "43",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "43",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "43",
         "price_per_unit": "325",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "43",
         "price_per_unit": "325",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/marco-polo-pelagonia-white-beans-375g-9178850",
@@ -339,14 +339,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "787",
         "price_per_unit": "295",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/155245/marco-polo-european-foods-white-beans",
@@ -356,50 +356,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "295",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/the-dutch-company-apple-sauce-710g-9594367",
@@ -409,14 +409,14 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "710g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "62",
         "price_per_unit": "440",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/201706/the-dutch-company-european-foods-apple-sauce",
@@ -426,37 +426,37 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "49",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "49",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "49",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "49",
         "price_per_unit": "350",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "49",
         "price_per_unit": "350",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

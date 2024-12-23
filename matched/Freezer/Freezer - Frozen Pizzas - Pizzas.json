@@ -7,26 +7,26 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "370g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/663660/dr-oetker-ristorante-mozzarella-pizza-gluten-free",
@@ -36,56 +36,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "270",
         "price_per_unit": "1000",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dr-oetker-ristorante-mozzarella-pizza-355g-6545434",
@@ -95,56 +95,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "355g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/296606/dr-oetker-ristorante-pizza-mozzarella",
@@ -154,50 +154,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-ristorante-pepperoni-pizza-310g-8634943",
@@ -207,56 +207,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "310g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "210",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "210",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "210",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "210",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "210",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "210",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "210",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "210",
         "price_per_unit": "650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/705420/dr-oetker-ristorante-pizza-pepperoni",
@@ -266,50 +266,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "290",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "290",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "290",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "290",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "290",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "290",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "314",
         "price_per_unit": "972",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-ristorante-spinaci-(spinach)-pizza-390g-7308048",
@@ -319,56 +319,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "390g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "167",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "167",
         "price_per_unit": "650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/728499/dr-oetker-ristorante-pizza-spinaci",
@@ -378,50 +378,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "231",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "231",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "231",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "231",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "231",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "231",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "231",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mccain-family-margherita-frozen-pizza-500g-9289160",
@@ -431,50 +431,50 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "184",
         "price_per_unit": "918",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/173140/mccain-pizza-margherita",
@@ -484,50 +484,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mccain-rustica-thin-and-crispy-angus-beef-370g-6839515",
@@ -537,56 +537,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "370g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/315505/mccain-rustica-thin-crispy-australian-angus-beef-pizza",
@@ -596,56 +596,56 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "238",
         "price_per_unit": "880",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mccain-rustica-thin-and-crispy-salami-and-four-cheese-pizza-335g-6839694",
@@ -655,56 +655,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "335g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/314045/mccain-rustica-thin-crispy-salami-four-cheese-pizza",
@@ -714,50 +714,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-ristorante-quattro-formaggi-pizza-340g-7817904",
@@ -767,32 +767,32 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "340g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "191",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "191",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "191",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "191",
         "price_per_unit": "650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/790526/dr-oetker-ristorante-pizza-quattro-formaggi",
@@ -802,14 +802,14 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "265",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mccain-frozen-cheese-and-bacon-family-pizza-500g-181572",
@@ -819,32 +819,32 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93831/mccain-pizza-cheese-bacon",
@@ -854,44 +854,44 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mccain-frozen-bbq-meatlovers-family-pizza-500g-7010250",
@@ -901,56 +901,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "184",
         "price_per_unit": "918",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/252640/mccain-pizza-meatlovers-bbq",
@@ -960,50 +960,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "184",
         "price_per_unit": "918",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mccain-frozen-supreme-family-pizza-500g-251124",
@@ -1013,56 +1013,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "184",
         "price_per_unit": "918",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/96415/mccain-supreme-pizza",
@@ -1072,50 +1072,50 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "184",
         "price_per_unit": "918",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/dr.-oetker-frozen-ristorante-hawaii-pizza-355g-8634954",
@@ -1125,56 +1125,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "355g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "183",
         "price_per_unit": "650",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/705357/dr-oetker-ristorante-pizza-hawaii",
@@ -1184,32 +1184,32 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "254",
         "price_per_unit": "900",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mccain-frozen-ham-and-pineapple-family-pizza-500g-403765",
@@ -1219,56 +1219,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "184",
         "price_per_unit": "918",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/96406/mccain-pizza-ham-pineapple",
@@ -1278,38 +1278,38 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "170",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mccain-rustica-sourdough-salami-and-leg-ham-pizza-430g-6839468",
@@ -1319,56 +1319,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "430g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "205",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "205",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "205",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "205",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "205",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "205",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "205",
         "price_per_unit": "880",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "205",
         "price_per_unit": "880",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/315481/mccain-rustica-sourdough-salami-double-smoked-leg-ham-pizza",
@@ -1378,38 +1378,38 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "263",
         "price_per_unit": "880",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mccain-family-pizza-pepperoni-490g-4655475",
@@ -1419,56 +1419,56 @@
     "shop": "coles",
     "category_id": "85471",
     "weight": "490g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "173",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "173",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "173",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "173",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "173",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "173",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "173",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "187",
         "price_per_unit": "918",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/165354/mccain-family-pizza-pepperoni",
@@ -1478,13 +1478,13 @@
     "shop": "Woolworths",
     "category_id": "85471",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NT",
         "price": "187",
         "price_per_unit": "918",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "230g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "206",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/728159/mission-corn-chips-cheesy-nachos",
@@ -66,50 +66,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-original-burrito-12-tortillas-576g-6767709",
@@ -119,56 +119,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "576g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "82",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/333915/mission-original-tortillas",
@@ -178,56 +178,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-reduced-salt-tortillas-567g-6358255",
@@ -237,44 +237,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "567g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "79",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "83",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/315482/mission-salt-reduced-tortillas",
@@ -284,56 +284,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "78",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-street-tacos-375g-3801301",
@@ -343,56 +343,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "123",
         "price_per_unit": "462",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/610345/mission-street-mini-tacos",
@@ -402,56 +402,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "117",
         "price_per_unit": "440",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-chilli-con-canre-spice-mix-35g-291388",
@@ -461,56 +461,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "35g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "900",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93445/old-el-paso-chili-con-carne-spice-mix-chilli-spice-mix",
@@ -520,56 +520,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-chunky-salsa-dip-mild-312g-5361709",
@@ -579,56 +579,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "312g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/231416/old-el-paso-chunky-salsa-dip-mild-mild",
@@ -638,56 +638,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-crispy-chicken-soft-taco-kit-mild-370g-5931782",
@@ -697,56 +697,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "370g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "241",
         "price_per_unit": "893",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/262265/old-el-paso-crispy-chicken-soft-taco-mexican-style",
@@ -756,56 +756,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "230",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-soft-tacos-crispy-chicken-spice-mix-mexican-style-35g-7962481",
@@ -815,56 +815,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "35g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "900",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/362697/old-el-paso-crispy-chicken-spice-mix-mexican-style",
@@ -874,56 +874,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-enchilada-kit-mexican-style-520g-7010920",
@@ -933,56 +933,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "520g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "172",
         "price_per_unit": "893",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/31429/old-el-paso-enchilada-dinner-kit",
@@ -992,56 +992,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "163",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-spice-mix-fajita-40g-5066050",
@@ -1051,56 +1051,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "40g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "788",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/248679/old-el-paso-fajita-spice-mix-mexican-style",
@@ -1110,56 +1110,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "750",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-regular-tortillas-fajita-10-pack-400g-7610214",
@@ -1169,56 +1169,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/67866/old-el-paso-fajita-tortilla-wraps",
@@ -1228,56 +1228,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "96",
         "price_per_unit": "385",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "138",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "138",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "138",
         "price_per_unit": "550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-regular-tortillas-fajita-6-pack-240g-7395392",
@@ -1287,56 +1287,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "240g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "197",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/85730/old-el-paso-fajita-tortilla-wraps",
@@ -1346,56 +1346,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "188",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "198",
         "price_per_unit": "475",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-spice-mix-guacamole-30g-2926990",
@@ -1405,56 +1405,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "30g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/379648/old-el-paso-guacamole-spice-mix-spice-mix",
@@ -1464,56 +1464,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-hard-n-soft-taco-kit-mexican-style-350g-5293041",
@@ -1523,56 +1523,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "350g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "285",
         "price_per_unit": "998",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/251433/old-el-paso-hard-n-soft-taco-kit-mexican-style",
@@ -1582,56 +1582,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "271",
         "price_per_unit": "950",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-jumbo-taco-kit-mild-345g-9742533",
@@ -1641,56 +1641,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "345g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "289",
         "price_per_unit": "998",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/210693/old-el-paso-jumbo-taco-kit-mexican-style-taco-kit",
@@ -1700,56 +1700,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "275",
         "price_per_unit": "950",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-tortillas-mini-tacos-10-pack-250g-7395337",
@@ -1759,56 +1759,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "250g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "210",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/248677/old-el-paso-mini-taco-tortilla-wraps",
@@ -1818,56 +1818,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "200",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-nachos-topping-390g-5322558",
@@ -1877,56 +1877,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "390g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "162",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/65084/old-el-paso-nachos-salsa-topping-mild-mild",
@@ -1936,56 +1936,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "154",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-nachos-spice-mix-35g-3750700",
@@ -1995,56 +1995,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "35g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "900",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/88192/old-el-paso-nachos-spice-mix",
@@ -2054,56 +2054,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-reduced-salt-spice-mix-taco-30g-5322591",
@@ -2113,56 +2113,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "30g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/65083/old-el-paso-reduced-salt-taco-spice-mix-taco-spice-mix",
@@ -2172,56 +2172,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-refried-beans-435g-386021",
@@ -2231,56 +2231,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "435g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "69",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "69",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "69",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "69",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "69",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "69",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "69",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "69",
         "price_per_unit": "300",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/187333/old-el-paso-refried-beans",
@@ -2290,56 +2290,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "103",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "103",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "103",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "103",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "103",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "103",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "103",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "103",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-taco-sauce-mild-200g-291413",
@@ -2349,56 +2349,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "237",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93442/old-el-paso-taco-sauce-mild-taco-sauce",
@@ -2408,56 +2408,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-taco-shells-12-pack-156g-291468",
@@ -2467,56 +2467,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "156g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "288",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "288",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "288",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "288",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "288",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "288",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "288",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "303",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93454/old-el-paso-taco-shells-original-regular-crunchy",
@@ -2526,50 +2526,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "296",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "296",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "296",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "296",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "296",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "333",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "333",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-taco-spice-mix-extra-mild-30g-4322530",
@@ -2579,56 +2579,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "30g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/169527/old-el-paso-taco-spice-mix-extra-mild",
@@ -2638,56 +2638,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-spice-mix-for-tacos-mild-30g-291377",
@@ -2697,56 +2697,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "30g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93444/old-el-paso-taco-spice-mix-taco-spice-mix",
@@ -2756,56 +2756,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-thick-chunky-salsa-mild-375g-5085452",
@@ -2815,56 +2815,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "154",
         "price_per_unit": "578",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/3356/old-el-paso-thick-n-chunky-salsa-mild-thick-chunky",
@@ -2874,56 +2874,56 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/la-costena-chipotle-sauce-220g-3562313",
@@ -2933,38 +2933,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "220g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/801530/la-costena-chipotle-sauce",
@@ -2974,50 +2974,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "227",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/la-costena-chipotle-in-adobo-sauce-230g-2373530",
@@ -3027,44 +3027,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "230g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "297",
         "price_per_unit": "683",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/494324/la-costena-mexican-style-chipotle-in-adobo-sauce",
@@ -3074,50 +3074,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "283",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "217",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/la-costena-whole-black-beans-400g-2373483",
@@ -3127,38 +3127,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/842159/la-costena-mexican-style-whole-black-beans",
@@ -3168,50 +3168,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/la-costena-refried-pinto-beans-400g-2373472",
@@ -3221,38 +3221,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "400g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/842157/la-costena-refried-pinto-beans",
@@ -3262,50 +3262,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "100",
         "price_per_unit": "400",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-chunky-medium-salsa-300g-3801345",
@@ -3315,44 +3315,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "154",
         "price_per_unit": "462",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/137629/mission-chunky-salsa-medium",
@@ -3362,44 +3362,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-chilli-and-lime-tortilla-triangles-corn-chips-230g-1277484",
@@ -3409,56 +3409,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "230g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "206",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/379739/mission-corn-chips-chilli-lime",
@@ -3468,50 +3468,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-deli-style-tortilla-rounds-500g-3800444",
@@ -3521,50 +3521,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/356772/mission-corn-chips-deli-round",
@@ -3574,44 +3574,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-chunky-mild-salsa-300g-3800987",
@@ -3621,56 +3621,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "300g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "154",
         "price_per_unit": "462",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/137673/mission-mild-salsa-chunky",
@@ -3680,44 +3680,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "440",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-original-white-corn-tortilla-strips-230g-7368571",
@@ -3727,56 +3727,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "230g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "206",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/362693/mission-tortilla-strips-white-corn",
@@ -3786,50 +3786,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "196",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-white-corn-12-tortillas-312g-6768745",
@@ -3839,56 +3839,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "312g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "141",
         "price_per_unit": "441",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/379736/mission-white-corn-gluten-free-tortillas",
@@ -3898,50 +3898,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-deli-style-white-corn-strips-500g-2921830",
@@ -3951,56 +3951,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "500g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "127",
         "price_per_unit": "635",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/608248/mission-white-strip-corn-chips",
@@ -4010,50 +4010,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "150",
         "price_per_unit": "750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/mission-yellow-tortilla-312g-6358222",
@@ -4063,44 +4063,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "312g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "141",
         "price_per_unit": "441",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/483539/mission-yellow-corn-tortillas",
@@ -4110,50 +4110,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "135",
         "price_per_unit": "420",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-black-beans-425g-1868287",
@@ -4163,56 +4163,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/787277/old-el-paso-black-beans",
@@ -4222,50 +4222,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-hard-n-soft-taco-kit-mexican-style-560g-3198640",
@@ -4275,56 +4275,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "560g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "225",
         "price_per_unit": "1260",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/8317/old-el-paso-bulk-hard-soft-taco-kit-mexican-style",
@@ -4334,50 +4334,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "214",
         "price_per_unit": "1200",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-burrito-kit-mexican-style-485g-7886168",
@@ -4387,56 +4387,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "485g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "184",
         "price_per_unit": "893",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/68619/old-el-paso-burrito-dinner-kit-mexican-style",
@@ -4446,50 +4446,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "175",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-jumbo-tortillas-burrito-6-pack-450g-4821406",
@@ -4499,56 +4499,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "450g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "152",
         "price_per_unit": "683",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/233280/old-el-paso-burrito-tortilla-jumbo-wraps-burrito",
@@ -4558,50 +4558,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "144",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-chilli-and-garlic-rice-dinner-kit-355g-1279209",
@@ -4611,56 +4611,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "355g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "281",
         "price_per_unit": "998",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/760341/old-el-paso-chili-garlic-rice-kit-mexican-style",
@@ -4670,50 +4670,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "268",
         "price_per_unit": "950",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-chilli-con-carne-cooking-sauce-170g-7524214",
@@ -4723,44 +4723,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "278",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/454556/old-el-paso-chilli-con-carne-mild-cooking-sauce",
@@ -4770,50 +4770,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-chipotle-taco-cooking-sauce-170g-7524203",
@@ -4823,44 +4823,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "170g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "278",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/454582/old-el-paso-chipotle-tacos-mild-cooking-sauce",
@@ -4870,50 +4870,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "265",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-chunky-salsa-dip-hot-312g-5361710",
@@ -4923,38 +4923,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "312g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/230731/old-el-paso-chunky-salsa-dip-hot-hot",
@@ -4964,44 +4964,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-enchilada-cooking-sauce-mild-375g-7395450",
@@ -5011,56 +5011,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "168",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/19977/old-el-paso-enchilada-cooking-sauce-enchilada-sauce",
@@ -5070,50 +5070,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "160",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-bulk-enchilada-kit-mexican-style-1.04kg-3750776",
@@ -5123,56 +5123,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "1.04kg",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1154",
         "price_per_unit": "1200",
         "price_unit": ".kg"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1154",
         "price_per_unit": "1200",
         "price_unit": ".kg"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1154",
         "price_per_unit": "1200",
         "price_unit": ".kg"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1154",
         "price_per_unit": "1200",
         "price_unit": ".kg"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1154",
         "price_per_unit": "1200",
         "price_unit": ".kg"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1154",
         "price_per_unit": "1200",
         "price_unit": ".kg"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1154",
         "price_per_unit": "1200",
         "price_unit": ".kg"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1212",
         "price_per_unit": "1260",
         "price_unit": ".kg"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/87865/old-el-paso-enchilada-kit-mexican-style",
@@ -5182,50 +5182,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "115",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "115",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "115",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "115",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "115",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "115",
         "price_per_unit": "1200",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "115",
         "price_per_unit": "1200",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-regular-tortillas-fajita-16-pack-640g-7373720",
@@ -5235,56 +5235,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "640g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "107",
         "price_per_unit": "683",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/335845/old-el-paso-family-tortilla-fajita-wraps",
@@ -5294,50 +5294,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "102",
         "price_per_unit": "650",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-soft-taco-fusion-kit-360g-7524360",
@@ -5347,38 +5347,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "360g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "248",
         "price_per_unit": "893",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/391589/old-el-paso-fusion-soft-taco-kit-teriyaki-flavour",
@@ -5388,50 +5388,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "236",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-gluten-free-jumbo-tortillas-burrito-4-pack-215g-4322552",
@@ -5441,50 +5441,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "215g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "293",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/230870/old-el-paso-gluten-free-jumbo-tortilla-wraps",
@@ -5494,38 +5494,38 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "279",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-gluten-free-soft-taco-kit-mexican-style-418g-3198684",
@@ -5535,50 +5535,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "418g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "239",
         "price_per_unit": "998",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/680455/old-el-paso-gluten-free-soft-taco-kit-mexican-style",
@@ -5588,44 +5588,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "227",
         "price_per_unit": "950",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-gluten-free-taco-spice-mix-30g-5220274",
@@ -5635,56 +5635,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "30g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/229703/old-el-paso-gluten-free-taco-spice-mix-mild",
@@ -5694,50 +5694,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-gluten-free-tortillas-fajita-216g-3198695",
@@ -5747,56 +5747,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "216g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "292",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/680471/old-el-paso-gluten-free-tortilla-fajita-wraps",
@@ -5806,50 +5806,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "278",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-corn-jumbo-taco-shells-10-pack-190g-216247",
@@ -5859,50 +5859,50 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "190g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "304",
         "price_per_unit": "578",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/46370/old-el-paso-jumbo-taco-shells-taco-shells",
@@ -5912,50 +5912,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "289",
         "price_per_unit": "550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-mexe-beans-425g-386032",
@@ -5965,56 +5965,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "71",
         "price_per_unit": "300",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/14040/old-el-paso-mexe-beans",
@@ -6024,50 +6024,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "106",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-quesadilla-kit-365g-7524190",
@@ -6077,38 +6077,38 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "365g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "245",
         "price_per_unit": "893",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/438936/old-el-paso-quesadilla-kit",
@@ -6118,50 +6118,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "233",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-chicken-tinga-spice-mix-35g-7532267",
@@ -6171,44 +6171,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "35g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "900",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/420787/old-el-paso-soft-taco-chicken-tinga-spice-mix-mild",
@@ -6218,50 +6218,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1000",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-stand-n-stuff-mini-soft-tortillas-145g-2745817",
@@ -6271,44 +6271,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "145g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "434",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/514479/old-el-paso-stand-n-stuff-mini-taco-tortillas",
@@ -6318,50 +6318,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "414",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-stand-n-stuff-soft-taco-kit-mexican-style-348g-1868130",
@@ -6371,56 +6371,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "348g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "287",
         "price_per_unit": "998",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/787266/old-el-paso-stand-n-stuff-soft-taco-kit-mexican-style",
@@ -6430,50 +6430,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "273",
         "price_per_unit": "950",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-white-corn-tortillas-tacos-10-pack-208g-4322563",
@@ -6483,44 +6483,44 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "208g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "252",
         "price_per_unit": "525",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/169871/old-el-paso-street-market-white-corn-tortilla-taco-wraps",
@@ -6530,50 +6530,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "240",
         "price_per_unit": "500",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-taco-kit-mexican-style-290g-291457",
@@ -6583,56 +6583,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "290g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "308",
         "price_per_unit": "893",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93453/old-el-paso-taco-kit-mexican-style-taco-kit",
@@ -6642,50 +6642,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "293",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-hot-taco-sauce-200g-404633",
@@ -6695,56 +6695,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "237",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93441/old-el-paso-taco-sauce-hot-taco-sauce",
@@ -6754,50 +6754,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-taco-sauce-medium-200g-291402",
@@ -6807,56 +6807,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "200g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "237",
         "price_per_unit": "473",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93443/old-el-paso-taco-sauce-medium-taco-sauce",
@@ -6866,50 +6866,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "225",
         "price_per_unit": "450",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-fiery-spice-mix-35g-6341660",
@@ -6919,56 +6919,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "35g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "900",
         "price_per_unit": "315",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/311381/old-el-paso-taco-spice-mix-fiery-hot",
@@ -6978,50 +6978,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "857",
         "price_per_unit": "300",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-salsa-thick-'n-chunky-medium-375g-38943",
@@ -7031,56 +7031,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "154",
         "price_per_unit": "578",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/70728/old-el-paso-thick-n-chunky-salsa-medium-thick-chunky",
@@ -7090,50 +7090,50 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "147",
         "price_per_unit": "550",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-tortilla-pockets-8-pack-223g-3801549",
@@ -7143,56 +7143,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "223g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "283",
         "price_per_unit": "630",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/106518/old-el-paso-tortilla-pockets",
@@ -7202,44 +7202,44 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "269",
         "price_per_unit": "600",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/old-el-paso-tortilla-pockets-kit-original-mexican-style-375g-3801593",
@@ -7249,56 +7249,56 @@
     "shop": "coles",
     "category_id": "10302",
     "weight": "375g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "266",
         "price_per_unit": "998",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/108174/old-el-paso-tortilla-pockets-kit-original-mexican-style",
@@ -7308,43 +7308,43 @@
     "shop": "Woolworths",
     "category_id": "10302",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "253",
         "price_per_unit": "950",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "191",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/42091/latina-fresh-creamy-carbonara-pasta-sauce-pasta-sauce",
@@ -66,56 +66,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-creamy-sun-dried-tomato-pasta-sauce-425g-6026890",
@@ -125,56 +125,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "191",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/14894/latina-fresh-creamy-sun-dried-tomato-pasta-sauce",
@@ -184,56 +184,56 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-fresh-beef-bolognese-pasta-sauce-425g-5220241",
@@ -243,56 +243,56 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "425g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "NSW",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "191",
         "price_per_unit": "810",
         "price_unit": "g"
       },
-      "7": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/9741/latina-fresh-beef-bolognese-pasta-sauce-pasta-sauce",
@@ -302,44 +302,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "176",
         "price_per_unit": "750",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-dy-pasta-sauce-creamy-carbonara-700g-8999400",
@@ -349,38 +349,38 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/145564/latina-fresh-creamy-carbonara-pasta-sauce-creamy-carbonara",
@@ -390,44 +390,44 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/latina-dy-pasta-sauce-italian-tomato-garlic-700g-8999421",
@@ -437,38 +437,38 @@
     "shop": "coles",
     "category_id": "1300",
     "weight": "700g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "131",
         "price_per_unit": "918",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/335531/latina-fresh-italian-tomato-with-onion-garlic-pasta-sauce",
@@ -478,49 +478,49 @@
     "shop": "Woolworths",
     "category_id": "1300",
     "weight": "100G",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "121",
         "price_per_unit": "850",
         "price_unit": "G"
       }
-    }
+    ]
   }
 ]

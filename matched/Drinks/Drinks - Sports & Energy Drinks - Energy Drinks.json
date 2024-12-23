@@ -7,56 +7,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/688971/monster-energy-original-zero-sugar-drink",
@@ -66,50 +66,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/monster-energy-can-drink-ultra-gold-500ml-5155220",
@@ -119,38 +119,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "VIC",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/220971/monster-energy-ultra-gold",
@@ -160,56 +160,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/monster-ultra-rosa-can-500ml-3990077",
@@ -219,56 +219,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/124312/monster-energy-ultra-rosa-can",
@@ -278,50 +278,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/monster-ultra-rosa-multipack-cans-4-x-500ml-4-pack-3990033",
@@ -331,38 +331,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "1520",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "1520",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "760",
         "price_per_unit": "1520",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "798",
         "price_per_unit": "1596",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "VIC",
         "price": "760",
         "price_per_unit": "1520",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/143253/monster-energy-ultra-rosa-multipack-cans",
@@ -372,44 +372,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "760",
         "price_per_unit": "1520",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "760",
         "price_per_unit": "1520",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "760",
         "price_per_unit": "1520",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "760",
         "price_per_unit": "1520",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "738",
         "price_per_unit": "1475",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/monster-energy-ultra-peachy-keen-can-500ml-6413422",
@@ -419,56 +419,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "540",
         "price_per_unit": "270",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/391929/monster-ultra-peachy-keen-energy-drink",
@@ -478,56 +478,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "600",
         "price_per_unit": "300",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "620",
         "price_per_unit": "310",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/red-bull-sugar-free-energy-drink-can-473ml-2785017",
@@ -537,56 +537,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "473ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1036",
         "price_per_unit": "490",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1133",
         "price_per_unit": "536",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/459692/red-bull-sugar-free-energy-drink-can",
@@ -596,56 +596,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/red-bull-energy-drink-can-473ml-7255622",
@@ -655,56 +655,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "473ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1036",
         "price_per_unit": "490",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/327603/red-bull-energy-drink",
@@ -714,50 +714,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1078",
         "price_per_unit": "510",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/red-bull-energy-drink-4x250ml-4-pack-9043363",
@@ -767,56 +767,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1125",
         "price_per_unit": "1125",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1260",
         "price_per_unit": "1260",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "1185",
         "price_per_unit": "1185",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/162609/red-bull-energy-drink",
@@ -826,56 +826,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "710",
         "price_per_unit": "710",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/red-bull-sugar-free-energy-drink-4x250ml-4-pack-9615900",
@@ -885,56 +885,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1125",
         "price_per_unit": "1125",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1260",
         "price_per_unit": "1260",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "1185",
         "price_per_unit": "1185",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/226913/red-bull-energy-drink-sugar-free",
@@ -944,56 +944,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "710",
         "price_per_unit": "710",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-blue-energy-drink-4x250ml-4-pack-9880526",
@@ -1003,56 +1003,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "625",
         "price_per_unit": "625",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "690",
         "price_per_unit": "690",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/729764/v-energy-blue",
@@ -1062,56 +1062,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1045",
         "price_per_unit": "1045",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-energy-drink-blue-500ml-1256145",
@@ -1121,56 +1121,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "530",
         "price_per_unit": "265",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/705699/v-energy-blue",
@@ -1180,56 +1180,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-energy-drink-blue-4x500ml-4-pack-6325336",
@@ -1239,38 +1239,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "840",
         "price_per_unit": "1680",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/283475/v-energy-blue-energy-drink-cans",
@@ -1280,56 +1280,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "465",
         "price_per_unit": "930",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-energy-drink-can-4x500ml-4-pack-7305345",
@@ -1339,56 +1339,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "775",
         "price_per_unit": "1550",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "840",
         "price_per_unit": "1680",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "1600",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/331936/v-energy-drink",
@@ -1398,56 +1398,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "465",
         "price_per_unit": "930",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "480",
         "price_per_unit": "960",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-energy-drink-original-500ml-6963503",
@@ -1457,56 +1457,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "500ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "530",
         "price_per_unit": "265",
         "price_unit": "ml"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "580",
         "price_per_unit": "290",
         "price_unit": "ml"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "560",
         "price_per_unit": "280",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/315692/v-energy-energy-drink",
@@ -1516,50 +1516,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "690",
         "price_per_unit": "345",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "720",
         "price_per_unit": "360",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-energy-drink-green-apple-4x250ml-4-pack-7085410",
@@ -1569,56 +1569,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "625",
         "price_per_unit": "625",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "690",
         "price_per_unit": "690",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/318675/v-energy-refresh-green-apple-lemonade-cans",
@@ -1628,56 +1628,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1045",
         "price_per_unit": "1045",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-energy-refresh-drink-pineapple-watermelon-can-250ml-5486384",
@@ -1687,38 +1687,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "250ml",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "ml"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "ml"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "ml"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "ml"
       },
-      "4": {
+      {
         "state": "VIC",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "ml"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/228006/v-energy-refresh-pineapple-watermelon-zero-sugar-can",
@@ -1728,56 +1728,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "980",
         "price_per_unit": "245",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1040",
         "price_per_unit": "260",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-energy-refresh-drink-pineapple-watermelon-4x250ml-4-pack-5486362",
@@ -1787,56 +1787,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "625",
         "price_per_unit": "625",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "690",
         "price_per_unit": "690",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/227590/v-energy-refresh-pineapple-watermelon-zero-sugar-cans",
@@ -1846,56 +1846,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1045",
         "price_per_unit": "1045",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-sugar-free-energy-drink-4x250ml-4-pack-5020242",
@@ -1905,56 +1905,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "625",
         "price_per_unit": "625",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "690",
         "price_per_unit": "690",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/264490/v-energy-sugar-free",
@@ -1964,56 +1964,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1045",
         "price_per_unit": "1045",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/v-original-energy-drink-4x250ml-4-pack-8737163",
@@ -2023,56 +2023,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "625",
         "price_per_unit": "625",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "690",
         "price_per_unit": "690",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "660",
         "price_per_unit": "660",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/132815/v-original-guarana-energy-drink",
@@ -2082,56 +2082,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "1045",
         "price_per_unit": "1045",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "1100",
         "price_per_unit": "1100",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/red-bull-energy-drink-original-4x473ml-4-pack-3192495",
@@ -2141,56 +2141,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "922",
         "price_per_unit": "1745",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "999",
         "price_per_unit": "1890",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/679135/red-bull-energy-drink",
@@ -2200,50 +2200,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "951",
         "price_per_unit": "1800",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "999",
         "price_per_unit": "1890",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/red-bull-energy-drink-250ml-12-pack-4942488",
@@ -2253,56 +2253,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "750",
         "price_per_unit": "2250",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/223875/red-bull-energy-drink-cans",
@@ -2312,44 +2312,44 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "TAS",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/red-bull-energy-drink-sugar-free-12x250ml-12-pack-7172321",
@@ -2359,38 +2359,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "WA",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "NT",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/953142/red-bull-energy-drink-sugar-free-cans",
@@ -2400,38 +2400,38 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "800",
         "price_per_unit": "2400",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/red-bull-sugar-free-energy-drink-8x250ml-8-pack-3324177",
@@ -2441,56 +2441,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "8pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "570",
         "price_per_unit": "1140",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "630",
         "price_per_unit": "1260",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/220969/red-bull-energy-drink-sugar-free-cans",
@@ -2500,50 +2500,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "L"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "L"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1050",
         "price_per_unit": "2100",
         "price_unit": "L"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/red-bull-energy-drink-zero-4x250ml-4-pack-1492443",
@@ -2553,56 +2553,56 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "4pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "1125",
         "price_per_unit": "1125",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "1200",
         "price_per_unit": "1200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "1260",
         "price_per_unit": "1260",
         "price_unit": "pack"
       },
-      "7": {
+      {
         "state": "VIC",
         "price": "1185",
         "price_per_unit": "1185",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/767252/red-bull-energy-drink-zero",
@@ -2612,37 +2612,37 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1L",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "710",
         "price_per_unit": "710",
         "price_unit": "L"
       },
-      "1": {
+      {
         "state": "SA",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "2": {
+      {
         "state": "TAS",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "720",
         "price_per_unit": "720",
         "price_unit": "L"
       }
-    }
+    ]
   }
 ]

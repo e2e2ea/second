@@ -7,38 +7,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/798705/caffe-aurora-italian-coffee-capsules",
@@ -48,56 +48,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nescafe-dolce-gusto-americano-coffee-capsules-16-pack-128g-3354509",
@@ -107,50 +107,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "128g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "66",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/805929/dolce-gusto-americano-rich-aroma-coffee-pods",
@@ -160,56 +160,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nescafe-dolce-gusto-cafe-au-lait-coffee-capsules-16-pack-160g-9928338",
@@ -219,50 +219,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "160g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "66",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/754295/dolce-gusto-cafe-au-lait-coffee-pods-capsules",
@@ -272,56 +272,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nescafe-dolce-gusto-cappuccino-capsules-16-pack-186g-3208074",
@@ -331,50 +331,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "186g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "66",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/689624/dolce-gusto-cappuccino-coffee-pods-capsules",
@@ -384,56 +384,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nescafe-dolce-gusto-espresso-intenso-coffee-capsules-16-pack-96g-3354510",
@@ -443,38 +443,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "96g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "66",
         "price_per_unit": "1050",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/805950/dolce-gusto-espresso-intenso-coffee-pods-capsules",
@@ -484,56 +484,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/nescafe-dolce-gusto-capsules-flat-white-16-pack-3208085",
@@ -543,38 +543,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "16pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "66",
         "price_per_unit": "1050",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/699538/dolce-gusto-flat-white-coffee-pods-capsules",
@@ -584,56 +584,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "63",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/illy-espresso-classico-capsules-10-pack-3626405",
@@ -643,38 +643,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "84",
         "price_per_unit": "840",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/55934/illy-classico-espresso-capsules",
@@ -684,56 +684,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "40",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "40",
         "price_per_unit": "400",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "40",
         "price_per_unit": "400",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-caramel-coffee-capsules-10-pack-4823693",
@@ -743,50 +743,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/213070/l-or-espresso-caramel-capsules",
@@ -796,56 +796,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-colombia-intensity-8-coffee-capsules-52g-10-pack-2951091",
@@ -855,38 +855,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/604174/l-or-espresso-colombia-intensity-8-coffee-capsules",
@@ -896,56 +896,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-decaffeinato-ristretto-intensity-9-coffee-capsules-52g-10-pack-3193396",
@@ -955,50 +955,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/687774/l-or-espresso-decaf-ristretto-intensity-9-coffee-capsules",
@@ -1008,56 +1008,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-intense-collection-nespresso-compatible-coffee-capsules-40-pack-6314103",
@@ -1067,38 +1067,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "40pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "58",
         "price_per_unit": "2310",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/159369/l-or-espresso-intense-collection-variety-coffee-capsules",
@@ -1108,56 +1108,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-lungo-estremo-intensity-10-coffee-capsules-52g-10-pack-3193217",
@@ -1167,44 +1167,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": null,
         "price_per_unit": null,
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/687775/l-or-espresso-lungo-estremo-intensity-10-coffee-capsules",
@@ -1214,56 +1214,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-lungo-profondo-intensity-8-coffee-capsules-52g-10-pack-2951047",
@@ -1273,50 +1273,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/604171/l-or-espresso-lungo-profondo-intensity-8-coffee-capsules",
@@ -1326,56 +1326,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-onyx-intensity-12-coffee-capsules-52g-10-pack-2951058",
@@ -1385,50 +1385,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/603805/l-or-espresso-onyx-intensity-12-coffee-capsules",
@@ -1438,56 +1438,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-onyx-intensity-12-coffee-capsules-40-pack-4501267",
@@ -1497,50 +1497,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "40pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/90979/l-or-espresso-onyx-intensity-12-coffee-capsules",
@@ -1550,56 +1550,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-ristretto-intensity-11-coffee-capsules-40-pack-3755179",
@@ -1609,38 +1609,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "40pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/6232/l-or-espresso-ristretto-coffee-capsules",
@@ -1650,50 +1650,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-supremo-intensity-10-coffee-capsules-52g-10-pack-2951069",
@@ -1703,50 +1703,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/603806/l-or-espresso-supremo-intensity-10-coffee-capsules",
@@ -1756,56 +1756,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-supremo-intensity-10-coffee-capsules-40-pack-4823660",
@@ -1815,38 +1815,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "40pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/160752/l-or-espresso-supremo-intensity-10-coffee-capsules",
@@ -1856,56 +1856,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "55",
         "price_per_unit": "2200",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-ultimo-intensity-13-coffee-capsules-10-pack-3755340",
@@ -1915,50 +1915,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92329/l-or-espresso-ultimo-intensity-13-coffee-capsules",
@@ -1968,56 +1968,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/l'or-espresso-vanilla-coffee-capsules-10-pack-4823682",
@@ -2027,50 +2027,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "79",
         "price_per_unit": "788",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/214141/l-or-espresso-vanilla-capsules",
@@ -2080,56 +2080,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "75",
         "price_per_unit": "750",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/lavazza-dek-decaffeinated-a-modo-mio-coffee-pods-16-pack-3208722",
@@ -2139,38 +2139,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "16pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/222452/lavazza-dek-decaffeinated-a-modo-mio-coffee-pods",
@@ -2180,56 +2180,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "945",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/moccona-barista-reserve-dark-roast-espresso-coffee-capsule-10-pack-3193410",
@@ -2239,44 +2239,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/687785/moccona-barista-reserve-capsules-dark-roast-espresso",
@@ -2286,56 +2286,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/moccona-barista-reserve-extra-dark-roast-espresso-coffee-capsules-10-pack-3193421",
@@ -2345,50 +2345,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/687786/moccona-barista-reserve-capsules-extra-dark-roast-espresso",
@@ -2398,56 +2398,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/moccona-barista-reserve-medium-roast-lungo-coffee-capsules-10-pack-3512632",
@@ -2457,38 +2457,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "35",
         "price_per_unit": "350",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/687787/moccona-barista-reserve-capsules-medium-roast-lungo",
@@ -2498,56 +2498,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "TAS",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "ACT",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "NT",
         "price": "60",
         "price_per_unit": "600",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-white-cafe-latte-ndg-capsules-12-pack-3984052",
@@ -2557,38 +2557,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "88",
         "price_per_unit": "1050",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/155697/starbucks-by-nescafe-dolce-gusto-caffe-latte-coffee-pods-capsules",
@@ -2598,56 +2598,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "1000",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-blonde-espresso-roast-capsules-10-pack-3613061",
@@ -2657,44 +2657,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59352/starbucks-by-nespresso-blonde-espresso-roast-coffee-pods-capsules",
@@ -2704,56 +2704,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-compatible-capsules-blonde-espresso-36-pack-6190281",
@@ -2763,38 +2763,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "36pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "2520",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/300886/starbucks-by-nespresso-blonde-espresso-roast-coffee-pods-capsules",
@@ -2804,50 +2804,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-breakfast-blend-capsules-by-nespresso-10-pack-4405693",
@@ -2857,38 +2857,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/197155/starbucks-by-nespresso-breakfast-blend-coffee-pods-capsules",
@@ -2898,56 +2898,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-caffe-verona-capsules-10-pack-3613083",
@@ -2957,44 +2957,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59693/starbucks-by-nespresso-caffe-verona-coffee-pods-capsules",
@@ -3004,56 +3004,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-nespresso-compatible-capsules-vanilla-10-pack-6190215",
@@ -3063,44 +3063,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/309435/starbucks-by-nespresso-creamy-vanilla-flavoured-coffee-pods-capsules",
@@ -3110,56 +3110,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-espresso-roast-decaf-capsules-10-pack-3891177",
@@ -3169,44 +3169,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/115766/starbucks-by-nespresso-decaf-espresso-roast-coffee-pods-capsules",
@@ -3216,56 +3216,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-dark-espresso-roast-capsules-10-pack-3613072",
@@ -3275,50 +3275,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59704/starbucks-by-nespresso-espresso-roast-coffee-pods-capsules",
@@ -3328,56 +3328,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-espresso-roast-intensity-11-coffee-pods-capsules-36-pack-4926663",
@@ -3387,44 +3387,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "36pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "2520",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/221793/starbucks-by-nespresso-espresso-roast-coffee-pods-capsules",
@@ -3434,56 +3434,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-house-blend-lungo-capsules-10-pack-3613050",
@@ -3493,50 +3493,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59706/starbucks-by-nespresso-house-blend-coffee-pods-capsules",
@@ -3546,56 +3546,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-house-blend-coffee-pods-intensity-8-capsules-36-pack-4926674",
@@ -3605,44 +3605,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "36pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "2520",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/221229/starbucks-by-nespresso-house-blend-coffee-pods-capsules",
@@ -3652,56 +3652,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-italian-roast-capsules-10-pack-3984041",
@@ -3711,50 +3711,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/155945/starbucks-by-nespresso-italian-roast-coffee-pods-capsules",
@@ -3764,56 +3764,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-pike-place-capsules-10-pack-3772950",
@@ -3823,44 +3823,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/95082/starbucks-by-nespresso-pike-place-roast-coffee-pods-capsules",
@@ -3870,56 +3870,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-single-origin-coffee-colombia-capsules-10-pack-3612987",
@@ -3929,44 +3929,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59694/starbucks-by-nespresso-single-origin-colombia-coffee-pods-capsules",
@@ -3976,56 +3976,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-single-origin-colombia-coffee-pods-intensity-7-capsules-36-pack-6195897",
@@ -4035,38 +4035,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "36pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "70",
         "price_per_unit": "2520",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/304219/starbucks-by-nespresso-single-origin-colombia-coffee-pods-capsules",
@@ -4076,56 +4076,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "67",
         "price_per_unit": "2400",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-by-nespresso-single-origin-coffee-sumatra-capsules-10-pack-3613040",
@@ -4135,38 +4135,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/59695/starbucks-by-nespresso-single-origin-sumatra-coffee-pods-capsules",
@@ -4176,56 +4176,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/starbucks-nespresso-compatible-capsules-caramel-10-pack-6190260",
@@ -4235,44 +4235,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/309640/starbucks-by-nespresso-smooth-caramel-flavoured-coffee-pods-capsules",
@@ -4282,56 +4282,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "SA",
         "price": "79",
         "price_per_unit": "790",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "TAS",
         "price": "59",
         "price_per_unit": "590",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-black-valley-nespresso-compatible-coffee-capsules-10-pack-4204035",
@@ -4341,50 +4341,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "87",
         "price_per_unit": "872",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93095/vittoria-black-valley-nespresso-compatible-coffee-capsules",
@@ -4394,56 +4394,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-nespresso-compatible-capsules-variety-pack-40-pack-6345050",
@@ -4453,38 +4453,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "40pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "53",
         "price_per_unit": "2100",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "53",
         "price_per_unit": "2100",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "53",
         "price_per_unit": "2100",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "53",
         "price_per_unit": "2100",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "55",
         "price_per_unit": "2205",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/804689/vittoria-coffee-capsules-extra-strong-variety-pack",
@@ -4494,56 +4494,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "45",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "45",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "45",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "45",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "45",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "45",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "45",
         "price_per_unit": "1800",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "45",
         "price_per_unit": "1800",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-decaffeinated-nespresso-compatible-coffee-capsules-10-pack-3984369",
@@ -4553,50 +4553,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "87",
         "price_per_unit": "872",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92808/vittoria-decaffeinated-nespresso-compatible-coffee-capsules",
@@ -4606,56 +4606,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-espresso-nespresso-compatible-coffee-capsules-10-pack-3984336",
@@ -4665,50 +4665,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "87",
         "price_per_unit": "872",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93221/vittoria-espresso-nespresso-compatible-coffee-capsules",
@@ -4718,56 +4718,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-espresso-nespresso-compatible-coffee-capsules-20-pack-4151970",
@@ -4777,44 +4777,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "20pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "998",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93852/vittoria-espresso-nespresso-compatible-coffee-capsules",
@@ -4824,56 +4824,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-espressotoria-espresso-coffee-capsules-12-pack-78g-1825885",
@@ -4883,50 +4883,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "78g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/829318/vittoria-espressotoria-espresso-coffee-capsules",
@@ -4936,56 +4936,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-espressotoria-italian-blend-coffee-capsules-12-pack-78g-2279893",
@@ -4995,50 +4995,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "78g",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "g"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/829332/vittoria-espressotoria-italian-coffee-capsules",
@@ -5048,56 +5048,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/espressotoria-vittoria-coffee-mountain-grown-coffee-capsules-12-pack-2002732",
@@ -5107,50 +5107,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "12pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/829319/vittoria-espressotoria-mountain-grown-coffee-capsules",
@@ -5160,56 +5160,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "42",
         "price_per_unit": "500",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/espressotoria-piccolo-black-coffee-capsule-machine-1-each-5086750",
@@ -5219,26 +5219,26 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "1each",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "4000",
         "price_per_unit": "4000",
         "price_unit": "each"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "4000",
         "price_per_unit": "4000",
         "price_unit": "each"
       },
-      "2": {
+      {
         "state": "ACT",
         "price": "4000",
         "price_per_unit": "4000",
         "price_unit": "each"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/86640/vittoria-espressotoria-piccolo-coffee-machine",
@@ -5248,56 +5248,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "7900",
         "price_per_unit": "7900",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "7900",
         "price_per_unit": "7900",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "7900",
         "price_per_unit": "7900",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "7900",
         "price_per_unit": "7900",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "7900",
         "price_per_unit": "7900",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "7900",
         "price_per_unit": "7900",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "7900",
         "price_per_unit": "7900",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "7900",
         "price_per_unit": "7900",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-italian-nespresso-compatible-coffee-capsules-10-pack-3984314",
@@ -5307,50 +5307,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "87",
         "price_per_unit": "872",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92150/vittoria-italian-nespresso-compatible-coffee-capsules",
@@ -5360,56 +5360,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-italian-nespresso-compatible-coffee-capsules-20-pack-4151960",
@@ -5419,44 +5419,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "20pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "998",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92859/vittoria-italian-nespresso-compatible-coffee-capsules",
@@ -5466,56 +5466,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-latte-nespresso-compatible-coffee-capsules-20-pack-4151981",
@@ -5525,38 +5525,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "20pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "998",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/116684/vittoria-latte-nespresso-compatible-coffee-capsules",
@@ -5566,56 +5566,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-latte-nespresso-compatible-coffee-capsules-10-pack-3984347",
@@ -5625,50 +5625,50 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "87",
         "price_per_unit": "872",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/93466/vittoria-latte-nespresso-compatible-coffee-capsules",
@@ -5678,56 +5678,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-mountain-grown-nespresso-compatible-capsules-20-pack-6344953",
@@ -5737,38 +5737,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "20pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "998",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/310815/vittoria-mountain-grown-coffee-capsules",
@@ -5778,50 +5778,50 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-mountain-grown-nespresso-compatible-coffee-capsules-10-pack-4151959",
@@ -5831,44 +5831,44 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "SA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "ACT",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "pack"
       },
-      "5": {
+      {
         "state": "NT",
         "price": "87",
         "price_per_unit": "872",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/92148/vittoria-mountain-grown-nespresso-compatible-coffee-capsules",
@@ -5878,56 +5878,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "83",
         "price_per_unit": "830",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "50",
         "price_per_unit": "495",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/vittoria-oro-nespresso-compatible-capsules-20-pack-6344942",
@@ -5937,38 +5937,38 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "20pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "2": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "3": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "pack"
       },
-      "4": {
+      {
         "state": "NT",
         "price": "50",
         "price_per_unit": "998",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/310664/vittoria-oro-capsules",
@@ -5978,56 +5978,56 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "1": {
+      {
         "state": "VIC",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "2": {
+      {
         "state": "QLD",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "3": {
+      {
         "state": "WA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "4": {
+      {
         "state": "TAS",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "5": {
+      {
         "state": "ACT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "6": {
+      {
         "state": "NT",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       },
-      "7": {
+      {
         "state": "SA",
         "price": "48",
         "price_per_unit": "950",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/st-ali-italo-disco-capsules-10-pack-4828391",
@@ -6037,20 +6037,20 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/162693/st-ali-italo-disco-capsules",
@@ -6060,14 +6060,14 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/st-ali-orthodox-coffee-capsules-10-pack-3707020",
@@ -6077,20 +6077,20 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "64",
         "price_per_unit": "640",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "64",
         "price_per_unit": "640",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/162496/st-ali-orthodox-blend-capsules",
@@ -6100,14 +6100,14 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "EA"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.coles.com.au/product/st-ali-wide-awake-coffee-capsules-10-pack-3707052",
@@ -6117,20 +6117,20 @@
     "shop": "coles",
     "category_id": "11456",
     "weight": "10pack",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "NSW",
         "price": "64",
         "price_per_unit": "640",
         "price_unit": "pack"
       },
-      "1": {
+      {
         "state": "ACT",
         "price": "64",
         "price_per_unit": "640",
         "price_unit": "pack"
       }
-    }
+    ]
   },
   {
     "source_url": "https://www.woolworths.com.au/shop/productdetails/161627/st-ali-wide-awake-blend-capsules",
@@ -6140,13 +6140,13 @@
     "shop": "Woolworths",
     "category_id": "11456",
     "weight": "1EA",
-    "prices": {
-      "0": {
+    "prices": [
+      {
         "state": "VIC",
         "price": "80",
         "price_per_unit": "800",
         "price_unit": "EA"
       }
-    }
+    ]
   }
 ]
