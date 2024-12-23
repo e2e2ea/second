@@ -169,87 +169,87 @@ const categories = [
     /**
      * @commented Bakery Done
      */
-    {
-        category: "Drinks",
-        subCategories: [
-            // {
-            //     subCategory: "Chilled Drinks",
-            //     childItems: [
-            //         // this 2 will be "Chilled Soft Drinks & Energy Drinks"
-            //         // { extensionCategory: "Chilled Soft Drinks & Energy Drinks" },
-            //         { extensionCategory: "Soft Drinks" },
-            //         { extensionCategory: "Energy Drinks" },
-            //         { extensionCategory: "Chilled Water" },
-            //     ]
-            // },
-            // {
-            //     subCategory: "Coffee",
-            //     childItems: [
-            //         { extensionCategory: "Coffee Beans" },
-            //         { extensionCategory: "Coffee Capsules" },
-            //         { extensionCategory: "Ground Coffee" }, 
-            //         { extensionCategory: "Instant & Flavoured Coffee" },
-            //     ]
-            // },
-            // {
-            //     subCategory: "Cordials, Juices & Iced Teas",
-            //     childItems: [
-            //         { extensionCategory: "Chilled Juices" },
-            //         { extensionCategory: "Cordials" },
-            //         { extensionCategory: "Iced Teas" },
-            //     ]
-            // },
-            // {
-            //     subCategory: "Flavoured Milk",
-            //     childItems: [
-            //         { extensionCategory: "Drinking Chocolate" },
-            //         { extensionCategory: "Drinks & Powders" },
-            //         { extensionCategory: "Kids Milk" },
-            //     ]
-            // },
-            // {
-            //     subCategory: "Long Life Milk",
-            //     childItems: [
-            //         { extensionCategory: "Almond Milk" },
-            //         { extensionCategory: "Lactose Free Milk" },
-            //         { extensionCategory: "Oat & Rice Milk" },
-            //         { extensionCategory: "Powdered Milk" },
-            //         { extensionCategory: "Soy Milk" },
-            //     ]
-            // },
-            {
-                subCategory: "Soft Drinks",
-                childItems: [
-                    { extensionCategory: "Mixers" },
-                    { extensionCategory: "Soft Drink Bottles" },
-                    { extensionCategory: "Soft Drink Cans" },
-                ]
-            },
-            {
-                subCategory: "Sports & Energy Drinks",
-                childItems: [
-                    { extensionCategory: "Energy Drinks" },
-                    { extensionCategory: "Sports Drinks" },
-                ]
-            },
-            // {
-            //     subCategory: "Tea",
-            //     childItems: [
-            //         { extensionCategory: "Black Tea" },
-            //         { extensionCategory: "Green Tea" },
-            //         { extensionCategory: "Herbal & Specialty Tea" },
-            //     ]
-            // },
-            // {
-            //     subCategory: "Water",
-            //     childItems: [
-            //         { extensionCategory: "Flavoured & Coconut Water" },
-            //         { extensionCategory: "Sparkling Water" },
-            //         { extensionCategory: "Still Water" },
-            //     ]
-            // },
-        ]
-    },
+    // {
+    //     category: "Drinks",
+    //     subCategories: [
+    //         {
+    //             subCategory: "Chilled Drinks",
+    //             childItems: [
+    //                 // this 2 will be "Chilled Soft Drinks & Energy Drinks"
+    //                 // { extensionCategory: "Chilled Soft Drinks & Energy Drinks" },
+    //                 { extensionCategory: "Soft Drinks" },
+    //                 { extensionCategory: "Energy Drinks" },
+    //                 { extensionCategory: "Chilled Water" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Coffee",
+    //             childItems: [
+    //                 { extensionCategory: "Coffee Beans" },
+    //                 { extensionCategory: "Coffee Capsules" },
+    //                 { extensionCategory: "Ground Coffee" }, 
+    //                 { extensionCategory: "Instant & Flavoured Coffee" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Cordials, Juices & Iced Teas",
+    //             childItems: [
+    //                 { extensionCategory: "Chilled Juices" },
+    //                 { extensionCategory: "Cordials" },
+    //                 { extensionCategory: "Iced Teas" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Flavoured Milk",
+    //             childItems: [
+    //                 { extensionCategory: "Drinking Chocolate" },
+    //                 { extensionCategory: "Drinks & Powders" },
+    //                 { extensionCategory: "Kids Milk" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Long Life Milk",
+    //             childItems: [
+    //                 { extensionCategory: "Almond Milk" },
+    //                 { extensionCategory: "Lactose Free Milk" },
+    //                 { extensionCategory: "Oat & Rice Milk" },
+    //                 { extensionCategory: "Powdered Milk" },
+    //                 { extensionCategory: "Soy Milk" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Soft Drinks",
+    //             childItems: [
+    //                 { extensionCategory: "Mixers" },
+    //                 { extensionCategory: "Soft Drink Bottles" },
+    //                 { extensionCategory: "Soft Drink Cans" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Sports & Energy Drinks",
+    //             childItems: [
+    //                 { extensionCategory: "Energy Drinks" },
+    //                 { extensionCategory: "Sports Drinks" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Tea",
+    //             childItems: [
+    //                 { extensionCategory: "Black Tea" },
+    //                 { extensionCategory: "Green Tea" },
+    //                 { extensionCategory: "Herbal & Specialty Tea" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Water",
+    //             childItems: [
+    //                 { extensionCategory: "Flavoured & Coconut Water" },
+    //                 { extensionCategory: "Sparkling Water" },
+    //                 { extensionCategory: "Still Water" },
+    //             ]
+    //         },
+    //     ]
+    // },
     // {
     //     category: "Freezer",
     //     subCategories: [

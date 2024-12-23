@@ -111,6 +111,7 @@ const categories = [
     //         {
     //             subCategory: "Baby Accessories",
     //             childItems: [
+    //                 { extensionCategory: "Baby Bibs" },
     //                 { extensionCategory: "Baby Health & Safety" },
     //                 { extensionCategory: "Baby Toys & Playtime" },
     //                 { extensionCategory: "Bath & Skincare" },

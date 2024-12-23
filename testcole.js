@@ -832,7 +832,7 @@ const scraper = async () => {
 
                             if (productData.length > 0) {
                                 for (const data of productData) {
-                                    const q = await Product.findOne({ category: data.category, subCategory: data.sub, extensionCategory: data.ext, coles_product_id: data.coles_product_id })
+                                    const q = await Product.findOne({ category: data.category, subCategory: data.subCategory, extensionCategory: data.extensionCategory, coles_product_id: data.coles_product_id })
                                     if (!q) {
                                         const createdProduct = await Product.create({ ...data });
                                     } else {

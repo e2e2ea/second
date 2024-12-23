@@ -8,11 +8,11 @@ import mongoose from 'mongoose';
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
 
-// const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas', 'act', 'nt']
-const mylocation = ['act', 'nt']
+const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas', 'act', 'nt']
+// const mylocation = ['act', 'nt']
 const dbConnect = async () => {
   try {
-    const conn = await mongoose.connect('mongodb://127.0.0.1/wooly4');
+    const conn = await mongoose.connect('mongodb://127.0.0.1/exwooly1');
     console.log('database connected');
     return conn;
   } catch (error) {
@@ -46,69 +46,69 @@ const ProductSchema = new mongoose.Schema(
 const Product = mongoose.model('Product', ProductSchema);
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
-  if (priceInCents && priceInCentsPerUnits) {
+  if (priceInCents) {
     if (location === 'nsw') {
       prices.push({
         state: 'nsw'.toUpperCase(),
-        price: parseFloat(Number(priceInCents).toFixed(2)),
-        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-        price_unit: unit,
+        price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
+        price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
+        price_unit: unit ? unit : '',
       });
     }
     if (location === 'vic') {
       prices.push({
         state: 'vic'.toUpperCase(),
-        price: parseFloat(Number(priceInCents).toFixed(2)),
-        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-        price_unit: unit,
+        price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
+        price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
+        price_unit: unit ? unit : '',
       });
     }
     if (location === 'qld') {
       prices.push({
         state: 'qld'.toUpperCase(),
-        price: parseFloat(Number(priceInCents).toFixed(2)),
-        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-        price_unit: unit,
+        price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
+        price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
+        price_unit: unit ? unit : '',
       });
     }
     if (location === 'wa') {
       prices.push({
         state: 'wa'.toUpperCase(),
-        price: parseFloat(Number(priceInCents).toFixed(2)),
-        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-        price_unit: unit,
+        price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
+        price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
+        price_unit: unit ? unit : '',
       });
     }
     if (location === 'sa') {
       prices.push({
         state: 'sa'.toUpperCase(),
-        price: parseFloat(Number(priceInCents).toFixed(2)),
-        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-        price_unit: unit,
+        price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
+        price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
+        price_unit: unit ? unit : '',
       });
     }
     if (location === 'tas') {
       prices.push({
         state: 'tas'.toUpperCase(),
-        price: parseFloat(Number(priceInCents).toFixed(2)),
-        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-        price_unit: unit,
+        price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
+        price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
+        price_unit: unit ? unit : '',
       });
     }
     if (location === 'act') {
       prices.push({
         state: 'act'.toUpperCase(),
-        price: parseFloat(Number(priceInCents).toFixed(2)),
-        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-        price_unit: unit,
+        price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
+        price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
+        price_unit: unit ? unit : '',
       });
     }
     if (location === 'nt') {
       prices.push({
         state: 'nt'.toUpperCase(),
-        price: parseFloat(Number(priceInCents).toFixed(2)),
-        price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-        price_unit: unit,
+        price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
+        price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
+        price_unit: unit ? unit : '',
       });
     }
   }
@@ -117,14 +117,50 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
 };
 
 
-
+let pageReset = 0
 const WOOLWORTHS_API_ENDPOINT = 'https://www.woolworths.com.au/apis/ui/browse/category';
 const CATEGORIES = [
+  // // Baby
+  // // Baby Accessories
+  // { id: '1_6C80D4E', name: 'Health & Safety', url: '/shop/browse/baby/health-safety', location: '/shop/browse/baby/health-safety' },
+  // { id: '1_A500F4B', name: 'Toys & Playtime', url: '/shop/browse/baby/toys-playtime', location: '/shop/browse/baby/toys-playtime' },
+  // { id: '1_EA73E9D', name: 'Bath & Skincare', url: '/shop/browse/baby/bath-skincare', location: '/shop/browse/baby/bath-skincare' },
+  // { id: '1_F711B70', name: 'Bottles & Baby Feeding', url: '/shop/browse/baby/bottles-baby-feeding', location: '/shop/browse/baby/bottles-baby-feeding' },
+  // // Baby Food
+  // { id: '1_CDCF6CF', name: 'Baby Food', url: '/shop/browse/baby/baby-food', location: '/shop/browse/baby/baby-food' }, // done
+  // // Baby Formula
+  // { id: '1_261C240', name: 'Baby Formula & Toddler Milk', url: '/shop/browse/baby/baby-formula-toddler-milk', location: '/shop/browse/baby/baby-formula-toddler-milk' }, // done
+  // // Nappies Wipes
+  // { id: '1_9834884', name: 'Nappies', url: '/shop/browse/baby/nappies', location: '/shop/browse/baby/nappies' }, // done
+  // // Bakery
+  // // In-Store Bakery
+  // { id: '1_5402F90', name: 'In-Store Bakery', url: '/shop/browse/bakery/in-store-bakery', location: '/shop/browse/bakery/in-store-bakery' }, // done
+  // // Packaged Bread & Bakery
+  // { id: '1_62B7AA0', name: 'Packaged Bread & Bakery', url: '/shop/browse/bakery/packaged-bread-bakery', location: '/shop/browse/bakery/packaged-bread-bakery' }, // done
+  // // Deli & Chilled Meats
+
+
+  
+  // Home & Lifestyle
+  { id: '1_792C364', name: 'Party Supplies', url: '/shop/browse/home-lifestyle/party-supplies', location: '/shop/browse/home-lifestyle/party-supplies' }, // done
+  { id: '1_3D142C0', name: 'Clothing Accessories', url: '/shop/browse/home-lifestyle/clothing-accessories', location: '/shop/browse/home-lifestyle/clothing-accessories' }, // done
+  
+  // Health & Wellness
+  { id: '1_67B032F', name: 'Vitamins', url: '/shop/browse/health-wellness/vitamins', location: '/shop/browse/health-wellness/vitamins' }, // done
+  { id: '1_329A89C', name: 'First Aid & Medicinal', url: '/shop/browse/health-wellness/first-aid-medicinal', location: '/shop/browse/health-wellness/first-aid-medicinal' }, // done
+  
+
+  // { id: '1_499FEB0', name: 'Packaged', url: '', location: '' }, // done
+  // { id: '1_499FEB0', name: 'Packaged Ham, Bacon & Salami', url: '/shop/browse/deli-chilled-meals/deli-meats/packaged-ham-bacon-salami', location: '/shop/browse/deli-chilled-meals/deli-meats/packaged-ham-bacon-salami' }, // done
+
+
+
+  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // done
   // { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' }, // done
   // { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' }, // done
   // { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' }, // done
   // { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // done
-  // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // done
+  // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // to removed
 
   // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // done
   // { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' }, // done
@@ -134,10 +170,9 @@ const CATEGORIES = [
   // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // done
 
   // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // done
-  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // done
 
-  // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // done // but no products in the list of categ
-  { id: '1_2432B58', name: 'Cleaning & Maintenance', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' }, // done in vic
+  // // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // to removed
+  // { id: '1_2432B58', name: 'Cleaning & Maintenance', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' }, // done in vic
 ];
 const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
 const SPEED_LIMIT = 20;
@@ -186,9 +221,13 @@ function delay(time) {
   // await browser.close();
 
   // Reload the session with cookies
-  const browser2 = await puppeteer.launch({ headless: false });
+  const browser2 = await puppeteer.launch({
+    headless: false,
+    // executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    // userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1"
+  });
   let page2
-
+ 
   for (let i = 0; i < mylocation.length; i++) {
     for (const category of CATEGORIES) {
       page2 = await browser2.newPage();
@@ -199,9 +238,9 @@ function delay(time) {
       // Navigate to the target website again, with the cookies
       await safeNavigate(page2, 'https://www.woolworths.com.au');
       // await page2.goto(, { waitUntil: 'domcontentloaded' });
-      await delay(60000)
-      // await delay(30000)
-      await delay(5000)
+      // await delay(60000)
+      console.log('1.1')
+      // await delay(20000)
       console.log('1')
 
       const content = await page2.evaluate(() => document.body.innerText);
@@ -226,26 +265,22 @@ function delay(time) {
       }
 
       await page2.setBypassCSP(true);
+
       const products = await scrapeCategory(page2, category, mylocation[i]);
       console.log('Number of products:', products.length);
     }
     console.log('all done in location:', mylocation[i])
     // await browser2.close();
-    await delay(5000)
-    await delay(10000)
-    console.log('1')
-    await delay(5000)
-    await delay(10000)
-    console.log('2')
-    await delay(5000)
-    await delay(10000)
-    console.log('3')
-    await delay(5000)
-    await delay(10000)
-    console.log('4')
-    await delay(10000)
-    await delay(5000)
-    console.log('5')
+    // await delay(3000)
+    // console.log('1')
+    // await delay(3000)
+    // console.log('2')
+    // await delay(3000)
+    // console.log('3')
+    // await delay(3000)
+    // console.log('4')
+    // await delay(3000)
+    // console.log('5')
   }
   console.log('all is done')
 })();
@@ -256,7 +291,7 @@ const scrapeCategory = async (page, category, myloc) => {
   const body = {
     categoryId: category.id,
     pageNumber: 1,
-    pageSize: 24,
+    pageSize: 36,
     sortType: 'Name',
     url: category.url,
     location: category.location,
@@ -279,12 +314,13 @@ const scrapeCategory = async (page, category, myloc) => {
 
   const numProducts = res.TotalRecordCount || 0;
   const numPages = Math.ceil(numProducts / 24);
-  // console.log('Products: ', numProducts, 'Pages: ', numPages);
+  console.log('Products: ', numProducts, 'Pages: ', numPages);
   console.log('Pages: ', numPages);
 
   const productRes = [];
-  let pageReset = 0
+
   for (let i = 1; i <= numPages; i++) {
+    console.log('pageResetvalue', pageReset)
     // if (category.name === 'Cleaning & Maintenance' && i < 113 && myloc === 'vic') {
     //   i = 114
     // }
