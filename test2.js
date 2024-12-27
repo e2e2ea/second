@@ -15,15 +15,15 @@ function delay(time) {
             'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
         );
         await page.setExtraHTTPHeaders({
-            Referer: "https://www.woolworths.com.au/",
+            Referer: "https://www.coles.com.au/",
         });
-        const loadedCookies = JSON.parse(fs.readFileSync('cookies.json', 'utf-8'));
-        await page.setCookie(...loadedCookies);
-        await page.goto('https://woolworths.com.au');
+        // const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
+        // await page.setCookie(...loadedCookies);
+        await page.goto('https://coles.com.au');
         await page.waitForSelector('h1');
 
         const cookies = await page.cookies();
-        fs.writeFileSync('cookies.json', JSON.stringify(cookies, null, 2));
+        fs.writeFileSync('colesCookies.json', JSON.stringify(cookies, null, 2));
         console.log('Extracted Cookies done.');
         await delay(60000)
         browser.close()

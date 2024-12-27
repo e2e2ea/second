@@ -142,7 +142,7 @@ const step3 = async (page, loc) => {
   const a = await waitForElement(page, searchInputSelector, { visible: true, timeout: 2000 });
   if (!a) return false;
   await page.focus(searchInputSelector);
-  await page.type(searchInputSelector, location, { delay: 500 });
+  await page.type(searchInputSelector, location, { delay: 200 });
   // console.log(`Typed location: ${location}`);
   return true; // Return true if the step succeeded
 };

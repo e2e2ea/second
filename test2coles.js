@@ -143,25 +143,25 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
 
 const scraper = async () => {
     await dbConnect();
-
-    // page = await browser.newPage();
-
+    let browser
     try {
         for (const loc of locations) {
-            const browser = await puppeteer.launch({
+            browser = await puppeteer.launch({
                 headless: false,
                 executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-                userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1"
+                // userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1"
+                userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile1"
             });
             // const context = await browser.createBrowserContext();
 
             let page2
-            page2 = (await browser.newPage()).removeAllListeners('request');
+            // page2 = (await browser.newPage()).removeAllListeners('request');
+            page2 = await browser.newPage()
             await page2.setExtraHTTPHeaders({
-                Referer: "https://www.coles.com.au/",
+                Referer: "https://coles.com.au/",
             });
-            const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
-            await page2.setCookie(...loadedCookies);
+            // const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
+            // await page2.setCookie(...loadedCookies);
             await safeNavigate(page2, 'https://www.coles.com.au');
             // await page.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
             // await safeNavigate(page, 'https://coles.com.au');
@@ -186,8 +186,6 @@ const scraper = async () => {
                                     // baby category logic
                                     if (extensionCategory === 'Specialty') extensionCategory = 'Specialty Formula'
                                     if (extensionCategory === 'Swimming Nappies') extensionCategory = 'Swimmers'
-
-
                                     const updatedCategory = category.replace(/[^\w\s-]/g, '') // Remove special characters
                                         .replace(/\s+/g, '-') // Replace one or more spaces with a single hyphen
                                         .replace(/-+/g, '-');
@@ -558,6 +556,11 @@ const scraper = async () => {
                                             if (ext.extensionCategory === 'Corn Chips & Salsa') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/corn-chips-salsa`
                                             if (ext.extensionCategory === 'Muesli Bars & Snack') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/muesli-bars-fruit-snacks`
                                         }
+                                        if (sub.subCategory === 'Tea & Coffee') {
+                                            if (ext.extensionCategory === 'Black Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-black`
+                                            if (ext.extensionCategory === 'Green Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-green`
+                                            if (ext.extensionCategory === 'Herbal & Specialty Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-herbal`
+                                        }
                                     }
                                     // category Pet
                                     if (category === 'Pet') {
@@ -585,15 +588,16 @@ const scraper = async () => {
                                         }
                                     }
                                     let page
+                                    // page = (await browser.newPage()).removeAllListeners('request');
+                                    page = await browser.newPage();
                                     console.log('Page loaded successfully.');
-                                    page = (await browser.newPage()).removeAllListeners('request');
                                     const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
                                     await page.setUserAgent(randomUserAgent);
                                     await page.setExtraHTTPHeaders({
                                         Referer: "https://www.coles.com.au/",
                                     });
-                                    const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
-                                    await page.setCookie(...loadedCookies);
+                                    // const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
+                                    // await page.setCookie(...loadedCookies);
                                     await page.waitForSelector('body', { timeout: 90000 });
                                     // deleted here
                                     // await page.setUserAgent(
@@ -603,7 +607,7 @@ const scraper = async () => {
                                     await safeNavigate(page, url);
                                     await delay(6000);
                                     await delay(6000);
-                                    await delay(5000);
+                                    // await delay(5000);
                                     console.log('Scrolling...');
                                     await page.evaluate(async () => {
                                         const totalHeight = document.body.scrollHeight; // Total page height
@@ -624,17 +628,34 @@ const scraper = async () => {
                                         if (i !== 1) {
                                             const url2 = `${url}?page=${i}`;
                                             await safeNavigate(page, url2);
-                                            await delay(9000);
                                         }
+                                        await delay(5000);
                                         try {
-                                            await page.waitForSelector('section[data-testid="product-tile"]', { timeout: 7000 });
+                                            if (i > 1) {
+                                                await page.waitForSelector('section[data-testid="product-tile"]', { waitUntil: 'networkidle2', timeout: 15000 });
+                                            } else {
+                                                await page.waitForSelector('section[data-testid="product-tile"]', { waitUntil: 'networkidle2', timeout: 120000 });
+                                            }
                                         } catch (error) {
                                             hasProducts = false;
-                                            page.close()
-                                            // await browser.close();
-                                            // await delay(10000);
-                                            break;
+                                            await page.close();
+                                            console.log('No products found, closing page...');
+                                            break
                                         }
+                                        // try {
+                                        //     await page.waitForSelector('section[data-testid="product-tile"]', { timeout: 7000 });
+                                        // } catch (error) {
+                                        //     hasProducts = false;
+                                        //     console.log('No products found, closing page...');
+                                        // } finally {
+                                        //     if (!hasProducts) {
+                                        //         try {
+                                        //             await page.close();
+                                        //         } catch (closeError) {
+                                        //             console.error('Failed to close page:', closeError);
+                                        //         }
+                                        //     }
+                                        // }
                                         // console.log('Products found, extracting data...');
 
                                         // Extract product data
@@ -892,10 +913,14 @@ const scraper = async () => {
                                                 }
                                             }
                                         }
-                                        if (productData.length > 0 && productData.length < 24) {
+                                        i = i + 1;
+                                        if (productData && productData.length < 9) {
+                                            console.log('direct break', productData.length, 'Child Items:', extensionCategory)
+                                            hasProducts = false;
+                                            await page.close()
                                             break;
                                         }
-                                        i = i + 1;
+
 
                                         // console.log('length find...', productData.length);
                                         // await delay(9000);
