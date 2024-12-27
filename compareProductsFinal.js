@@ -52,7 +52,7 @@ const getData = async () => {
                             image_url: data.image_url || null,
                             barcode: data.barcode || null,
                             shop: data.shop || null,
-                            category_id: filteredProducts[0].category_id,
+                            category_id: data.category_id,
                             weight: data.weight || null,
                             prices: data.prices,
                         };

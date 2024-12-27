@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 
 const dbConnect = async () => {
     try {
-        await mongoose.connect('mongodb://127.0.0.1/wooly4');
+        await mongoose.connect('mongodb://127.0.0.1/exwooly3');
         console.log('Database connected');
     } catch (error) {
         console.log('Database connection failed:', error.message);

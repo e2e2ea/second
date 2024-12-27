@@ -118,6 +118,7 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
 
 
 let pageReset = 0
+let booool = false
 const WOOLWORTHS_API_ENDPOINT = 'https://www.woolworths.com.au/apis/ui/browse/category';
 const CATEGORIES = [
   // // Baby
@@ -140,37 +141,60 @@ const CATEGORIES = [
   // // Deli & Chilled Meats
 
 
-  
+
   // Home & Lifestyle
   { id: '1_792C364', name: 'Party Supplies', url: '/shop/browse/home-lifestyle/party-supplies', location: '/shop/browse/home-lifestyle/party-supplies' }, // done
   { id: '1_3D142C0', name: 'Clothing Accessories', url: '/shop/browse/home-lifestyle/clothing-accessories', location: '/shop/browse/home-lifestyle/clothing-accessories' }, // done
-  
+
   // Health & Wellness
   { id: '1_67B032F', name: 'Vitamins', url: '/shop/browse/health-wellness/vitamins', location: '/shop/browse/health-wellness/vitamins' }, // done
   { id: '1_329A89C', name: 'First Aid & Medicinal', url: '/shop/browse/health-wellness/first-aid-medicinal', location: '/shop/browse/health-wellness/first-aid-medicinal' }, // done
-  
+
+  //Beauty & Personal Care
+  { id: '1_877B999', name: 'Cosmetics', url: '/shop/browse/beauty-personal-care/cosmetics', location: '/shop/browse/beauty-personal-care/cosmetics' }, // done
+  { id: '1_266FCD7', name: 'Skin Care', url: '/shop/browse/beauty-personal-care/skin-care', location: '/shop/browse/beauty-personal-care/skin-care' }, // done
+  { id: '1_098A313', name: 'Hair Care', url: '/shop/browse/beauty-personal-care/hair-care', location: '/shop/browse/beauty-personal-care/hair-care' }, // done
+
+  // Pantry
+  { id: '1_8458E3A', name: 'Baking', url: '/shop/browse/pantry/baking', location: '/shop/browse/pantry/baking' },
+  { id: '1_C7A623D', name: 'Breakfast & Spreads', url: '/shop/browse/pantry/breakfast-spreads', location: '/shop/browse/pantry/breakfast-spreads' },
+  { id: '1_23C59D3', name: 'Canned Food & Instant Meals', url: '/shop/browse/pantry/canned-food-instant-meals', location: '/shop/browse/pantry/canned-food-instant-meals' },
+  { id: '1_F43CC25', name: 'Condiments', url: '/shop/browse/pantry/condiments', location: '/shop/browse/pantry/condiments' },
+  { id: '1_69A326C', name: 'Desserts', url: '/shop/browse/pantry/desserts', location: '/shop/browse/pantry/desserts' },
+  { id: '1_F779C5C', name: 'Herbs & Spices', url: '/shop/browse/pantry/herbs-spices', location: '/shop/browse/pantry/herbs-spices' },
+  { id: '1_53601CD', name: 'International Foods', url: '/shop/browse/pantry/international-foods', location: '/shop/browse/pantry/international-foods' },
+  { id: '1_B5F8608', name: 'Pasta, Rice & Grains', url: '/shop/browse/pantry/pasta-rice-grains', location: '/shop/browse/pantry/pasta-rice-grains' },
+  { id: '1_8A702B7', name: 'Tea & Coffee', url: '/shop/browse/pantry/tea-coffee', location: '/shop/browse/pantry/tea-coffee' },
+  { id: '1_0B44952', name: 'Long Life Milk', url: '/shop/browse/pantry/long-life-milk', location: '/shop/browse/pantry/long-life-milk' },
+
+  // Cleaning and maintenance
+  { id: '1_6174AF3', name: 'Cleaning Goods', url: '/shop/browse/cleaning-maintenance/cleaning-goods', location: '/shop/browse/cleaning-maintenance/cleaning-goods' },
+  { id: '1_F364D22', name: 'Garden & Outdoors', url: '/shop/browse/cleaning-maintenance/garden-outdoors', location: '/shop/browse/cleaning-maintenance/garden-outdoors' },
+  { id: '1_A2E3843', name: 'Kitchen', url: '/shop/browse/cleaning-maintenance/kitchen', location: '/shop/browse/cleaning-maintenance/kitchen' },
+  { id: '1_2F587AA', name: 'Laundry', url: '/shop/browse/cleaning-maintenance/laundry', location: '/shop/browse/cleaning-maintenance/laundry' },
+  { id: '1_AF39A7A', name: 'Pest Control', url: '/shop/browse/cleaning-maintenance/pest-control', location: '/shop/browse/cleaning-maintenance/pest-control' },
+  { id: '1_8AF7215', name: 'Hardware', url: '/shop/browse/cleaning-maintenance/hardware', location: '/shop/browse/cleaning-maintenance/hardware' },
 
   // { id: '1_499FEB0', name: 'Packaged', url: '', location: '' }, // done
   // { id: '1_499FEB0', name: 'Packaged Ham, Bacon & Salami', url: '/shop/browse/deli-chilled-meals/deli-meats/packaged-ham-bacon-salami', location: '/shop/browse/deli-chilled-meals/deli-meats/packaged-ham-bacon-salami' }, // done
 
 
 
-  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // done
-  // { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' }, // done
-  // { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' }, // done
-  // { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' }, // done
+  { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // done
+  { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' }, // done
+  { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' }, // done
+  { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' }, // done
   // { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' }, // done
   // { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' }, // to removed
 
-  // { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // done
-  // { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' }, // done
-  // { id: '1_3151F6F', name: 'Deli & Chilled Meals', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' }, // done
-  // { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' }, // done
+  { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' }, // done
+  { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' }, // done
+  { id: '1_3151F6F', name: 'Deli & Chilled Meals', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' }, // done
+  { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' }, // done
 
-  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // done
+  { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // done
 
   // { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' }, // done
-
   // // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // to removed
   // { id: '1_2432B58', name: 'Cleaning & Maintenance', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' }, // done in vic
 ];
@@ -227,8 +251,9 @@ function delay(time) {
     // userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1"
   });
   let page2
- 
+
   for (let i = 0; i < mylocation.length; i++) {
+    booool = true
     for (const category of CATEGORIES) {
       page2 = await browser2.newPage();
       // Load cookies from the file
@@ -238,10 +263,13 @@ function delay(time) {
       // Navigate to the target website again, with the cookies
       await safeNavigate(page2, 'https://www.woolworths.com.au');
       // await page2.goto(, { waitUntil: 'domcontentloaded' });
-      // await delay(60000)
-      console.log('1.1')
-      // await delay(20000)
-      console.log('1')
+      if (booool) {
+        await delay(60000)
+        await delay(20000)
+        console.log('1.1')
+        console.log('1')
+        booool = false
+      }
 
       const content = await page2.evaluate(() => document.body.innerText);
 
@@ -268,6 +296,7 @@ function delay(time) {
 
       const products = await scrapeCategory(page2, category, mylocation[i]);
       console.log('Number of products:', products.length);
+      page2.close()
     }
     console.log('all done in location:', mylocation[i])
     // await browser2.close();
@@ -313,7 +342,7 @@ const scrapeCategory = async (page, category, myloc) => {
   // console.log('First category response:', res);
 
   const numProducts = res.TotalRecordCount || 0;
-  const numPages = Math.ceil(numProducts / 24);
+  const numPages = Math.ceil(numProducts / 36);
   console.log('Products: ', numProducts, 'Pages: ', numPages);
   console.log('Pages: ', numPages);
 
@@ -342,8 +371,8 @@ const scrapeCategory = async (page, category, myloc) => {
       await safeNavigate(page, 'https://www.woolworths.com.au');
       // await page.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
       console.log('creating new page')
-      await delay(30000)
-      await delay(20000)
+      await delay(35000)
+      // await delay(20000)
       page.removeAllListeners('request');
       const content = await page.evaluate(() => document.body.innerText);
       const htmlOnly = async (page) => {
@@ -381,7 +410,7 @@ const scrapeCategory = async (page, category, myloc) => {
     productRes.push(...products);
     // await delay(1000)
   }
-
+  // if (productRes && productRes.length > 0) console.log('all products', productRes.length)
   return productRes;
 }
 
@@ -496,6 +525,10 @@ const callFetch = async (page, request) => {
         request,
         WOOLWORTHS_API_ENDPOINT
       );
+      if (a.error || !a || a === undefined) {
+        console.error('Error in fetch:', a.error);
+        throw new Error('');
+      }
       return a
     } catch (err) {
       console.error(`Attempt ${i + 1} failed: ${err}`);
