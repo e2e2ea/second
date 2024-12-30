@@ -145,27 +145,29 @@ const scraper = async () => {
     await dbConnect();
     let browser
     try {
+        browser = await puppeteer.launch({
+            headless: false,
+            // executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            // userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1"
+            // userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile1"
+        });
         for (const loc of locations) {
-            browser = await puppeteer.launch({
-                headless: false,
-                executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-                // userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1"
-                userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile1"
-            });
             // const context = await browser.createBrowserContext();
 
             let page2
             // page2 = (await browser.newPage()).removeAllListeners('request');
             page2 = await browser.newPage()
             await page2.setExtraHTTPHeaders({
-                Referer: "https://coles.com.au/",
+                Referer: "https://www.coles.com.au/",
             });
             // const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
             // await page2.setCookie(...loadedCookies);
             await safeNavigate(page2, 'https://www.coles.com.au');
-            // await page.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
+            await page2.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
             // await safeNavigate(page, 'https://coles.com.au');
             const a = await handleSteps(page2, loc, 'https://coles.com.au');
+            // const cookies = await page2.cookies();
+            // fs.writeFileSync('colesCookies.json', JSON.stringify(cookies, null, 2));
             await Promise.allSettled(
                 categories.map(async (categ, index) => {
                     // for (const categ of categories) {
@@ -184,7 +186,7 @@ const scraper = async () => {
                                     extensionCategory = ext.extensionCategory
 
                                     // baby category logic
-                                    if (extensionCategory === 'Specialty') extensionCategory = 'Specialty Formula'
+                                    // if (extensionCategory === 'Specialty') extensionCategory = 'Specialty Formula'
                                     if (extensionCategory === 'Swimming Nappies') extensionCategory = 'Swimmers'
                                     const updatedCategory = category.replace(/[^\w\s-]/g, '') // Remove special characters
                                         .replace(/\s+/g, '-') // Replace one or more spaces with a single hyphen
@@ -213,9 +215,13 @@ const scraper = async () => {
                                             if (ext.extensionCategory === 'Baby Teething & Soothers') url = `https://www.coles.com.au/browse/baby/dummies-teething/soothers-teethers`
                                             if (ext.extensionCategory === 'Bath & Skincare') url = `https://www.coles.com.au/browse/baby/bath-skincare`
                                             if (ext.extensionCategory === 'Bottles and Baby Feeding') url = `https://www.coles.com.au/browse/baby/bottles-feeding`
+
                                         }
                                         if (sub.subCategory === 'Baby Food') {
                                             if (ext.extensionCategory === 'Baby & Toddler Snacks') url = `https://www.coles.com.au/browse/baby/baby-toddler-food/baby-toddler-snacks`
+                                        }
+                                        if (sub.subCategory === 'Baby Formula') {
+                                            if (ext.extensionCategory === 'Specialty') url = `https://www.coles.com.au/browse/baby/baby-formula/specialty-formula`
                                         }
                                     }
                                     // bakery category
@@ -260,7 +266,7 @@ const scraper = async () => {
                                         }
                                         if (sub.subCategory === 'Deli Specialties') {
                                             if (ext.extensionCategory === 'Antipasto') url = `https://www.coles.com.au/browse/deli/olives-antipasto/antipasto`
-                                            if (ext.extensionCategory === 'Gourmet Cheese') url = `https://www.coles.com.au/browse/deli/deli-gourmet-cheese`
+                                            if (ext.extensionCategory === 'Gourmet Cheese') url = `https://www.coles.com.au/browse/deli/gourmet-cheese`
                                             if (ext.extensionCategory === 'Platters') url = `https://www.coles.com.au/browse/deli/pre-made-platters`
                                         }
                                         if (sub.subCategory === 'Ready to Eat Meals') {
@@ -598,6 +604,7 @@ const scraper = async () => {
                                     });
                                     // const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
                                     // await page.setCookie(...loadedCookies);
+
                                     await page.waitForSelector('body', { timeout: 90000 });
                                     // deleted here
                                     // await page.setUserAgent(
@@ -629,12 +636,12 @@ const scraper = async () => {
                                             const url2 = `${url}?page=${i}`;
                                             await safeNavigate(page, url2);
                                         }
-                                        await delay(5000);
+                                        await delay(7000);
                                         try {
                                             if (i > 1) {
                                                 await page.waitForSelector('section[data-testid="product-tile"]', { waitUntil: 'networkidle2', timeout: 15000 });
                                             } else {
-                                                await page.waitForSelector('section[data-testid="product-tile"]', { waitUntil: 'networkidle2', timeout: 120000 });
+                                                await page.waitForSelector('section[data-testid="product-tile"]', { waitUntil: 'networkidle2', timeout: 300000 }); // 120000
                                             }
                                         } catch (error) {
                                             hasProducts = false;
@@ -789,7 +796,7 @@ const scraper = async () => {
 
                                                     // baby category
                                                     if (subCategory === 'Nappies & Nappy Pants') sub = 'Nappies Wipes'
-                                                    if (extensionCategory === 'Specialty Formula') ext = 'Specialty'
+                                                    // if (extensionCategory === 'Specialty Formula') ext = 'Specialty'
                                                     if (extensionCategory === 'Swimmers') ext = 'Swimming Nappies'
 
                                                     // bakery category
@@ -931,7 +938,7 @@ const scraper = async () => {
                         }))
                     console.log('done Category:', category)
                 }))
-            await browser.close();
+            // await browser.close();
         }
         console.log('done all')
 

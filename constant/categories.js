@@ -5,9 +5,6 @@ const categories = [
     // {
     //     category: "Baby",
     //     subCategories: [
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "Baby Accessories",
     //             childItems: [
@@ -24,36 +21,24 @@ const categories = [
     //                 { extensionCategory: "Baby & Toddler Snacks" },
     //             ]
     //         },
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "Baby Formula",
     //             childItems: [
     //                 { extensionCategory: "Specialty" },
     //             ]
     //         },
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "Nappies Wipes",
     //             childItems: [
-    //                 { extensionCategory: "Nappy Pants" },
+    //                 // { extensionCategory: "Nappy Pants" },
     //                 { extensionCategory: "Swimming Nappies" },
     //             ]
     //         },
     //     ]
     // },
-    /**
-     * @commented Bakery Done
-     */
     // {
     //     category: "Bakery",
     //     subCategories: [
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "In-Store Bakery",
     //             childItems: [
@@ -74,9 +59,6 @@ const categories = [
     //         },
     //     ]
     // },
-    /**
-     * @commented Bakery Done
-     */
     // {
     //     category: "Dairy, Eggs & Fridge",
     //     subCategories: [
@@ -131,9 +113,6 @@ const categories = [
     //         },
     //     ]
     // },
-    /**
-     * @commented Deli & Chilled Meats Done
-     */
     // {
     //     category: "Deli & Chilled Meats",
     //     subCategories: [
@@ -144,9 +123,6 @@ const categories = [
     //                 { extensionCategory: "Sliced & Shaved Deli Meat" },
     //             ]
     //         },
-    //         /**
-    //          * @commented because its done
-    //         */
     //         {
     //             subCategory: "Deli Specialties",
     //             childItems: [
@@ -155,9 +131,6 @@ const categories = [
     //                 { extensionCategory: "Platters" },
     //             ]
     //         },
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "Ready to Eat Meals",
     //             childItems: [
@@ -166,9 +139,6 @@ const categories = [
     //         },
     //     ]
     // },
-    /**
-     * @commented Bakery Done
-     */
     // {
     //     category: "Drinks",
     //     subCategories: [
@@ -253,24 +223,21 @@ const categories = [
     // {
     //     category: "Freezer",
     //     subCategories: [
-    //         /**
-    //          * @commented because its done
-    //          */
     //         {
     //             subCategory: "Frozen Desserts",
     //             childItems: [
     //                 { extensionCategory: "Assorted Desserts" },
     //                 { extensionCategory: "Cakes & Cheesecakes" },
-    //                 { extensionCategory: "Dessert Pies & Pastries" }, here // but try check this url because the value is 0
+    //                 { extensionCategory: "Dessert Pies & Pastries" },
     //             ]
     //         },
     //         {
     //             subCategory: "Frozen Fruit",
     //             childItems: [
     //                 // 2 extension must be Berries & Tropical
-    //                 { extensionCategory: "Berries & Tropical" },
-    //                 // { extensionCategory: "Berries" },
-    //                 // { extensionCategory: "Tropical" },
+    //                 // { extensionCategory: "Berries & Tropical" },
+    //                 { extensionCategory: "Berries" },
+    //                 { extensionCategory: "Tropical" },
     //             ]
     //         },
     //         {
@@ -285,9 +252,9 @@ const categories = [
     //             childItems: [
     //                 { extensionCategory: "Pastry Sheets" },
     //                 // this 2 main extCategory "Pies, Pastries & Quiches"
-    //                 { extensionCategory: "Pies, Pastries & Quiches" }, here
-    //                 // { extensionCategory: "Pastries" }, here
-    //                 // { extensionCategory: "Pies & Quiches" },
+    //                 // { extensionCategory: "Pies, Pastries & Quiches" },
+    //                 { extensionCategory: "Pastries" },
+    //                 { extensionCategory: "Pies & Quiches" },
     //             ]
     //         },
     //         {
@@ -308,9 +275,9 @@ const categories = [
     //             subCategory: "Frozen Vegetables",
     //             childItems: [
     //                 // this 2 is "Beans & Peas"
-    //                 { extensionCategory: "Beans & Peas" },
-    //                 // { extensionCategory: "Beans" },
-    //                 // { extensionCategory: "Peas" },
+    //                 // { extensionCategory: "Beans & Peas" },
+    //                 { extensionCategory: "Beans" },
+    //                 { extensionCategory: "Peas" },
     //                 { extensionCategory: "Corn" },
     //                 { extensionCategory: "Mixed Vegetables" },
     //                 { extensionCategory: "Other Vegetables" },
@@ -332,143 +299,137 @@ const categories = [
     // {
     //     category: "Fruit & Veg",
     //     subCategories: [
-    //         /**
-    //          * @commented because its done
-    //          */
-    //         // {
-    //         //     subCategory: "Fruit",
-    //         //     childItems: [
-    //         //         // this 2 "Apples & Pears"
-    //         //         { extensionCategory: "Apples & Pears" },
-    //         //         // { extensionCategory: "Apples" },
-    //         //         // { extensionCategory: "Pears" },
-    //         //         { extensionCategory: "Bananas" },
-    //         //         { extensionCategory: "Berries & Cherries" },
-    //         //         { extensionCategory: "Grapes" },
-    //         //         // this 2 "Melons & Mangoes"
-    //         //         { extensionCategory: "Melons & Mangoes" }, //
-    //         //         // { extensionCategory: "Melons" }, //done
-    //         //         // { extensionCategory: "Mangoes" }, //done
-    //         //         // this 2 "Pineapples & Kiwi Fruit"
-    //         //         { extensionCategory: "Pineapples & Kiwi Fruit" }, //
-    //         //         // { extensionCategory: "Pineapples" }, //done
-    //         //         // { extensionCategory: "Kiwi Fruit" }, //done
-    //         //         { extensionCategory: "Tropical & Exotic Fruit" },
-    //         //     ]
-    //         // },
-    //         // {
-    //         //     subCategory: "Organic",
-    //         //     childItems: [
-    //         //         { extensionCategory: "Organic Fruit" }, //done
-    //         //         { extensionCategory: "Organic Vegetables" }, //done
-    //         //     ]
-    //         // },
-    //         // {
-    //         //     subCategory: "Salad",
-    //         //     childItems: [
-    //         //         { extensionCategory: "Herbs" }, //done
-    //         //         { extensionCategory: "Sprouts" }, //done
-    //         //     ]
-    //         // },
+    //         {
+    //             subCategory: "Fruit",
+    //             childItems: [
+    //                 // this 2 "Apples & Pears"
+    //                 // { extensionCategory: "Apples & Pears" },
+    //                 { extensionCategory: "Apples" },
+    //                 { extensionCategory: "Pears" },
+    //                 { extensionCategory: "Bananas" },
+    //                 { extensionCategory: "Berries & Cherries" },
+    //                 { extensionCategory: "Grapes" },
+    //                 // this 2 "Melons & Mangoes"
+    //                 // { extensionCategory: "Melons & Mangoes" }, //
+    //                 { extensionCategory: "Melons" },
+    //                 { extensionCategory: "Mangoes" },
+    //                 // this 2 "Pineapples & Kiwi Fruit"
+    //                 // { extensionCategory: "Pineapples & Kiwi Fruit" }, //
+    //                 { extensionCategory: "Pineapples" },
+    //                 { extensionCategory: "Kiwi Fruit" },
+    //                 { extensionCategory: "Tropical & Exotic Fruit" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Organic",
+    //             childItems: [
+    //                 { extensionCategory: "Organic Fruit" },
+    //                 { extensionCategory: "Organic Vegetables" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Salad",
+    //             childItems: [
+    //                 { extensionCategory: "Herbs" },
+    //                 { extensionCategory: "Sprouts" },
+    //             ]
+    //         },
     //         {
     //             subCategory: "Vegetables",
     //             childItems: [
     //                 { extensionCategory: "Broccoli, Cauliflower & Cabbage" },
     //                 { extensionCategory: "Capsicum & Mushrooms" },
-    //                 { extensionCategory: "Onions & Leeks" },// done
+    //                 { extensionCategory: "Onions & Leeks" },
     //                 { extensionCategory: "Cucumber" },
     //                 // this 2 "Potatoes & Pumpkins"
-    //                 { extensionCategory: "Potatoes & Pumpkins" },
+    //                 // { extensionCategory: "Potatoes & Pumpkins" },
     //                 { extensionCategory: "Potatoes" },
     //                 { extensionCategory: "Pumpkins" },
 
     //                 { extensionCategory: "Tomatoes" },
     //                 // this 2 "Zucchini, Eggplant & Squash"
-    //                 { extensionCategory: "Zucchini, Eggplant & Squash" }, // 
-    //                 // { extensionCategory: "Eggplant" },
-    //                 // { extensionCategory: "Zucchini & Squash" },
+    //                 // { extensionCategory: "Zucchini, Eggplant & Squash" },
+    //                 { extensionCategory: "Eggplant" },
+    //                 { extensionCategory: "Zucchini & Squash" },
     //             ]
     //         },
     //     ]
     // },
-    {
-        category: "Health & Beauty",
-        subCategories: [
-            /**
-             * @commented because its done
-             */
-            {
-                subCategory: "Cosmetics",
-                childItems: [
-                    { extensionCategory: "Lips" },
-                    { extensionCategory: "Nails" },
-                ]
-            },
-            {
-                subCategory: "Dental Care",
-                childItems: [
-                    { extensionCategory: "Denture Care" },
-                    { extensionCategory: "Toothbrushes" },
-                    { extensionCategory: "Toothpaste" },
-                ]
-            },
-            {
-                subCategory: "First Aid & Medicinal",
-                childItems: [
-                    { extensionCategory: "Antiseptic" },
-                    { extensionCategory: "Cold, Flu & Allergies" },
-                    { extensionCategory: "Cotton Wool & Cotton Buds" },
-                    { extensionCategory: "Medicinal Oils & Ointments" },
-                    { extensionCategory: "Quit Smoking" },
-                ]
-            },
-            {
-                subCategory: "Hair Care",
-                childItems: [
-                    { extensionCategory: "Colouring" },
-                    { extensionCategory: "Hair Accessories & Brushes" },
-                    { extensionCategory: "Mens Hair Care" },
-                    { extensionCategory: "Shampoo & Conditioner" },
-                    { extensionCategory: "Styling Products" },
-                ]
-            },
-            // {
-            //     subCategory: "Personal Care & Hygiene",
-            //     childItems: [
-            //         { extensionCategory: "Contraception & Sexual Health" },
-            //         { extensionCategory: "Female Deodorants & Body Sprays" },
-            //         { extensionCategory: "Male Deodorants & Body Sprays" },
-            //         { extensionCategory: "Pregnancy Tests" },
-            //     ]
-            // },
-            // {
-            //     subCategory: "Shaving & Hair Removal",
-            //     childItems: [
-            //         { extensionCategory: "After Shave Care" },
-            //         { extensionCategory: "Shave Gel & Foam" },
-            //     ]
-            // },
-            // {
-            //     subCategory: "Skin Care",
-            //     childItems: [
-            //         { extensionCategory: "Body Moisturiser" },
-            //         // { extensionCategory: "Face Moisturiser" }, // to be process
-            //         // { extensionCategory: "183 Hand Moisturiser" }, // to be process
-            //         // { extensionCategory: "Lip Care" }, // to be process
-            //         // { extensionCategory: "Self-Tanning" }, // to be process
-            //     ]
-            // },
-            // {
-            //     subCategory: "Vitamins",
-            //     childItems: [
-            //         { extensionCategory: "Brain & Heart Health" },
-            //         { extensionCategory: "Detox & Digestion" },
-            //         // { extensionCategory: "Hair, Skin & Nails" }, // to be process
-            //         // { extensionCategory: "Others" }, // to be process
-            //     ]
-            // },
-        ]
-    },
+    // {
+    //     category: "Health & Beauty",
+    //     subCategories: [
+    //         {
+    //             subCategory: "Cosmetics",
+    //             childItems: [
+    //                 { extensionCategory: "Lips" },
+    //                 { extensionCategory: "Nails" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Dental Care",
+    //             childItems: [
+    //                 { extensionCategory: "Denture Care" },
+    //                 { extensionCategory: "Toothbrushes" },
+    //                 { extensionCategory: "Toothpaste" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "First Aid & Medicinal",
+    //             childItems: [
+    //                 { extensionCategory: "Antiseptic" },
+    //                 { extensionCategory: "Cold, Flu & Allergies" },
+    //                 { extensionCategory: "Cotton Wool & Cotton Buds" },
+    //                 { extensionCategory: "Medicinal Oils & Ointments" },
+    //                 { extensionCategory: "Quit Smoking" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Hair Care",
+    //             childItems: [
+    //                 { extensionCategory: "Colouring" },
+    //                 { extensionCategory: "Hair Accessories & Brushes" },
+    //                 { extensionCategory: "Mens Hair Care" },
+    //                 { extensionCategory: "Shampoo & Conditioner" },
+    //                 { extensionCategory: "Styling Products" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Personal Care & Hygiene",
+    //             childItems: [
+    //                 { extensionCategory: "Contraception & Sexual Health" },
+    //                 { extensionCategory: "Female Deodorants & Body Sprays" },
+    //                 { extensionCategory: "Male Deodorants & Body Sprays" },
+    //                 { extensionCategory: "Pregnancy Tests" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Shaving & Hair Removal",
+    //             childItems: [
+    //                 { extensionCategory: "After Shave Care" },
+    //                 { extensionCategory: "Shave Gel & Foam" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Skin Care",
+    //             childItems: [
+    //                 { extensionCategory: "Body Moisturiser" },
+    //                 { extensionCategory: "Face Moisturiser" },
+    //                 { extensionCategory: "183 Hand Moisturiser" },
+    //                 { extensionCategory: "Lip Care" },
+    //                 { extensionCategory: "Self-Tanning" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Vitamins",
+    //             childItems: [
+    //                 { extensionCategory: "Brain & Heart Health" },
+    //                 { extensionCategory: "Detox & Digestion" },
+    //                 { extensionCategory: "Hair, Skin & Nails" },
+    //                 { extensionCategory: "Others" },
+    //             ]
+    //         },
+    //     ]
+    // },
     // {
     //     category: "Household",
     //     subCategories: [

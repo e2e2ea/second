@@ -17,15 +17,16 @@ function delay(time) {
         await page.setExtraHTTPHeaders({
             Referer: "https://www.coles.com.au/",
         });
-        // const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
-        // await page.setCookie(...loadedCookies);
+        const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
+        await page.setCookie(...loadedCookies);
         await page.goto('https://coles.com.au');
+        await delay(20000)
         await page.waitForSelector('h1');
 
         const cookies = await page.cookies();
         fs.writeFileSync('colesCookies.json', JSON.stringify(cookies, null, 2));
         console.log('Extracted Cookies done.');
-        await delay(60000)
         browser.close()
+        await delay(120000)
     }
 })();
