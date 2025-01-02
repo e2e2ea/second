@@ -101,8 +101,11 @@ const getData = async () => {
           // Next, filter by subCategory only for matching categories
           // console.log('mySubCategory', mySubCategory)
           const hasSubCategory = parsedFields.productSubCategories.some((sub) => sub.toLowerCase() === mySubCategory.toLowerCase());
-          // return baby here
-          if (category === 'Baby' && subCategory === 'Baby Accessories') return hasSubCategory;
+
+          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Health & Safety') return hasSubCategory;
+          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Toys & Playtime') return hasSubCategory;
+          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bath & Skincare') return hasSubCategory;
+          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bottles & Baby Feeding') return hasSubCategory;
           // If no matching subCategory, skip this product
           if (!hasSubCategory) return false;
 
