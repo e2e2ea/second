@@ -1,13 +1,12 @@
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
-import fs from 'fs';
-import safeNavigate from './controllers/helpers/coles/safeNavigate.js';
-import waitForElement from './controllers/helpers/coles/waitForElement.js';
-import handleSteps from './controllers/helpers/coles/steps.js';
-import mongoose from 'mongoose';
-import path from 'path';
-import locations from './constant/location.js'
-import categories from './constant/categories.js'
+import safeNavigate from '../helpers/coles/safeNavigate.js';
+import waitForElement from '../helpers/coles/waitForElement.js';
+import handleSteps from '../helpers/coles/steps.js';
+import locations from '../constant/location.js'
+import categories from '../constant/categories.js'
+import Product from './models/products.js';
+import dbConnect from './db/dbConnect.js'
 
 const userAgents = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
@@ -24,122 +23,9 @@ const userAgents = [
 
 puppeteer.use(StealthPlugin());
 
-const dbConnect = async () => {
-    try {
-        const conn = await mongoose.connect('mongodb://127.0.0.1/excoles4');
-        console.log('database connected');
-        return conn;
-    } catch (error) {
-        console.log('database error');
-    }
-};
-
-const ProductSchema = new mongoose.Schema(
-    {
-        source_url: { type: String, default: 'N/A' },
-        coles_product_id: { type: String },
-        category: { type: String },
-        subCategory: { type: String },
-        extensionCategory: { type: String },
-        name: { type: String, default: 'N/A' },
-        image_url: { type: String, default: 'N/A' },
-        barcode: { type: String, default: 'N/A' },
-        shop: { type: String, default: '' },
-        weight: { type: String, default: 'N/A' },
-        prices: [{
-            state: { type: String },
-            price: { type: String },
-            price_per_unit: { type: String },
-            price_unit: { type: String }
-        }],
-    },
-    { timestamps: true }
-);
-
-const Product = mongoose.model('Product', ProductSchema);
 function delay(time) {
     return new Promise((resolve) => setTimeout(resolve, time));
 }
-const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
-    const prices = [];
-    let loc
-    if (location.toLowerCase() === 'Sydney, NSW 2000'.toLowerCase()) loc = 'NSW'
-    if (location.toLowerCase() === 'Chadstone Shopping Centre, 1341 Dandenong Road, MALVERN EAST VIC 3145'.toLowerCase()) loc = 'VIC'
-    if (location.toLowerCase() === 'Kedron, QLD 4031'.toLowerCase()) loc = 'QLD'
-    if (location.toLowerCase() === 'Perth, WA 6000'.toLowerCase()) loc = 'QLD'
-    if (location.toLowerCase() === 'Kilburn, SA 5084'.toLowerCase()) loc = 'SA'
-    if (location.toLowerCase() === 'Hobart, TAS 7000'.toLowerCase()) loc = 'TAS'
-    if (location.toLowerCase() === 'Acton, ACT 2601'.toLowerCase()) loc = 'ACT'
-    if (location.toLowerCase() === 'Casuarina, NT 0810'.toLowerCase()) loc = 'NT'
-    if (priceInCents && priceInCentsPerUnits) {
-        if (loc.toLowerCase() === 'nsw') {
-            prices.push({
-                state: 'nsw'.toUpperCase(),
-                price: parseFloat(Number(priceInCents).toFixed(2)),
-                price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                price_unit: unit,
-            });
-        }
-        if (loc.toLowerCase() === 'vic') {
-            prices.push({
-                state: 'vic'.toUpperCase(),
-                price: parseFloat(Number(priceInCents).toFixed(2)),
-                price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                price_unit: unit,
-            });
-        }
-        if (loc.toLowerCase() === 'qld') {
-            prices.push({
-                state: 'qld'.toUpperCase(),
-                price: parseFloat(Number(priceInCents).toFixed(2)),
-                price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                price_unit: unit,
-            });
-        }
-        if (loc.toLowerCase() === 'wa') {
-            prices.push({
-                state: 'wa'.toUpperCase(),
-                price: parseFloat(Number(priceInCents).toFixed(2)),
-                price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                price_unit: unit,
-            });
-        }
-        if (loc.toLowerCase() === 'sa') {
-            prices.push({
-                state: 'sa'.toUpperCase(),
-                price: parseFloat(Number(priceInCents).toFixed(2)),
-                price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                price_unit: unit,
-            });
-        }
-        if (loc.toLowerCase() === 'tas') {
-            prices.push({
-                state: 'tas'.toUpperCase(),
-                price: parseFloat(Number(priceInCents).toFixed(2)),
-                price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                price_unit: unit,
-            });
-        }
-        if (loc.toLowerCase() === 'act') {
-            prices.push({
-                state: 'act'.toUpperCase(),
-                price: parseFloat(Number(priceInCents).toFixed(2)),
-                price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                price_unit: unit,
-            });
-        }
-        if (loc.toLowerCase() === 'nt') {
-            prices.push({
-                state: 'nt'.toUpperCase(),
-                price: parseFloat(Number(priceInCents).toFixed(2)),
-                price_per_unit: parseFloat(Number(priceInCentsPerUnits).toFixed(2)),
-                price_unit: unit,
-            });
-        }
-    }
-
-    return prices;
-};
 
 const scraper = async () => {
     await dbConnect();
@@ -148,7 +34,6 @@ const scraper = async () => {
         browser = await puppeteer.launch({
             headless: false,
             // executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-            // userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1"
             // userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile1"
         });
         for (const loc of locations) {

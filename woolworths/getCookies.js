@@ -1,6 +1,6 @@
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
-import RateLimiter from './RateLimit/index.js';
+import RateLimiter from '../RateLimit/index.js';
 import fs from 'fs';
 import mongoose from 'mongoose';
 

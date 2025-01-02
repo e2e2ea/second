@@ -1,44 +1,7 @@
 import axios from 'axios'
 import axiosRetry from 'axios-retry';
-import mongoose from 'mongoose';
-
-const dbConnect = async () => {
-    try {
-        const conn = await mongoose.connect('mongodb://127.0.0.1/excoles4');
-        console.log('database connected');
-        return conn;
-    } catch (error) {
-        console.log('database error');
-    }
-};
-
-const ProductSchema = new mongoose.Schema(
-    {
-        source_url: { type: String, default: 'N/A' },
-        coles_product_id: { type: String },
-        category: { type: String },
-        subCategory: { type: String },
-        extensionCategory: { type: String },
-        name: { type: String, default: 'N/A' },
-        image_url: { type: String, default: 'N/A' },
-        barcode: { type: String, default: 'N/A' },
-        shop: { type: String, default: '' },
-        weight: { type: String, default: 'N/A' },
-        prices: {
-            nsw: { type: String },
-            nsw_price_per_unit: { type: String },
-            nsw_unit: { type: String },
-            vic: { type: String },
-            qld: { type: String },
-            wa: { type: String },
-            sa: { type: String },
-            tas: { type: String },
-        },
-    },
-    { timestamps: true }
-);
-
-const Product = mongoose.model('Product', ProductSchema);
+import Product from './models/products.js';
+import dbConnect from './db/dbConnect.js'
 
 const axiosInstance = axios.create({
     timeout: 60000 // 10 seconds
