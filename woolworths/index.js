@@ -3,7 +3,7 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import RateLimiter from '../RateLimit/index.js';
 import fs from 'fs';
 import safeNavigate from '../controllers/helpers/coles/safeNavigate.js';
-import handleSteps from '../controllers/helpers/woolworhts/steps.js';
+import handleSteps from './controllers/helpers/steps.js';
 import mongoose from 'mongoose';
 
 // Add stealth plugin

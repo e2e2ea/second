@@ -1,7 +1,4 @@
 const categories = [
-    /**
-     * @commented Baby Done
-     */
     {
         category: "Baby",
         subCategories: [
@@ -30,7 +27,7 @@ const categories = [
             {
                 subCategory: "Nappies Wipes",
                 childItems: [
-                    // { extensionCategory: "Nappy Pants" },
+                    { extensionCategory: "Nappy Pants" },
                     { extensionCategory: "Swimming Nappies" },
                 ]
             },
