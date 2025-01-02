@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import Product from './models/products.js';
 import cleanUpPrices from './clean.js';
-
+import dbConnect from './db/dbConnect.js';
 import { createArrayCsvWriter } from 'csv-writer';
 const getDate = new Date();
 const month = getDate.getMonth() + 1;
@@ -16,15 +16,6 @@ const csvWriter = createArrayCsvWriter({
   path: `./woolworths/output_${formattedDate}.csv`,
   header: ['Category', 'SubCategory', 'Extension', 'Products'],
 });
-
-const dbConnect = async () => {
-  try {
-    await mongoose.connect(`mongodb://127.0.0.1/wooly_${formattedDate}`);
-    console.log('Database connected');
-  } catch (error) {
-    console.log('Database connection failed:', error.message);
-  }
-};
 
 const categoriesId = [
   // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
