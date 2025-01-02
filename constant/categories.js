@@ -2,40 +2,40 @@ const categories = [
     /**
      * @commented Baby Done
      */
-    // {
-    //     category: "Baby",
-    //     subCategories: [
-    //         {
-    //             subCategory: "Baby Accessories",
-    //             childItems: [
-    //                 { extensionCategory: "Baby Bibs" },
-    //                 { extensionCategory: "Baby Health & Safety" },
-    //                 { extensionCategory: "Baby Teething & Soothers" },
-    //                 { extensionCategory: "Bath & Skincare" },
-    //                 { extensionCategory: "Bottles and Baby Feeding" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Baby Food",
-    //             childItems: [
-    //                 { extensionCategory: "Baby & Toddler Snacks" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Baby Formula",
-    //             childItems: [
-    //                 { extensionCategory: "Specialty" },
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Nappies Wipes",
-    //             childItems: [
-    //                 // { extensionCategory: "Nappy Pants" },
-    //                 { extensionCategory: "Swimming Nappies" },
-    //             ]
-    //         },
-    //     ]
-    // },
+    {
+        category: "Baby",
+        subCategories: [
+            {
+                subCategory: "Baby Accessories",
+                childItems: [
+                    { extensionCategory: "Baby Bibs" },
+                    { extensionCategory: "Baby Health & Safety" },
+                    { extensionCategory: "Baby Teething & Soothers" },
+                    { extensionCategory: "Bath & Skincare" },
+                    { extensionCategory: "Bottles and Baby Feeding" },
+                ]
+            },
+            {
+                subCategory: "Baby Food",
+                childItems: [
+                    { extensionCategory: "Baby & Toddler Snacks" },
+                ]
+            },
+            {
+                subCategory: "Baby Formula",
+                childItems: [
+                    { extensionCategory: "Specialty" },
+                ]
+            },
+            {
+                subCategory: "Nappies Wipes",
+                childItems: [
+                    // { extensionCategory: "Nappy Pants" },
+                    { extensionCategory: "Swimming Nappies" },
+                ]
+            },
+        ]
+    },
     // {
     //     category: "Bakery",
     //     subCategories: [
