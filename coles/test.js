@@ -1,19 +1,8 @@
-import categories from '../constant/categories.js'
-import mongoose from 'mongoose';
+import categories from '../constant/categories.js';
 import fs from 'fs';
 import path from 'path';
 import Product from './models/products.js';
-
-const dbConnect = async () => {
-  try {
-    const conn = await mongoose.connect('mongodb://127.0.0.1/coles4');
-    // const conn = await mongoose.connect('mongodb://127.0.0.1/transfer1');
-    console.log('database connected');
-    return conn;
-  } catch (error) {
-    console.log('database error');
-  }
-};
+import dbConnect from './db/dbConnect.js';
 
 const categoriesId = [
   { id: '15603', name: 'Baby' },
@@ -29,23 +18,23 @@ const categoriesId = [
   { id: '16427', name: 'Pet' },
   { id: '7238', name: 'Poultry, Meat & Seafood' },
   // { id: '17490', name: 'Tobacco' },
+];
 
-]
 const getData = async () => {
   await dbConnect();
   for (const categ of categories) {
-    const category = categ.category
-    let categId = ''
-    const matchedCategory = categoriesId.find(cat => cat.name === category);
+    const category = categ.category;
+    let categId = '';
+    const matchedCategory = categoriesId.find((cat) => cat.name === category);
     if (matchedCategory) {
       categId = matchedCategory.id;
     } else {
       console.warn(`Category "${category}" not found in categoriesId`);
     }
     for (const sub of categ.subCategories) {
-      const subCategory = sub.subCategory
+      const subCategory = sub.subCategory;
       for (const ext of sub.childItems) {
-        const extensionCategory = ext.extensionCategory ? ext.extensionCategory : ''
+        const extensionCategory = ext.extensionCategory ? ext.extensionCategory : '';
         const a = await Product.find({ category: category, subCategory: subCategory, extensionCategory: extensionCategory }).exec();
         const productsData = a.map((product) => {
           const productObj = product.toObject();
@@ -84,7 +73,7 @@ const getData = async () => {
           // return; // Skip saving the file
         }
         try {
-          console.log(`${fileName} - ${productsData.length} products`)
+          console.log(`${fileName} - ${productsData.length} products`);
           fs.writeFileSync(filePath, JSON.stringify(productsData, null, 2)); // Pretty print with 2 spaces
           console.log(`Data saved to ${filePath}`);
         } catch (error) {

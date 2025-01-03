@@ -12,16 +12,14 @@ const ProductSchema = new mongoose.Schema(
         barcode: { type: String, default: 'N/A' },
         shop: { type: String, default: '' },
         weight: { type: String, default: 'N/A' },
-        prices: {
-            nsw: { type: String },
-            nsw_price_per_unit: { type: String },
-            nsw_unit: { type: String },
-            vic: { type: String },
-            qld: { type: String },
-            wa: { type: String },
-            sa: { type: String },
-            tas: { type: String },
-        },
+        prices: [
+            {
+                state: { type: String },
+                price: { type: String },
+                price_per_unit: { type: String },
+                price_unit: { type: String },
+            },
+        ],
     },
     { timestamps: true }
 );
