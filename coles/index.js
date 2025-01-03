@@ -33,18 +33,15 @@ const scraper = async () => {
   try {
     browser = await puppeteer.launch({
       headless: false,
-      executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+    //   executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
     //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data2\\Profile 2',
     //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data3\\Profile 3',
     //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data4\\Profile 4',
     //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data5\\Profile 5',
     //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data6\\Profile 6',
-      userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data7\\Profile 7',
-    /* The code snippet is a comment in JavaScript. It appears to be specifying a user data directory
-    path for Google Chrome. The path mentioned is 'C:\Users\OBI -
-    Raymond\AppData\Local\Google\Chrome\User Data7\Profile 7'. This could be used in a
-    configuration or settings file for a Chrome-related application. */
+    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data7\\Profile 7',
     //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data8\\Profile 8',
+    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data9\\Profile 9',
     });
     for (const loc of locations) {
       // const context = await browser.createBrowserContext();
@@ -560,7 +557,8 @@ const scraper = async () => {
                     let i = 1;
                     while (hasProducts) {
                       if (i > 1) {
-                        const url2 = `${url}?page=${i}`;
+                        let url2
+                        url2 = `${url}?page=${i}`;
                         await safeNavigate(page, url2);
                         await page.evaluate(() => {
                           window.scrollTo(0, document.body.scrollHeight);

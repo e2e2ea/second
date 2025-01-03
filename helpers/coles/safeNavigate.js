@@ -8,7 +8,7 @@ const safeNavigate = async (page, url, retries = 5000) => {
       // await page.goto(url, { waitUntil: 'networkidle2', timeout: 50000 });
       await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 50000 });
       await page.setExtraHTTPHeaders({
-        Referer: 'https://www.coles.com.au/',
+        Referer: url,
       });
       // const cookies = await page.cookies();
       // await page.deleteCookie(...cookies);
