@@ -1,6 +1,6 @@
-import waitForElement from '../../../controllers/helpers/coles/waitForElement.js';
-import safeNavigate from '../../../controllers/helpers/coles/safeNavigate.js';
-import location from '../../../constant/woolworths/location.js';
+import waitForElement from './waitForElement.js';
+import safeNavigate from './safeNavigate.js';
+import location from '../../constant/location.js';
 import { timeout } from 'puppeteer';
 
 function delay(time) {

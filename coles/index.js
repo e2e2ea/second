@@ -7,6 +7,7 @@ import locations from '../constant/location.js';
 import categories from '../constant/categories.js';
 import Product from './models/products.js';
 import dbConnect from './db/dbConnect.js';
+import fs from 'fs';
 
 const userAgents = [
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
@@ -26,22 +27,40 @@ puppeteer.use(StealthPlugin());
 function delay(time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
+const captcha = async (page, url) => {
+  let doloop = true;
+  let i = 1;
+  while (doloop) {
+    await safeNavigate(page, url);
+    const captchaDetected = await page.evaluate(() => {
+      return !!document.querySelector('iframe[src*="_Incapsula_Resource"]');
+    });
+    console.log('CAPTCHA or Incapsula protection detected, doing loop...', i);
 
+    // Add a delay to wait for manual resolution or retry logic
+    if (!captchaDetected) {
+      console.log('No CAPTCHA detected.');
+      break;
+    }
+    i = i + 1;
+  }
+  return true;
+};
 const scraper = async () => {
   await dbConnect();
   let browser;
   try {
     browser = await puppeteer.launch({
       headless: false,
-    //   executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data2\\Profile 2',
-    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data3\\Profile 3',
-    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data4\\Profile 4',
-    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data5\\Profile 5',
-    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data6\\Profile 6',
-    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data7\\Profile 7',
-    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data8\\Profile 8',
-    //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data9\\Profile 9',
+      //   executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data2\\Profile 2',
+      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data3\\Profile 3',
+      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data4\\Profile 4',
+      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data5\\Profile 5',
+      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data6\\Profile 6',
+      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data7\\Profile 7',
+      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data8\\Profile 8',
+      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data9\\Profile 9',
     });
     for (const loc of locations) {
       // const context = await browser.createBrowserContext();
@@ -52,10 +71,10 @@ const scraper = async () => {
       await page2.setExtraHTTPHeaders({
         Referer: 'https://www.coles.com.au/',
       });
-      // const loadedCookies = JSON.parse(fs.readFileSync('colesCookies.json', 'utf-8'));
-      // await page2.setCookie(...loadedCookies);
+      const loadedCookies = JSON.parse(fs.readFileSync('./coles/colesCookies.json', 'utf-8'));
+      await page2.setCookie(...loadedCookies);
       await safeNavigate(page2, 'https://www.coles.com.au');
-    //   await page2.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
+      await page2.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
       // await safeNavigate(page, 'https://coles.com.au');
       const a = await handleSteps(page2, loc, 'https://coles.com.au');
       // const cookies = await page2.cookies();
@@ -533,10 +552,10 @@ const scraper = async () => {
                     // page = (await browser.newPage()).removeAllListeners('request');
                     page = await browser.newPage();
                     console.log('Page loaded successfully.');
-                    // const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
-                    // await page.setUserAgent(randomUserAgent);
+                    const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
+                    await page.setUserAgent(randomUserAgent);
                     await page.setExtraHTTPHeaders({
-                      Referer: 'https://www.coles.com.au/',
+                      Referer: url,
                     });
                     await page.waitForSelector('body', { timeout: 90000 });
                     // deleted here
@@ -556,10 +575,15 @@ const scraper = async () => {
                     let hasProducts = true;
                     let i = 1;
                     while (hasProducts) {
+                      if (i === 1) {
+                        await captcha(page, url);
+                      }
                       if (i > 1) {
-                        let url2
+                        let url2;
                         url2 = `${url}?page=${i}`;
                         await safeNavigate(page, url2);
+                        await captcha(page, url2);
+
                         await page.evaluate(() => {
                           window.scrollTo(0, document.body.scrollHeight);
                         });
