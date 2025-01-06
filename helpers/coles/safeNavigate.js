@@ -11,10 +11,10 @@ const safeNavigate = async (page, url, retries = 5000) => {
       await page.setExtraHTTPHeaders({
         Referer: url,
       });
-      const cookies = await page.cookies();
-      await page.deleteCookie(...cookies);
-      const loadedCookies = JSON.parse(fs.readFileSync('./coles/colesCookies.json', 'utf-8'));
-      await page.setCookie(...loadedCookies);
+      // const cookies = await page.cookies();
+      // await page.deleteCookie(...cookies);
+      // const loadedCookies = JSON.parse(fs.readFileSync('./coles/colesCookies.json', 'utf-8'));
+      // await page.setCookie(...loadedCookies);
       await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 50000 });
       return;
     } catch (error) {

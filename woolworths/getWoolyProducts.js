@@ -133,8 +133,8 @@ const getData = async () => {
         let mycat = category;
         mycat = category;
         if (category === 'Deli & Chilled Meals') mycat = 'Deli & Chilled Meats';
-        if (category === 'Health & Wellness') mycat = 'Beauty & Personal Care';
-        if (category === 'Beauty & Personal Care') mycat = 'Beauty & Personal Care';
+        if (category === 'Health & Wellness') mycat = 'Health & Beauty';
+        if (category === 'Beauty & Personal Care') mycat = 'Health & Beauty';
         if (category === 'Home & Lifestyle') mycat = 'Household';
         if (category === 'Cleaning & Maintenance') mycat = 'Household';
 

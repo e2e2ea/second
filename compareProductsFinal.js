@@ -5,6 +5,7 @@ import path from 'path';
 const getData = async () => {
   // console.log('categ', categories.length)
   let totalProducts = 0;
+  // let data = [];
   for (const categ of categories) {
     const category = categ.category;
     for (const sub of categ.subCategories) {
@@ -21,13 +22,13 @@ const getData = async () => {
 
         const formattedDate = `${month}-${day}-${year}`;
         try {
-          woolworthsData = JSON.parse(fs.readFileSync(`woolworths/data/${formattedDate}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
-          ColesData = JSON.parse(fs.readFileSync(`coles/data/${formattedDate}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          woolworthsData = JSON.parse(fs.readFileSync(`woolworths/data/mydata/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          ColesData = JSON.parse(fs.readFileSync(`coles/data/1-6-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
         } catch (error) {
           console.log(`Skipping ${category} - ${subCategory} - ${extensionCategory}: File(s) missing.`);
           continue; // Skip to the next extensionCategory
         }
-        // console.log(` coles in ${category} - ${subCategory} - ${extensionCategory}: `, ColesData.length)
+        // console.log(` coles in ${category} - ${subCategory} - ${extensio8nCategory}: `, ColesData.length)
         // console.log(` woolworths in ${category} - ${subCategory} - ${extensionCategory}: `, woolworthsData.length)
 
         for (const data of woolworthsData) {
@@ -67,10 +68,9 @@ const getData = async () => {
         }
         try {
           if (productsMatched && productsMatched.length > 0) {
-            console.log(`Products matched in ${category} - ${subCategory} - ${extensionCategory}`, productsMatched.length);
             totalProducts = totalProducts + productsMatched.length;
             console.log('totalProducts', totalProducts);
-            const baseFolder = './matched';
+            const baseFolder = `./matched/1-6-2025`;
             const folderPath = path.join(baseFolder, `${category}`);
             const fileName = `${category} - ${subCategory} - ${extensionCategory}.json`;
             const filePath = path.join(folderPath, fileName);

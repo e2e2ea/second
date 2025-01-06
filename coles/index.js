@@ -8,7 +8,24 @@ import categories from '../constant/categories.js';
 import Product from './models/products.js';
 import dbConnect from './db/dbConnect.js';
 import fs from 'fs';
+const reloadWithTimeout = async (page, timeout = 120000) => {
+  try {
+    // Create a timeout promise
+    const timeoutPromise = new Promise((_, reject) =>
+      setTimeout(() => reject(new Error('Reload timeout exceeded')), timeout)
+    );
 
+    // Use Promise.race to race between reload and timeout
+    await Promise.race([
+      page.reload({ waitUntil: 'domcontentloaded' }), // or 'networkidle2' based on your needs
+      timeoutPromise
+    ]);
+
+    console.log('Page reloaded successfully!');
+  } catch (error) {
+    console.error('Error during page reload:', error.message);
+  }
+};
 const userAgents = [
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0',
@@ -30,21 +47,25 @@ function delay(time) {
 const captcha = async (page, url) => {
   let doloop = true;
   let i = 1;
-  while (doloop) {
-    await safeNavigate(page, url);
-    const captchaDetected = await page.evaluate(() => {
-      return !!document.querySelector('iframe[src*="_Incapsula_Resource"]');
-    });
-    console.log('CAPTCHA or Incapsula protection detected, doing loop...', i);
+  try {
+    while (doloop) {
+      await safeNavigate(page, url);
+      const captchaDetected = await page.evaluate(() => {
+        return !!document.querySelector('iframe[src*="_Incapsula_Resource"]');
+      });
+      console.log('CAPTCHA or Incapsula protection detected, doing loop...', i);
 
-    // Add a delay to wait for manual resolution or retry logic
-    if (!captchaDetected) {
-      console.log('No CAPTCHA detected.');
-      break;
+      // Add a delay to wait for manual resolution or retry logic
+      if (!captchaDetected) {
+        console.log('No CAPTCHA detected.');
+        break;
+      }
+      i = i + 1;
     }
-    i = i + 1;
+    return true;
+  } catch (error) {
+    return true;
   }
-  return true;
 };
 const scraper = async () => {
   await dbConnect();
@@ -71,8 +92,8 @@ const scraper = async () => {
       await page2.setExtraHTTPHeaders({
         Referer: 'https://www.coles.com.au/',
       });
-      const loadedCookies = JSON.parse(fs.readFileSync('./coles/colesCookies.json', 'utf-8'));
-      await page2.setCookie(...loadedCookies);
+      // const loadedCookies = JSON.parse(fs.readFileSync('./coles/colesCookies.json', 'utf-8'));
+      // await page2.setCookie(...loadedCookies);
       await safeNavigate(page2, 'https://www.coles.com.au');
       await page2.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
       // await safeNavigate(page, 'https://coles.com.au');

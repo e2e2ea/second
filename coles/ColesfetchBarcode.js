@@ -22,11 +22,13 @@ axiosRetry(axiosInstance, {
 const getBarcode = async () => {
     try {
         await dbConnect();
-        const products = await Product.find()
+        const products = await Product.find().skip(10000);
         console.log('products length:', products.length)
 
         let i = 1
-        for (const product of products) {
+        await Promise.all(
+            products.map(async (product, index) => {
+        // for (const product of products) {
             // await delay(5000)
             try {
                 const { data } = await axiosInstance.get(`https://barcodes.groceryscraper.mc.hzuccon.com/barcode?product=${product.coles_product_id}`)
@@ -37,7 +39,7 @@ const getBarcode = async () => {
                 console.log('no product found', 'skip')
             }
             i++
-        }
+        }))
         return
     } catch (err) {
         console.error('Error Details:', {

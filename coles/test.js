@@ -1,8 +1,20 @@
-import categories from '../constant/categories.js';
+import categories from '../constant/main.js';
 import fs from 'fs';
 import path from 'path';
 import Product from './models/products.js';
 import dbConnect from './db/dbConnect.js';
+import { createArrayCsvWriter } from 'csv-writer';
+
+const getDate = new Date();
+const month = getDate.getMonth() + 1;
+const day = getDate.getDate();
+const year = getDate.getFullYear();
+
+const formattedDate = `${month}-${day}-${year}`;
+const csvWriter = createArrayCsvWriter({
+  path: `./coles/output_${formattedDate}.csv`,
+  header: ['Category', 'SubCategory', 'Extension', 'Products'],
+});
 
 const categoriesId = [
   { id: '15603', name: 'Baby' },
@@ -22,6 +34,7 @@ const categoriesId = [
 
 const getData = async () => {
   await dbConnect();
+  let data = [];
   for (const categ of categories) {
     const category = categ.category;
     let categId = '';
@@ -56,16 +69,17 @@ const getData = async () => {
 
           return formattedProduct;
         });
-        const baseFolder = './colesJSON';
+        const baseFolder = `./coles/data/${formattedDate}`;
         const folderPath = path.join(baseFolder, category);
-
+        const toPush = [category, subCategory, extensionCategory, productsData.length];
+        data.push(toPush);
         // Ensure the folder exists
         if (!fs.existsSync(folderPath)) {
           fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist
           console.log(`Created folder: ${folderPath}`);
         }
 
-        const fileName = `${category} - ${subCategory} ${extensionCategory ? `- ${extensionCategory}` : ''}.json`;
+        const fileName = `${category} - ${subCategory} ${extensionCategory ? `- ${extensionCategory === 'Floor/Carpet Cleaners' ? 'Floor - Carpet Cleaners' : extensionCategory}` : ''}.json`;
         const filePath = path.join(folderPath, fileName);
         // Check if the file already exists
         if (fs.existsSync(filePath)) {
@@ -82,6 +96,14 @@ const getData = async () => {
       }
     }
   }
+  csvWriter
+    .writeRecords(data)
+    .then(() => {
+      console.log('CSV file created successfully!');
+    })
+    .catch((err) => {
+      console.error('Error writing CSV file:', err);
+    });
 };
 
 (async () => {
