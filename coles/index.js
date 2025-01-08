@@ -11,14 +11,12 @@ import fs from 'fs';
 const reloadWithTimeout = async (page, timeout = 120000) => {
   try {
     // Create a timeout promise
-    const timeoutPromise = new Promise((_, reject) =>
-      setTimeout(() => reject(new Error('Reload timeout exceeded')), timeout)
-    );
+    const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Reload timeout exceeded')), timeout));
 
     // Use Promise.race to race between reload and timeout
     await Promise.race([
       page.reload({ waitUntil: 'domcontentloaded' }), // or 'networkidle2' based on your needs
-      timeoutPromise
+      timeoutPromise,
     ]);
 
     console.log('Page reloaded successfully!');
@@ -67,15 +65,16 @@ const captcha = async (page, url) => {
     return true;
   }
 };
+
 const scraper = async () => {
   await dbConnect();
   let browser;
   try {
     browser = await puppeteer.launch({
       headless: false,
-      //   executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data2\\Profile 2',
-      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data3\\Profile 3',
+      // executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+      // userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data2\\Profile 2',
+      // userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data3\\Profile 3',
       //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data4\\Profile 4',
       //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data5\\Profile 5',
       //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data6\\Profile 6',
@@ -92,14 +91,17 @@ const scraper = async () => {
       await page2.setExtraHTTPHeaders({
         Referer: 'https://www.coles.com.au/',
       });
+
       // const loadedCookies = JSON.parse(fs.readFileSync('./coles/colesCookies.json', 'utf-8'));
       // await page2.setCookie(...loadedCookies);
       await safeNavigate(page2, 'https://www.coles.com.au');
       await page2.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
-      // await safeNavigate(page, 'https://coles.com.au');
+      await delay(3000);
+      await page2.reload();
+      await delay(5000);
       const a = await handleSteps(page2, loc, 'https://coles.com.au');
       // const cookies = await page2.cookies();
-      // fs.writeFileSync('colesCookies.json', JSON.stringify(cookies, null, 2));
+      // fs.writeFileSync('./coles/colesCookies.json', JSON.stringify(cookies, null, 2));
       await Promise.allSettled(
         categories.map(async (categ, index) => {
           // for (const categ of categories) {
@@ -579,13 +581,9 @@ const scraper = async () => {
                       Referer: url,
                     });
                     await page.waitForSelector('body', { timeout: 90000 });
-                    // deleted here
-                    // await page.setUserAgent(
-                    //     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
-                    // );
 
                     await safeNavigate(page, url);
-                    await delay(6000);
+                    // await delay(6000);
                     await delay(6000);
                     await page.evaluate(() => {
                       window.scrollTo(0, document.body.scrollHeight);

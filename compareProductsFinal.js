@@ -22,8 +22,8 @@ const getData = async () => {
 
         const formattedDate = `${month}-${day}-${year}`;
         try {
-          woolworthsData = JSON.parse(fs.readFileSync(`woolworths/data/mydata/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
-          ColesData = JSON.parse(fs.readFileSync(`coles/data/1-6-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          woolworthsData = JSON.parse(fs.readFileSync(`woolworths/data/1-8-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          ColesData = JSON.parse(fs.readFileSync(`coles/data/1-8-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
         } catch (error) {
           console.log(`Skipping ${category} - ${subCategory} - ${extensionCategory}: File(s) missing.`);
           continue; // Skip to the next extensionCategory
@@ -70,7 +70,7 @@ const getData = async () => {
           if (productsMatched && productsMatched.length > 0) {
             totalProducts = totalProducts + productsMatched.length;
             console.log('totalProducts', totalProducts);
-            const baseFolder = `./matched/1-6-2025`;
+            const baseFolder = `./matched/1-8-2025`;
             const folderPath = path.join(baseFolder, `${category}`);
             const fileName = `${category} - ${subCategory} - ${extensionCategory}.json`;
             const filePath = path.join(folderPath, fileName);
