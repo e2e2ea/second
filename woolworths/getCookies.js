@@ -32,7 +32,7 @@ import mongoose from 'mongoose';
   console.log('Extracted Cookies:', cookies);
 
   // Save cookies to a file or database (optional)
-  fs.writeFileSync('cookies.json', JSON.stringify(cookies, null, 2));
+  fs.writeFileSync('./woolworths/cookies.json', JSON.stringify(cookies, null, 2));
 
   // Close the browser after extracting cookies
   await browser.close();

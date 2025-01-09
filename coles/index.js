@@ -97,7 +97,7 @@ const scraper = async () => {
       await safeNavigate(page2, 'https://www.coles.com.au');
       await page2.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36');
       await delay(3000);
-      await page2.reload();
+      // await page2.reload();
       await delay(5000);
       const a = await handleSteps(page2, loc, 'https://coles.com.au');
       // const cookies = await page2.cookies();

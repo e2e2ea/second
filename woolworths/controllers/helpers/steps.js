@@ -103,7 +103,7 @@ const step2 = async (page, loc) => {
 const step3 = async (page, loc) => {
   const subLocation = loc.subLucation;
 
-  const a = await waitForElement(page, 'div.stores.ng-star-inserted', { visible: true, timeout: 2000 });
+  const a = await waitForElement(page, 'div.stores.ng-star-inserted', { visible: true, timeout: 10000 });
   if (!a) return false;
   try {
     const options = await page.$$('.store-details');

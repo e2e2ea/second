@@ -33,21 +33,21 @@ const categoriesId = [
   // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' },
   // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // but no products in the list of categ
 
-  { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
-  { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
-  { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-  { id: '1_3151F6F', name: 'Deli & Chilled Meals', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' },
-  { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
-  { id: '1_39FD49C', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' },
-  { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
-  { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
-  { id: '1_9851658', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' },
-  { id: '1_894D0A8', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' },
-  { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
-  { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' },
-  { id: '1_2432B58', name: 'Cleaning & Maintenance', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' },
-  { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' },
-  { id: '1_B63CF9E', name: 'Front of Store', url: '/shop/browse/front-of-store', location: '/shop/browse/front-of-store' },
+  { id: '22060', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
+  { id: '22351', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
+  { id: '22713', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
+  { id: '24023', name: 'Deli & Chilled Meals', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' },
+  { id: '22089', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
+  { id: '22770', name: 'Pantry', url: '/shop/browse/pantry', location: '/shop/browse/pantry' },
+  { id: '22280', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
+  { id: '22164', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
+  { id: '22394', name: 'Health & Wellness', url: '/shop/browse/health-wellness', location: '/shop/browse/health-wellness' },
+  { id: '22394', name: 'Beauty & Personal Care', url: '/shop/browse/beauty-personal-care', location: '/shop/browse/beauty-personal-care' },
+  { id: '22015', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
+  { id: '22459', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' },
+  { id: '22459', name: 'Cleaning & Maintenance', url: '/shop/browse/cleaning-maintenance', location: '/shop/browse/cleaning-maintenance' },
+  { id: '22916', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' },
+  // { id: '1_B63CF9E', name: 'Front of Store', url: '/shop/browse/front-of-store', location: '/shop/browse/front-of-store' },
 ];
 const getData = async () => {
   console.log('start clean');
@@ -173,6 +173,7 @@ const getData = async () => {
 
           const formattedDate = `${month}-${day}-${year}`;
           const baseFolder = `./woolworths/data/${formattedDate}`;
+          // const baseFolder = `./woolworths/data/1-9-2025`;
           const folderPath = path.join(baseFolder, mycat);
 
           if (!fs.existsSync(folderPath)) {

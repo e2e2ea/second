@@ -15,7 +15,7 @@ const safeNavigate = async (page, url, retries = 5000) => {
       // await page.deleteCookie(...cookies);
       // const loadedCookies = JSON.parse(fs.readFileSync('./coles/colesCookies.json', 'utf-8'));
       // await page.setCookie(...loadedCookies);
-      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 50000 });
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 990000 });
       return;
     } catch (error) {
       console.error(`Attempt ${i + 1} failed: ${error}`);
