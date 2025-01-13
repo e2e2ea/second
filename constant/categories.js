@@ -1,112 +1,113 @@
 const categories = [
+//   {
+//       category: "Baby",
+//       subCategories: [
+//           {
+//               subCategory: "Baby Accessories",
+//               childItems: [
+//                   { extensionCategory: "Baby Bibs" },
+//                   { extensionCategory: "Baby Health & Safety" },
+//                   { extensionCategory: "Baby Teething & Soothers" },
+//                   { extensionCategory: "Bath & Skincare" },
+//                   { extensionCategory: "Bottles and Baby Feeding" },
+//               ]
+//           },
+//           {
+//               subCategory: "Baby Food",
+//               childItems: [
+//                   { extensionCategory: "Baby & Toddler Snacks" },
+//               ]
+//           },
+//           {
+//               subCategory: "Baby Formula",
+//               childItems: [
+//                   { extensionCategory: "Specialty" },
+//               ]
+//           },
+//           {
+//               subCategory: "Nappies Wipes",
+//               childItems: [
+//                   { extensionCategory: "Nappy Pants" },
+//                   { extensionCategory: "Swimming Nappies" },
+//               ]
+//           },
+//       ]
+//   },
   {
-      category: "Baby",
+      category: "Bakery",
       subCategories: [
+        {
+            subCategory: "In-Store Bakery",
+            childItems: [
+                { extensionCategory: "Bread Rolls" },
+                // Note: the extensionCategory must be "Donuts & Cookies"
+                // { extensionCategory: "Donuts & Cookies" },
+                { extensionCategory: "Donuts" },
+                { extensionCategory: "Cookies" },
+            ]
+        },
           {
-              subCategory: "Baby Accessories",
+              subCategory: "Packaged Bread & Bakery",
               childItems: [
-                  { extensionCategory: "Baby Bibs" },
-                  { extensionCategory: "Baby Health & Safety" },
-                  { extensionCategory: "Baby Teething & Soothers" },
-                  { extensionCategory: "Bath & Skincare" },
-                  { extensionCategory: "Bottles and Baby Feeding" },
-              ]
-          },
-          {
-              subCategory: "Baby Food",
-              childItems: [
-                  { extensionCategory: "Baby & Toddler Snacks" },
-              ]
-          },
-          {
-              subCategory: "Baby Formula",
-              childItems: [
-                  { extensionCategory: "Specialty" },
-              ]
-          },
-          {
-              subCategory: "Nappies Wipes",
-              childItems: [
-                  { extensionCategory: "Nappy Pants" },
-                  { extensionCategory: "Swimming Nappies" },
+                  { extensionCategory: "Gluten Free Bakery" },
+                  { extensionCategory: "Packaged Bread" },
+                  { extensionCategory: "Pizza Bases" },
               ]
           },
       ]
   },
-//   {
-//       category: "Bakery",
-//       subCategories: [
-//         {
-//             subCategory: "In-Store Bakery",
-//             childItems: [
-//                 { extensionCategory: "Bread Rolls" },
-//                 // Note: the extensionCategory must be "Donuts & Cookies"
-//                 // { extensionCategory: "Donuts & Cookies" },
-//                 { extensionCategory: "Donuts" },
-//                 { extensionCategory: "Cookies" },
-//             ]
-//         },
-//           {
-//               subCategory: "Packaged Bread & Bakery",
-//               childItems: [
-//                   { extensionCategory: "Gluten Free Bakery" },
-//                   { extensionCategory: "Packaged Bread" },
-//                   { extensionCategory: "Pizza Bases" },
-//               ]
-//           },
-//       ]
-//   },
-//   {
-//       category: "Dairy, Eggs & Fridge",
-//       subCategories: [
-//         //   {
-//         //       subCategory: "Cheese",
-//         //       childItems: [
-//         //           { extensionCategory: "Block Cheese" },
-//         //           { extensionCategory: "Grated Cheese" },
-//         //           { extensionCategory: "Sliced Cheese" },
-//         //       ]
-//         //   },
-//         //   {
-//         //       subCategory: "Cream, Custard & Desserts",
-//         //       childItems: [
-//         //           { extensionCategory: "Cream" },
-//         //           { extensionCategory: "Custard" },
-//         //       ]
-//         //   },
-//         //   {
-//         //       subCategory: "Dips & Pate",
-//         //       childItems: [
-//         //           { extensionCategory: "Dips" },
-//         //           // The extensionCategory should be "Pate, Paste & Caviar"
-//         //           // { extensionCategory: "Pate, Paste & Caviar" },
-//         //           { extensionCategory: "Pate" },
-//         //           { extensionCategory: "Paste" },
-//         //       ]
-//         //   },
-//           {
-//               subCategory: "Eggs, Butter & Margarine",
-//               childItems: [
-//                 //   { extensionCategory: "Butter & Margarine" },
-//                   { extensionCategory: "Eggs" },
-//               ]
-//           },
-//           {
-//               subCategory: "Fresh Pasta & Sauces",
-//               childItems: [
-//                   { extensionCategory: "Fresh Pasta & Noodles" },
-//                   { extensionCategory: "Pasta Sauces" },
-//               ]
-//           },
-//           {
-//               subCategory: "Milk",
-//               childItems: [
-//                   { extensionCategory: "Long Life Milk" },
-//                   { extensionCategory: "Lactose Free Milk" },
-//               ]
-//           },
-//       ]
-//   },
+  {
+      category: "Dairy, Eggs & Fridge",
+      subCategories: [
+          {
+              subCategory: "Cheese",
+              childItems: [
+                  { extensionCategory: "Block Cheese" },
+                  { extensionCategory: "Grated Cheese" },
+                  { extensionCategory: "Sliced Cheese" },
+              ]
+          },
+          {
+              subCategory: "Cream, Custard & Desserts",
+              childItems: [
+                  { extensionCategory: "Cream" },
+                  { extensionCategory: "Custard" },
+              ]
+          },
+          {
+              subCategory: "Dips & Pate",
+              childItems: [
+                  { extensionCategory: "Dips" },
+                  // The extensionCategory should be "Pate, Paste & Caviar"
+                  // { extensionCategory: "Pate, Paste & Caviar" },
+                  { extensionCategory: "Pate" },
+                  { extensionCategory: "Paste" },
+              ]
+          },
+          {
+              subCategory: "Eggs, Butter & Margarine",
+              childItems: [
+                  { extensionCategory: "Butter & Margarine" },
+                  { extensionCategory: "Eggs" },
+              ]
+          },
+          {
+              subCategory: "Fresh Pasta & Sauces",
+              childItems: [
+                  { extensionCategory: "Fresh Pasta & Noodles" },
+                  { extensionCategory: "Pasta Sauces" },
+              ]
+          },
+          {
+              subCategory: "Milk",
+              childItems: [
+                  { extensionCategory: "Long Life Milk" },
+                  { extensionCategory: "Lactose Free Milk" },
+              ]
+          },
+      ]
+  },
+  //proceed below
 //   {
 //       category: "Deli & Chilled Meats",
 //       subCategories: [
