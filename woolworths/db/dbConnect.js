@@ -8,8 +8,8 @@ const dbConnect = async () => {
 
   const formattedDate = `${month}-${day}-${year}`;
   try {
-    // const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_${formattedDate}`);
-    const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_1-9-2025`);
+    const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_${formattedDate}`);
+    // const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_1-10-2025`);
     console.log('database connected');
     return conn;
   } catch (error) {
