@@ -136,7 +136,7 @@ const getData = async () => {
 (async () => {
   try {
     const externalApiUrl = 'https://tell-me-backend-dev.appelloproject.xyz/import-products';
-    const apiKey = 'x2M+ObTQi1pWce/Aeof0PRBK+cGht2RbUow4iwWFrA0=';
+    const apiKey = '';
     const a = fs.readFileSync('colesProducts.json', 'utf-8')
     const data = JSON.parse(JSON.stringify(a));
 
