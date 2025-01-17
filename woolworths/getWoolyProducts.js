@@ -172,8 +172,8 @@ const getData = async () => {
           const year = getDate.getFullYear();
 
           const formattedDate = `${month}-${day}-${year}`;
-          const baseFolder = `./woolworths/data/${formattedDate}`;
-          // const baseFolder = `./woolworths/data/1-9-2025`;
+          // const baseFolder = `./woolworths/data/${formattedDate}`;
+          const baseFolder = `./woolworths/data/1-17-2025`;
           const folderPath = path.join(baseFolder, mycat);
 
           if (!fs.existsSync(folderPath)) {

@@ -1,107 +1,107 @@
 const categories = [
-    // {
-    //     category: "Household",
-    //     subCategories: [
-    //         {
-    //             subCategory: "Bathroom",
-    //             childItems: [
-    //                 { extensionCategory: "Toilet Cleaners" }, // done
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Cleaning Goods",
-    //             childItems: [
-    //                 { extensionCategory: "Air Fresheners" }, // done
-    //                 { extensionCategory: "Bathroom Cleaners" }, // done
-    //                 { extensionCategory: "Disinfectant & Bleach" }, // done
-    //                 { extensionCategory: "Drain Cleaners & Solvents" }, // done
-    //                 { extensionCategory: "Fabric, Metal & Furniture Care" }, // done
-    //                 { extensionCategory: "Floor-Carpet Cleaners" }, // done
-    //                 { extensionCategory: "Gloves" },  // done
-    //                 { extensionCategory: "Kitchen Cleaners" }, // done
-    //                 { extensionCategory: "Mops, Buckets & Brooms" }, // done
-    //                 { extensionCategory: "Mould & Moisture Treatments" }, // done
-    //                 { extensionCategory: "Multipurpose Cleaners" }, // done
-    //                 { extensionCategory: "Sponges, Cloths & Wipes" }, // done
-    //                 { extensionCategory: "Window & Glass Cleaners" },  // done
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Clothing Accessories",
-    //             childItems: [
-    //                 { extensionCategory: "Hosiery" }, // done
-    //                 { extensionCategory: "Socks" }, // done
-    //                 { extensionCategory: "Underwear" }, // done
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Garden & Outdoors",
-    //             childItems: [
-    //                 { extensionCategory: "Automotive" }, // done
-    //                 { extensionCategory: "Garden Décor & Accessories" }, // done
-    //                 { extensionCategory: "Gloves, Tools & Watering" }, // done
-    //                 { extensionCategory: "Insecticide & Weed Control" }, // done
-    //                 { extensionCategory: "Lawn Care & Plant Food" }, // done
-    //                 { extensionCategory: "Potting Mix & Fertilisers" }, // done
-    //                 { extensionCategory: "Seeds & Plants" }, // done
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Hardware",
-    //             childItems: [
-    //                 { extensionCategory: "Adhesives, Glues & Tapes" }, // done
-    //                 { extensionCategory: "Hooks & Fasteners" }, // done
-    //                 { extensionCategory: "Tools & Accessories" }, // done
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Homewares",
-    //             childItems: [
-    //                 { extensionCategory: "Water Filtration" }, // done
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Kitchen",
-    //             childItems: [
-    //                 { extensionCategory: "​​Cling Wrap, Foil & Baking Paper:" }, // done
-    //                 { extensionCategory: "Dishwashing" }, // done
-    //                 { extensionCategory: "Garbage Bags" }, // done
-    //                 { extensionCategory: "Gloves" }, // done
-    //                 { extensionCategory: "Lunch Boxes & Drink Bottles" }, // done
-    //                 { extensionCategory: "Sandwich & Freezer Bags" }, // done
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Laundry",
-    //             childItems: [
-    //                 { extensionCategory: "Fabric Softener" }, // done
-    //                 { extensionCategory: "Ironing & Accessories" }, // done
-    //                 { extensionCategory: "Laundry Liquid" }, // done
-    //                 { extensionCategory: "Laundry Powder" }, // done
-    //                 { extensionCategory: "Pegs, Baskets & Hangers" }, // done
-    //                 { extensionCategory: "Stain Removal" }, // done
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Parties & Entertaining",
-    //             childItems: [
-    //                 { extensionCategory: "Candles" }, // done
-    //                 { extensionCategory: "Decorations" }, // done
-    //             ]
-    //         },
-    //         {
-    //             subCategory: "Pest Control",
-    //             childItems: [
-    //                 { extensionCategory: "Crawling Insects" }, // done
-    //                 { extensionCategory: "Flying Insects" }, // done
-    //                 { extensionCategory: "Garden Pests" }, // done
-    //                 { extensionCategory: "Insect Repellent" }, // done
-    //                 { extensionCategory: "Mosquitoes" }, // done
-    //                 { extensionCategory: "Rodents" }, // done
-    //             ]
-    //         },
-    //     ]
-    // },
+    {
+        category: "Household",
+        subCategories: [
+            {
+                subCategory: "Bathroom",
+                childItems: [
+                    { extensionCategory: "Toilet Cleaners" }, // done
+                ]
+            },
+            {
+                subCategory: "Cleaning Goods",
+                childItems: [
+                    { extensionCategory: "Air Fresheners" }, // done
+                    { extensionCategory: "Bathroom Cleaners" }, // done
+                    { extensionCategory: "Disinfectant & Bleach" }, // done
+                    { extensionCategory: "Drain Cleaners & Solvents" }, // done
+                    { extensionCategory: "Fabric, Metal & Furniture Care" }, // done
+                    { extensionCategory: "Floor-Carpet Cleaners" }, // done
+                    { extensionCategory: "Gloves" },  // done
+                    { extensionCategory: "Kitchen Cleaners" }, // done
+                    { extensionCategory: "Mops, Buckets & Brooms" }, // done
+                    { extensionCategory: "Mould & Moisture Treatments" }, // done
+                    { extensionCategory: "Multipurpose Cleaners" }, // done
+                    { extensionCategory: "Sponges, Cloths & Wipes" }, // done
+                    { extensionCategory: "Window & Glass Cleaners" },  // done
+                ]
+            },
+            {
+                subCategory: "Clothing Accessories",
+                childItems: [
+                    { extensionCategory: "Hosiery" }, // done
+                    { extensionCategory: "Socks" }, // done
+                    { extensionCategory: "Underwear" }, // done
+                ]
+            },
+            {
+                subCategory: "Garden & Outdoors",
+                childItems: [
+                    { extensionCategory: "Automotive" }, // done
+                    { extensionCategory: "Garden Décor & Accessories" }, // done
+                    { extensionCategory: "Gloves, Tools & Watering" }, // done
+                    { extensionCategory: "Insecticide & Weed Control" }, // done
+                    { extensionCategory: "Lawn Care & Plant Food" }, // done
+                    { extensionCategory: "Potting Mix & Fertilisers" }, // done
+                    { extensionCategory: "Seeds & Plants" }, // done
+                ]
+            },
+            {
+                subCategory: "Hardware",
+                childItems: [
+                    { extensionCategory: "Adhesives, Glues & Tapes" }, // done
+                    { extensionCategory: "Hooks & Fasteners" }, // done
+                    { extensionCategory: "Tools & Accessories" }, // done
+                ]
+            },
+            {
+                subCategory: "Homewares",
+                childItems: [
+                    { extensionCategory: "Water Filtration" }, // done
+                ]
+            },
+            {
+                subCategory: "Kitchen",
+                childItems: [
+                    { extensionCategory: "​​Cling Wrap, Foil & Baking Paper:" }, // done
+                    { extensionCategory: "Dishwashing" }, // done
+                    { extensionCategory: "Garbage Bags" }, // done
+                    { extensionCategory: "Gloves" }, // done
+                    { extensionCategory: "Lunch Boxes & Drink Bottles" }, // done
+                    { extensionCategory: "Sandwich & Freezer Bags" }, // done
+                ]
+            },
+            {
+                subCategory: "Laundry",
+                childItems: [
+                    { extensionCategory: "Fabric Softener" }, // done
+                    { extensionCategory: "Ironing & Accessories" }, // done
+                    { extensionCategory: "Laundry Liquid" }, // done
+                    { extensionCategory: "Laundry Powder" }, // done
+                    { extensionCategory: "Pegs, Baskets & Hangers" }, // done
+                    { extensionCategory: "Stain Removal" }, // done
+                ]
+            },
+            {
+                subCategory: "Parties & Entertaining",
+                childItems: [
+                    { extensionCategory: "Candles" }, // done
+                    { extensionCategory: "Decorations" }, // done
+                ]
+            },
+            {
+                subCategory: "Pest Control",
+                childItems: [
+                    { extensionCategory: "Crawling Insects" }, // done
+                    { extensionCategory: "Flying Insects" }, // done
+                    { extensionCategory: "Garden Pests" }, // done
+                    { extensionCategory: "Insect Repellent" }, // done
+                    { extensionCategory: "Mosquitoes" }, // done
+                    { extensionCategory: "Rodents" }, // done
+                ]
+            },
+        ]
+    },
     {
         category: "Baby",
         subCategories: [

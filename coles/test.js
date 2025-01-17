@@ -69,7 +69,8 @@ const getData = async () => {
 
           return formattedProduct;
         });
-        const baseFolder = `./coles/data/${formattedDate}`;
+        // const baseFolder = `./coles/data/${formattedDate}`;
+        const baseFolder = `./coles/data/1-17-2025`;
         const folderPath = path.join(baseFolder, category);
         const toPush = [category, subCategory, extensionCategory, productsData.length];
         data.push(toPush);

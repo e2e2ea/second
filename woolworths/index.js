@@ -45,7 +45,8 @@ const dbConnect = async () => {
 
   const formattedDate = `${month}-${day}-${year}`;
   try {
-    const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_${formattedDate}`);
+    // const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_${formattedDate}`);
+    const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_1-17-2025`);
     console.log('database connected');
     return conn;
   } catch (error) {
@@ -198,11 +199,11 @@ const CATEGORIES = [
   // { id: '1_AF39A7A', name: 'Pest Control', url: '/shop/browse/cleaning-maintenance/pest-control', location: '/shop/browse/cleaning-maintenance/pest-control' },
   // { id: '1_8AF7215', name: 'Hardware', url: '/shop/browse/cleaning-maintenance/hardware', location: '/shop/browse/cleaning-maintenance/hardware' },
 
-  // { id: '1_499FEB0', name: 'Packaged', url: '', location: '' },
+  // // { id: '1_499FEB0', name: 'Packaged', url: '', location: '' },
 
   // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // 6.5k+
   // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // pet exceed 10,000 + should be separated by subcategory //vic
-  { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
+  // { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
   { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
   { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
   { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
