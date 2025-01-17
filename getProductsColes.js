@@ -29,12 +29,12 @@ const getData = async () => {
             return rest; // Return the remaining price object without _id
           });
           const formattedProduct = {
-            source_url: productObj.source_url || null,
             name: productObj.name || null,
-            image_url: productObj.image_url || null,
-            source_id: `Coles - ${productObj.coles_product_id}` || null,
+            sourceUrl: productObj.source_url || null,
+            imageUrl: productObj.image_url || null,
+            sourceId: `Coles - ${productObj.coles_product_id}` || null,
             barcode: productObj.barcode || '',
-            category_id: categId || '',
+            categoryId: categId || '',
             shop: productObj.shop || null,
             weight: productObj.weight || '',
             prices: cleanedPrices,

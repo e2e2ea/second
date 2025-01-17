@@ -22,9 +22,9 @@ const categoriesId = [
   { id: '22916', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' },
 ];
 const getData = async () => {
-//   console.log('start clean');
-//   await cleanUpPrices();
-//   console.log('end clean');
+  //   console.log('start clean');
+  //   await cleanUpPrices();
+  //   console.log('end clean');
   await dbConnect();
   const a = await Product.find().exec();
   let data = [];
@@ -65,8 +65,7 @@ const getData = async () => {
           if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Health & Safety') mySubCategory = 'Health & Safety';
           if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Toys & Playtime') mySubCategory = 'Toys & Playtime';
           if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bath & Skincare') mySubCategory = 'Bath & Skincare';
-          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bottles and Baby Feeding')
-            mySubCategory = 'Bottles & Baby Feeding';
+          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bottles and Baby Feeding') mySubCategory = 'Bottles & Baby Feeding';
           // Next, filter by subCategory only for matching categories
           // console.log('mySubCategory', mySubCategory)
           const hasSubCategory = parsedFields.productSubCategories.some((sub) => sub.toLowerCase() === mySubCategory.toLowerCase());
@@ -80,21 +79,13 @@ const getData = async () => {
 
           let mySubCategoryExtension;
           mySubCategoryExtension = extensionCategory;
-          if (category === 'Poultry, Meat & Seafood' && subCategory === 'Seafood' && extensionCategory === 'Fish')
-            mySubCategoryExtension = 'Salmon & Other Fish';
-          if (category === 'Health & Wellness' && subCategory === 'Vitamins' && extensionCategory === 'Brain & Heart Health')
-            mySubCategoryExtension = 'Brain & Heart';
-          if (category === 'Health & Wellness' && subCategory === 'First Aid & Medicinal' && extensionCategory === 'Bandaids & Bandages')
-            mySubCategoryExtension = 'First Aid & Bandages';
-          if (category === 'Cleaning & Maintenance' && subCategory === 'Bathroom' && extensionCategory === 'Toilet Cleaners')
-            mySubCategoryExtension = 'Toilet Paper';
-          if (category === 'Home & Lifestyle' && subCategory === 'Clothing Accessories' && extensionCategory === 'Socks')
-            mySubCategoryExtension = 'Boys & Girls Socks';
-          if (category === 'Home & Lifestyle' && subCategory === 'Clothing Accessories' && extensionCategory === 'Underwear')
-            mySubCategoryExtension = 'Boys & Girls Underwear';
-          const hasExtensionSubCategories = parsedFields.productExtensionSubCategories.some(
-            (ext) => ext.toLowerCase() === mySubCategoryExtension.toLowerCase()
-          );
+          if (category === 'Poultry, Meat & Seafood' && subCategory === 'Seafood' && extensionCategory === 'Fish') mySubCategoryExtension = 'Salmon & Other Fish';
+          if (category === 'Health & Wellness' && subCategory === 'Vitamins' && extensionCategory === 'Brain & Heart Health') mySubCategoryExtension = 'Brain & Heart';
+          if (category === 'Health & Wellness' && subCategory === 'First Aid & Medicinal' && extensionCategory === 'Bandaids & Bandages') mySubCategoryExtension = 'First Aid & Bandages';
+          if (category === 'Cleaning & Maintenance' && subCategory === 'Bathroom' && extensionCategory === 'Toilet Cleaners') mySubCategoryExtension = 'Toilet Paper';
+          if (category === 'Home & Lifestyle' && subCategory === 'Clothing Accessories' && extensionCategory === 'Socks') mySubCategoryExtension = 'Boys & Girls Socks';
+          if (category === 'Home & Lifestyle' && subCategory === 'Clothing Accessories' && extensionCategory === 'Underwear') mySubCategoryExtension = 'Boys & Girls Underwear';
+          const hasExtensionSubCategories = parsedFields.productExtensionSubCategories.some((ext) => ext.toLowerCase() === mySubCategoryExtension.toLowerCase());
 
           return hasExtensionSubCategories;
         });
@@ -120,12 +111,12 @@ const getData = async () => {
           });
 
           const formattedProduct = {
-            source_url: productObj.source_url || null,
             name: productObj.name || null,
-            image_url: productObj.image_url || null,
-            source_id: `Woolworths - ${productObj.retailer_product_id}` || null,
+            sourceUrl: productObj.source_url || null,
+            imageUrl: productObj.image_url || null,
+            sourceId: `Woolworths - ${productObj.retailer_product_id}` || null,
             barcode: productObj.barcode || null,
-            category_id: categId || '',
+            categoryId: categId || '',
             shop: productObj.shop || null,
             weight: productObj.weight || null,
             prices: cleanedPrices,
@@ -135,7 +126,7 @@ const getData = async () => {
         });
         // console.log('Filtered product format:', productsData[0])
         if (productsData && productsData.length > 0) {
-         data.push(...productsData);
+          data.push(...productsData);
         }
       }
     }
