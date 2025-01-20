@@ -22,8 +22,9 @@ axiosRetry(axiosInstance, {
 const getBarcode = async () => {
   try {
     await dbConnect();
+    // const products = await Product.find().limit(1000);
     // const products = await Product.find();
-    const products = await Product.find().skip(8000).limit(1000);
+    const products = await Product.find().skip(13921).limit(1000);
     console.log('products length:', products.length);
 
     let i = 1;

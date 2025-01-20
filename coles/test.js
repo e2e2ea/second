@@ -70,7 +70,7 @@ const getData = async () => {
           return formattedProduct;
         });
         // const baseFolder = `./coles/data/${formattedDate}`;
-        const baseFolder = `./coles/data/1-17-2025`;
+        const baseFolder = `./coles/data/1-21-2025`;
         const folderPath = path.join(baseFolder, category);
         const toPush = [category, subCategory, extensionCategory, productsData.length];
         data.push(toPush);
@@ -94,6 +94,31 @@ const getData = async () => {
         } catch (error) {
           console.error('Error writing data to file:', error);
         }
+        // try {
+        //   if (productsData.length > 0) {
+        //     const externalApiUrl = 'https://tell-me-backend-dev.appelloproject.xyz/import-products';
+        //     const apiKey = 'x2M+ObTQi1pWce/Aeof0PRBK+cGht2RbUow4iwWFrA0=';
+        //     const data = JSON.parse(JSON.stringify(productsData));
+
+        //     const response = await axios.post(externalApiUrl, data, {
+        //       headers: {
+        //         accept: 'application/json',
+        //         'X-API-Key': apiKey,
+        //         'Content-Type': 'application/json',
+        //       },
+        //     });
+
+        //     console.log('Success! Response:', response.data);
+        //   }
+        // } catch (error) {
+        //   if (error.response) {
+        //     console.error('Error response:', error.response.status, error.response.data);
+        //   } else if (error.request) {
+        //     console.error('No response received:', error.request);
+        //   } else {
+        //     console.error('Error:', error.message);
+        //   }
+        // }
       }
     }
   }

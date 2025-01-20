@@ -137,7 +137,7 @@ const getData = async () => {
   try {
     const externalApiUrl = 'https://tell-me-backend-dev.appelloproject.xyz/import-products';
     const apiKey = 'x2M+ObTQi1pWce/Aeof0PRBK+cGht2RbUow4iwWFrA0=';
-    const a = fs.readFileSync('colesProducts.json', 'utf-8')
+    const a = fs.readFileSync('woolworths.json', 'utf-8')
     const data = JSON.parse(JSON.stringify(a));
 
     const response = await axios.post(externalApiUrl, data, {
