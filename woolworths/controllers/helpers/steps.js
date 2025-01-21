@@ -1,6 +1,6 @@
 import waitForElement from './waitForElement.js';
 import safeNavigate from './safeNavigate.js';
-import location from '../../constant/location.js';
+import location from './location.js';
 import { timeout } from 'puppeteer';
 
 function delay(time) {

@@ -15,7 +15,7 @@ const csvWriter = createArrayCsvWriter({
   path: `./coles/output_${formattedDate}.csv`,
   header: ['Category', 'SubCategory', 'Extension', 'Products'],
 });
-const categoriesId = JSON.parse(fs.readFileSync(`./coles/constant/categories.json`, 'utf8'));
+const categoriesId = JSON.parse(fs.readFileSync(`./constant/categories.json`, 'utf8'));
 
 const getData = async () => {
   await dbConnect();
