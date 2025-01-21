@@ -506,32 +506,32 @@ const categories = [
         //         { extensionCategory: "Instant Meals & Sides" },
         //     ]
         // },
-        // {
-        //     subCategory: "Condiments",
-        //     childItems: [
-        //         { extensionCategory: "Mustard" },
-        //         { extensionCategory: "Sweet Chilli & Hot Sauce" },
-        //         { extensionCategory: "Tomato & BBQ Sauce" },
-        //     ]
-        // },
-        // {
-        //     subCategory: "Desserts",
-        //     childItems: [
-        //         { extensionCategory: "Custard, Cream & Yoghurt" },
-        //         { extensionCategory: "Ice Cream Cones, Syrups & Toppings" },
-        //         { extensionCategory: "Jelly" },
-        //         { extensionCategory: "Puddings" },
-        //         { extensionCategory: "Ready to Freeze Ice Blocks" },
-        //     ]
-        // },
-        // {
-        //     subCategory: "Health Foods",
-        //     childItems: [
-        //         { extensionCategory: "Health Breakfast Food & Spread" },
-        //         { extensionCategory: "Health Cooking & Pasta" },
-        //         { extensionCategory: "Health Snacks & Drinks" },
-        //     ]
-        // },
+        {
+            subCategory: "Condiments",
+            childItems: [
+                { extensionCategory: "Mustard" },
+                { extensionCategory: "Sweet Chilli & Hot Sauce" },
+                { extensionCategory: "Tomato & BBQ Sauce" },
+            ]
+        },
+        {
+            subCategory: "Desserts",
+            childItems: [
+                { extensionCategory: "Custard, Cream & Yoghurt" },
+                { extensionCategory: "Ice Cream Cones, Syrups & Toppings" },
+                { extensionCategory: "Jelly" },
+                { extensionCategory: "Puddings" },
+                { extensionCategory: "Ready to Freeze Ice Blocks" },
+            ]
+        },
+        {
+            subCategory: "Health Foods",
+            childItems: [
+                { extensionCategory: "Health Breakfast Food & Spread" },
+                { extensionCategory: "Health Cooking & Pasta" },
+                { extensionCategory: "Health Snacks & Drinks" },
+            ]
+        },
         // {
         //     subCategory: "Herbs & Spices",
         //     childItems: [
@@ -566,69 +566,69 @@ const categories = [
         //         { extensionCategory: "Stock & Gravy" },
         //     ]
         // },
-          {
-              subCategory: "Snacks & Confectionery",
-              childItems: [
-                  { extensionCategory: "Biscuits & Cookies" },
-                  { extensionCategory: "Corn Chips & Salsa" },
-                  { extensionCategory: "Muesli Bars & Snack" },
-              ]
-          },
-          {
-              subCategory: "Tea & Coffee",
-              childItems: [
-                  { extensionCategory: "Black Tea" },
-                  { extensionCategory: "Green Tea" },
-                  { extensionCategory: "Herbal & Specialty Tea" },
-              ]
-          },
+        //   {
+        //       subCategory: "Snacks & Confectionery",
+        //       childItems: [
+        //           { extensionCategory: "Biscuits & Cookies" },
+        //           { extensionCategory: "Corn Chips & Salsa" },
+        //           { extensionCategory: "Muesli Bars & Snack" },
+        //       ]
+        //   },
+        //   {
+        //       subCategory: "Tea & Coffee",
+        //       childItems: [
+        //           { extensionCategory: "Black Tea" },
+        //           { extensionCategory: "Green Tea" },
+        //           { extensionCategory: "Herbal & Specialty Tea" },
+        //       ]
+        //   },
       ],
     },
-    {
-        category: "Pet",
-        subCategories: [
-            {
-                subCategory: "Birds, Fish & Small Pets",
-                childItems: [
-                    { extensionCategory: "Bird Treats" },
-                    { extensionCategory: "Small Pets Food" },
-                ]
-            },
-            {
-                subCategory: "Cat & Kitten",
-                childItems: [
-                    { extensionCategory: "Dry Cat Food" },
-                    { extensionCategory: "Kitten Food" },
-                ]
-            },
-            {
-                subCategory: "Dog & Puppy",
-                childItems: [
-                    { extensionCategory: "Puppy Food" },
-                ]
-            },
-        ]
-    },
-    {
-        category: "Poultry, Meat & Seafood",
-        subCategories: [
-            {
-                subCategory: "BBQ Meat & Seafood",
-                childItems: [
-                    { extensionCategory: "Burgers" },
-                    { extensionCategory: "Sausages" },
-                    { extensionCategory: "Kebabs" },
-                ]
-            },
-            {
-                subCategory: "Seafood",
-                childItems: [
-                    { extensionCategory: "Crab & Lobster" },
-                    { extensionCategory: "Prepacked Seafood" },
-                ]
-            },
-        ]
-    },
+    // {
+    //     category: "Pet",
+    //     subCategories: [
+    //         {
+    //             subCategory: "Birds, Fish & Small Pets",
+    //             childItems: [
+    //                 { extensionCategory: "Bird Treats" },
+    //                 { extensionCategory: "Small Pets Food" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Cat & Kitten",
+    //             childItems: [
+    //                 { extensionCategory: "Dry Cat Food" },
+    //                 { extensionCategory: "Kitten Food" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Dog & Puppy",
+    //             childItems: [
+    //                 { extensionCategory: "Puppy Food" },
+    //             ]
+    //         },
+    //     ]
+    // },
+    // {
+    //     category: "Poultry, Meat & Seafood",
+    //     subCategories: [
+    //         {
+    //             subCategory: "BBQ Meat & Seafood",
+    //             childItems: [
+    //                 { extensionCategory: "Burgers" },
+    //                 { extensionCategory: "Sausages" },
+    //                 { extensionCategory: "Kebabs" },
+    //             ]
+    //         },
+    //         {
+    //             subCategory: "Seafood",
+    //             childItems: [
+    //                 { extensionCategory: "Crab & Lobster" },
+    //                 { extensionCategory: "Prepacked Seafood" },
+    //             ]
+    //         },
+    //     ]
+    // },
 ];
 
 export default categories;
