@@ -5,7 +5,8 @@ import fs from 'fs';
 import safeNavigate from './controllers/helpers/safeNavigate.js';
 import handleSteps from './controllers/helpers/steps.js';
 import mongoose from 'mongoose';
-
+import Product from './models/products.js';
+import dbConnect from './db/dbConnect.js';
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
 const userAgents = [
@@ -37,49 +38,7 @@ const userAgents = [
 
 const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas', 'act', 'nt'];
 // const mylocation = ['qld', 'wa', 'sa', 'tas', 'act', 'nt'];
-const dbConnect = async () => {
-  const getDate = new Date();
-  const month = getDate.getMonth() + 1;
-  const day = getDate.getDate();
-  const year = getDate.getFullYear();
 
-  const formattedDate = `${month}-${day}-${year}`;
-  try {
-    // const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_${formattedDate}`);
-    const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_1-17-2025`);
-    console.log('database connected');
-    return conn;
-  } catch (error) {
-    console.log('database error');
-  }
-};
-
-const ProductSchema = new mongoose.Schema(
-  {
-    source_url: { type: String, default: 'N/A' },
-    retailer_product_id: { type: String },
-    category: [{ type: String }],
-    subCategory: [{ type: String }],
-    extensionCategory: [{ type: String }],
-    name: { type: String, default: 'N/A' },
-    image_url: { type: String, default: 'N/A' },
-    barcode: { type: String, default: 'N/A' },
-    shop: { type: String, default: '' },
-    isNew: { type: Boolean },
-    weight: { type: String, default: 'N/A' },
-    prices: [
-      {
-        state: { type: String },
-        price: { type: String },
-        price_per_unit: { type: String },
-        price_unit: { type: String },
-      },
-    ],
-  },
-  { timestamps: true }
-);
-
-const Product = mongoose.model('Product', ProductSchema);
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
   if (priceInCents) {
