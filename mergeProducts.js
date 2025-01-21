@@ -135,8 +135,8 @@ const getData = async () => {
 // })();
 (async () => {
   try {
-    const externalApiUrl = 'https://tell-me-backend-dev.appelloproject.xyz/import-products';
-    const apiKey = '';
+    const externalApiUrl = process.env.JARROD_API;
+    const apiKey = process.env.JARROD_KEY;
     const a = fs.readFileSync('colesProducts.json', 'utf-8')
     const data = JSON.parse(JSON.stringify(a));
 
