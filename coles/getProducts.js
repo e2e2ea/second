@@ -16,21 +16,6 @@ const csvWriter = createArrayCsvWriter({
   header: ['Category', 'SubCategory', 'Extension', 'Products'],
 });
 const categoriesId = JSON.parse(fs.readFileSync(`./coles/constant/categories.json`, 'utf8'));
-// const categoriesId = [
-//   { id: '15603', name: 'Baby' },
-//   { id: '8892906', name: 'Bakery' },
-//   { id: '1300', name: 'Dairy, Eggs & Fridge' },
-//   { id: '8892715', name: 'Deli & Chilled Meats' },
-//   { id: '11456', name: 'Drinks' },
-//   { id: '85471', name: 'Freezer' },
-//   { id: '2100', name: 'Fruit & Veg' },
-//   { id: '15083', name: 'Health & Beauty' },
-//   { id: '14003', name: 'Household' },
-//   { id: '10302', name: 'Pantry' },
-//   { id: '16427', name: 'Pet' },
-//   { id: '7238', name: 'Poultry, Meat & Seafood' },
-//   // { id: '17490', name: 'Tobacco' },
-// ];
 
 const getData = async () => {
   await dbConnect();
