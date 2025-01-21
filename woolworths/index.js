@@ -388,8 +388,8 @@ const scrapeURL = async (page, request, myloc) => {
     // Extract values
     const price = parseFloat(product.InstorePrice || product.Price);
     // const priceOnly = price.replace("$", "");
-    const priceInCents = parseFloat(product.CupPrice || product.InstoreCupPrice);
-    const price2 = parseFloat(price) * 100;
+    const price2 = parseFloat(product.CupPrice || product.InstoreCupPrice);
+    const priceInCents = parseFloat(price) * 100;
     const priceInCentsPerUnits = parseFloat(price2) * 100;
     // Remove numbers and keep only letters
     const unit = inputString.replace(/[0-9]/g, '');
@@ -409,16 +409,7 @@ const scrapeURL = async (page, request, myloc) => {
       subCategory: product.AdditionalAttributes.piescategorynamesjson,
       extensionCategory: product.AdditionalAttributes.piessubcategorynamesjson,
       prices: getPrices(location, priceInCents, priceInCentsPerUnits, unit),
-      // prices: [{
-      //   ...(location === 'nsw' && { nsw: priceInCents }),
-      //   ...(location === 'nsw' && { nsw_price_per_unit: priceInCentsPerUnits }),
-      //   ...(location === 'nsw' && { nsw_unit: unit }),
-      //   ...(location === 'vic' && { vic: priceInCents }),
-      //   ...(location === 'qld' && { qld: priceInCents }),
-      //   ...(location === 'wa' && { wa: priceInCents }),
-      //   ...(location === 'sa' && { sa: priceInCents }),
-      //   ...(location === 'tas' && { tas: priceInCents }),
-      // }],
+      
     };
   });
   if (products.length > 0) {
