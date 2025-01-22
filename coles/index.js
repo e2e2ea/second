@@ -1,29 +1,12 @@
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
-import safeNavigate from '../helpers/coles/safeNavigate.js';
-import waitForElement from '../helpers/coles/waitForElement.js';
-import handleSteps from '../helpers/coles/steps.js';
+import safeNavigate from './controllers/helpers/coles/safeNavigate.js';
+import handleSteps from './controllers/helpers/coles/steps.js';
 import locations from './constant/location.js';
 import categories from './constant/categories.js';
 import Product from './models/products.js';
 import dbConnect from './db/dbConnect.js';
-import fs from 'fs';
-const reloadWithTimeout = async (page, timeout = 120000) => {
-  try {
-    // Create a timeout promise
-    const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Reload timeout exceeded')), timeout));
 
-    // Use Promise.race to race between reload and timeout
-    await Promise.race([
-      page.reload({ waitUntil: 'domcontentloaded' }), // or 'networkidle2' based on your needs
-      timeoutPromise,
-    ]);
-
-    console.log('Page reloaded successfully!');
-  } catch (error) {
-    console.error('Error during page reload:', error.message);
-  }
-};
 const userAgents = [
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0',
@@ -77,19 +60,9 @@ const scraper = async () => {
       headless: false,
       // executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
       // userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data2\\Profile 2',
-      // userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data3\\Profile 3',
-      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data4\\Profile 4',
-      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data5\\Profile 5',
-      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data6\\Profile 6',
-      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data7\\Profile 7',
-      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data8\\Profile 8',
-      //   userDataDir: 'C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data9\\Profile 9',
     });
     for (const loc of locations) {
-      // const context = await browser.createBrowserContext();
-
       let page2;
-      // page2 = (await browser.newPage()).removeAllListeners('request');
       page2 = await browser.newPage();
       await page2.setExtraHTTPHeaders({
         Referer: 'https://www.coles.com.au/',
@@ -576,18 +549,6 @@ const scraper = async () => {
                         await delay(5000);
                       }
                       await delay(2000);
-                      //   try {
-                      //     if (i > 1) {
-                      //       await page.waitForSelector('section[data-testid="product-tile"]', { waitUntil: 'domcontentloaded', timeout: 20000 });
-                      //     } else {
-                      //       await page.waitForSelector('section[data-testid="product-tile"]', { waitUntil: 'domcontentloaded', timeout: 300000 }); // 120000
-                      //     }
-                      //   } catch (error) {
-                      //     console.log('No products found, closing page...');
-                      //     hasProducts = false;
-                      //     await page.close();
-                      //     break;
-                      //   }
                       // Extract product data
                       const productData = await page.evaluate(
                         (category, subCategory, extensionCategory, loc) => {
@@ -850,15 +811,6 @@ const scraper = async () => {
                       }
                       i = i + 1;
                       hasProducts = true;
-                      // if (productData && productData.length < 9) {
-                      //     console.log('direct break', productData.length, 'Child Items:', extensionCategory)
-                      //     hasProducts = false;
-                      //     await page.close()
-                      //     break;
-                      // }
-
-                      // console.log('length find...', productData.length);
-                      // await delay(9000);
                     }
                   } catch (error) {
                     console.error('error in while loop', error);
@@ -877,14 +829,10 @@ const scraper = async () => {
           console.log('done Category:', category);
         })
       );
-      // await browser.close();
     }
     console.log('done all');
   } catch (error) {
     console.error('Error:', error);
-    // await page.screenshot({ path: 'error_screenshot.png' });
-  } finally {
-    // await browser.close();
   }
 };
 
