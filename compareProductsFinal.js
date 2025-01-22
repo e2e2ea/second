@@ -7,9 +7,7 @@ import fs from 'fs';
 import path from 'path';
 
 const getData = async () => {
-  // console.log('categ', categories.length)
   let totalProducts = 0;
-  // let data = [];
   for (const categ of categories) {
     const category = categ.category;
     for (const sub of categ.subCategories) {
@@ -26,14 +24,12 @@ const getData = async () => {
 
         const formattedDate = `${month}-${day}-${year}`;
         try {
-          woolworthsData = JSON.parse(fs.readFileSync(`woolworths/data/1-17-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
-          ColesData = JSON.parse(fs.readFileSync(`coles/data/1-17-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          woolworthsData = JSON.parse(fs.readFileSync(`woolworths/data/1-22-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          ColesData = JSON.parse(fs.readFileSync(`coles/data/1-22-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
         } catch (error) {
           console.log(`Skipping ${category} - ${subCategory} - ${extensionCategory}: File(s) missing.`);
-          continue; // Skip to the next extensionCategory
+          continue;
         }
-        // console.log(` coles in ${category} - ${subCategory} - ${extensio8nCategory}: `, ColesData.length)
-        // console.log(` woolworths in ${category} - ${subCategory} - ${extensionCategory}: `, woolworthsData.length)
 
         for (const data of woolworthsData) {
           const filteredProducts = ColesData.filter((p) => {
@@ -44,7 +40,6 @@ const getData = async () => {
             } else {
             }
           });
-          // console.log('filteredProducts', filteredProducts)
           if (filteredProducts && filteredProducts.length > 0) {
             const formattedProduct1 = {
               source_url: filteredProducts[0].source_url || null,
@@ -81,34 +76,34 @@ const getData = async () => {
             const fileName = `${category} - ${subCategory} - ${extensionCategory}.json`;
             const filePath = path.join(folderPath, fileName);
             if (!fs.existsSync(folderPath)) {
-              fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist
+              fs.mkdirSync(folderPath, { recursive: true });
               console.log(`Created folder: ${folderPath}`);
             }
-            fs.writeFileSync(filePath, JSON.stringify(productsMatched, null, 2)); // Pretty print with 2 spaces
+            fs.writeFileSync(filePath, JSON.stringify(productsMatched, null, 2));
             console.log(`Data saved to ${filePath}`);
           }
-          try {
-            const externalApiUrl = process.env.JARROD_API;
-            const apiKey = process.env.JARROD_KEY;
+          // try {
+          //   const externalApiUrl = process.env.JARROD_API;
+          //   const apiKey = process.env.JARROD_KEY;
 
-            const response = await axios.post(externalApiUrl, productsMatched, {
-              headers: {
-                accept: 'application/json',
-                'X-API-Key': apiKey,
-                'Content-Type': 'application/json',
-              },
-            });
+          //   const response = await axios.post(externalApiUrl, productsMatched, {
+          //     headers: {
+          //       accept: 'application/json',
+          //       'X-API-Key': apiKey,
+          //       'Content-Type': 'application/json',
+          //     },
+          //   });
 
-            console.log('Success! Response:', response.data);
-          } catch (error) {
-            if (error.response) {
-              console.error('Error response:', error.response.status, error.response.data);
-            } else if (error.request) {
-              console.error('No response received:', error.request);
-            } else {
-              console.error('Error:', error.message);
-            }
-          }
+          //   console.log('Success! Response:', response.data);
+          // } catch (error) {
+          //   if (error.response) {
+          //     console.error('Error response:', error.response.status, error.response.data);
+          //   } else if (error.request) {
+          //     console.error('No response received:', error.request);
+          //   } else {
+          //     console.error('Error:', error.message);
+          //   }
+          // }
         } catch (error) {
           console.error('Error writing data to file:', error);
         }

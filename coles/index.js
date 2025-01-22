@@ -45,9 +45,12 @@ function delay(time) {
 const captcha = async (page, url) => {
   let doloop = true;
   let i = 1;
+  let toRefresh = 2;
   try {
     while (doloop) {
-      await safeNavigate(page, url);
+      if (toRefresh > i) {
+        await safeNavigate(page, url);
+      }
       const captchaDetected = await page.evaluate(() => {
         return !!document.querySelector('iframe[src*="_Incapsula_Resource"]');
       });
@@ -163,19 +166,15 @@ const scraper = async () => {
                   // bakery category
                   if (category === 'Bakery') {
                     if (sub.subCategory === 'In-Store Bakery') {
-                      if (ext.extensionCategory === 'Bread Rolls')
-                        url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-breads-and-rolls`;
+                      if (ext.extensionCategory === 'Bread Rolls') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-breads-and-rolls`;
                       // 2 url if Donuts & Cookies
-                      if (ext.extensionCategory === 'Cookies')
-                        url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-sweet-treats/cookies`;
-                      if (ext.extensionCategory === 'Donuts')
-                        url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-sweet-treats/donuts`;
+                      if (ext.extensionCategory === 'Cookies') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-sweet-treats/cookies`;
+                      if (ext.extensionCategory === 'Donuts') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/instore-bakery-sweet-treats/donuts`;
                     }
                     if (sub.subCategory === 'Packaged Bread & Bakery') {
                       if (ext.extensionCategory === 'Gluten Free Bakery') url = `https://www.coles.com.au/browse/bakery/gluten-free-range`;
                       if (ext.extensionCategory === 'Packaged Bread') url = `https://www.coles.com.au/browse/${updatedCategory.toLowerCase()}/packaged-breads`;
-                      if (ext.extensionCategory === 'Pizza Bases')
-                        url = `https://www.coles.com.au/browse/bakery/packaged-flat-bread-wraps-and-pizza-bases/pizza-bases`;
+                      if (ext.extensionCategory === 'Pizza Bases') url = `https://www.coles.com.au/browse/bakery/packaged-flat-bread-wraps-and-pizza-bases/pizza-bases`;
                     }
                   }
                   // category Dairy, Eggs & Fridge
@@ -195,8 +194,7 @@ const scraper = async () => {
                     }
                     if (sub.subCategory === 'Milk') {
                       if (ext.extensionCategory === 'Long Life Milk') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/long-life-milk/long-life-milk`;
-                      if (ext.extensionCategory === 'Lactose Free Milk')
-                        url = `https://www.coles.com.au/browse/dairy-eggs-fridge/long-life-milk/lactose-free-milk`;
+                      if (ext.extensionCategory === 'Lactose Free Milk') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/long-life-milk/lactose-free-milk`;
                     }
                   }
                   // category Deli & Chilled Meats
@@ -276,10 +274,8 @@ const scraper = async () => {
                       if (ext.extensionCategory === 'Tropical') url = `https://www.coles.com.au/browse/frozen/frozen-fruit/tropical`;
                     }
                     if (sub.subCategory === 'Frozen Meat') {
-                      if (ext.extensionCategory === 'Chicken Pieces & Nuggets')
-                        url = `https://www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/chicken-pieces-nuggets`;
-                      if (ext.extensionCategory === 'Whole Birds & Roasts')
-                        url = `https://www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/whole-birds-roasts`;
+                      if (ext.extensionCategory === 'Chicken Pieces & Nuggets') url = `https://www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/chicken-pieces-nuggets`;
+                      if (ext.extensionCategory === 'Whole Birds & Roasts') url = `https://www.coles.com.au/browse/frozen/frozen-chicken-beef-pork/whole-birds-roasts`;
                     }
                     if (sub.subCategory === 'Frozen Party Food') {
                       if (ext.extensionCategory === 'Pastry Sheets') url = `https://www.coles.com.au/browse/frozen/frozen-pastry-party-food/pastry-sheets`;
@@ -291,8 +287,7 @@ const scraper = async () => {
                     }
                     if (sub.subCategory === 'Frozen Seafood') {
                       if (ext.extensionCategory === 'Fish Fillets') url = `https://www.coles.com.au/browse/frozen/frozen-fish-seafood/fish-fillets`;
-                      if (ext.extensionCategory === 'Fish Fingers & Cakes')
-                        url = `https://www.coles.com.au/browse/frozen/frozen-fish-seafood/fish-fingers-cakes`;
+                      if (ext.extensionCategory === 'Fish Fingers & Cakes') url = `https://www.coles.com.au/browse/frozen/frozen-fish-seafood/fish-fingers-cakes`;
                       if (ext.extensionCategory === 'Frozen Seafood') url = `https://www.coles.com.au/browse/frozen/frozen-fish-seafood/seafood-frozen`;
                     }
                     if (sub.subCategory === 'Frozen Vegetables') {
@@ -323,22 +318,18 @@ const scraper = async () => {
                       if (ext.extensionCategory === 'Mangoes') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/mangoes`;
                       if (ext.extensionCategory === 'Pineapples') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/pineapples`;
                       if (ext.extensionCategory === 'Kiwi Fruit') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/kiwi-fruit`;
-                      if (ext.extensionCategory === 'Tropical & Exotic Fruit')
-                        url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/tropical-exotic-fruit`;
+                      if (ext.extensionCategory === 'Tropical & Exotic Fruit') url = `https://www.coles.com.au/browse/fruit-vegetables/fruit/tropical-exotic-fruit`;
                     }
                     if (sub.subCategory === 'Organic') {
-                      if (ext.extensionCategory === 'Organic Fruit')
-                        url = `https://www.coles.com.au/browse/fruit-vegetables/organic-fruits-vegetables/organic-fruits`;
-                      if (ext.extensionCategory === 'Organic Vegetables')
-                        url = `https://www.coles.com.au/browse/fruit-vegetables/organic-fruits-vegetables/organic-vegetables`;
+                      if (ext.extensionCategory === 'Organic Fruit') url = `https://www.coles.com.au/browse/fruit-vegetables/organic-fruits-vegetables/organic-fruits`;
+                      if (ext.extensionCategory === 'Organic Vegetables') url = `https://www.coles.com.au/browse/fruit-vegetables/organic-fruits-vegetables/organic-vegetables`;
                     }
                     if (sub.subCategory === 'Salad') {
                       if (ext.extensionCategory === 'Herbs') url = `https://www.coles.com.au/browse/fruit-vegetables/salad-herbs/herbs`;
                       if (ext.extensionCategory === 'Sprouts') url = `https://www.coles.com.au/browse/fruit-vegetables/salad-herbs/sprouts`;
                     }
                     if (sub.subCategory === 'Vegetables') {
-                      if (ext.extensionCategory === 'Broccoli, Cauliflower & Cabbage')
-                        url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/broccoli-cauliflower`;
+                      if (ext.extensionCategory === 'Broccoli, Cauliflower & Cabbage') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/broccoli-cauliflower`;
                       if (ext.extensionCategory === 'Capsicum & Mushrooms') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/mushrooms`;
                       if (ext.extensionCategory === 'Onions & Leeks') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/onion-leeks`;
                       if (ext.extensionCategory === 'Cucumber') url = `https://www.coles.com.au/browse/fruit-vegetables/vegetables/cucumber`;
@@ -362,37 +353,27 @@ const scraper = async () => {
                     }
                     if (sub.subCategory === 'First Aid & Medicinal') {
                       if (ext.extensionCategory === 'Antiseptic') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/antiseptic`;
-                      if (ext.extensionCategory === 'Cold, Flu & Allergies')
-                        url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/cold-flu-and-allergy`;
-                      if (ext.extensionCategory === 'Cotton Wool & Cotton Buds')
-                        url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/cotton-wool-cotton-buds`;
-                      if (ext.extensionCategory === 'Medicinal Oils & Ointments')
-                        url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/medicinal-oils-ointments`;
+                      if (ext.extensionCategory === 'Cold, Flu & Allergies') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/cold-flu-and-allergy`;
+                      if (ext.extensionCategory === 'Cotton Wool & Cotton Buds') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/cotton-wool-cotton-buds`;
+                      if (ext.extensionCategory === 'Medicinal Oils & Ointments') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/medicinal-oils-ointments`;
                       if (ext.extensionCategory === 'Quit Smoking') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/quit-smoking`;
                     }
                     if (sub.subCategory === 'Hair Care') {
                       if (ext.extensionCategory === 'Colouring') url = `https://www.coles.com.au/browse/health-beauty/hair-care/colouring`;
-                      if (ext.extensionCategory === 'Hair Accessories & Brushes')
-                        url = `https://www.coles.com.au/browse/health-beauty/hair-care/hair-brushes-combs-accessories`;
+                      if (ext.extensionCategory === 'Hair Accessories & Brushes') url = `https://www.coles.com.au/browse/health-beauty/hair-care/hair-brushes-combs-accessories`;
                       if (ext.extensionCategory === 'Mens Hair Care') url = `https://www.coles.com.au/browse/health-beauty/hair-care/mens-hair-care`;
-                      if (ext.extensionCategory === 'Shampoo & Conditioner')
-                        url = `https://www.coles.com.au/browse/health-beauty/hair-care/shampoo-conditioner`;
+                      if (ext.extensionCategory === 'Shampoo & Conditioner') url = `https://www.coles.com.au/browse/health-beauty/hair-care/shampoo-conditioner`;
                       if (ext.extensionCategory === 'Styling Products') url = `https://www.coles.com.au/browse/health-beauty/hair-care/gel-mousse-styling`;
                     }
                     if (sub.subCategory === 'Personal Care & Hygiene') {
-                      if (ext.extensionCategory === 'Contraception & Sexual Health')
-                        url = `https://www.coles.com.au/browse/health-beauty/personal-care/sexual-health`;
-                      if (ext.extensionCategory === 'Female Deodorants & Body Sprays')
-                        url = `https://www.coles.com.au/browse/health-beauty/personal-care/womens-deodorants`;
-                      if (ext.extensionCategory === 'Male Deodorants & Body Sprays')
-                        url = `https://www.coles.com.au/browse/health-beauty/personal-care/mens-deodorants`;
+                      if (ext.extensionCategory === 'Contraception & Sexual Health') url = `https://www.coles.com.au/browse/health-beauty/personal-care/sexual-health`;
+                      if (ext.extensionCategory === 'Female Deodorants & Body Sprays') url = `https://www.coles.com.au/browse/health-beauty/personal-care/womens-deodorants`;
+                      if (ext.extensionCategory === 'Male Deodorants & Body Sprays') url = `https://www.coles.com.au/browse/health-beauty/personal-care/mens-deodorants`;
                       if (ext.extensionCategory === 'Pregnancy Tests') url = `https://www.coles.com.au/browse/health-beauty/personal-care/pregnancy-tests`;
                     }
                     if (sub.subCategory === 'Shaving & Hair Removal') {
-                      if (ext.extensionCategory === 'After Shave Care')
-                        url = `https://www.coles.com.au/browse/health-beauty/shaving-hair-removal/after-shave-care`;
-                      if (ext.extensionCategory === 'Shave Gel & Foam')
-                        url = `https://www.coles.com.au/browse/health-beauty/shaving-hair-removal/shave-gel-foam`;
+                      if (ext.extensionCategory === 'After Shave Care') url = `https://www.coles.com.au/browse/health-beauty/shaving-hair-removal/after-shave-care`;
+                      if (ext.extensionCategory === 'Shave Gel & Foam') url = `https://www.coles.com.au/browse/health-beauty/shaving-hair-removal/shave-gel-foam`;
                     }
                     if (sub.subCategory === 'Skin Care') {
                       if (ext.extensionCategory === 'Body Moisturiser') url = `https://www.coles.com.au/browse/health-beauty/skin-care/body-moisturiser`;
@@ -402,12 +383,9 @@ const scraper = async () => {
                       if (ext.extensionCategory === 'Self-Tanning') url = `https://www.coles.com.au/browse/health-beauty/skin-care/self-tanning`;
                     }
                     if (sub.subCategory === 'Vitamins') {
-                      if (ext.extensionCategory === 'Brain & Heart Health')
-                        url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/brain-eye-and-heart-health`;
-                      if (ext.extensionCategory === 'Detox & Digestion')
-                        url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/detox-and-digestive-health`;
-                      if (ext.extensionCategory === 'Hair, Skin & Nails')
-                        url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/hair-skin-nails`;
+                      if (ext.extensionCategory === 'Brain & Heart Health') url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/brain-eye-and-heart-health`;
+                      if (ext.extensionCategory === 'Detox & Digestion') url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/detox-and-digestive-health`;
+                      if (ext.extensionCategory === 'Hair, Skin & Nails') url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/hair-skin-nails`;
                       if (ext.extensionCategory === 'Others') url = `https://www.coles.com.au/browse/health-beauty/vitamins-supplements/other-vitamins`;
                     }
                   }
@@ -416,20 +394,14 @@ const scraper = async () => {
                     if (sub.subCategory === 'Cleaning Goods') {
                       if (ext.extensionCategory === 'Bathroom Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/bathroom-cleaners`;
                       if (ext.extensionCategory === 'Disinfectant & Bleach') url = `https://www.coles.com.au/browse/household/cleaning-goods/bleach`;
-                      if (ext.extensionCategory === 'Drain Cleaners & Solvents')
-                        url = `https://www.coles.com.au/browse/household/cleaning-goods/drain-solvents`;
-                      if (ext.extensionCategory === 'Fabric, Metal & Furniture Care')
-                        url = `https://www.coles.com.au/browse/household/cleaning-goods/fabric-metal-furniture`;
-                      if (ext.extensionCategory === 'Floor/Carpet Cleaners')
-                        url = `https://www.coles.com.au/browse/household/cleaning-goods/floor-carpet-cleaners`;
+                      if (ext.extensionCategory === 'Drain Cleaners & Solvents') url = `https://www.coles.com.au/browse/household/cleaning-goods/drain-solvents`;
+                      if (ext.extensionCategory === 'Fabric, Metal & Furniture Care') url = `https://www.coles.com.au/browse/household/cleaning-goods/fabric-metal-furniture`;
+                      if (ext.extensionCategory === 'Floor/Carpet Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/floor-carpet-cleaners`;
                       if (ext.extensionCategory === 'Gloves') url = `https://www.coles.com.au/browse/household/cleaning-goods/cleaning-gloves`;
                       if (ext.extensionCategory === 'Kitchen Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/kitchen-cleaners`;
-                      if (ext.extensionCategory === 'Mops, Buckets & Brooms')
-                        url = `https://www.coles.com.au/browse/household/cleaning-goods/mops-buckets-brooms`;
-                      if (ext.extensionCategory === 'Multipurpose Cleaners')
-                        url = `https://www.coles.com.au/browse/household/cleaning-goods/multipurpose-cleaners`;
-                      if (ext.extensionCategory === 'Sponges, Cloths & Wipes')
-                        url = `https://www.coles.com.au/browse/household/cleaning-goods/sponges-cloths-wipes`;
+                      if (ext.extensionCategory === 'Mops, Buckets & Brooms') url = `https://www.coles.com.au/browse/household/cleaning-goods/mops-buckets-brooms`;
+                      if (ext.extensionCategory === 'Multipurpose Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/multipurpose-cleaners`;
+                      if (ext.extensionCategory === 'Sponges, Cloths & Wipes') url = `https://www.coles.com.au/browse/household/cleaning-goods/sponges-cloths-wipes`;
                       if (ext.extensionCategory === 'Window & Glass Cleaners') url = `https://www.coles.com.au/browse/household/cleaning-goods/windows-glass`;
                     }
                     if (sub.subCategory === 'Homewares') {
@@ -462,8 +434,7 @@ const scraper = async () => {
                   if (category === 'Pantry') {
                     if (sub.subCategory === 'Baking') {
                       if (ext.extensionCategory === 'Cooking Chocolate & Cocoa') url = `https://www.coles.com.au/browse/pantry/baking/cooking-chocolate-cocoa`;
-                      if (ext.extensionCategory === 'Flavouring, Essence & Food Colouring')
-                        url = `https://www.coles.com.au/browse/pantry/baking/essence-food-colouring`;
+                      if (ext.extensionCategory === 'Flavouring, Essence & Food Colouring') url = `https://www.coles.com.au/browse/pantry/baking/essence-food-colouring`;
                       if (ext.extensionCategory === 'Flour') url = `https://www.coles.com.au/browse/pantry/baking/flour`;
                       if (ext.extensionCategory === 'Icing & Cake Decorating') url = `https://www.coles.com.au/browse/pantry/baking/cake-decorating`;
                       if (ext.extensionCategory === 'Nuts, Seeds & Coconut') url = `https://www.coles.com.au/browse/pantry/baking/nuts-for-baking`;
@@ -479,16 +450,12 @@ const scraper = async () => {
                       if (ext.extensionCategory === 'Oats') url = `https://www.coles.com.au/browse/pantry/breakfast/breakfast-oats`;
                     }
                     if (sub.subCategory === 'Canned Food & Instant Meals') {
-                      if (ext.extensionCategory === 'Baked Beans & Spaghetti')
-                        url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/baked-beans-spaghetti`;
+                      if (ext.extensionCategory === 'Baked Beans & Spaghetti') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/baked-beans-spaghetti`;
                       if (ext.extensionCategory === 'Canned Fruit') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-fruit`;
                       if (ext.extensionCategory === 'Canned Meat') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-meat`;
-                      if (ext.extensionCategory === 'Canned Soup & Soup Ingredients')
-                        url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/soups`;
-                      if (ext.extensionCategory === 'Canned Vegetables')
-                        url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-vegetables`;
-                      if (ext.extensionCategory === 'Instant Meals & Sides')
-                        url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/instant-meals-sides`;
+                      if (ext.extensionCategory === 'Canned Soup & Soup Ingredients') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/soups`;
+                      if (ext.extensionCategory === 'Canned Vegetables') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-vegetables`;
+                      if (ext.extensionCategory === 'Instant Meals & Sides') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/instant-meals-sides`;
                     }
                     if (sub.subCategory === 'Condiments') {
                       if (ext.extensionCategory === 'Mustard') url = `https://www.coles.com.au/browse/pantry/sauces/mustards`;
@@ -496,18 +463,14 @@ const scraper = async () => {
                       if (ext.extensionCategory === 'Tomato & BBQ Sauce') url = `https://www.coles.com.au/browse/pantry/sauces/tomato-bbq`;
                     }
                     if (sub.subCategory === 'Desserts') {
-                      if (ext.extensionCategory === 'Custard, Cream & Yoghurt')
-                        url = `https://www.coles.com.au/browse/pantry/desserts/custard-cream-yoghurt-desserts`;
-                      if (ext.extensionCategory === 'Ice Cream Cones, Syrups & Toppings')
-                        url = `https://www.coles.com.au/browse/pantry/desserts/icecream-cones-syrups-toppings`;
+                      if (ext.extensionCategory === 'Custard, Cream & Yoghurt') url = `https://www.coles.com.au/browse/pantry/desserts/custard-cream-yoghurt-desserts`;
+                      if (ext.extensionCategory === 'Ice Cream Cones, Syrups & Toppings') url = `https://www.coles.com.au/browse/pantry/desserts/icecream-cones-syrups-toppings`;
                       if (ext.extensionCategory === 'Jelly') url = `https://www.coles.com.au/browse/pantry/desserts/jelly`;
                       if (ext.extensionCategory === 'Puddings') url = `https://www.coles.com.au/browse/pantry/desserts/puddings`;
-                      if (ext.extensionCategory === 'Ready to Freeze Ice Blocks')
-                        url = `https://www.coles.com.au/browse/pantry/desserts/ready-to-freeze-ice-blocks`;
+                      if (ext.extensionCategory === 'Ready to Freeze Ice Blocks') url = `https://www.coles.com.au/browse/pantry/desserts/ready-to-freeze-ice-blocks`;
                     }
                     if (sub.subCategory === 'Health Foods') {
-                      if (ext.extensionCategory === 'Health Breakfast Food & Spread')
-                        url = `https://www.coles.com.au/browse/pantry/health-foods/healthy-breakfasts`;
+                      if (ext.extensionCategory === 'Health Breakfast Food & Spread') url = `https://www.coles.com.au/browse/pantry/health-foods/healthy-breakfasts`;
                       if (ext.extensionCategory === 'Health Cooking & Pasta') url = `https://www.coles.com.au/browse/pantry/health-foods/healthy-cooking`;
                       if (ext.extensionCategory === 'Health Snacks & Drinks') url = `https://www.coles.com.au/browse/pantry/health-foods/healthy-snacks`;
                     }
@@ -536,8 +499,7 @@ const scraper = async () => {
                     if (sub.subCategory === 'Snacks & Confectionery') {
                       if (ext.extensionCategory === 'Biscuits & Cookies') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/biscuits-cookies`;
                       if (ext.extensionCategory === 'Corn Chips & Salsa') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/corn-chips-salsa`;
-                      if (ext.extensionCategory === 'Muesli Bars & Snack')
-                        url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/muesli-bars-fruit-snacks`;
+                      if (ext.extensionCategory === 'Muesli Bars & Snack') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/muesli-bars-fruit-snacks`;
                     }
                     if (sub.subCategory === 'Tea & Coffee') {
                       if (ext.extensionCategory === 'Black Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-black`;
@@ -574,6 +536,11 @@ const scraper = async () => {
                   try {
                     // page = (await browser.newPage()).removeAllListeners('request');
                     page = await browser.newPage();
+                    await page.setViewport({
+                      width: 316, // Width of the browser
+                      height: 743, // Height of the browser
+                      deviceScaleFactor: 1, // Pixel density (1 for standard screens)
+                    });
                     console.log('Page loaded successfully.');
                     const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
                     await page.setUserAgent(randomUserAgent);
