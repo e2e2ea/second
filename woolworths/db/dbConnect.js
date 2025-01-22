@@ -1,19 +1,13 @@
 import mongoose from 'mongoose';
 
 const dbConnect = async () => {
-  const getDate = new Date();
-  const month = getDate.getMonth() + 1;
-  const day = getDate.getDate();
-  const year = getDate.getFullYear();
-
-  const formattedDate = `${month}-${day}-${year}`;
   try {
-    // const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_${formattedDate}`);
-    const conn = await mongoose.connect(`mongodb://127.0.0.1/wooly_1-22-2025`);
+    const conn = await mongoose.connect(process.env.MONGO_WOOLY_URI);
     console.log('database connected');
     return conn;
   } catch (error) {
     console.log('database error');
+    return null;
   }
 };
 

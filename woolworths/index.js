@@ -170,7 +170,7 @@ function delay(time) {
   const browser2 = await puppeteer.launch({
     headless: false,
     executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-    userDataDir: "C:\\Users\\OBI - Reymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1",
+    userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1",
   });
 
   for (let i = 0; i < mylocation.length; i++) {

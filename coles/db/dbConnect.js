@@ -1,19 +1,15 @@
 import mongoose from 'mongoose';
+import dotenv from 'dotenv';
 
+dotenv.config();
 const dbConnect = async () => {
-  const getDate = new Date();
-  const month = getDate.getMonth() + 1;
-  const day = getDate.getDate();
-  const year = getDate.getFullYear();
-
-  const formattedDate = `${month}-${day}-${year}`;
   try {
-    // const conn = await mongoose.connect(`mongodb://127.0.0.1/coles_${formattedDate}`);
-    const conn = await mongoose.connect(`mongodb://127.0.0.1/coles_1-1-2025`);
+    const conn = await mongoose.connect(process.env.MONGO_COLES_URI);
     console.log('database connected');
     return conn;
   } catch (error) {
     console.log('database error');
+    return null
   }
 };
 

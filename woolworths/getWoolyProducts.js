@@ -166,14 +166,7 @@ const getData = async () => {
         });
         // console.log('Filtered product format:', productsData[0])
         if (productsData && productsData.length > 0) {
-          const getDate = new Date();
-          const month = getDate.getMonth() + 1;
-          const day = getDate.getDate();
-          const year = getDate.getFullYear();
-
-          const formattedDate = `${month}-${day}-${year}`;
-          // const baseFolder = `./woolworths/data/${formattedDate}`;
-          const baseFolder = `./woolworths/data/1-22-2025`;
+          const baseFolder = `./woolworths/data/${process.env.FOLDER_DATE}`;
           const folderPath = path.join(baseFolder, mycat);
 
           if (!fs.existsSync(folderPath)) {
