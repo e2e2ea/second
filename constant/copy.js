@@ -63,7 +63,7 @@ const categories = [
             {
                 subCategory: "Kitchen",
                 childItems: [
-                    { extensionCategory: "​​Cling Wrap, Foil & Baking Paper:" }, // done
+                    { extensionCategory: "​​Cling Wrap, Foil & Baking Paper" }, // done
                     { extensionCategory: "Dishwashing" }, // done
                     { extensionCategory: "Garbage Bags" }, // done
                     { extensionCategory: "Gloves" }, // done
@@ -108,6 +108,7 @@ const categories = [
             {
                 subCategory: "Baby Accessories",
                 childItems: [
+                    { extensionCategory: "Baby Bibs" },
                     { extensionCategory: "Baby Health & Safety" },
                     { extensionCategory: "Baby Toys & Playtime" },
                     { extensionCategory: "Bath & Skincare" },
