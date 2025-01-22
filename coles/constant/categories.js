@@ -472,40 +472,40 @@ const categories = [
     {
       category: 'Pantry',
       subCategories: [
-        // {
-        //     subCategory: "Baking",
-        //     childItems: [
-        //         { extensionCategory: "Cooking Chocolate & Cocoa" },
-        //         { extensionCategory: "Flavouring, Essence & Food Colouring" },
-        //         { extensionCategory: "Flour" },
-        //         { extensionCategory: "Icing & Cake Decorating" },
-        //         { extensionCategory: "Nuts, Seeds & Coconut" },
-        //         { extensionCategory: "Sugar & Sweeteners" },
-        //         { extensionCategory: "Yeast & Baking Ingredients" },
-        //     ]
-        // },
-        // {
-        //     subCategory: "Breakfast & Spreads",
-        //     childItems: [
-        //         { extensionCategory: "Breakfast Cereal" },
-        //         { extensionCategory: "Honey" },
-        //         { extensionCategory: "Jam" },
-        //         { extensionCategory: "Savoury Spread" },
-        //         { extensionCategory: "Muesli" },
-        //         { extensionCategory: "Oats" },
-        //     ]
-        // },
-        // {
-        //     subCategory: "Canned Food & Instant Meals",
-        //     childItems: [
-        //         { extensionCategory: "Baked Beans & Spaghetti" },
-        //         { extensionCategory: "Canned Fruit" },
-        //         { extensionCategory: "Canned Meat" },
-        //         { extensionCategory: "Canned Soup & Soup Ingredients" },
-        //         { extensionCategory: "Canned Vegetables" },
-        //         { extensionCategory: "Instant Meals & Sides" },
-        //     ]
-        // },
+        {
+            subCategory: "Baking",
+            childItems: [
+                { extensionCategory: "Cooking Chocolate & Cocoa" },
+                { extensionCategory: "Flavouring, Essence & Food Colouring" },
+                { extensionCategory: "Flour" },
+                { extensionCategory: "Icing & Cake Decorating" },
+                { extensionCategory: "Nuts, Seeds & Coconut" },
+                { extensionCategory: "Sugar & Sweeteners" },
+                { extensionCategory: "Yeast & Baking Ingredients" },
+            ]
+        },
+        {
+            subCategory: "Breakfast & Spreads",
+            childItems: [
+                { extensionCategory: "Breakfast Cereal" },
+                { extensionCategory: "Honey" },
+                { extensionCategory: "Jam" },
+                { extensionCategory: "Savoury Spread" },
+                { extensionCategory: "Muesli" },
+                { extensionCategory: "Oats" },
+            ]
+        },
+        {
+            subCategory: "Canned Food & Instant Meals",
+            childItems: [
+                { extensionCategory: "Baked Beans & Spaghetti" },
+                { extensionCategory: "Canned Fruit" },
+                { extensionCategory: "Canned Meat" },
+                { extensionCategory: "Canned Soup & Soup Ingredients" },
+                { extensionCategory: "Canned Vegetables" },
+                { extensionCategory: "Instant Meals & Sides" },
+            ]
+        },
         {
             subCategory: "Condiments",
             childItems: [
@@ -521,17 +521,17 @@ const categories = [
                 { extensionCategory: "Ice Cream Cones, Syrups & Toppings" },
                 { extensionCategory: "Jelly" },
                 { extensionCategory: "Puddings" },
-                { extensionCategory: "Ready to Freeze Ice Blocks" },
+                // { extensionCategory: "Ready to Freeze Ice Blocks" },
             ]
         },
-        {
-            subCategory: "Health Foods",
-            childItems: [
-                { extensionCategory: "Health Breakfast Food & Spread" },
-                { extensionCategory: "Health Cooking & Pasta" },
-                { extensionCategory: "Health Snacks & Drinks" },
-            ]
-        },
+        // {
+        //     subCategory: "Health Foods",
+        //     childItems: [
+        //         { extensionCategory: "Health Breakfast Food & Spread" },
+        //         { extensionCategory: "Health Cooking & Pasta" },
+        //         { extensionCategory: "Health Snacks & Drinks" },
+        //     ]
+        // },
         // {
         //     subCategory: "Herbs & Spices",
         //     childItems: [

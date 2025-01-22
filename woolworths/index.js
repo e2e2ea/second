@@ -1,109 +1,109 @@
-import puppeteer from 'puppeteer-extra';
-import StealthPlugin from 'puppeteer-extra-plugin-stealth';
-import RateLimiter from '../RateLimit/index.js';
-import fs from 'fs';
-import safeNavigate from './controllers/helpers/safeNavigate.js';
-import handleSteps from './controllers/helpers/steps.js';
-import mongoose from 'mongoose';
-import Product from './models/products.js';
-import dbConnect from './db/dbConnect.js';
+import puppeteer from "puppeteer-extra";
+import StealthPlugin from "puppeteer-extra-plugin-stealth";
+import RateLimiter from "../RateLimit/index.js";
+import fs from "fs";
+import safeNavigate from "./controllers/helpers/safeNavigate.js";
+import handleSteps from "./controllers/helpers/steps.js";
+import mongoose from "mongoose";
+import Product from "./models/products.js";
+import dbConnect from "./db/dbConnect.js";
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
 const userAgents = [
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0',
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.1.2 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43',
-  'Mozilla/5.0 (Linux; Android 11; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36',
-  'Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1',
-  'Mozilla/5.0 (Android 11; Mobile; rv:109.0) Gecko/20100101 Firefox/109.0',
-  'Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 OPR/68.0.2254.63568',
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0',
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.1.2 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43',
-  'Mozilla/5.0 (Linux; Android 11; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36',
-  'Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1',
-  'Mozilla/5.0 (Android 11; Mobile; rv:109.0) Gecko/20100101 Firefox/109.0',
-  'Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 OPR/68.0.2254.63568',
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Android 11; Mobile; rv:109.0) Gecko/20100101 Firefox/109.0',
-  'Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 OPR/68.0.2254.63568',
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36',
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.1.2 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43",
+  "Mozilla/5.0 (Linux; Android 11; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+  "Mozilla/5.0 (Android 11; Mobile; rv:109.0) Gecko/20100101 Firefox/109.0",
+  "Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 OPR/68.0.2254.63568",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.1.2 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43",
+  "Mozilla/5.0 (Linux; Android 11; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+  "Mozilla/5.0 (Android 11; Mobile; rv:109.0) Gecko/20100101 Firefox/109.0",
+  "Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 OPR/68.0.2254.63568",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Android 11; Mobile; rv:109.0) Gecko/20100101 Firefox/109.0",
+  "Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 OPR/68.0.2254.63568",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 ];
 
-const mylocation = ['nsw', 'vic', 'qld', 'wa', 'sa', 'tas', 'act', 'nt'];
+const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
 // const mylocation = ['qld', 'wa', 'sa', 'tas', 'act', 'nt'];
 
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
   if (priceInCents) {
-    if (location === 'nsw') {
+    if (location === "nsw") {
       prices.push({
-        state: 'nsw'.toUpperCase(),
+        state: "nsw".toUpperCase(),
         price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
         price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
-        price_unit: unit ? unit : '',
+        price_unit: unit ? unit : "",
       });
     }
-    if (location === 'vic') {
+    if (location === "vic") {
       prices.push({
-        state: 'vic'.toUpperCase(),
+        state: "vic".toUpperCase(),
         price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
         price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
-        price_unit: unit ? unit : '',
+        price_unit: unit ? unit : "",
       });
     }
-    if (location === 'qld') {
+    if (location === "qld") {
       prices.push({
-        state: 'qld'.toUpperCase(),
+        state: "qld".toUpperCase(),
         price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
         price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
-        price_unit: unit ? unit : '',
+        price_unit: unit ? unit : "",
       });
     }
-    if (location === 'wa') {
+    if (location === "wa") {
       prices.push({
-        state: 'wa'.toUpperCase(),
+        state: "wa".toUpperCase(),
         price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
         price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
-        price_unit: unit ? unit : '',
+        price_unit: unit ? unit : "",
       });
     }
-    if (location === 'sa') {
+    if (location === "sa") {
       prices.push({
-        state: 'sa'.toUpperCase(),
+        state: "sa".toUpperCase(),
         price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
         price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
-        price_unit: unit ? unit : '',
+        price_unit: unit ? unit : "",
       });
     }
-    if (location === 'tas') {
+    if (location === "tas") {
       prices.push({
-        state: 'tas'.toUpperCase(),
+        state: "tas".toUpperCase(),
         price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
         price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
-        price_unit: unit ? unit : '',
+        price_unit: unit ? unit : "",
       });
     }
-    if (location === 'act') {
+    if (location === "act") {
       prices.push({
-        state: 'act'.toUpperCase(),
+        state: "act".toUpperCase(),
         price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
         price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
-        price_unit: unit ? unit : '',
+        price_unit: unit ? unit : "",
       });
     }
-    if (location === 'nt') {
+    if (location === "nt") {
       prices.push({
-        state: 'nt'.toUpperCase(),
+        state: "nt".toUpperCase(),
         price: priceInCents ? parseFloat(Number(priceInCents).toFixed(2)) : null,
         price_per_unit: priceInCentsPerUnits ? parseFloat(Number(priceInCentsPerUnits).toFixed(2)) : null,
-        price_unit: unit ? unit : '',
+        price_unit: unit ? unit : "",
       });
     }
   }
@@ -113,7 +113,7 @@ const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
 
 let pageReset = 0;
 let booool = false;
-const WOOLWORTHS_API_ENDPOINT = 'https://www.woolworths.com.au/apis/ui/browse/category';
+const WOOLWORTHS_API_ENDPOINT = "https://www.woolworths.com.au/apis/ui/browse/category";
 const CATEGORIES = [
   // Home & Lifestyle
   // { id: '1_792C364', name: 'Party Supplies', url: '/shop/browse/home-lifestyle/party-supplies', location: '/shop/browse/home-lifestyle/party-supplies' },
@@ -141,34 +141,23 @@ const CATEGORIES = [
   // { id: '1_0B44952', name: 'Long Life Milk', url: '/shop/browse/pantry/long-life-milk', location: '/shop/browse/pantry/long-life-milk' },
 
   // Cleaning and maintenance
-  // {
-  //   id: '1_6174AF3',
-  //   name: 'Cleaning Goods',
-  //   url: '/shop/browse/cleaning-maintenance/cleaning-goods',
-  //   location: '/shop/browse/cleaning-maintenance/cleaning-goods',
-  // },
-  // {
-  //   id: '1_F364D22',
-  //   name: 'Garden & Outdoors',
-  //   url: '/shop/browse/cleaning-maintenance/garden-outdoors',
-  //   location: '/shop/browse/cleaning-maintenance/garden-outdoors', // 6.5k+
-  // },
+  // { id: "1_6174AF3", name: "Cleaning Goods", url: "/shop/browse/cleaning-maintenance/cleaning-goods", location: "/shop/browse/cleaning-maintenance/cleaning-goods" },
+  // { id: "1_F364D22", name: "Garden & Outdoors", url: "/shop/browse/cleaning-maintenance/garden-outdoors", location: "/shop/browse/cleaning-maintenance/garden-outdoors" },
   // { id: '1_A2E3843', name: 'Kitchen', url: '/shop/browse/cleaning-maintenance/kitchen', location: '/shop/browse/cleaning-maintenance/kitchen' },
   // { id: '1_2F587AA', name: 'Laundry', url: '/shop/browse/cleaning-maintenance/laundry', location: '/shop/browse/cleaning-maintenance/laundry' },
   // { id: '1_AF39A7A', name: 'Pest Control', url: '/shop/browse/cleaning-maintenance/pest-control', location: '/shop/browse/cleaning-maintenance/pest-control' },
-  // { id: '1_8AF7215', name: 'Hardware', url: '/shop/browse/cleaning-maintenance/hardware', location: '/shop/browse/cleaning-maintenance/hardware' },
-
-  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' }, // 6.5k+
-  // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' }, // pet exceed 10,000 + should be separated by subcategory //vic
-  { id: '1_ACA2FC2', name: 'Freezer', url: '/shop/browse/freezer', location: '/shop/browse/freezer' },
-  { id: '1-E5BEE36E', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
-  { id: '1_D5A2236', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
-  { id: '1_DEB537E', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
-  { id: '1_5AF3A0A', name: 'Drinks', url: '/shop/browse/drinks', location: '/shop/browse/drinks' },
-  { id: '1_3151F6F', name: 'Deli & Chilled Meals', url: '/shop/browse/deli-chilled-meals', location: '/shop/browse/deli-chilled-meals' },
-  { id: '1_6E4F4E4', name: 'Dairy, Eggs & Fridge', url: '/shop/browse/dairy-eggs-fridge', location: '/shop/browse/dairy-eggs-fridge' },
+  
+  { id: '1_8AF7215', name: 'Hardware', url: '/shop/browse/cleaning-maintenance/hardware', location: '/shop/browse/cleaning-maintenance/hardware' },
+  { id: "1_61D6FEB", name: "Pet", url: "/shop/browse/pet", location: "/shop/browse/pet" }, // pet exceed 10,000 + should be separated by subcategory
+  { id: "1_ACA2FC2", name: "Freezer", url: "/shop/browse/freezer", location: "/shop/browse/freezer" },
+  { id: "1-E5BEE36E", name: "Fruit & Veg", url: "/shop/browse/fruit-veg", location: "/shop/browse/fruit-veg" },
+  { id: "1_D5A2236", name: "Poultry, Meat & Seafood", url: "/shop/browse/poultry-meat-seafood", location: "/shop/browse/poultry-meat-seafood" },
+  { id: "1_DEB537E", name: "Bakery", url: "/shop/browse/bakery", location: "/shop/browse/bakery" },
+  { id: "1_5AF3A0A", name: "Drinks", url: "/shop/browse/drinks", location: "/shop/browse/drinks" },
+  { id: "1_3151F6F", name: "Deli & Chilled Meals", url: "/shop/browse/deli-chilled-meals", location: "/shop/browse/deli-chilled-meals" },
+  { id: "1_6E4F4E4", name: "Dairy, Eggs & Fridge", url: "/shop/browse/dairy-eggs-fridge", location: "/shop/browse/dairy-eggs-fridge" },
 ];
-const WOOLWORTHS_URL = 'https://www.woolworths.com.au';
+const WOOLWORTHS_URL = "https://www.woolworths.com.au";
 const SPEED_LIMIT = 20;
 
 function delay(time) {
@@ -176,24 +165,24 @@ function delay(time) {
 }
 (async () => {
   await dbConnect();
-  const name = 'Woolworths';
+  const name = "Woolworths";
   const rateLimit = new RateLimiter(SPEED_LIMIT, 5);
   const browser2 = await puppeteer.launch({
     headless: false,
-    executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-    userDataDir: 'C:\\Users\\OBI - Reymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1',
+    executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    userDataDir: "C:\\Users\\OBI - Reymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1",
   });
 
   for (let i = 0; i < mylocation.length; i++) {
-    const page = (await browser2.newPage()).removeAllListeners('request');
+    const page = (await browser2.newPage()).removeAllListeners("request");
     // const page = await browser2.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43');
+    await page.setUserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43");
     await page.setExtraHTTPHeaders({
-      Referer: 'https://www.woolworths.com.au/',
+      Referer: "https://www.woolworths.com.au/",
     });
-    const loadedCookies = JSON.parse(fs.readFileSync('./woolworths/cookies.json', 'utf-8'));
+    const loadedCookies = JSON.parse(fs.readFileSync("./woolworths/cookies.json", "utf-8"));
     await page.setCookie(...loadedCookies);
-    await safeNavigate(page, 'https://www.woolworths.com.au');
+    await safeNavigate(page, "https://www.woolworths.com.au");
     // await delay(60000)
     // await delay(60000)
     // await delay(60000)
@@ -206,7 +195,7 @@ function delay(time) {
     // await delay(60000)
     // await delay(60000)
     if (!booool) {
-      console.log('1');
+      console.log("1");
       booool = true;
     } else {
       await delay(5000);
@@ -215,9 +204,9 @@ function delay(time) {
         await page.reload();
       }
       await delay(20000);
-      console.log('2');
+      console.log("2");
     }
-    await handleSteps(page, mylocation[i], 'https://www.woolworths.com.au');
+    await handleSteps(page, mylocation[i], "https://www.woolworths.com.au");
     // const cookies = await page.cookies();
     // console.log('Extracted Cookies:', cookies);
 
@@ -228,22 +217,22 @@ function delay(time) {
     await Promise.allSettled(
       CATEGORIES.map(async (category, index) => {
         let page2;
-        page2 = (await browser2.newPage()).removeAllListeners('request');
+        page2 = (await browser2.newPage()).removeAllListeners("request");
         const randomUserAgent = userAgents[index];
         await page2.setUserAgent(randomUserAgent);
         await page2.setExtraHTTPHeaders({
-          Referer: 'https://www.woolworths.com.au/',
+          Referer: "https://www.woolworths.com.au/",
         });
-        await safeNavigate(page2, 'https://www.woolworths.com.au');
+        await safeNavigate(page2, "https://www.woolworths.com.au");
         await delay(20000);
 
         // const content = await page2.evaluate(() => document.body.innerText);
 
         const htmlOnly = async (page) => {
-          await page.removeAllListeners('request');
+          await page.removeAllListeners("request");
           await page.setRequestInterception(true);
-          page.on('request', (req) => {
-            if (!['document', 'xhr', 'fetch'].includes(req.resourceType())) {
+          page.on("request", (req) => {
+            if (!["document", "xhr", "fetch"].includes(req.resourceType())) {
               return req.abort();
             }
             req.continue();
@@ -254,7 +243,7 @@ function delay(time) {
         try {
           await safeNavigate(page2, WOOLWORTHS_URL);
         } catch (err) {
-          console.log('Failed to load page: ', err);
+          console.log("Failed to load page: ", err);
           await browser2.close();
           return [];
         }
@@ -262,28 +251,28 @@ function delay(time) {
         await page2.setBypassCSP(true);
 
         const products = await scrapeCategory(page2, category, mylocation[i], page, browser2);
-        console.log('category:', category, 'Number of products:', products.length);
+        console.log("category:", category, "Number of products:", products.length);
         await page2.close();
       })
     );
-    console.log('all done in location:', mylocation[i]);
+    console.log("all done in location:", mylocation[i]);
     // await browser2.close();
     await delay(3000);
-    console.log('1');
+    console.log("1");
     await delay(3000);
-    console.log('2');
+    console.log("2");
   }
-  console.log('all is done');
+  console.log("all is done");
 })();
 
 const scrapeCategory = async (page, category, myloc, p, browser) => {
-  console.log('Scraping category: ', category.name);
+  console.log("Scraping category: ", category.name);
 
   const body = {
     categoryId: category.id,
     pageNumber: 1,
     pageSize: 36,
-    sortType: 'Name',
+    sortType: "Name",
     url: category.url,
     location: category.location,
     formatObject: `{\"name\":\"${category.name}\"}`,
@@ -291,14 +280,14 @@ const scrapeCategory = async (page, category, myloc, p, browser) => {
     isBundle: false,
     isMobile: false,
     filters: [],
-    token: '',
+    token: "",
     gpBoost: 0,
     isHideUnavailableProducts: true,
     isRegisteredRewardCardPromotion: false,
     enableAdReRanking: false,
     // sortType: 'TraderRelevance',
     groupEdmVariants: true,
-    categoryVersion: 'v2',
+    categoryVersion: "v2",
   };
 
   const res = await callFetch(page, body);
@@ -306,17 +295,17 @@ const scrapeCategory = async (page, category, myloc, p, browser) => {
 
   const numProducts = res.TotalRecordCount || 0;
   const numPages = Math.ceil(numProducts / 36);
-  console.log('Products: ', numProducts, 'Pages: ', numPages);
-  console.log('Pages: ', numPages);
+  console.log("Products: ", numProducts, "Pages: ", numPages);
+  console.log("Pages: ", numPages);
 
   const productRes = [];
 
   for (let i = 1; i <= numPages; i++) {
-    console.log('pageResetvalue', pageReset);
+    console.log("pageResetvalue", pageReset);
     if (pageReset > 150) {
-      const loadedCookies = JSON.parse(fs.readFileSync('./woolworths/cookies.json', 'utf-8'));
+      const loadedCookies = JSON.parse(fs.readFileSync("./woolworths/cookies.json", "utf-8"));
       await page.setCookie(...loadedCookies);
-      await safeNavigate(page, 'https://www.woolworths.com.au');
+      await safeNavigate(page, "https://www.woolworths.com.au");
       // await page.goto('https://www.woolworths.com.au', { waitUntil: 'domcontentloaded' });
       // await delay(20000)
       for (let i = 1; i > 5; i++) {
@@ -328,14 +317,14 @@ const scrapeCategory = async (page, category, myloc, p, browser) => {
         await delay(2500);
         await page.reload();
       }
-      console.log('creating new page');
+      console.log("creating new page");
       await delay(5000);
-      page.removeAllListeners('request');
+      page.removeAllListeners("request");
       const content = await page.evaluate(() => document.body.innerText);
       const htmlOnly = async (page) => {
         await page.setRequestInterception(true);
-        page.on('request', (req) => {
-          if (!['document', 'xhr', 'fetch'].includes(req.resourceType())) {
+        page.on("request", (req) => {
+          if (!["document", "xhr", "fetch"].includes(req.resourceType())) {
             return req.abort();
           }
           req.continue();
@@ -346,7 +335,7 @@ const scrapeCategory = async (page, category, myloc, p, browser) => {
       try {
         await safeNavigate(page, WOOLWORTHS_URL);
       } catch (err) {
-        console.log('Failed to load page: ', err);
+        console.log("Failed to load page: ", err);
         // await browser2.close();
         // return [];
       }
@@ -359,9 +348,9 @@ const scrapeCategory = async (page, category, myloc, p, browser) => {
     body.location = `${category.location}?pageNumber=${i}`;
     body.url = `${category.url}?pageNumber=${i}`;
     const products = await scrapeURL(page, body, myloc);
-    console.log('Number of products:', products.length, 'on page:', i);
+    console.log("Number of products:", products.length, "on page:", i);
     if (products && products.length === 0) {
-      console.log('No more products:');
+      console.log("No more products:");
       break;
     }
     productRes.push(...products);
@@ -375,7 +364,7 @@ const scrapeURL = async (page, request, myloc) => {
   const res = await callFetch(page, request);
 
   if (!res.Bundles) {
-    console.log('Failed to scrape category: ', request.categoryId, res);
+    console.log("Failed to scrape category: ", request.categoryId, res);
     return [];
   }
 
@@ -383,7 +372,7 @@ const scrapeURL = async (page, request, myloc) => {
     const product = bundle.Products[0];
 
     const location = myloc;
-    const inputString = product.CupMeasure || '';
+    const inputString = product.CupMeasure || "";
 
     // Extract values
     const price = parseFloat(product.InstorePrice || product.Price);
@@ -392,12 +381,12 @@ const scrapeURL = async (page, request, myloc) => {
     const priceInCents = parseFloat(price) * 100;
     const priceInCentsPerUnits = parseFloat(price2) * 100;
     // Remove numbers and keep only letters
-    const unit = inputString.replace(/[0-9]/g, '');
+    const unit = inputString.replace(/[0-9]/g, "");
     return {
       name: product.DisplayName,
       discounted_from: product.WasPrice,
       image_url: product.DetailsImagePaths[0],
-      shop: 'Woolworths',
+      shop: "Woolworths",
       source_url: `https://www.woolworths.com.au/shop/productdetails/${product.Stockcode}/${product.UrlFriendlyName}`,
       retailer_product_id: product.Stockcode,
       barcode: product.Barcode,
@@ -409,7 +398,6 @@ const scrapeURL = async (page, request, myloc) => {
       subCategory: product.AdditionalAttributes.piescategorynamesjson,
       extensionCategory: product.AdditionalAttributes.piessubcategorynamesjson,
       prices: getPrices(location, priceInCents, priceInCentsPerUnits, unit),
-      
     };
   });
   if (products.length > 0) {
@@ -455,9 +443,9 @@ const callFetch = async (page, request) => {
       const a = await page.evaluate(
         async (request, url) => {
           return await fetch(url, {
-            method: 'POST',
+            method: "POST",
             headers: {
-              'Content-Type': 'application/json',
+              "Content-Type": "application/json",
             },
             body: JSON.stringify(request),
           })
@@ -468,8 +456,8 @@ const callFetch = async (page, request) => {
         WOOLWORTHS_API_ENDPOINT
       );
       if (a.error || !a || a === undefined) {
-        console.error('Error in fetch:', a.error);
-        throw new Error('');
+        console.error("Error in fetch:", a.error);
+        throw new Error("");
       }
       return a;
     } catch (err) {
