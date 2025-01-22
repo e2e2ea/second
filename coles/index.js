@@ -31,15 +31,12 @@ const captcha = async (page, url) => {
   let toRefresh = 2;
   try {
     while (doloop) {
-      if (toRefresh > i) {
-        await safeNavigate(page, url);
-      }
+      await safeNavigate(page, url);
       const captchaDetected = await page.evaluate(() => {
         return !!document.querySelector('iframe[src*="_Incapsula_Resource"]');
       });
       console.log('CAPTCHA or Incapsula protection detected, doing loop...', i);
 
-      // Add a delay to wait for manual resolution or retry logic
       if (!captchaDetected) {
         console.log('No CAPTCHA detected.');
         break;
@@ -80,18 +77,15 @@ const scraper = async () => {
       // fs.writeFileSync('./coles/colesCookies.json', JSON.stringify(cookies, null, 2));
       await Promise.allSettled(
         categories.map(async (categ, index) => {
-          // for (const categ of categories) {
           let category;
           category = categ.category;
           await Promise.allSettled(
             categ.subCategories.map(async (sub, index) => {
-              // for (const sub of categ.subCategories) {
               let subCategory;
               subCategory = sub.subCategory;
               if (subCategory === 'Nappies Wipes') subCategory = 'Nappies & Nappy Pants';
               await Promise.allSettled(
                 sub.childItems.map(async (ext, index) => {
-                  // for (const ext of sub.childItems) {
                   let extensionCategory;
                   extensionCategory = ext.extensionCategory;
 
@@ -110,10 +104,6 @@ const scraper = async () => {
                     .replace(/[^\w\s-]/g, '') // Remove special characters
                     .replace(/\s+/g, '-')
                     .replace(/-+/g, '-');
-
-                  // bakery category logic
-                  // if (subCategory === 'In-Store Bakery') extensionCategory = ''
-                  // if (subCategory === 'Packaged Bread & Bakery') extensionCategory = ''
 
                   let url;
                   if (extensionCategory) {
