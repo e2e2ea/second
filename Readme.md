@@ -49,7 +49,7 @@ Follow these steps to set up and run the scraper:
   MONGO_WOOLY_URI="mongodb://127.0.0.1/wooly_1-22-2025" // replace with the actual date
   ```
 
-### 4. Start Scraping Woolworths website
+### 5. Start Scraping Woolworths website
 
 - Before running the scraper for Woolworths, ensure to run only 9 objects inside of array by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `woolworts/index.js`.
 
@@ -112,9 +112,8 @@ const CATEGORIES = [
   node woolworths/getWoolyProducts.js
   ```
 
----
 
-### 4. Start Scraping Coles website
+### 5. Start Scraping Coles website
 
 - Before running the scraper for Coles, ensure to run only 23 Child Items by commenting out other lines of code in the `CATEGORIES` array. Which located inside of `coles/constant/categories.js`.
 
@@ -242,22 +241,39 @@ const CATEGORIES = [
 ```
 
 - Run the following command to start scraping:
-  ```bash
-  node coles/index
-  ```
+```bash
+node coles/index
+```
 
 - Once completed in coles, retrieve all the barcode for each product scraped in coles by running:
-  ```bash
-  node coles/ColesfetchBarcode.js
-  ```
+```bash
+node coles/ColesfetchBarcode.js
+```
 
 - Once completed in coles, retrieve all the data in coles by running:
+```bash
+node coles/getProducts.js
+```
+
+
+### 6. Test The Products if there is an error before passing through the API.
+
+- Test the products by running the following:
+  - For Coles:
+```bash
+node testColes
+```
+  - For Woolworths
+```bash
+node testWooly
+```
+
+### 7. Send the matched Products through the API.
   ```bash
-  node coles/getProducts.js
+  node compareProductsFinal
   ```
 
 ---
-
 ## Notes
 
 - Ensure the target website allows scraping and complies with its terms of service.
