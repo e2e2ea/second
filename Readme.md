@@ -283,4 +283,5 @@ node testWooly
 
 ## License
 
-This project is open-source and available for personal or educational use.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
