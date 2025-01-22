@@ -90,7 +90,7 @@ const getData = async () => {
     .catch((err) => {
       console.error('Error writing CSV file:', err);
     });
-};
+}; 
 
 (async () => {
   await getData();
