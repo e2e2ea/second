@@ -30,6 +30,7 @@ const categoriesId = [
   // { id: '1_61D6FEB', name: 'Pet', url: '/shop/browse/pet', location: '/shop/browse/pet' },
   // { id: '1_DEA3ED5', name: 'Home & Lifestyle', url: '/shop/browse/home-lifestyle', location: '/shop/browse/home-lifestyle' }, // but no products in the list of categ
 
+  { id: '22770', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
   { id: '22060', name: 'Bakery', url: '/shop/browse/bakery', location: '/shop/browse/bakery' },
   { id: '22351', name: 'Fruit & Veg', url: '/shop/browse/fruit-veg', location: '/shop/browse/fruit-veg' },
   { id: '22713', name: 'Poultry, Meat & Seafood', url: '/shop/browse/poultry-meat-seafood', location: '/shop/browse/poultry-meat-seafood' },
@@ -90,11 +91,12 @@ const getData = async () => {
           //   if (category === 'Household' && subCategory === 'Parties & Entertaining') mySubCategory = 'Party Supplies'
           if (category === 'Cleaning & Maintenance' && subCategory === 'Bathroom') mySubCategory = 'Toilet Paper, Tissues & Paper Towels';
 
+          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Teething & Soothers') mySubCategory = 'Bottles & Baby Feeding';
           if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Health & Safety') mySubCategory = 'Health & Safety';
           if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Toys & Playtime') mySubCategory = 'Toys & Playtime';
           if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bath & Skincare') mySubCategory = 'Bath & Skincare';
-          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bottles and Baby Feeding')
-            mySubCategory = 'Bottles & Baby Feeding';
+          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bottles and Baby Feeding') mySubCategory = 'Bottles & Baby Feeding';
+            
           // Next, filter by subCategory only for matching categories
           // console.log('mySubCategory', mySubCategory)
           const hasSubCategory = parsedFields.productSubCategories.some((sub) => sub.toLowerCase() === mySubCategory.toLowerCase());
@@ -102,7 +104,7 @@ const getData = async () => {
           if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Health & Safety') return hasSubCategory;
           if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Baby Toys & Playtime') return hasSubCategory;
           if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bath & Skincare') return hasSubCategory;
-          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bottles & Baby Feeding') return hasSubCategory;
+          if (category === 'Baby' && subCategory === 'Baby Accessories' && extensionCategory === 'Bottles and Baby Feeding') return hasSubCategory;
           // If no matching subCategory, skip this product
           if (!hasSubCategory) return false;
 
@@ -129,6 +131,7 @@ const getData = async () => {
 
         let mycat = category;
         mycat = category;
+        if (category === 'Snacks & Confectionery') mycat = 'Pantry';
         if (category === 'Deli & Chilled Meals') mycat = 'Deli & Chilled Meats';
         if (category === 'Health & Wellness') mycat = 'Health & Beauty';
         if (category === 'Beauty & Personal Care') mycat = 'Health & Beauty';

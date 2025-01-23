@@ -142,6 +142,11 @@ const scraper = async () => {
                   }
                   // category Dairy, Eggs & Fridge
                   if (category === 'Dairy, Eggs & Fridge') {
+                    if (sub.subCategory === 'Cheese') {
+                      if (ext.extensionCategory === `Fetta & Goat's Cheese`) url = `https://www.coles.com.au/browse/dairy-eggs-fridge/cheese/feta-cheese`;
+                      if (ext.extensionCategory === `Snacking Cheese`) url = `https://www.coles.com.au/browse/dairy-eggs-fridge/cheese/cheese-snacks`;
+                      if (ext.extensionCategory === `Soft Cheese`) url = `https://www.coles.com.au/browse/dairy-eggs-fridge/cheese/brie-soft-cheese`;
+                    }
                     if (sub.subCategory === 'Cream, Custard & Desserts') {
                       if (ext.extensionCategory === 'Cream') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/cream-custard/cream`;
                       if (ext.extensionCategory === 'Custard') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/cream-custard/custards`;
@@ -156,8 +161,21 @@ const scraper = async () => {
                       if (ext.extensionCategory === 'Eggs') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/eggs`;
                     }
                     if (sub.subCategory === 'Milk') {
+                      if (ext.extensionCategory === 'Flavoured Milk') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/milk/flavoured-milk`;
+                      if (ext.extensionCategory === 'Full Cream Milk') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/milk/full-cream-milk`;
                       if (ext.extensionCategory === 'Long Life Milk') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/long-life-milk/long-life-milk`;
                       if (ext.extensionCategory === 'Lactose Free Milk') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/long-life-milk/lactose-free-milk`;
+                      if (ext.extensionCategory === 'Skim & Reduced Fat Milk') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/milk/skim-low-fat-milk`;
+                    }
+                    if (sub.subCategory === 'Ready to Eat Meals') {
+                      if (ext.extensionCategory === 'Chilled Pizza & Bread') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/ready-to-eat-meals/pizzas`;
+                      if (ext.extensionCategory === 'Chilled Ready Meals') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/ready-to-eat-meals/other-ready-meals`;
+                      if (ext.extensionCategory === 'Chilled Soup') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/ready-to-eat-meals/soups-stews`;
+                      if (ext.extensionCategory === 'Indian Meals') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/ready-to-eat-meals/indian-food-meals`;
+                      if (ext.extensionCategory === 'Italian Meals') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/ready-to-eat-meals/italian-meals-pasta`;
+                    }
+                    if (sub.subCategory === 'Vegetarian & Vegan') {
+                      if (ext.extensionCategory === 'Vegetarian & Meat Free') url = `https://www.coles.com.au/browse/dairy-eggs-fridge/vegetarian-vegan/veggie-meat-chicken`;
                     }
                   }
                   // category Deli & Chilled Meats
@@ -396,12 +414,15 @@ const scraper = async () => {
                   // category Pantry
                   if (category === 'Pantry') {
                     if (sub.subCategory === 'Baking') {
+                      if (ext.extensionCategory === 'Bread Mix') url = `https://www.coles.com.au/browse/pantry/baking/cake-bread-mixes`;
                       if (ext.extensionCategory === 'Cooking Chocolate & Cocoa') url = `https://www.coles.com.au/browse/pantry/baking/cooking-chocolate-cocoa`;
                       if (ext.extensionCategory === 'Flavouring, Essence & Food Colouring') url = `https://www.coles.com.au/browse/pantry/baking/essence-food-colouring`;
                       if (ext.extensionCategory === 'Flour') url = `https://www.coles.com.au/browse/pantry/baking/flour`;
                       if (ext.extensionCategory === 'Icing & Cake Decorating') url = `https://www.coles.com.au/browse/pantry/baking/cake-decorating`;
                       if (ext.extensionCategory === 'Nuts, Seeds & Coconut') url = `https://www.coles.com.au/browse/pantry/baking/nuts-for-baking`;
                       if (ext.extensionCategory === 'Sugar & Sweeteners') url = `https://www.coles.com.au/browse/pantry/baking/sugar-sweeteners`;
+                      if (ext.extensionCategory === 'Dried Fruit') url = `https://www.coles.com.au/browse/pantry/baking/dried-fruits-fillings`;
+                      if (ext.extensionCategory === 'Pancake Mix') url = `https://www.coles.com.au/browse/pantry/baking/pancake-dessert-mixes`;
                       if (ext.extensionCategory === 'Yeast & Baking Ingredients') url = `https://www.coles.com.au/browse/pantry/baking/yeast-baking-agents`;
                     }
                     if (sub.subCategory === 'Breakfast & Spreads') {
@@ -414,14 +435,20 @@ const scraper = async () => {
                     }
                     if (sub.subCategory === 'Canned Food & Instant Meals') {
                       if (ext.extensionCategory === 'Baked Beans & Spaghetti') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/baked-beans-spaghetti`;
+                      if (ext.extensionCategory === 'Canned Beans & Legumes') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-beans-legumes`;
                       if (ext.extensionCategory === 'Canned Fruit') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-fruit`;
                       if (ext.extensionCategory === 'Canned Meat') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-meat`;
+                      if (ext.extensionCategory === 'Canned Salmon & Seafood') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/fish-seafood`;
                       if (ext.extensionCategory === 'Canned Soup & Soup Ingredients') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/soups`;
                       if (ext.extensionCategory === 'Canned Vegetables') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/canned-vegetables`;
                       if (ext.extensionCategory === 'Instant Meals & Sides') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/instant-meals-sides`;
+                      if (ext.extensionCategory === 'Instant Noodles') url = `https://www.coles.com.au/browse/pantry/canned-food-soups-noodles/noodles`;
                     }
                     if (sub.subCategory === 'Condiments') {
+                      if (ext.extensionCategory === 'Mayonnaise') url = `https://www.coles.com.au/browse/pantry/pickled-vegetables-condiments/mayonnaise`;
                       if (ext.extensionCategory === 'Mustard') url = `https://www.coles.com.au/browse/pantry/sauces/mustards`;
+                      if (ext.extensionCategory === 'Pickled Vegetables') url = `https://www.coles.com.au/browse/pantry/pickled-vegetables-condiments/pickles-chutney-relish`;
+                      if (ext.extensionCategory === 'Salad Dressings') url = `https://www.coles.com.au/browse/pantry/pickled-vegetables-condiments/salad-dressings`;
                       if (ext.extensionCategory === 'Sweet Chilli & Hot Sauce') url = `https://www.coles.com.au/browse/pantry/sauces/sweet-chilli-hot`;
                       if (ext.extensionCategory === 'Tomato & BBQ Sauce') url = `https://www.coles.com.au/browse/pantry/sauces/tomato-bbq`;
                     }
@@ -447,6 +474,7 @@ const scraper = async () => {
                       if (ext.extensionCategory === 'Indian') url = `https://www.coles.com.au/browse/pantry/international-foods/indian`;
                       if (ext.extensionCategory === 'Mexican') url = `https://www.coles.com.au/browse/pantry/international-foods/mexican`;
                       if (ext.extensionCategory === 'Middle Eastern') url = `https://www.coles.com.au/browse/pantry/international-foods/middle-eastern`;
+                      if (ext.extensionCategory === 'South African') url = `https://www.coles.com.au/browse/pantry/international-foods/south-african`;
                       if (ext.extensionCategory === 'UK Foods') url = `https://www.coles.com.au/browse/pantry/international-foods/uk`;
                     }
                     if (sub.subCategory === 'Pasta, Rice & Grains') {
@@ -458,15 +486,23 @@ const scraper = async () => {
                       if (ext.extensionCategory === 'Pizza & Pasta Sauce') url = `https://www.coles.com.au/browse/pantry/sauces/pizza-pasta`;
                       if (ext.extensionCategory === 'Soy & Asian Sauces') url = `https://www.coles.com.au/browse/pantry/sauces/soy-asian`;
                       if (ext.extensionCategory === 'Stock & Gravy') url = `https://www.coles.com.au/browse/pantry/stocks-gravy`;
+                      if (ext.extensionCategory === 'Sweet Chilli & Hot Sauce') url = `https://www.coles.com.au/browse/pantry/sauces/sweet-chilli-hot`;
                     }
                     if (sub.subCategory === 'Snacks & Confectionery') {
                       if (ext.extensionCategory === 'Biscuits & Cookies') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/biscuits-cookies`;
+                      if (ext.extensionCategory === 'Chocolate Bars') url = `https://www.coles.com.au/browse/pantry/confectionery/chocolate-bars`;
+                      if (ext.extensionCategory === 'Chocolate Blocks') url = `https://www.coles.com.au/browse/pantry/confectionery/chocolate-blocks`;
+                      if (ext.extensionCategory === 'Chocolate Box') url = `https://www.coles.com.au/browse/pantry/confectionery/boxed-chocolate`;
                       if (ext.extensionCategory === 'Corn Chips & Salsa') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/corn-chips-salsa`;
+                      if (ext.extensionCategory === 'Lollies') url = `https://www.coles.com.au/browse/pantry/confectionery/lollies`;
                       if (ext.extensionCategory === 'Muesli Bars & Snack') url = `https://www.coles.com.au/browse/pantry/chips-crackers-snacks/muesli-bars-fruit-snacks`;
                     }
                     if (sub.subCategory === 'Tea & Coffee') {
                       if (ext.extensionCategory === 'Black Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-black`;
+                      if (ext.extensionCategory === 'Coffee Beans') url = `https://www.coles.com.au/browse/pantry/coffee/coffee-beans`;
+                      if (ext.extensionCategory === 'Coffee Capsules') url = `https://www.coles.com.au/browse/pantry/coffee/capsules`;
                       if (ext.extensionCategory === 'Green Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-green`;
+                      if (ext.extensionCategory === 'Ground Coffee') url = `https://www.coles.com.au/browse/pantry/coffee/ground-coffee`;
                       if (ext.extensionCategory === 'Herbal & Specialty Tea') url = `https://www.coles.com.au/browse/drinks/tea-drinks/tea-herbal`;
                     }
                   }

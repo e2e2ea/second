@@ -63,8 +63,11 @@ const categories = [
   //         //     subCategory: "Cheese",
   //         //     childItems: [
   //         //         { extensionCategory: "Block Cheese" },
-  //         //         { extensionCategory: "Grated Cheese" },
+  //         //         { extensionCategory: "Block Cheese" },
+  //         //         { extensionCategory: `Fetta & Goat's Cheese` },
+  //         //         { extensionCategory: "Snacking Cheese" },
   //         //         { extensionCategory: "Sliced Cheese" },
+  //         //         { extensionCategory: "Soft Cheese" },
   //         //     ]
   //         // },
   //         // {
@@ -101,8 +104,27 @@ const categories = [
   //         {
   //             subCategory: "Milk",
   //             childItems: [
-  //                 { extensionCategory: "Long Life Milk" },
+  //                 { extensionCategory: "Flavoured Milk" },
+  //                 { extensionCategory: "Full Cream Milk" },
   //                 { extensionCategory: "Lactose Free Milk" },
+  //                 { extensionCategory: "Long Life Milk" },
+  //                 { extensionCategory: "Skim & Reduced Fat Milk" },
+  //             ]
+  //         },
+  //         {
+  //             subCategory: "Ready to Eat Meals",
+  //             childItems: [
+  //                 { extensionCategory: "Chilled Pizza & Bread" },
+  //                 { extensionCategory: "Chilled Ready Meals" },
+  //                 { extensionCategory: "Chilled Soup" },
+  //                 { extensionCategory: "Indian Meals" },
+  //                 { extensionCategory: "Italian Meals" },
+  //             ]
+  //         },
+  //         {
+  //             subCategory: "Vegetarian & Vegan",
+  //             childItems: [
+  //                 { extensionCategory: "Vegetarian & Meat Free" },
   //             ]
   //         },
   //     ]
@@ -475,12 +497,15 @@ const categories = [
         {
             subCategory: "Baking",
             childItems: [
+                { extensionCategory: "Bread Mix" },
                 { extensionCategory: "Cooking Chocolate & Cocoa" },
                 { extensionCategory: "Flavouring, Essence & Food Colouring" },
                 { extensionCategory: "Flour" },
                 { extensionCategory: "Icing & Cake Decorating" },
                 { extensionCategory: "Nuts, Seeds & Coconut" },
                 { extensionCategory: "Sugar & Sweeteners" },
+                { extensionCategory: "Dried Fruit" },
+                { extensionCategory: "Pancake Mix" },
                 { extensionCategory: "Yeast & Baking Ingredients" },
             ]
         },
@@ -499,17 +524,23 @@ const categories = [
             subCategory: "Canned Food & Instant Meals",
             childItems: [
                 { extensionCategory: "Baked Beans & Spaghetti" },
+                { extensionCategory: "Canned Beans & Legumes" },
                 { extensionCategory: "Canned Fruit" },
                 { extensionCategory: "Canned Meat" },
+                { extensionCategory: "Canned Salmon & Seafood" },
                 { extensionCategory: "Canned Soup & Soup Ingredients" },
                 { extensionCategory: "Canned Vegetables" },
                 { extensionCategory: "Instant Meals & Sides" },
+                { extensionCategory: "Instant Noodles" },
             ]
         },
         {
             subCategory: "Condiments",
             childItems: [
+                { extensionCategory: "Mayonnaise" },
                 { extensionCategory: "Mustard" },
+                { extensionCategory: "Pickled Vegetables" },
+                { extensionCategory: "Salad Dressings" },
                 { extensionCategory: "Sweet Chilli & Hot Sauce" },
                 { extensionCategory: "Tomato & BBQ Sauce" },
             ]
@@ -547,6 +578,7 @@ const categories = [
         //         { extensionCategory: "Indian" },
         //         { extensionCategory: "Mexican" },
         //         { extensionCategory: "Middle Eastern" },
+        //         { extensionCategory: "South African" },
         //         { extensionCategory: "UK Foods" },
         //     ]
         // },
@@ -564,13 +596,18 @@ const categories = [
         //         { extensionCategory: "Pizza & Pasta Sauce" },
         //         { extensionCategory: "Soy & Asian Sauces" },
         //         { extensionCategory: "Stock & Gravy" },
+        //         { extensionCategory: "Sweet Chilli & Hot Sauce" },
         //     ]
         // },
         //   {
         //       subCategory: "Snacks & Confectionery",
         //       childItems: [
         //           { extensionCategory: "Biscuits & Cookies" },
+        //           { extensionCategory: "Chocolate Bars" },
+        //           { extensionCategory: "Chocolate Blocks" },
+        //           { extensionCategory: "Chocolate Box" },
         //           { extensionCategory: "Corn Chips & Salsa" },
+        //           { extensionCategory: "Lollies" },
         //           { extensionCategory: "Muesli Bars & Snack" },
         //       ]
         //   },
@@ -578,7 +615,10 @@ const categories = [
         //       subCategory: "Tea & Coffee",
         //       childItems: [
         //           { extensionCategory: "Black Tea" },
+        //           { extensionCategory: "Coffee Beans" },
+        //           { extensionCategory: "Coffee Capsules" },
         //           { extensionCategory: "Green Tea" },
+        //           { extensionCategory: "Ground Coffee" },
         //           { extensionCategory: "Herbal & Specialty Tea" },
         //       ]
         //   },

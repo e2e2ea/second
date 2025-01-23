@@ -1,4 +1,4 @@
-import categories from '../constant/main.js';
+import categories from '../constant/copy.js';
 import fs from 'fs';
 import path from 'path';
 import Product from './models/products.js';

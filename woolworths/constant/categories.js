@@ -115,6 +115,7 @@ const categories = [
                 childItems: [
                     { extensionCategory: "Baby Bibs" },
                     { extensionCategory: "Baby Health & Safety" },
+                    { extensionCategory: "Baby Teething & Soothers" },
                     { extensionCategory: "Baby Toys & Playtime" },
                     { extensionCategory: "Bath & Skincare" },
                     { extensionCategory: "Bottles and Baby Feeding" },
@@ -170,6 +171,7 @@ const categories = [
                     { extensionCategory: "Sugar & Sweeteners" },
                     { extensionCategory: "Yeast & Baking Ingredients" },
                     { extensionCategory: "Cake & Dessert Mix" },
+                    { extensionCategory: "Pancake Mix" },
                     { extensionCategory: "Dried Fruit" },
                     { extensionCategory: "Gluten Free Baking" },
                 ]
@@ -190,13 +192,16 @@ const categories = [
                 subCategory: "Canned Food & Instant Meals",
                 childItems: [
                     { extensionCategory: "Baked Beans & Spaghetti" },
+                    { extensionCategory: "Canned Beans & Legumes" },
                     { extensionCategory: "Canned Fruit" },
                     { extensionCategory: "Canned Meat" },
+                    { extensionCategory: "Canned Salmon & Seafood" },
                     { extensionCategory: "Canned Soup & Soup Ingredients" },
                     { extensionCategory: "Canned Vegetables" },
                     { extensionCategory: "Instant Meals & Sides" },
                     { extensionCategory: "Canned Tomatoes" },
                     { extensionCategory: "Canned Tuna" },
+                    { extensionCategory: "Instant Noodles" },
                 ]
             },
             {
@@ -244,6 +249,7 @@ const categories = [
                     { extensionCategory: "Salt & Pepper" },
                     { extensionCategory: "Breadcrumbs & Stuffings" },
                     { extensionCategory: "Fresh Herbs, Garlic & Ginger Paste" },
+                    { extensionCategory: "Sweet Chilli & Hot Sauce" },
                 ]
             },
             {
@@ -254,6 +260,7 @@ const categories = [
                     { extensionCategory: "Indian" },
                     { extensionCategory: "Mexican" },
                     { extensionCategory: "Middle Eastern" },
+                    { extensionCategory: "South African" },
                     { extensionCategory: "UK Foods" },
                     { extensionCategory: "Italian" },
                     { extensionCategory: "Kosher" },
@@ -281,32 +288,39 @@ const categories = [
                 ]
             },
             {
-                subCategory: "Snacks & Confectionery",
-                childItems: [
-                    // { extensionCategory: "Biscuits & Cookies" },
-                    { extensionCategory: "Corn Chips & Salsa" },
-                    { extensionCategory: "Muesli Bars & Snack" },
-                ]
-            },
-            {
                 subCategory: "Tea & Coffee",
                 childItems: [
-                    { extensionCategory: "Black Tea" }, // 
-                    { extensionCategory: "Green Tea" }, // 
-                    { extensionCategory: "Herbal & Specialty Tea" }, // 
-                    { extensionCategory: "Coffe Beans" }, // 
-                    { extensionCategory: "Coffe Capsules" }, // 
-                    { extensionCategory: "Ground Coffee" }, // 
+                    { extensionCategory: "Black Tea" },
+                    { extensionCategory: "Green Tea" },
+                    { extensionCategory: "Herbal & Specialty Tea" },
+                    { extensionCategory: "Coffe Beans" },
+                    { extensionCategory: "Coffe Capsules" },
+                    { extensionCategory: "Ground Coffee" },
                 ]
             },
         ]
     },
+    //added
+    {
+        category: 'Snacks & Confectionery',
+        subCategories: [
+            {
+                subCategory: 'Snacks & Confectionery',
+                childItems: [
+                    { extensionCategory: "Biscuits & Cookies" },
+                    { extensionCategory: "Chocolate Bars" },
+                    { extensionCategory: "Chocolate Blocks" },
+                    { extensionCategory: "Chocolate Box" },
+                    { extensionCategory: "Corn Chips & Salsa" },
+                    { extensionCategory: "Lollies" },
+                    { extensionCategory: "Muesli Bars & Snack" },
+                ]
+        }
+        ]
+    },    
     {
         category: "Fruit & Veg",
         subCategories: [
-            /**
-             * @commented because its done
-             */
             {
                 subCategory: "Fruit",
                 childItems: [
@@ -315,7 +329,6 @@ const categories = [
                     { extensionCategory: "Berries & Cherries" },
                     { extensionCategory: "Grapes" },
                     { extensionCategory: "Melons & Mangoes" },
-                    // this 2 "Pineapples & Kiwi Fruit"
                     { extensionCategory: "Pineapples & Kiwi Fruit" },
                     { extensionCategory: "Tropical & Exotic Fruit" },
                     { extensionCategory: "Citrus Fruit" },
@@ -377,7 +390,7 @@ const categories = [
                 subCategory: "Seafood",
                 childItems: [
                     { extensionCategory: "Crab & Lobster" },
-                    { extensionCategory: "Prepacked Seafood" }, // 
+                    { extensionCategory: "Prepacked Seafood" },
                 ]
             },
         ]

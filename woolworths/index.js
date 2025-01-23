@@ -147,6 +147,7 @@ const CATEGORIES = [
   // { id: '1_2F587AA', name: 'Laundry', url: '/shop/browse/cleaning-maintenance/laundry', location: '/shop/browse/cleaning-maintenance/laundry' },
   // { id: '1_AF39A7A', name: 'Pest Control', url: '/shop/browse/cleaning-maintenance/pest-control', location: '/shop/browse/cleaning-maintenance/pest-control' },
   
+  { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
   { id: '1_8AF7215', name: 'Hardware', url: '/shop/browse/cleaning-maintenance/hardware', location: '/shop/browse/cleaning-maintenance/hardware' },
   { id: "1_61D6FEB", name: "Pet", url: "/shop/browse/pet", location: "/shop/browse/pet" }, // pet exceed 10,000 + should be separated by subcategory
   { id: "1_ACA2FC2", name: "Freezer", url: "/shop/browse/freezer", location: "/shop/browse/freezer" },

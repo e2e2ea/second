@@ -110,6 +110,7 @@ const categories = [
                 childItems: [
                     { extensionCategory: "Baby Bibs" },
                     { extensionCategory: "Baby Health & Safety" },
+                    { extensionCategory: "Baby Teething & Soothers" },
                     { extensionCategory: "Baby Toys & Playtime" },
                     { extensionCategory: "Bath & Skincare" },
                     { extensionCategory: "Bottles and Baby Feeding" },
@@ -153,9 +154,6 @@ const categories = [
     {
         category: "Pantry",
         subCategories: [
-            /**
-             * @commented because its done
-             */
             {
                 subCategory: "Baking",
                 childItems: [
@@ -168,6 +166,7 @@ const categories = [
                     { extensionCategory: "Sugar & Sweeteners" }, // done
                     { extensionCategory: "Yeast & Baking Ingredients" }, // process1
                     { extensionCategory: "Cake & Dessert Mix" }, // done
+                    { extensionCategory: "Pancake Mix" }, // done
                     { extensionCategory: "Dried Fruit" }, // done
                     { extensionCategory: "Gluten Free Baking" }, // done
                 ]
@@ -188,24 +187,27 @@ const categories = [
                 subCategory: "Canned Food & Instant Meals",
                 childItems: [
                     { extensionCategory: "Baked Beans & Spaghetti" }, // done
+                    { extensionCategory: "Canned Beans & Legumes" }, // done
                     { extensionCategory: "Canned Fruit" }, // done
                     { extensionCategory: "Canned Meat" }, // done
+                    { extensionCategory: "Canned Salmon & Seafood" }, // done
                     { extensionCategory: "Canned Soup & Soup Ingredients" }, // done
                     { extensionCategory: "Canned Vegetables" }, // done
-                    { extensionCategory: "Instant Meals & Sides" }, // done
                     { extensionCategory: "Canned Tomatoes" }, // done
                     { extensionCategory: "Canned Tuna" }, // done
+                    { extensionCategory: "Instant Meals & Sides" }, // done
+                    { extensionCategory: "Instant Noodles" }, // done
                 ]
             },
             {
                 subCategory: "Condiments",
                 childItems: [
+                    { extensionCategory: "Mayonnaise" }, // done
                     { extensionCategory: "Mustard" }, // done
                     { extensionCategory: "Sweet Chilli & Hot Sauce" }, // done
                     { extensionCategory: "Tomato & BBQ Sauce" }, // done
                     { extensionCategory: "Chutney & Relish" }, // done
                     { extensionCategory: "Fruit Sauce" }, // done
-                    { extensionCategory: "Mayonnaise" }, // done
                     { extensionCategory: "Pickled Vegetables" }, // done
                     { extensionCategory: "Salad Dressings" }, // done
                 ]
@@ -252,6 +254,7 @@ const categories = [
                     { extensionCategory: "Indian" }, // done
                     { extensionCategory: "Mexican" }, // done
                     { extensionCategory: "Middle Eastern" }, // done
+                    { extensionCategory: "South African" }, // done
                     { extensionCategory: "UK Foods" }, // done
                     { extensionCategory: "Italian" }, // done
                     { extensionCategory: "Kosher" }, // done
@@ -281,8 +284,12 @@ const categories = [
             {
                 subCategory: "Snacks & Confectionery",
                 childItems: [
-                    // { extensionCategory: "Biscuits & Cookies" }, // done
+                    { extensionCategory: "Biscuits & Cookies" }, // done
+                    { extensionCategory: "Chocolate Bars" }, // done
+                    { extensionCategory: "Chocolate Blocks" }, // done
+                    { extensionCategory: "Chocolate Box" }, // done
                     { extensionCategory: "Corn Chips & Salsa" }, // done
+                    { extensionCategory: "Lollies" }, // done
                     { extensionCategory: "Muesli Bars & Snack" }, // done
                 ]
             },
@@ -498,9 +505,6 @@ const categories = [
     {
         category: "Pet",
         subCategories: [
-            /**
-             * @commented because its done
-             */
             {
                 subCategory: "Birds, Fish & Small Pets",
                 childItems: [
@@ -724,6 +728,12 @@ const categories = [
                     { extensionCategory: "Indian Meals" },
                     { extensionCategory: "Italian Meals" },
                     { extensionCategory: "Packaged Salads & Sides" },
+                    { extensionCategory: "Vegetarian & Meat Free" },
+                ]
+            },
+            {
+                subCategory: "Vegetarian & Vegan",
+                childItems: [
                     { extensionCategory: "Vegetarian & Meat Free" },
                 ]
             },
