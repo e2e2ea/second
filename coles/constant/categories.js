@@ -240,6 +240,14 @@ const categories = [
   //   category: 'Freezer',
   //   subCategories: [
   //       {
+  //           subCategory: 'Chips & Wedges',
+  //           childItems: [
+  //           { extensionCategory: 'Chips' },
+  //           { extensionCategory: 'Hashbrowns' },
+  //           { extensionCategory: 'Wedges' },
+  //           ],
+  //       },
+  //       {
   //           subCategory: 'Frozen Desserts',
   //           childItems: [
   //           { extensionCategory: 'Assorted Desserts' },
@@ -373,6 +381,7 @@ const categories = [
   //           subCategory: "Dental Care",
   //           childItems: [
   //               { extensionCategory: "Denture Care" },
+  //               { extensionCategory: "Floss & Mouthwash" },
   //               { extensionCategory: "Toothbrushes" },
   //               { extensionCategory: "Toothpaste" },
   //           ]
@@ -381,6 +390,7 @@ const categories = [
   //         subCategory: 'First Aid & Medicinal',
   //         childItems: [
   //           { extensionCategory: 'Antiseptic' },
+  //           { extensionCategory: 'Bandaids & Bandages' },
   //           { extensionCategory: 'Cold, Flu & Allergies' },
   //           { extensionCategory: 'Cotton Wool & Cotton Buds' },
   //           { extensionCategory: 'Medicinal Oils & Ointments' },

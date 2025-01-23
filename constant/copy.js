@@ -390,9 +390,6 @@ const categories = [
     {
         category: "Freezer",
         subCategories: [
-            /**
-             * @commented because its done
-             */
             {
                 subCategory: "Chips & Wedges",
                 childItems: [
@@ -786,8 +783,18 @@ const categories = [
                 ]
             },
             {
+                subCategory: "Personal Care & Hygiene",
+                childItems: [
+                    { extensionCategory: "Contraception & Sexual Health" },
+                    { extensionCategory: "Female Deodorants & Body Sprays" },
+                    { extensionCategory: "Male Deodorants & Body Sprays" },
+                    { extensionCategory: "Pregnancy Tests" },
+                ]
+            },
+            {
                 subCategory: "First Aid & Medicinal",
                 childItems: [
+                    { extensionCategory: "Antiseptic" },
                     { extensionCategory: "Bandaids & Bandages" },
                     { extensionCategory: "Cold, Flu & Allergies" }, // done
                     { extensionCategory: "Cotton Wool & Cotton Buds" }, // done
@@ -800,7 +807,7 @@ const categories = [
                     { extensionCategory: "Brain & Heart Health" }, // done
                     { extensionCategory: "Detox & Digestion" }, // done
                     { extensionCategory: "Hair, Skin & Nails" }, // done
-                    { extensionCategory: "Brain & Heart Health" }, // done
+                    { extensionCategory: "Others" }, // done
                 ]
             },
         ]

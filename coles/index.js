@@ -245,6 +245,11 @@ const scraper = async () => {
                   }
                   // category Freezer
                   if (category === 'Freezer') {
+                    if (sub.subCategory === 'Chips & Wedges') {
+                      if (ext.extensionCategory === 'Chips') url = `https://www.coles.com.au/browse/frozen/frozen-chips-wedges/chips`;
+                      if (ext.extensionCategory === 'Hashbrowns') url = `https://www.coles.com.au/browse/frozen/frozen-chips-wedges/hashbrowns`;
+                      if (ext.extensionCategory === 'Wedges') url = `https://www.coles.com.au/browse/frozen/frozen-chips-wedges/wedges`;
+                    }
                     if (sub.subCategory === 'Frozen Desserts') {
                       if (ext.extensionCategory === 'Assorted Desserts') url = `https://www.coles.com.au/browse/frozen/frozen-desserts/assorted-desserts`;
                       if (ext.extensionCategory === 'Cakes & Cheesecakes') url = `https://www.coles.com.au/browse/frozen/frozen-desserts/cakes-cheesecakes`;
@@ -329,11 +334,13 @@ const scraper = async () => {
                     }
                     if (sub.subCategory === 'Dental Care') {
                       if (ext.extensionCategory === 'Denture Care') url = `https://www.coles.com.au/browse/health-beauty/dental-care/denture-care`;
+                      if (ext.extensionCategory === 'Floss & Mouthwash') url = `https://www.coles.com.au/browse/health-beauty/dental-care/mouthwash`;
                       if (ext.extensionCategory === 'Toothbrushes') url = `https://www.coles.com.au/browse/health-beauty/dental-care/toothbrushes`;
                       if (ext.extensionCategory === 'Toothpaste') url = `https://www.coles.com.au/browse/health-beauty/dental-care/toothpaste`;
                     }
                     if (sub.subCategory === 'First Aid & Medicinal') {
                       if (ext.extensionCategory === 'Antiseptic') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/antiseptic`;
+                      if (ext.extensionCategory === 'Bandaids & Bandages') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/bandages-strapping`;
                       if (ext.extensionCategory === 'Cold, Flu & Allergies') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/cold-flu-and-allergy`;
                       if (ext.extensionCategory === 'Cotton Wool & Cotton Buds') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/cotton-wool-cotton-buds`;
                       if (ext.extensionCategory === 'Medicinal Oils & Ointments') url = `https://www.coles.com.au/browse/health-beauty/first-aid-medicinal/medicinal-oils-ointments`;
