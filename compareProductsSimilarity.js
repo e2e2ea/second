@@ -105,28 +105,28 @@ const getData = async () => {
             fs.writeFileSync(filePath, JSON.stringify(productsMatched, null, 2));
             console.log(`Data saved to ${filePath}`);
           }
-          try {
-            const externalApiUrl = process.env.JARROD_API;
-            const apiKey = process.env.JARROD_KEY;
+          // try {
+          //   const externalApiUrl = process.env.JARROD_API;
+          //   const apiKey = process.env.JARROD_KEY;
 
-            const response = await axios.post(externalApiUrl, productsMatched, {
-              headers: {
-                accept: 'application/json',
-                'X-API-Key': apiKey,
-                'Content-Type': 'application/json',
-              },
-            });
+          //   const response = await axios.post(externalApiUrl, productsMatched, {
+          //     headers: {
+          //       accept: 'application/json',
+          //       'X-API-Key': apiKey,
+          //       'Content-Type': 'application/json',
+          //     },
+          //   });
 
-            console.log('Success! Response:', response.data);
-          } catch (error) {
-            if (error.response) {
-              console.error('Error response:', error.response.status, error.response.data);
-            } else if (error.request) {
-              console.error('No response received:', error.request);
-            } else {
-              console.error('Error:', error.message);
-            }
-          }
+          //   console.log('Success! Response:', response.data);
+          // } catch (error) {
+          //   if (error.response) {
+          //     console.error('Error response:', error.response.status, error.response.data);
+          //   } else if (error.request) {
+          //     console.error('No response received:', error.request);
+          //   } else {
+          //     console.error('Error:', error.message);
+          //   }
+          // }
         } catch (error) {
           console.error('Error writing data to file:', error);
         }
