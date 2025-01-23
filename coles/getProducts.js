@@ -4,15 +4,11 @@ import path from 'path';
 import Product from './models/products.js';
 import dbConnect from './db/dbConnect.js';
 import { createArrayCsvWriter } from 'csv-writer';
+import dotenv from 'dotenv';
 
-const getDate = new Date();
-const month = getDate.getMonth() + 1;
-const day = getDate.getDate();
-const year = getDate.getFullYear();
-
-const formattedDate = `${month}-${day}-${year}`;
+dotenv.config();
 const csvWriter = createArrayCsvWriter({
-  path: `./coles/output_${formattedDate}.csv`,
+  path: `./coles/output_${process.env.FOLDER_DATE}.csv`,
   header: ['Category', 'SubCategory', 'Extension', 'Products'],
 });
 const categoriesId = JSON.parse(fs.readFileSync(`./constant/categories.json`, 'utf8'));
@@ -54,30 +50,31 @@ const getData = async () => {
 
           return formattedProduct;
         });
-        // const baseFolder = `./coles/data/${formattedDate}`;
-        const baseFolder = `./coles/data/${process.env.FOLDER_DATE}`;
-        const folderPath = path.join(baseFolder, category);
-        const toPush = [category, subCategory, extensionCategory, productsData.length];
-        data.push(toPush);
-        // Ensure the folder exists
-        if (!fs.existsSync(folderPath)) {
-          fs.mkdirSync(folderPath, { recursive: true }); // Create the folder if it doesn't exist
-          console.log(`Created folder: ${folderPath}`);
-        }
+        if (productsData.length > 0) {
+          const baseFolder = `./coles/data/${process.env.FOLDER_DATE}`;
+          const folderPath = path.join(baseFolder, category);
+          const toPush = [category, subCategory, extensionCategory, productsData.length];
+          data.push(toPush);
+          // Ensure the folder exists
+          if (!fs.existsSync(folderPath)) {
+            fs.mkdirSync(folderPath, { recursive: true });
+            console.log(`Created folder: ${folderPath}`);
+          }
 
-        const fileName = `${category} - ${subCategory} ${extensionCategory ? `- ${extensionCategory === 'Floor/Carpet Cleaners' ? 'Floor - Carpet Cleaners' : extensionCategory}` : ''}.json`;
-        const filePath = path.join(folderPath, fileName);
-        // Check if the file already exists
-        if (fs.existsSync(filePath)) {
-          console.log(`File already exists: ${filePath}. Skipping save.`);
-          // return; // Skip saving the file
-        }
-        try {
-          console.log(`${fileName} - ${productsData.length} products`);
-          fs.writeFileSync(filePath, JSON.stringify(productsData, null, 2)); // Pretty print with 2 spaces
-          console.log(`Data saved to ${filePath}`);
-        } catch (error) {
-          console.error('Error writing data to file:', error);
+          const fileName = `${category} - ${subCategory} ${extensionCategory ? `- ${extensionCategory === 'Floor/Carpet Cleaners' ? 'Floor - Carpet Cleaners' : extensionCategory}` : ''}.json`;
+          const filePath = path.join(folderPath, fileName);
+          // Check if the file already exists
+          if (fs.existsSync(filePath)) {
+            console.log(`File already exists: ${filePath}. Skipping save.`);
+            // continue; // Skip saving the file
+          }
+          try {
+            console.log(`${fileName} - ${productsData.length} products`);
+            fs.writeFileSync(filePath, JSON.stringify(productsData, null, 2)); // Pretty print with 2 spaces
+            console.log(`Data saved to ${filePath}`);
+          } catch (error) {
+            console.error('Error writing data to file:', error);
+          }
         }
       }
     }
@@ -90,7 +87,7 @@ const getData = async () => {
     .catch((err) => {
       console.error('Error writing CSV file:', err);
     });
-}; 
+};
 
 (async () => {
   await getData();

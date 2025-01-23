@@ -109,7 +109,7 @@ const CATEGORIES = [
 
 - Once completed, retrieve all the data by running:
   ```bash
-  node woolworths/getWoolyProducts.js
+  node woolworths/getProducts.js
   ```
 
 
@@ -268,9 +268,14 @@ node testColes
 node testWooly
 ```
 
-### 7. Send the matched Products through the API.
+### 7. Send the matched Products by barcodes through the API.
   ```bash
   node compareProductsFinal
+  ```
+
+### 8. Send the matched Products by names or titles with 95% - 100% score through the API.
+  ```bash
+  node compareProductsSimilarity
   ```
 
 ---

@@ -6,14 +6,11 @@ import Product from './models/products.js';
 import cleanUpPrices from './clean.js';
 import dbConnect from './db/dbConnect.js';
 import { createArrayCsvWriter } from 'csv-writer';
-const getDate = new Date();
-const month = getDate.getMonth() + 1;
-const day = getDate.getDate();
-const year = getDate.getFullYear();
+import dotenv from 'dotenv';
 
-const formattedDate = `${month}-${day}-${year}`;
+dotenv.config();
 const csvWriter = createArrayCsvWriter({
-  path: `./woolworths/output_${formattedDate}.csv`,
+  path: `./woolworths/output_${process.env.FOLDER_DATE}.csv`,
   header: ['Category', 'SubCategory', 'Extension', 'Products'],
 });
 
