@@ -164,7 +164,7 @@ const categories = [
                     { extensionCategory: "Icing & Cake Decorating" },
                     { extensionCategory: "Nuts, Seeds & Coconut" },
                     { extensionCategory: "Sugar & Sweeteners" },
-                    { extensionCategory: "Yeast & Baking Ingredients" },process1
+                    { extensionCategory: "Yeast & Baking Ingredients" },
                     { extensionCategory: "Cake & Dessert Mix" },
                     { extensionCategory: "Pancake Mix" },
                     { extensionCategory: "Dried Fruit" },
