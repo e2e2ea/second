@@ -802,6 +802,7 @@ const categories = [
                     { extensionCategory: "Cold, Flu & Allergies" },
                     { extensionCategory: "Cotton Wool & Cotton Buds" },
                     { extensionCategory: "Medicinal Oils & Ointments" },
+                    { extensionCategory: 'Quit Smoking' },
                 ]
             },
             {

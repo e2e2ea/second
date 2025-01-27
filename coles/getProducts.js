@@ -15,6 +15,8 @@ const categoriesId = JSON.parse(fs.readFileSync(`./constant/categories.json`, 'u
 
 const getData = async () => {
   await dbConnect();
+  let b
+  b = await Product.find()
   let data = [];
   for (const categ of categories) {
     const category = categ.category;
@@ -29,7 +31,9 @@ const getData = async () => {
       const subCategory = sub.subCategory;
       for (const ext of sub.childItems) {
         const extensionCategory = ext.extensionCategory ? ext.extensionCategory : '';
-        const a = await Product.find({ category: category, subCategory: subCategory, extensionCategory: extensionCategory }).exec();
+        b = b.filter((p) => (p.category !== category && p.subCategory !== subCategory && p.extensionCategory !== extensionCategory))
+        console.log('filter b', b.length)
+        const a = await Product.find({ category: category, subCategory: subCategory, extensionCategory: extensionCategory === 'Floor-Carpet Cleaners' ? 'Floor/Carpet Cleaners' : extensionCategory }).exec();
         const productsData = a.map((product) => {
           const productObj = product.toObject();
           const cleanedPrices = productObj.prices.map((price) => {
@@ -61,7 +65,7 @@ const getData = async () => {
             console.log(`Created folder: ${folderPath}`);
           }
 
-          const fileName = `${category} - ${subCategory} ${extensionCategory ? `- ${extensionCategory === 'Floor/Carpet Cleaners' ? 'Floor - Carpet Cleaners' : extensionCategory}` : ''}.json`;
+          const fileName = `${category} - ${subCategory} ${extensionCategory ? `- ${extensionCategory === 'Floor-Carpet Cleaners' ? 'Floor - Carpet Cleaners' : extensionCategory}` : ''}.json`;
           const filePath = path.join(folderPath, fileName);
           // Check if the file already exists
           if (fs.existsSync(filePath)) {

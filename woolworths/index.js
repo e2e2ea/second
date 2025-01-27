@@ -116,24 +116,24 @@ let booool = false;
 const WOOLWORTHS_API_ENDPOINT = "https://www.woolworths.com.au/apis/ui/browse/category";
 const CATEGORIES = [
   // Home & Lifestyle
-  // { id: '1_792C364', name: 'Party Supplies', url: '/shop/browse/home-lifestyle/party-supplies', location: '/shop/browse/home-lifestyle/party-supplies' },
-  // { id: '1_3D142C0', name: 'Clothing Accessories', url: '/shop/browse/home-lifestyle/clothing-accessories', location: '/shop/browse/home-lifestyle/clothing-accessories' },
+  { id: '1_792C364', name: 'Party Supplies', url: '/shop/browse/home-lifestyle/party-supplies', location: '/shop/browse/home-lifestyle/party-supplies' },
+  { id: '1_3D142C0', name: 'Clothing Accessories', url: '/shop/browse/home-lifestyle/clothing-accessories', location: '/shop/browse/home-lifestyle/clothing-accessories' },
 
   // Health & Wellness
-  // { id: '1_67B032F', name: 'Vitamins', url: '/shop/browse/health-wellness/vitamins', location: '/shop/browse/health-wellness/vitamins' },
-  // { id: '1_329A89C', name: 'First Aid & Medicinal', url: '/shop/browse/health-wellness/first-aid-medicinal', location: '/shop/browse/health-wellness/first-aid-medicinal' },
+  { id: '1_67B032F', name: 'Vitamins', url: '/shop/browse/health-wellness/vitamins', location: '/shop/browse/health-wellness/vitamins' },
+  { id: '1_329A89C', name: 'First Aid & Medicinal', url: '/shop/browse/health-wellness/first-aid-medicinal', location: '/shop/browse/health-wellness/first-aid-medicinal' },
 
   //Beauty & Personal Care
-  // { id: '1_877B999', name: 'Cosmetics', url: '/shop/browse/beauty-personal-care/cosmetics', location: '/shop/browse/beauty-personal-care/cosmetics' },
-  // { id: '1_266FCD7', name: 'Skin Care', url: '/shop/browse/beauty-personal-care/skin-care', location: '/shop/browse/beauty-personal-care/skin-care' },
-  // { id: '1_098A313', name: 'Hair Care', url: '/shop/browse/beauty-personal-care/hair-care', location: '/shop/browse/beauty-personal-care/hair-care' },
+  { id: '1_877B999', name: 'Cosmetics', url: '/shop/browse/beauty-personal-care/cosmetics', location: '/shop/browse/beauty-personal-care/cosmetics' },
+  { id: '1_266FCD7', name: 'Skin Care', url: '/shop/browse/beauty-personal-care/skin-care', location: '/shop/browse/beauty-personal-care/skin-care' },
+  { id: '1_098A313', name: 'Hair Care', url: '/shop/browse/beauty-personal-care/hair-care', location: '/shop/browse/beauty-personal-care/hair-care' },
 
   // Pantry
-  // { id: '1_8458E3A', name: 'Baking', url: '/shop/browse/pantry/baking', location: '/shop/browse/pantry/baking' },
-  // { id: '1_C7A623D', name: 'Breakfast & Spreads', url: '/shop/browse/pantry/breakfast-spreads', location: '/shop/browse/pantry/breakfast-spreads' },
-  // { id: '1_23C59D3', name: 'Canned Food & Instant Meals', url: '/shop/browse/pantry/canned-food-instant-meals', location: '/shop/browse/pantry/canned-food-instant-meals' },
-  // { id: '1_F43CC25', name: 'Condiments', url: '/shop/browse/pantry/condiments', location: '/shop/browse/pantry/condiments' },
-  // { id: '1_69A326C', name: 'Desserts', url: '/shop/browse/pantry/desserts', location: '/shop/browse/pantry/desserts' },
+  { id: '1_8458E3A', name: 'Baking', url: '/shop/browse/pantry/baking', location: '/shop/browse/pantry/baking' },
+  { id: '1_C7A623D', name: 'Breakfast & Spreads', url: '/shop/browse/pantry/breakfast-spreads', location: '/shop/browse/pantry/breakfast-spreads' },
+  { id: '1_23C59D3', name: 'Canned Food & Instant Meals', url: '/shop/browse/pantry/canned-food-instant-meals', location: '/shop/browse/pantry/canned-food-instant-meals' },
+  { id: '1_F43CC25', name: 'Condiments', url: '/shop/browse/pantry/condiments', location: '/shop/browse/pantry/condiments' },
+  { id: '1_69A326C', name: 'Desserts', url: '/shop/browse/pantry/desserts', location: '/shop/browse/pantry/desserts' },
   // { id: '1_F779C5C', name: 'Herbs & Spices', url: '/shop/browse/pantry/herbs-spices', location: '/shop/browse/pantry/herbs-spices' },
   // { id: '1_53601CD', name: 'International Foods', url: '/shop/browse/pantry/international-foods', location: '/shop/browse/pantry/international-foods' },
   // { id: '1_B5F8608', name: 'Pasta, Rice & Grains', url: '/shop/browse/pantry/pasta-rice-grains', location: '/shop/browse/pantry/pasta-rice-grains' },
@@ -147,16 +147,17 @@ const CATEGORIES = [
   // { id: '1_2F587AA', name: 'Laundry', url: '/shop/browse/cleaning-maintenance/laundry', location: '/shop/browse/cleaning-maintenance/laundry' },
   // { id: '1_AF39A7A', name: 'Pest Control', url: '/shop/browse/cleaning-maintenance/pest-control', location: '/shop/browse/cleaning-maintenance/pest-control' },
   
-  { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
-  { id: '1_8AF7215', name: 'Hardware', url: '/shop/browse/cleaning-maintenance/hardware', location: '/shop/browse/cleaning-maintenance/hardware' },
-  { id: "1_61D6FEB", name: "Pet", url: "/shop/browse/pet", location: "/shop/browse/pet" }, // pet exceed 10,000 + should be separated by subcategory
-  { id: "1_ACA2FC2", name: "Freezer", url: "/shop/browse/freezer", location: "/shop/browse/freezer" },
-  { id: "1-E5BEE36E", name: "Fruit & Veg", url: "/shop/browse/fruit-veg", location: "/shop/browse/fruit-veg" },
-  { id: "1_D5A2236", name: "Poultry, Meat & Seafood", url: "/shop/browse/poultry-meat-seafood", location: "/shop/browse/poultry-meat-seafood" },
-  { id: "1_DEB537E", name: "Bakery", url: "/shop/browse/bakery", location: "/shop/browse/bakery" },
-  { id: "1_5AF3A0A", name: "Drinks", url: "/shop/browse/drinks", location: "/shop/browse/drinks" },
-  { id: "1_3151F6F", name: "Deli & Chilled Meals", url: "/shop/browse/deli-chilled-meals", location: "/shop/browse/deli-chilled-meals" },
-  { id: "1_6E4F4E4", name: "Dairy, Eggs & Fridge", url: "/shop/browse/dairy-eggs-fridge", location: "/shop/browse/dairy-eggs-fridge" },
+  // { id: '1_717A94B', name: 'Baby', url: '/shop/browse/baby', location: '/shop/browse/baby' },
+  // { id: '1_717445A', name: 'Snacks & Confectionery', url: '/shop/browse/snacks-confectionery', location: '/shop/browse/snacks-confectionery' },
+  // { id: '1_8AF7215', name: 'Hardware', url: '/shop/browse/cleaning-maintenance/hardware', location: '/shop/browse/cleaning-maintenance/hardware' },
+  // { id: "1_61D6FEB", name: "Pet", url: "/shop/browse/pet", location: "/shop/browse/pet" }, // pet exceed 10,000 + should be separated by subcategory
+  // { id: "1_ACA2FC2", name: "Freezer", url: "/shop/browse/freezer", location: "/shop/browse/freezer" },
+  // { id: "1-E5BEE36E", name: "Fruit & Veg", url: "/shop/browse/fruit-veg", location: "/shop/browse/fruit-veg" },
+  // { id: "1_D5A2236", name: "Poultry, Meat & Seafood", url: "/shop/browse/poultry-meat-seafood", location: "/shop/browse/poultry-meat-seafood" },
+  // { id: "1_DEB537E", name: "Bakery", url: "/shop/browse/bakery", location: "/shop/browse/bakery" },
+  // { id: "1_5AF3A0A", name: "Drinks", url: "/shop/browse/drinks", location: "/shop/browse/drinks" },
+  // { id: "1_3151F6F", name: "Deli & Chilled Meals", url: "/shop/browse/deli-chilled-meals", location: "/shop/browse/deli-chilled-meals" },
+  // { id: "1_6E4F4E4", name: "Dairy, Eggs & Fridge", url: "/shop/browse/dairy-eggs-fridge", location: "/shop/browse/dairy-eggs-fridge" },
 ];
 const WOOLWORTHS_URL = "https://www.woolworths.com.au";
 const SPEED_LIMIT = 20;
@@ -303,7 +304,7 @@ const scrapeCategory = async (page, category, myloc, p, browser) => {
 
   for (let i = 1; i <= numPages; i++) {
     console.log("pageResetvalue", pageReset);
-    if (pageReset > 150) {
+    if (pageReset > 250) {
       const loadedCookies = JSON.parse(fs.readFileSync("./woolworths/cookies.json", "utf-8"));
       await page.setCookie(...loadedCookies);
       await safeNavigate(page, "https://www.woolworths.com.au");
@@ -398,7 +399,7 @@ const scrapeURL = async (page, request, myloc) => {
       category: product.AdditionalAttributes.piesdepartmentnamesjson,
       subCategory: product.AdditionalAttributes.piescategorynamesjson,
       extensionCategory: product.AdditionalAttributes.piessubcategorynamesjson,
-      prices: getPrices(location, priceInCents, priceInCentsPerUnits, unit),
+      prices: getPrices(location, priceInCentsPerUnits, priceInCents, unit),
     };
   });
   if (products.length > 0) {
