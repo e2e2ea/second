@@ -1,9 +1,9 @@
-import dotenv from 'dotenv';
+import dotenv from "dotenv";
 
 dotenv.config();
-import categories from './constant/try.js';
-import fs from 'fs';
-import path from 'path';
+import categories from "./constant/copy.js";
+import fs from "fs";
+import path from "path";
 const safeParseFloat = (value) => {
   return isNaN(parseFloat(value)) ? 0 : parseFloat(value);
 };
@@ -14,7 +14,7 @@ const getData = async () => {
     for (const sub of categ.subCategories) {
       const subCategory = sub.subCategory;
       for (const ext of sub.childItems) {
-        const extensionCategory = ext.extensionCategory ? ext.extensionCategory : '';
+        const extensionCategory = ext.extensionCategory ? ext.extensionCategory : "";
         let productsPricesUpdated = [];
         let oldData;
         let newData;
@@ -25,12 +25,12 @@ const getData = async () => {
 
         const formattedDate = `${month}-${day}-${year}`;
         try {
-          oldData = JSON.parse(fs.readFileSync(`matched/1-22-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          oldData = JSON.parse(fs.readFileSync(`matched/1-17-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, "utf8"));
         } catch (error) {
           continue;
         }
         try {
-          newData = JSON.parse(fs.readFileSync(`matched/1-27-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          newData = JSON.parse(fs.readFileSync(`matched/1-27-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, "utf8"));
         } catch (error) {
           continue;
         }
@@ -44,7 +44,7 @@ const getData = async () => {
             for (const price of data.prices) {
               if (price && price.state) {
                 const a = await product.prices.find((p) => p.state === price.state);
-                if (a && a.price !== price.price) {
+                if (a && a.price && price && price.price) {
                   let priceGap;
                   let oldPrice;
                   let newPrice;
@@ -99,14 +99,14 @@ const getData = async () => {
               weight: data.weight || null,
               prices: pricesUpdated,
             };
-            console.log('formattedProduct2', formattedProduct2);
+            console.log("formattedProduct2", formattedProduct2);
             productsPricesUpdated.push(formattedProduct2);
           }
         }
         try {
           if (productsPricesUpdated && productsPricesUpdated.length > 0) {
             totalProducts = totalProducts + productsPricesUpdated.length;
-            console.log('totalProducts', totalProducts);
+            console.log("totalProducts", totalProducts);
             const baseFolder = `./pricing/${process.env.FOLDER_DATE}`;
             const folderPath = path.join(baseFolder, `${category}`);
             const fileName = `${category} - ${subCategory} - ${extensionCategory}.json`;
@@ -141,7 +141,7 @@ const getData = async () => {
           //   }
           // }
         } catch (error) {
-          console.error('Error writing data to file:', error);
+          console.error("Error writing data to file:", error);
         }
       }
     }

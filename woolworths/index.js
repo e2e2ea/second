@@ -36,8 +36,8 @@ const userAgents = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
 ];
 
-const mylocation = ["nsw", "vic", "qld", "wa", "sa", "tas", "act", "nt"];
-// const mylocation = ['qld', 'wa', 'sa', 'tas', 'act', 'nt'];
+const mylocation = ["sa", "tas", "act", "nt"];
+// const mylocation = [ 'tas', 'act', 'nt'];
 
 const getPrices = (location, priceInCents, priceInCentsPerUnits, unit) => {
   const prices = [];
@@ -134,11 +134,11 @@ const CATEGORIES = [
   { id: '1_23C59D3', name: 'Canned Food & Instant Meals', url: '/shop/browse/pantry/canned-food-instant-meals', location: '/shop/browse/pantry/canned-food-instant-meals' },
   { id: '1_F43CC25', name: 'Condiments', url: '/shop/browse/pantry/condiments', location: '/shop/browse/pantry/condiments' },
   { id: '1_69A326C', name: 'Desserts', url: '/shop/browse/pantry/desserts', location: '/shop/browse/pantry/desserts' },
-  // { id: '1_F779C5C', name: 'Herbs & Spices', url: '/shop/browse/pantry/herbs-spices', location: '/shop/browse/pantry/herbs-spices' },
-  // { id: '1_53601CD', name: 'International Foods', url: '/shop/browse/pantry/international-foods', location: '/shop/browse/pantry/international-foods' },
-  // { id: '1_B5F8608', name: 'Pasta, Rice & Grains', url: '/shop/browse/pantry/pasta-rice-grains', location: '/shop/browse/pantry/pasta-rice-grains' },
-  // { id: '1_8A702B7', name: 'Tea & Coffee', url: '/shop/browse/pantry/tea-coffee', location: '/shop/browse/pantry/tea-coffee' },
-  // { id: '1_0B44952', name: 'Long Life Milk', url: '/shop/browse/pantry/long-life-milk', location: '/shop/browse/pantry/long-life-milk' },
+  { id: '1_F779C5C', name: 'Herbs & Spices', url: '/shop/browse/pantry/herbs-spices', location: '/shop/browse/pantry/herbs-spices' },
+  { id: '1_53601CD', name: 'International Foods', url: '/shop/browse/pantry/international-foods', location: '/shop/browse/pantry/international-foods' },
+  { id: '1_B5F8608', name: 'Pasta, Rice & Grains', url: '/shop/browse/pantry/pasta-rice-grains', location: '/shop/browse/pantry/pasta-rice-grains' },
+  { id: '1_8A702B7', name: 'Tea & Coffee', url: '/shop/browse/pantry/tea-coffee', location: '/shop/browse/pantry/tea-coffee' },
+  { id: '1_0B44952', name: 'Long Life Milk', url: '/shop/browse/pantry/long-life-milk', location: '/shop/browse/pantry/long-life-milk' },
 
   // Cleaning and maintenance
   // { id: "1_6174AF3", name: "Cleaning Goods", url: "/shop/browse/cleaning-maintenance/cleaning-goods", location: "/shop/browse/cleaning-maintenance/cleaning-goods" },
@@ -172,7 +172,7 @@ function delay(time) {
   const browser2 = await puppeteer.launch({
     headless: false,
     executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-    userDataDir: "C:\\Users\\OBI - Raymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1",
+    userDataDir: "C:\\Users\\OBI - Reymond\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1",
   });
 
   for (let i = 0; i < mylocation.length; i++) {

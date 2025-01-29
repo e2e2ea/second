@@ -1,10 +1,10 @@
-import dotenv from 'dotenv';
+import dotenv from "dotenv";
 
 dotenv.config();
-import categories from './constant/copy.js';
-import fs from 'fs';
-import path from 'path';
-
+import categories from "./constant/copy.js";
+import fs from "fs";
+import path from "path";
+import axios from "axios";
 const getData = async () => {
   let totalProducts = 0;
   for (const categ of categories) {
@@ -12,7 +12,7 @@ const getData = async () => {
     for (const sub of categ.subCategories) {
       const subCategory = sub.subCategory;
       for (const ext of sub.childItems) {
-        const extensionCategory = ext.extensionCategory ? ext.extensionCategory : '';
+        const extensionCategory = ext.extensionCategory ? ext.extensionCategory : "";
         let productsMatched = [];
         let woolworthsData;
         let ColesData;
@@ -23,8 +23,8 @@ const getData = async () => {
 
         const formattedDate = `${month}-${day}-${year}`;
         try {
-          woolworthsData = JSON.parse(fs.readFileSync(`woolworths/data/${process.env.FOLDER_DATE}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
-          ColesData = JSON.parse(fs.readFileSync(`coles/data/${process.env.FOLDER_DATE}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          woolworthsData = JSON.parse(fs.readFileSync(`woolworths/data/${process.env.FOLDER_DATE}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, "utf8"));
+          ColesData = JSON.parse(fs.readFileSync(`coles/data/${process.env.FOLDER_DATE}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, "utf8"));
         } catch (error) {
           console.log(`Skipping ${category} - ${subCategory} - ${extensionCategory}: File(s) missing.`);
           continue;
@@ -69,7 +69,7 @@ const getData = async () => {
         try {
           if (productsMatched && productsMatched.length > 0) {
             totalProducts = totalProducts + productsMatched.length;
-            console.log('totalProducts', totalProducts);
+            console.log("totalProducts", totalProducts);
             const baseFolder = `./matched/${process.env.FOLDER_DATE}`;
             const folderPath = path.join(baseFolder, `${category}`);
             const fileName = `${category} - ${subCategory} - ${extensionCategory}.json`;
@@ -104,7 +104,7 @@ const getData = async () => {
           //   }
           // }
         } catch (error) {
-          console.error('Error writing data to file:', error);
+          console.error("Error writing data to file:", error);
         }
       }
     }
