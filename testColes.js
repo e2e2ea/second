@@ -1,3 +1,6 @@
+import dotenv from 'dotenv';
+
+dotenv.config();
 import categories from './constant/copy.js';
 import fs from 'fs';
 import path from 'path';
@@ -13,7 +16,7 @@ const getData = async () => {
         let products = [];
         let ColesData;
         try {
-          ColesData = JSON.parse(fs.readFileSync(`coles/data/1-21-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
+          ColesData = JSON.parse(fs.readFileSync(`coles/data/${process.env.FOLDER_DATE}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
         } catch (error) {
           continue;
         }
@@ -51,9 +54,9 @@ const getData = async () => {
           products.push(data);
         }
         try {
-          if (products && products.length > 0) {
-            fs.writeFileSync(`coles/data/1-21-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, JSON.stringify(products, null, 2)); // Pretty print with 2 spaces
-          }
+          // if (products && products.length > 0) {
+          //   fs.writeFileSync(`coles/data/${process.env.FOLDER_DATE}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, JSON.stringify(products, null, 2)); // Pretty print with 2 spaces
+          // }
         } catch (error) {
           console.error('Error writing data to file:', error);
         }
