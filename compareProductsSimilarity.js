@@ -5,6 +5,7 @@ import categories from './constant/copy.js';
 import fs from 'fs';
 import path from 'path';
 import { search } from 'fast-fuzzy';
+import axios from axios;
 
 const getData = async () => {
   let totalProducts = 0;
