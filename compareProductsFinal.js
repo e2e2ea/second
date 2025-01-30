@@ -5,6 +5,7 @@ import categories from "./constant/copy.js";
 import fs from "fs";
 import path from "path";
 import axios from "axios";
+
 const getData = async () => {
   let totalProducts = 0;
   for (const categ of categories) {
@@ -16,12 +17,7 @@ const getData = async () => {
         let productsMatched = [];
         let woolworthsData;
         let ColesData;
-        const getDate = new Date();
-        const month = getDate.getMonth() + 1;
-        const day = getDate.getDate();
-        const year = getDate.getFullYear();
-
-        const formattedDate = `${month}-${day}-${year}`;
+       
         try {
           woolworthsData = JSON.parse(fs.readFileSync(`woolworths/data/${process.env.FOLDER_DATE}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, "utf8"));
           ColesData = JSON.parse(fs.readFileSync(`coles/data/${process.env.FOLDER_DATE}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, "utf8"));

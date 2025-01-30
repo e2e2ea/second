@@ -1,9 +1,9 @@
-import dotenv from "dotenv";
+import dotenv from 'dotenv';
 
 dotenv.config();
-import categories from "./constant/copy.js";
-import fs from "fs";
-import path from "path";
+import categories from './constant/copy.js';
+import fs from 'fs';
+import path from 'path';
 const safeParseFloat = (value) => {
   return isNaN(parseFloat(value)) ? 0 : parseFloat(value);
 };
@@ -14,23 +14,18 @@ const getData = async () => {
     for (const sub of categ.subCategories) {
       const subCategory = sub.subCategory;
       for (const ext of sub.childItems) {
-        const extensionCategory = ext.extensionCategory ? ext.extensionCategory : "";
+        const extensionCategory = ext.extensionCategory ? ext.extensionCategory : '';
         let productsPricesUpdated = [];
         let oldData;
         let newData;
-        const getDate = new Date();
-        const month = getDate.getMonth() + 1;
-        const day = getDate.getDate();
-        const year = getDate.getFullYear();
 
-        const formattedDate = `${month}-${day}-${year}`;
         try {
-          oldData = JSON.parse(fs.readFileSync(`matched/1-17-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, "utf8"));
+          oldData = JSON.parse(fs.readFileSync(`matched/1-22-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
         } catch (error) {
           continue;
         }
         try {
-          newData = JSON.parse(fs.readFileSync(`matched/1-27-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, "utf8"));
+          newData = JSON.parse(fs.readFileSync(`matched/1-27-2025/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
         } catch (error) {
           continue;
         }
@@ -48,18 +43,22 @@ const getData = async () => {
                   let priceGap;
                   let oldPrice;
                   let newPrice;
+                  let ratePrice;
                   if (price.price && a.price) {
                     oldPrice = safeParseFloat(price.price);
                     newPrice = safeParseFloat(a.price);
                     priceGap = oldPrice - newPrice;
+                    ratePrice = oldPrice !== 0 ? (priceGap / oldPrice) * 100 : 0;
                   }
                   let pricePerUnitGap;
                   let oldPricePerUnit;
                   let newPricePerUnit;
+                  let ratePricePerUnitGap;
                   if (price.price_per_unit && a.price_per_unit) {
                     oldPricePerUnit = safeParseFloat(price.price_per_unit);
                     newPricePerUnit = safeParseFloat(a.price_per_unit);
                     pricePerUnitGap = oldPricePerUnit - newPricePerUnit;
+                    ratePricePerUnitGap = oldPrice !== 0 ? (pricePerUnitGap / oldPricePerUnit) * 100 : 0;
                     // console.log(
                     //   `${category} - ${subCategory} - ${extensionCategory}`,
                     //   'id',
@@ -79,9 +78,11 @@ const getData = async () => {
                     ...(oldPrice !== null || oldPrice !== undefined ? { oldPrice: oldPrice } : {}),
                     ...(newPrice !== null || newPrice !== undefined ? { newPrice: newPrice } : {}),
                     ...(priceGap !== null || priceGap !== undefined ? { priceGap: priceGap } : {}),
+                    ...(ratePrice !== null || ratePrice !== undefined ? { ratePrice: ratePrice } : {}),
                     ...(oldPricePerUnit !== null || oldPricePerUnit !== undefined ? { oldPricePerUnit: oldPricePerUnit } : {}),
                     ...(newPricePerUnit !== null || newPricePerUnit !== undefined ? { newPricePerUnit: newPricePerUnit } : {}),
                     ...(pricePerUnitGap !== null || pricePerUnitGap !== undefined ? { pricePerUnitGap: pricePerUnitGap } : {}),
+                    ...(ratePricePerUnitGap !== null || ratePricePerUnitGap !== undefined ? { ratePricePerUnitGap: ratePricePerUnitGap } : {}),
                   });
                 }
               }
@@ -99,14 +100,13 @@ const getData = async () => {
               weight: data.weight || null,
               prices: pricesUpdated,
             };
-            console.log("formattedProduct2", formattedProduct2);
             productsPricesUpdated.push(formattedProduct2);
           }
         }
         try {
           if (productsPricesUpdated && productsPricesUpdated.length > 0) {
             totalProducts = totalProducts + productsPricesUpdated.length;
-            console.log("totalProducts", totalProducts);
+            console.log('totalProducts', totalProducts);
             const baseFolder = `./pricing/${process.env.FOLDER_DATE}`;
             const folderPath = path.join(baseFolder, `${category}`);
             const fileName = `${category} - ${subCategory} - ${extensionCategory}.json`;
@@ -141,7 +141,7 @@ const getData = async () => {
           //   }
           // }
         } catch (error) {
-          console.error("Error writing data to file:", error);
+          console.error('Error writing data to file:', error);
         }
       }
     }

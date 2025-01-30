@@ -5,7 +5,7 @@ import categories from './constant/copy.js';
 import fs from 'fs';
 import path from 'path';
 import { search } from 'fast-fuzzy';
-import axios from axios;
+import axios from 'axios';
 
 const getData = async () => {
   let totalProducts = 0;
@@ -35,9 +35,7 @@ const getData = async () => {
 
         try {
           productsDataMatched = JSON.parse(fs.readFileSync(`matched/${process.env.FOLDER_DATE}/${category}/${category} - ${subCategory} - ${extensionCategory}.json`, 'utf8'));
-          // woolworthsFilteredWithoutBarcode = await woolworthsData.filter((p) => !p.barcode);
           const matchedSourceIds = new Set(productsDataMatched.map((data) => data.source_id.toString()));
-          // // Filter woolworthsData
           woolworthsDataToBeMatched = woolworthsData.filter((p) => {
             return matchedSourceIds.has(p.source_id.toString()) ? false : true;
           });
@@ -57,8 +55,8 @@ const getData = async () => {
         for (const data of filteredwoolworthsData) {
           const a = search(data.name, filteredColesData, { keySelector: (obj) => obj.name, returnMatchData: true });
           if (a.length > 0) {
-            const filteredMatches = a.filter((match) => match.score >= 0.95);
-            // const filteredMatches = a.filter((match) => match.score >= 0.90 && match.score < 0.95);
+            // const filteredMatches = a.filter((match) => match.score >= 0.95);
+            const filteredMatches = a.filter((match) => match.score >= 0.90 && match.score < 0.95);
             if (filteredMatches && filteredMatches.length === 0) continue;
             const bestMatch = filteredMatches[0].item;
             if(!data.barcode) console.log('no barcode found')
